@@ -2,164 +2,252 @@
 <html lang="ko">
 <head>
 <meta charset="utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
 <title>문화유산 채용 보드</title>
 <meta name="description" content="사람인·잡코리아·국가유산청·국립문화유산연구원·국가유산진흥원·잡알리오·나라일터·모모365의 문화유산 관련 채용공고를 자동으로 모아 관심도 순으로 보여줍니다." />
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E🏛️%3C/text%3E%3C/svg%3E" />
 <style>
   :root {
-    --bg: #f6f4ef; --card: #ffffff; --ink: #1f1d1a; --muted: #6b665d; --line: #e6e1d7;
-    --accent: #8a5a2b; --accent-ink: #fff; --chip: #efeae0; --chip-on: #8a5a2b; --chip-on-ink: #fff;
-    --high: #2e7d4f; --high-bg: #e5f3ea; --mid: #a4641a; --mid-bg: #fbeedb; --low: #7a746a; --low-bg: #ecebe6;
-    --new: #c0392b; --danger: #c0392b; --danger-bg: #fbe4e1; --shadow: 0 1px 2px rgba(0,0,0,.05), 0 4px 14px rgba(60,40,10,.06);
+    --bg: #f7f6f3; --panel: #ffffff; --ink: #1c1b19; --muted: #77726a; --line: #e7e3dc; --soft: #f1eee8;
+    --accent: #8a5a2b; --accent-ink: #fff; --sel: #f6efe6;
+    --high: #2e7d4f; --mid: #b4731f; --low: #b5afa6; --danger: #c0392b; --new: #d64533;
+    --plan: #1f6fb2; --plan-bg: #e4f0fb; --done: #2e7d4f; --done-bg: #e3f2e8;
+    --shadow: 0 1px 2px rgba(0,0,0,.04), 0 6px 20px rgba(60,40,10,.06);
   }
   @media (prefers-color-scheme: dark) {
     :root:not([data-theme="light"]) {
-      --bg: #17161a; --card: #222126; --ink: #ecebe6; --muted: #a7a39a; --line: #37353c;
-      --accent: #d6a06a; --accent-ink: #1b140c; --chip: #2d2c33; --chip-on: #d6a06a; --chip-on-ink: #1b140c;
-      --high: #8fd3a7; --high-bg: #1f3328; --mid: #f0c38a; --mid-bg: #3a2c1a; --low: #b9b4aa; --low-bg: #2b2a2f;
-      --new: #ff7b6b; --danger: #ff7b6b; --danger-bg: #40231f; --shadow: 0 1px 2px rgba(0,0,0,.4);
+      --bg: #141416; --panel: #1e1e21; --ink: #ecebe6; --muted: #9c978f; --line: #2f2f34; --soft: #26262a;
+      --accent: #d6a06a; --accent-ink: #1b140c; --sel: #2a241d;
+      --high: #7fcf9a; --mid: #e9b56e; --low: #5f5b56; --danger: #ff7b6b; --new: #ff6f5e;
+      --plan: #8ec1f0; --plan-bg: #1d2e3f; --done: #8fd3a7; --done-bg: #1f3328;
+      --shadow: 0 1px 2px rgba(0,0,0,.5);
     }
   }
   * { box-sizing: border-box; }
-  html { -webkit-text-size-adjust: 100%; }
-  body { margin: 0; background: var(--bg); color: var(--ink); font-family: -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Pretendard", "Noto Sans KR", "Malgun Gothic", sans-serif; line-height: 1.5; font-size: 15px; }
+  html, body { height: 100%; }
+  body { margin: 0; background: var(--bg); color: var(--ink); font-family: -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Pretendard", "Noto Sans KR", sans-serif; font-size: 15px; line-height: 1.5; -webkit-text-size-adjust: 100%; }
   a { color: inherit; }
-  .wrap { max-width: 920px; margin: 0 auto; padding: 16px 16px 80px; }
-  header { display: flex; flex-wrap: wrap; align-items: baseline; gap: 8px 14px; margin-bottom: 10px; }
-  header h1 { font-size: 22px; margin: 0; letter-spacing: -.01em; }
-  header .meta { color: var(--muted); font-size: 13px; }
-  .stats { display: flex; gap: 8px; flex-wrap: wrap; margin: 6px 0 14px; }
-  .stat { background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 8px 12px; font-size: 13px; color: var(--muted); }
-  .stat b { color: var(--ink); font-size: 16px; margin-right: 3px; }
-  .panel { background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 12px; box-shadow: var(--shadow); margin-bottom: 14px; }
-  .row { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin: 6px 0; }
-  .row .label { font-size: 12px; color: var(--muted); min-width: 52px; }
-  .chip { border: 1px solid var(--line); background: var(--chip); color: var(--ink); border-radius: 999px; padding: 5px 11px; font-size: 13px; cursor: pointer; user-select: none; line-height: 1.2; }
-  .chip.on { background: var(--chip-on); color: var(--chip-on-ink); border-color: var(--chip-on); }
-  .chip .n { opacity: .7; font-size: 11px; margin-left: 3px; }
-  input[type="search"], input[type="text"] { width: 100%; font: inherit; padding: 10px 12px; border: 1px solid var(--line); border-radius: 10px; background: var(--bg); color: var(--ink); }
-  select { font: inherit; padding: 6px 8px; border: 1px solid var(--line); border-radius: 8px; background: var(--bg); color: var(--ink); }
-  label.tog { font-size: 13px; color: var(--muted); display: inline-flex; gap: 5px; align-items: center; cursor: pointer; }
-  details.more { font-size: 13px; color: var(--muted); }
-  details.more summary { cursor: pointer; }
-  .mykw { display: flex; gap: 6px; margin-top: 6px; }
-  .mykw input { flex: 1; }
-  .btn { font: inherit; font-size: 13px; padding: 7px 12px; border-radius: 10px; border: 1px solid var(--line); background: var(--chip); color: var(--ink); cursor: pointer; }
-  .btn.primary { background: var(--accent); color: var(--accent-ink); border-color: var(--accent); }
-  .list { display: grid; gap: 10px; }
-  .card { background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 14px 14px 12px; box-shadow: var(--shadow); position: relative; }
-  .card.expired { opacity: .6; }
-  .card.hidden { display: none; }
-  .top { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; font-size: 12px; margin-bottom: 6px; }
-  .badge { border-radius: 6px; padding: 2px 7px; font-weight: 600; font-size: 12px; line-height: 1.4; }
-  .badge.high { background: var(--high-bg); color: var(--high); }
-  .badge.mid { background: var(--mid-bg); color: var(--mid); }
-  .badge.low { background: var(--low-bg); color: var(--low); }
-  .badge.new { background: var(--new); color: #fff; }
-  .badge.dday { background: var(--chip); color: var(--ink); }
-  .badge.dday.urgent { background: var(--danger-bg); color: var(--danger); }
-  .badge.src { background: transparent; border: 1px solid var(--line); color: var(--muted); font-weight: 500; }
-  .badge.kind { background: var(--low-bg); color: var(--low); font-weight: 500; }
-  .badge.mine { background: #ffe9a8; color: #6b4b00; }
-  .title { font-size: 17px; font-weight: 700; margin: 0 0 4px; line-height: 1.35; letter-spacing: -.01em; }
-  .title a { text-decoration: none; }
-  .title a:hover { text-decoration: underline; }
-  .sub { color: var(--muted); font-size: 13.5px; margin-bottom: 8px; }
-  .sub b { color: var(--ink); font-weight: 600; }
-  .dates { display: flex; flex-wrap: wrap; gap: 4px 14px; font-size: 13.5px; margin-bottom: 8px; }
-  .dates span.k { color: var(--muted); margin-right: 4px; font-size: 12.5px; }
-  .summary { font-size: 14px; white-space: pre-line; color: var(--ink); background: var(--bg); border-radius: 10px; padding: 9px 11px; margin: 0 0 8px; max-height: 7.5em; overflow: hidden; position: relative; }
-  .summary.open { max-height: none; }
-  .summary .fade { position: absolute; left: 0; right: 0; bottom: 0; height: 2.2em; background: linear-gradient(transparent, var(--bg)); pointer-events: none; }
-  .summary.open .fade { display: none; }
-  .quals { font-size: 13.5px; margin: 0 0 8px; }
-  .quals summary { cursor: pointer; color: var(--accent); font-weight: 600; }
-  .quals pre { white-space: pre-wrap; font: inherit; margin: 6px 0 0; background: var(--bg); border-radius: 10px; padding: 9px 11px; }
-  .tags { display: flex; flex-wrap: wrap; gap: 5px; margin-bottom: 8px; }
-  .tag { font-size: 12px; background: var(--chip); border-radius: 6px; padding: 2px 7px; color: var(--muted); }
-  .foot { display: flex; flex-wrap: wrap; gap: 6px 12px; align-items: center; font-size: 12.5px; color: var(--muted); border-top: 1px dashed var(--line); padding-top: 8px; }
-  .foot a { color: var(--accent); }
-  .foot .sp { flex: 1; }
-  .iconbtn { font: inherit; font-size: 13px; background: none; border: 1px solid var(--line); border-radius: 8px; padding: 3px 8px; cursor: pointer; color: var(--muted); }
-  .iconbtn.on { color: #d19a00; border-color: #d19a00; }
-  .empty { text-align: center; color: var(--muted); padding: 40px 0; }
-  .srcstat { display: flex; flex-wrap: wrap; gap: 6px; font-size: 12px; }
-  .srcstat span { border: 1px solid var(--line); border-radius: 6px; padding: 2px 7px; color: var(--muted); }
+  button { font: inherit; cursor: pointer; }
+
+  /* ── 상단 ── */
+  .top { position: sticky; top: 0; z-index: 5; background: var(--bg); border-bottom: 1px solid var(--line); }
+  .top-in { max-width: 1280px; margin: 0 auto; padding: 10px 16px; display: flex; flex-direction: column; gap: 8px; }
+  .cheer { display: flex; gap: 10px; align-items: center; background: linear-gradient(90deg, var(--sel), var(--panel)); border: 1px solid var(--line); border-radius: 12px; padding: 9px 14px; font-size: 14px; line-height: 1.45; }
+  .cheer .em { font-size: 20px; flex: none; }
+  .cheer .txt { flex: 1; }
+  .cheer .txt small { display: block; color: var(--muted); font-size: 11.5px; margin-top: 2px; }
+  .cheer button { background: none; border: 0; color: var(--muted); font-size: 12px; padding: 4px; flex: none; }
+  .brand { display: flex; align-items: baseline; justify-content: space-between; gap: 10px; }
+  .brand h1 { font-size: 18px; margin: 0; letter-spacing: -.01em; }
+  .brand .meta { font-size: 12px; color: var(--muted); white-space: nowrap; }
+  .bar { display: flex; gap: 8px; align-items: center; }
+  .search { flex: 1; display: flex; align-items: center; gap: 8px; background: var(--panel); border: 1px solid var(--line); border-radius: 10px; padding: 0 12px; height: 40px; }
+  .search input { flex: 1; border: 0; background: transparent; color: var(--ink); font: inherit; outline: none; min-width: 0; }
+  .search svg { width: 16px; height: 16px; color: var(--muted); flex: none; }
+  .btn { height: 40px; padding: 0 14px; border-radius: 10px; border: 1px solid var(--line); background: var(--panel); color: var(--ink); white-space: nowrap; }
+  .btn.on { border-color: var(--accent); color: var(--accent); }
+  .btn .dot { display: inline-block; width: 6px; height: 6px; border-radius: 50%; background: var(--accent); margin-left: 6px; vertical-align: middle; }
+  .views { display: flex; gap: 0; background: var(--panel); border: 1px solid var(--line); border-radius: 10px; padding: 3px; }
+  .views button { flex: 1; height: 32px; border: 0; border-radius: 8px; background: transparent; color: var(--muted); font-size: 13.5px; display: inline-flex; align-items: center; justify-content: center; gap: 5px; }
+  .views button.on { background: var(--ink); color: var(--bg); font-weight: 600; }
+  .views .n { font-size: 11px; opacity: .75; }
+  .seg { display: flex; gap: 6px; flex-wrap: wrap; }
+  .chip { height: 30px; padding: 0 12px; border-radius: 999px; border: 1px solid var(--line); background: var(--panel); color: var(--muted); font-size: 13px; display: inline-flex; align-items: center; gap: 5px; }
+  .chip.on { background: var(--ink); color: var(--bg); border-color: var(--ink); }
+  .chip .n { font-size: 11px; opacity: .7; }
+
+  /* ── 필터 서랍 ── */
+  .drawer { display: none; max-width: 1280px; margin: 0 auto; padding: 4px 16px 14px; }
+  .drawer.open { display: block; }
+  .drawer .row { display: flex; gap: 6px; flex-wrap: wrap; align-items: center; margin: 8px 0; }
+  .drawer .lbl { font-size: 12px; color: var(--muted); width: 44px; flex: none; }
+  .drawer select { font: inherit; font-size: 13px; height: 30px; padding: 0 8px; border: 1px solid var(--line); border-radius: 8px; background: var(--panel); color: var(--ink); }
+  .tog { font-size: 13px; color: var(--muted); display: inline-flex; gap: 5px; align-items: center; cursor: pointer; }
+  .kw { display: flex; gap: 6px; flex: 1; min-width: 220px; }
+  .kw input { flex: 1; height: 30px; border: 1px solid var(--line); border-radius: 8px; background: var(--panel); color: var(--ink); font: inherit; font-size: 13px; padding: 0 10px; }
+  .kw button { height: 30px; padding: 0 12px; border-radius: 8px; border: 0; background: var(--accent); color: var(--accent-ink); font-size: 13px; }
+  .srcstat { display: flex; flex-wrap: wrap; gap: 4px; }
+  .srcstat span { font-size: 11px; color: var(--muted); border: 1px solid var(--line); border-radius: 6px; padding: 1px 6px; }
   .srcstat span.bad { color: var(--danger); border-color: var(--danger); }
-  .toast { position: fixed; left: 50%; bottom: 20px; transform: translateX(-50%); background: var(--ink); color: var(--bg); padding: 9px 14px; border-radius: 10px; font-size: 13px; opacity: 0; transition: opacity .2s; pointer-events: none; }
+  .help { font-size: 12px; color: var(--muted); line-height: 1.6; }
+  .linkbtn { background: none; border: 0; color: var(--accent); font-size: 12px; padding: 0; text-decoration: underline; }
+
+  /* ── 본문 2단 ── */
+  .main { max-width: 1280px; margin: 0 auto; padding: 12px 16px 40px; display: grid; grid-template-columns: minmax(0, 1fr); gap: 16px; }
+  .count { font-size: 12px; color: var(--muted); margin: 0 0 8px; display: flex; justify-content: space-between; align-items: center; }
+  .list { display: flex; flex-direction: column; gap: 8px; }
+  .card { background: var(--panel); border: 1px solid var(--line); border-radius: 12px; padding: 12px 14px 12px 16px; position: relative; cursor: pointer; transition: border-color .12s; }
+  .card::before { content: ""; position: absolute; left: 0; top: 10px; bottom: 10px; width: 3px; border-radius: 3px; background: var(--low); }
+  .card.high::before { background: var(--high); }
+  .card.mid::before { background: var(--mid); }
+  .card:hover { border-color: var(--accent); }
+  .card.sel { border-color: var(--accent); background: var(--sel); }
+  .card.expired { opacity: .55; }
+  .card .t { font-size: 15.5px; font-weight: 650; line-height: 1.35; margin: 0 0 3px; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+  .card .c { font-size: 13px; color: var(--muted); display: -webkit-box; -webkit-line-clamp: 1; -webkit-box-orient: vertical; overflow: hidden; }
+  .card .c b { color: var(--ink); font-weight: 600; }
+  .card .f { display: flex; gap: 6px; align-items: center; margin-top: 7px; font-size: 12px; color: var(--muted); flex-wrap: wrap; }
+  .card .f .sp { flex: 1; }
+  .pill { font-size: 11.5px; font-weight: 600; border-radius: 6px; padding: 1px 7px; background: var(--soft); color: var(--ink); white-space: nowrap; }
+  .pill.urgent { background: var(--danger); color: #fff; }
+  .pill.new { background: var(--new); color: #fff; }
+  .pill.mine { background: #ffe9a8; color: #6b4b00; }
+  .pill.plan { background: var(--plan-bg); color: var(--plan); }
+  .pill.done { background: var(--done-bg); color: var(--done); }
+  .empty { text-align: center; color: var(--muted); padding: 60px 0; font-size: 14px; line-height: 1.7; }
+
+  /* ── 상세 패널 ── */
+  .detail { display: none; background: var(--panel); border: 1px solid var(--line); border-radius: 14px; overflow: hidden; flex-direction: column; box-shadow: var(--shadow); }
+  .detail.open { display: flex; }
+  .d-head { padding: 12px 16px 10px; border-bottom: 1px solid var(--line); }
+  .d-top { display: flex; gap: 6px; align-items: center; margin-bottom: 8px; flex-wrap: wrap; }
+  .d-top .back { display: none; }
+  .d-top .sp { flex: 1; }
+  .ibtn { height: 32px; padding: 0 11px; border-radius: 8px; border: 1px solid var(--line); background: var(--panel); color: var(--muted); font-size: 13px; display: inline-flex; align-items: center; gap: 4px; text-decoration: none; white-space: nowrap; }
+  .ibtn.plan.on { background: var(--plan-bg); color: var(--plan); border-color: var(--plan); font-weight: 600; }
+  .ibtn.done.on { background: var(--done-bg); color: var(--done); border-color: var(--done); font-weight: 600; }
+  .ibtn.primary { background: var(--accent); color: var(--accent-ink); border-color: var(--accent); }
+  .d-title { font-size: 18px; font-weight: 700; line-height: 1.35; margin: 0 0 4px; letter-spacing: -.01em; }
+  .d-sub { font-size: 13.5px; color: var(--muted); }
+  .d-sub b { color: var(--ink); font-weight: 600; }
+  .d-meta { display: flex; flex-wrap: wrap; gap: 6px 14px; font-size: 13px; margin-top: 8px; align-items: center; }
+  .d-meta .k { color: var(--muted); font-size: 12px; margin-right: 4px; }
+  .d-tabs { display: flex; border-bottom: 1px solid var(--line); padding: 0 12px; }
+  .d-tabs button { background: none; border: 0; padding: 10px 10px; font-size: 13.5px; color: var(--muted); border-bottom: 2px solid transparent; margin-bottom: -1px; }
+  .d-tabs button.on { color: var(--ink); border-bottom-color: var(--accent); font-weight: 600; }
+  .d-tabs button:disabled { opacity: .45; cursor: default; }
+  .d-body { flex: 1; min-height: 0; display: flex; flex-direction: column; }
+  .d-sum { padding: 14px 16px; overflow: auto; font-size: 14px; }
+  .d-sum.off { display: none; }
+  .d-sum h3 { font-size: 12.5px; color: var(--muted); margin: 14px 0 6px; font-weight: 600; }
+  .d-sum h3:first-child { margin-top: 0; }
+  .d-sum pre { white-space: pre-wrap; font: inherit; margin: 0; background: var(--soft); border-radius: 10px; padding: 10px 12px; }
+  .d-sum .tags { display: flex; gap: 5px; flex-wrap: wrap; }
+  .d-sum .tag { font-size: 12px; background: var(--soft); border-radius: 6px; padding: 2px 8px; color: var(--muted); }
+  .d-sum a { color: var(--accent); word-break: break-all; }
+  .d-sum ul { margin: 0; padding-left: 18px; }
+  .d-frame { flex: 1; min-height: 0; display: none; flex-direction: column; }
+  .d-frame.on { display: flex; }
+  .d-frame iframe { flex: 1; width: 100%; border: 0; background: #fff; min-height: 0; }
+  .d-note { padding: 7px 16px; font-size: 12px; color: var(--muted); background: var(--soft); border-bottom: 1px solid var(--line); }
+  .d-blocked { padding: 40px 20px; text-align: center; color: var(--muted); font-size: 14px; line-height: 1.7; }
+  .d-blocked .ibtn { margin-top: 12px; }
+
+  @media (min-width: 900px) {
+    .main { grid-template-columns: 400px minmax(0, 1fr); align-items: start; }
+    .detail, .placeholder { position: sticky; top: var(--top-h, 180px); height: calc(100vh - var(--top-h, 180px) - 16px); }
+    .placeholder { display: flex; align-items: center; justify-content: center; color: var(--muted); font-size: 14px; border: 1px dashed var(--line); border-radius: 14px; }
+    body.has-detail .placeholder { display: none; }
+  }
+  @media (max-width: 899px) {
+    .placeholder { display: none; }
+    .detail.open { position: fixed; inset: 0; z-index: 20; border-radius: 0; border: 0; }
+    .d-top .back { display: inline-flex; }
+    body.has-detail { overflow: hidden; }
+    .d-frame iframe { min-height: 50vh; }
+  }
+  .toast { position: fixed; left: 50%; bottom: 20px; transform: translateX(-50%); background: var(--ink); color: var(--bg); padding: 9px 14px; border-radius: 10px; font-size: 13px; opacity: 0; transition: opacity .2s; pointer-events: none; z-index: 30; }
   .toast.show { opacity: 1; }
-  @media (max-width: 480px) { .title { font-size: 16px; } .wrap { padding: 12px 12px 80px; } }
 </style>
 </head>
 <body>
-<div class="wrap">
-  <header>
-    <h1>🏛️ 문화유산 채용 보드</h1>
-    <div class="meta" id="updated">불러오는 중…</div>
-  </header>
-  <div class="stats" id="stats"></div>
-
-  <div class="panel">
-    <input type="search" id="q" placeholder="공고 제목·기관·지역으로 검색 (예: 학예, 경주, 보존처리)" />
-    <div class="row"><span class="label">관심도</span><div id="tierChips"></div></div>
-    <div class="row"><span class="label">분야</span><div id="catChips"></div></div>
-    <div class="row"><span class="label">출처</span><div id="srcChips"></div></div>
-    <div class="row">
-      <span class="label">정렬</span>
-      <select id="sort">
-        <option value="score">관심도 높은 순</option>
-        <option value="deadline">마감 임박 순</option>
-        <option value="new">새로 올라온 순</option>
-      </select>
-      <label class="tog"><input type="checkbox" id="hideExpired" checked /> 마감 지난 공고 숨기기</label>
-      <label class="tog"><input type="checkbox" id="hideResult" checked /> 합격자 발표·일정 공지 숨기기</label>
-      <label class="tog"><input type="checkbox" id="onlyStar" /> ★ 관심 공고만</label>
+<div class="top" id="top">
+  <div class="top-in">
+    <div class="cheer" id="cheer"></div>
+    <div class="brand">
+      <h1>🏛️ 문화유산 채용 보드</h1>
+      <div class="meta" id="updated">불러오는 중…</div>
     </div>
-    <details class="more">
-      <summary>내 키워드 추가 · 출처 상태 · 사용법</summary>
-      <div style="margin-top:8px">
-        <div style="font-size:13px;color:var(--muted)">내가 특히 보고 싶은 단어를 넣으면 그 단어가 들어간 공고가 맨 위로 올라오고 <span class="badge mine">내 키워드</span> 표시가 붙습니다. (이 브라우저에만 저장됨)</div>
-        <div class="mykw"><input type="text" id="kwInput" placeholder="예: 경주, 고고학, 전통건축" /><button class="btn primary" id="kwAdd">추가</button></div>
-        <div class="row" id="kwList"></div>
-        <div style="font-size:13px;color:var(--muted);margin-top:10px">출처별 마지막 수집 상태</div>
-        <div class="srcstat" id="srcStat"></div>
-        <div style="font-size:13px;color:var(--muted);margin-top:10px;line-height:1.6">
-          · 하루 3번(07:30 / 12:30 / 18:30) 자동으로 새 공고를 모읍니다. 새로고침하면 최신 데이터가 보입니다.<br />
-          · <b>관심도</b>는 제목·기관·내용에 문화유산 관련 단어(학예, 발굴, 보존처리, 국가유산 …)가 얼마나 들어있는지로 자동 계산한 값입니다.<br />
-          · 공식 기관 게시판 공고는 자세한 자격 요건이 첨부파일(hwp/pdf)에 있는 경우가 많으니 "원문 보기"에서 첨부파일을 확인하세요.<br />
-          · ★ 를 누르면 관심 공고로 저장되고, "숨기기"를 누르면 그 공고는 목록에서 사라집니다(이 브라우저에만 저장).
-        </div>
-        <div class="row" style="margin-top:8px"><button class="btn" id="unhideAll">숨긴 공고 모두 다시 보기</button></div>
-      </div>
-    </details>
+    <div class="views" id="views"></div>
+    <div class="bar">
+      <label class="search">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+        <input type="search" id="q" placeholder="제목·기관·지역 검색" />
+      </label>
+      <button class="btn" id="filterBtn">필터</button>
+    </div>
+    <div class="seg" id="tierChips"></div>
   </div>
+  <div class="drawer" id="drawer">
+    <div class="row"><span class="lbl">분야</span><div class="seg" id="catChips"></div></div>
+    <div class="row"><span class="lbl">출처</span><div class="seg" id="srcChips"></div></div>
+    <div class="row"><span class="lbl">정렬</span>
+      <select id="sort"><option value="score">관심도 높은 순</option><option value="deadline">마감 임박 순</option><option value="new">새로 올라온 순</option></select>
+      <label class="tog"><input type="checkbox" id="hideExpired" checked /> 마감 지난 공고 숨기기</label>
+      <label class="tog"><input type="checkbox" id="hideResult" checked /> 합격자 발표 공지 숨기기</label>
+    </div>
+    <div class="row"><span class="lbl">내 단어</span>
+      <div class="kw"><input type="text" id="kwInput" placeholder="예: 경주, 고고학 — 이 단어가 든 공고를 맨 위로" /><button id="kwAdd">추가</button></div>
+      <div class="seg" id="kwList"></div>
+    </div>
+    <div class="row"><span class="lbl">상태</span><div class="srcstat" id="srcStat"></div><button class="linkbtn" id="unhideAll">숨긴 공고 되돌리기</button></div>
+    <div class="help">매일 07:30 · 12:30 · 18:30 자동 수집. 관심도는 제목·기관·내용에 문화유산 관련 단어(학예, 발굴, 보존처리, 국가유산 …)가 얼마나 있는지로 계산합니다. 공식 기관 공고의 자세한 자격은 첨부파일(hwp/pdf)에 있는 경우가 많습니다. 지원·지원예정 표시는 이 브라우저에만 저장됩니다.</div>
+  </div>
+</div>
 
-  <div class="list" id="list"></div>
-  <div class="empty" id="empty" style="display:none">조건에 맞는 공고가 없습니다.</div>
+<div class="main">
+  <div>
+    <div class="count"><span id="count"></span><span id="stats"></span></div>
+    <div class="list" id="list"></div>
+    <div class="empty" id="empty" style="display:none"></div>
+  </div>
+  <div>
+    <div class="placeholder">왼쪽에서 공고를 누르면 여기에 원문이 나옵니다</div>
+    <section class="detail" id="detail"></section>
+  </div>
 </div>
 <div class="toast" id="toast"></div>
 
 <script>
 (() => {
   const $ = (s, el = document) => el.querySelector(s);
-  const TIER_LABEL = { high: '딱 맞음', mid: '관련 있음', low: '관련 낮음' };
+  const TIER = { high: '딱 맞음', mid: '관련 있음', low: '관련 낮음' };
+  const NO_FRAME = new Set(['nrich', 'alio']); // 다른 페이지 안에 끼워 넣기를 막는 사이트
+  const VIEWS = [['all', '전체'], ['plan', '지원할 공고'], ['done', '지원한 공고']];
+  const CHEERS = [
+    '오늘도 한 걸음. 어제의 나보다 조금만 더 가면 됩니다.',
+    '문화유산을 지키고 싶었던 그 마음, 그게 당신의 가장 큰 자격입니다.',
+    '지원서 한 장이 쌓여서 길이 됩니다. 오늘 한 장만 더.',
+    '떨어진 공고는 끝이 아니라 연습이었습니다. 다음 건 더 잘 씁니다.',
+    '천 년을 버틴 유물도 하루하루 쌓인 시간입니다. 조급해하지 않아도 괜찮아요.',
+    '오늘 새로 올라온 공고부터 천천히 봅시다. 분명 맞는 자리가 있어요.',
+    '준비된 사람에게 기회는 반드시 옵니다. 지금 그 준비를 하고 있는 중이에요.',
+    '잘하고 있어요. 멈추지 않는 것만으로도 이미 앞서 가는 겁니다.',
+    '좋아하는 일을 직업으로 삼으려는 용기, 그 자체로 멋집니다.',
+    '오늘의 목표는 딱 하나, "지원할 공고" 한 건 고르기.',
+    '마감 임박 공고부터 확인! 놓치지 않는 것도 실력입니다.',
+    '자기소개서는 당신의 유물입니다. 정성껏 다듬을수록 빛이 납니다.',
+    '한 번에 되는 사람은 없습니다. 꾸준한 사람이 됩니다.',
+    '지난주보다 한 건이라도 더 지원했다면 그게 성장입니다.',
+    '흙 속의 유물처럼, 당신의 자리도 분명 어딘가에 묻혀 기다리고 있어요.',
+    '불안한 날엔 할 일 목록만 봅시다. 오늘 할 수 있는 건 오늘의 몫만.',
+    '면접은 평가가 아니라 대화입니다. 당신의 이야기를 들려주세요.',
+    '쉬어가는 날도 필요합니다. 쉬는 것도 준비의 일부예요.',
+    '지원한 공고 목록을 한번 보세요. 이미 이만큼 움직였습니다.',
+    '역사를 공부한 사람은 압니다. 모든 변화는 느리게, 그러나 확실하게 옵니다.',
+    '오늘 당신이 쓴 한 줄이 내일의 합격 통지서가 됩니다.',
+    '남과 비교하지 말고, 어제의 지원서와 비교하세요.',
+    '힘든 건 당신이 약해서가 아니라 진심이기 때문입니다.',
+    '새 공고가 올라왔는지 확인하는 이 습관이 당신을 데려다 줄 거예요.',
+    '보존처리는 수십 번의 손길로 완성됩니다. 당신의 커리어도 그렇게요.',
+    '작은 자리라도 시작하면 다음 문이 열립니다. 경험은 어디서든 쌓입니다.',
+    '오늘 아침, 당신은 포기하지 않기로 선택했습니다. 그걸로 충분합니다.',
+    '자격증 하나, 지원서 하나, 면접 하나. 하나씩만 하면 됩니다.',
+    '유적지의 돌 하나도 자리를 찾는 데 시간이 걸립니다. 당신도 괜찮아요.',
+    '응원합니다. 이 화면을 연 것만으로도 오늘 할 일을 시작한 거예요.',
+    '잘 될 겁니다. 근거는 당신이 여기까지 왔다는 것.',
+  ];
   const store = {
     get(k, d) { try { const v = localStorage.getItem('hj:' + k); return v == null ? d : JSON.parse(v); } catch { return d; } },
     set(k, v) { try { localStorage.setItem('hj:' + k, JSON.stringify(v)); } catch {} },
   };
   const state = {
-    tiers: new Set(store.get('tiers', ['high', 'mid'])),
-    cats: new Set(store.get('cats', [])),
-    srcs: new Set(store.get('srcs', [])),
-    q: '',
-    sort: store.get('sort', 'score'),
-    hideExpired: store.get('hideExpired', true),
-    hideResult: store.get('hideResult', true),
-    onlyStar: false,
-    stars: new Set(store.get('stars', [])),
-    hidden: new Set(store.get('hidden', [])),
-    kws: store.get('kws', []),
+    view: 'all',
+    tiers: new Set(store.get('tiers', ['high', 'mid'])), cats: new Set(store.get('cats', [])), srcs: new Set(store.get('srcs', [])),
+    q: '', sort: store.get('sort', 'score'), hideExpired: store.get('hideExpired', true), hideResult: store.get('hideResult', true),
+    status: store.get('status', {}), // id → 'plan' | 'done'
+    hidden: new Set(store.get('hidden', [])), kws: store.get('kws', []),
+    sel: null, tab: 'frame',
   };
   let data = null;
   const today = () => (data && data.today) || new Date(Date.now() + 9 * 3600e3).toISOString().slice(0, 10);
@@ -167,23 +255,34 @@
   const esc = (s) => String(s ?? '').replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
   const fmt = (d) => (d ? d.replace(/^(\d{4})-(\d{2})-(\d{2})$/, '$1.$2.$3') : '');
   const toast = (m) => { const t = $('#toast'); t.textContent = m; t.classList.add('show'); setTimeout(() => t.classList.remove('show'), 1600); };
+  const isExpired = (j) => !!(j.deadline && days(j.deadline, today()) < 0);
+  const isNew = (j) => j.firstSeen && days(today(), j.firstSeen) <= 2;
+  const myHit = (j) => state.kws.filter((k) => [j.title, j.company, j.region, j.summary, j.qualifications, j.sector].join(' ').toLowerCase().includes(k.toLowerCase()));
+  const ddayText = (j) => { if (!j.deadline) return j.deadlineText || '마감 미정'; const d = days(j.deadline, today()); return d < 0 ? '마감됨' : d === 0 ? '오늘 마감' : `D-${d}`; };
+  const catLabel = (k) => (data.categories.find((c) => c.key === k) || {}).label;
+  const st = (id) => state.status[id] || '';
+  const setStatus = (id, v) => { if (v) state.status[id] = v; else delete state.status[id]; store.set('status', state.status); };
 
-  function myKwHit(j) {
-    if (!state.kws.length) return [];
-    const text = [j.title, j.company, j.region, j.summary, j.qualifications, j.sector].join(' ').toLowerCase();
-    return state.kws.filter((k) => text.includes(k.toLowerCase()));
+  // 매일 아침 응원 문구: 날짜마다 다른 문구, "다른 문구" 버튼으로 바꿔볼 수 있음
+  let cheerIdx = Math.floor(Date.parse(new Date().toISOString().slice(0, 10)) / 86400e3) % CHEERS.length;
+  function renderCheer() {
+    const h = new Date().getHours();
+    const greet = h < 5 ? '늦은 밤이네요' : h < 11 ? '좋은 아침이에요' : h < 17 ? '좋은 오후예요' : '수고 많았어요';
+    const done = Object.values(state.status).filter((v) => v === 'done').length;
+    const plan = Object.values(state.status).filter((v) => v === 'plan').length;
+    $('#cheer').innerHTML = `<span class="em">🌅</span><div class="txt">${esc(CHEERS[cheerIdx])}<small>${greet} · 지금까지 지원 ${done}건, 지원 예정 ${plan}건</small></div><button id="cheerNext" title="다른 문구">↻</button>`;
+    $('#cheerNext').addEventListener('click', () => { cheerIdx = (cheerIdx + 1) % CHEERS.length; renderCheer(); });
+    requestAnimationFrame(() => document.documentElement.style.setProperty('--top-h', $('#top').offsetHeight + 12 + 'px'));
   }
-  function isExpired(j) { return !!(j.deadline && days(j.deadline, today()) < 0); }
-  function isNew(j) { return j.firstSeen && days(today(), j.firstSeen) <= 2; }
 
   function filtered() {
     const q = state.q.trim().toLowerCase();
     return data.jobs.filter((j) => {
+      if (state.view !== 'all') return st(j.id) === state.view && (!q || [j.title, j.company, j.region].join(' ').toLowerCase().includes(q));
       if (state.hidden.has(j.id)) return false;
-      if (state.onlyStar && !state.stars.has(j.id)) return false;
       if (state.hideResult && j.kind === 'result') return false;
       if (state.hideExpired && isExpired(j)) return false;
-      const mine = myKwHit(j).length > 0;
+      const mine = myHit(j).length > 0;
       if (!mine && state.tiers.size && !state.tiers.has(j.tier)) return false;
       if (state.cats.size && !(j.tags || []).some((t) => state.cats.has(t))) return false;
       if (state.srcs.size && !state.srcs.has(j.source)) return false;
@@ -193,113 +292,150 @@
   }
   function sorted(list) {
     const far = '9999-12-31';
+    const sortKey = state.view === 'plan' ? 'deadline' : state.view === 'done' ? 'new' : state.sort;
     const key = {
-      score: (j) => [myKwHit(j).length ? 1 : 0, j.score, j.firstSeen || ''],
-      deadline: (j) => [myKwHit(j).length ? 1 : 0, -(Date.parse(j.deadline || far)), j.score],
-      new: (j) => [myKwHit(j).length ? 1 : 0, j.firstSeen || '', j.postedAt || '', j.score],
-    }[state.sort];
+      score: (j) => [myHit(j).length ? 1 : 0, j.score, j.firstSeen || ''],
+      deadline: (j) => [myHit(j).length ? 1 : 0, -(Date.parse(j.deadline || far)), j.score],
+      new: (j) => [myHit(j).length ? 1 : 0, j.firstSeen || '', j.postedAt || '', j.score],
+    }[sortKey];
     return list.map((j) => [key(j), j]).sort((a, b) => { for (let i = 0; i < a[0].length; i++) { if (a[0][i] > b[0][i]) return -1; if (a[0][i] < b[0][i]) return 1; } return 0; }).map((x) => x[1]);
   }
-
   function chips(el, items, set, onChange) {
-    el.innerHTML = items.map((it) => `<span class="chip ${set.has(it.key) ? 'on' : ''}" data-k="${esc(it.key)}">${esc(it.label)}${it.n != null ? `<span class="n">${it.n}</span>` : ''}</span>`).join('');
+    el.innerHTML = items.map((it) => `<button class="chip ${set.has(it.key) ? 'on' : ''}" data-k="${esc(it.key)}">${esc(it.label)}${it.n != null ? `<span class="n">${it.n}</span>` : ''}</button>`).join('');
     el.querySelectorAll('.chip').forEach((c) => c.addEventListener('click', () => { const k = c.dataset.k; set.has(k) ? set.delete(k) : set.add(k); onChange(); }));
   }
 
   function renderControls() {
     const live = data.jobs.filter((j) => !state.hidden.has(j.id) && !(state.hideExpired && isExpired(j)) && !(state.hideResult && j.kind === 'result'));
     const cnt = (f) => live.filter(f).length;
-    chips($('#tierChips'), ['high', 'mid', 'low'].map((t) => ({ key: t, label: TIER_LABEL[t], n: cnt((j) => j.tier === t) })), state.tiers, () => { store.set('tiers', [...state.tiers]); render(); });
+    const nStatus = (v) => data.jobs.filter((j) => st(j.id) === v).length;
+    $('#views').innerHTML = VIEWS.map(([k, l]) => `<button class="${state.view === k ? 'on' : ''}" data-v="${k}">${k === 'plan' ? '📌 ' : k === 'done' ? '✅ ' : ''}${l}${k !== 'all' ? `<span class="n">${nStatus(k)}</span>` : ''}</button>`).join('');
+    $('#views').querySelectorAll('button').forEach((b) => b.addEventListener('click', () => { state.view = b.dataset.v; render(); }));
+    const tierRow = $('#tierChips');
+    tierRow.style.display = state.view === 'all' ? '' : 'none';
+    $('#filterBtn').style.display = state.view === 'all' ? '' : 'none';
+    chips(tierRow, ['high', 'mid', 'low'].map((t) => ({ key: t, label: TIER[t], n: cnt((j) => j.tier === t) })), state.tiers, () => { store.set('tiers', [...state.tiers]); render(); });
     chips($('#catChips'), data.categories.map((c) => ({ key: c.key, label: c.label, n: cnt((j) => (j.tags || []).includes(c.key)) })), state.cats, () => { store.set('cats', [...state.cats]); render(); });
     const srcMap = new Map(Object.entries(data.sources).map(([k, v]) => [k, v.name]));
     data.jobs.forEach((j) => { if (!srcMap.has(j.source)) srcMap.set(j.source, j.sourceName); });
-    const srcs = [...srcMap].map(([k, name]) => ({ key: k, label: name, n: cnt((j) => j.source === k) }));
-    chips($('#srcChips'), srcs, state.srcs, () => { store.set('srcs', [...state.srcs]); render(); });
-    $('#srcStat').innerHTML = Object.values(data.sources).map((s) => `<span class="${s.ok ? '' : 'bad'}">${esc(s.name)} ${s.ok ? `${s.count}건` : '실패: ' + esc(s.error || '')}</span>`).join('');
-    $('#kwList').innerHTML = state.kws.map((k) => `<span class="chip on" data-k="${esc(k)}">${esc(k)} ✕</span>`).join('') || '<span style="font-size:12px;color:var(--muted)">추가한 키워드 없음</span>';
+    chips($('#srcChips'), [...srcMap].map(([k, name]) => ({ key: k, label: name, n: cnt((j) => j.source === k) })), state.srcs, () => { store.set('srcs', [...state.srcs]); render(); });
+    $('#srcStat').innerHTML = Object.values(data.sources).map((s) => `<span class="${s.ok ? '' : 'bad'}">${esc(s.name)} ${s.ok ? s.count : '실패'}</span>`).join('');
+    $('#kwList').innerHTML = state.kws.map((k) => `<button class="chip on" data-k="${esc(k)}">${esc(k)} ✕</button>`).join('');
     $('#kwList').querySelectorAll('.chip').forEach((c) => c.addEventListener('click', () => { state.kws = state.kws.filter((k) => k !== c.dataset.k); store.set('kws', state.kws); render(); }));
+    const active = state.cats.size + state.srcs.size + state.kws.length;
+    $('#filterBtn').innerHTML = `필터${active ? '<span class="dot"></span>' : ''}`;
   }
 
   function card(j) {
-    const exp = isExpired(j);
     const dl = j.deadline ? days(j.deadline, today()) : null;
-    const dday = j.deadline ? (dl < 0 ? '마감' : dl === 0 ? 'D-DAY' : `D-${dl}`) : (j.deadlineText || '마감일 미정');
-    const mine = myKwHit(j);
-    const tags = (j.tags || []).map((t) => (data.categories.find((c) => c.key === t) || {}).label).filter(Boolean);
-    const also = (j.alsoOn || []).map((a) => `<a href="${esc(a.url)}" target="_blank" rel="noopener">${esc(a.sourceName)}</a>`).join(' · ');
-    const files = (j.attachments || []).slice(0, 4).map((f) => `<a href="${esc(f.url)}" target="_blank" rel="noopener">📎 ${esc(f.name)}</a>`).join(' ');
-    const subPlain = [j.region, j.employmentType, j.experience, j.education, j.salary].filter(Boolean).join(' · ');
-    const summary = j.summary && j.summary !== subPlain ? `<div class="summary" data-toggle>${esc(j.summary)}<div class="fade"></div></div>` : '';
-    const quals = j.qualifications ? `<details class="quals"><summary>지원 자격 보기</summary><pre>${esc(j.qualifications)}</pre></details>` : '';
-    const sub = [j.company && `<b>${esc(j.company)}</b>`, j.region, j.employmentType, j.experience, j.education, j.salary].filter(Boolean).map((s) => (s.startsWith('<b>') ? s : esc(s))).join(' · ');
-    return `<article class="card ${exp ? 'expired' : ''}" data-id="${esc(j.id)}">
-      <div class="top">
-        <span class="badge ${j.tier}">${TIER_LABEL[j.tier]}</span>
-        ${mine.length ? `<span class="badge mine">내 키워드: ${esc(mine.join(', '))}</span>` : ''}
-        ${isNew(j) ? '<span class="badge new">NEW</span>' : ''}
-        <span class="badge dday ${dl != null && dl >= 0 && dl <= 3 ? 'urgent' : ''}">${esc(dday)}</span>
-        ${j.kind === 'result' ? '<span class="badge kind">발표·공지</span>' : ''}
-        <span class="badge src">${esc(j.sourceName)}</span>
-      </div>
-      <h2 class="title"><a href="${esc(j.url)}" target="_blank" rel="noopener">${esc(j.title)}</a></h2>
-      <div class="sub">${sub}</div>
-      <div class="dates">
-        <div><span class="k">시작</span>${esc(fmt(j.startAt || j.postedAt) || '—')}</div>
-        <div><span class="k">마감</span>${esc(fmt(j.deadline) || j.deadlineText || '—')}</div>
-      </div>
-      ${summary}${quals}
-      ${tags.length ? `<div class="tags">${tags.map((t) => `<span class="tag">${esc(t)}</span>`).join('')}</div>` : ''}
-      <div class="foot">
-        <a href="${esc(j.url)}" target="_blank" rel="noopener">원문 보기 ↗</a>
-        ${j.applyUrl ? `<a href="${esc(j.applyUrl)}" target="_blank" rel="noopener">지원 페이지 ↗</a>` : ''}
-        ${also ? `<span>다른 곳: ${also}</span>` : ''}
-        ${files}
+    const mine = myHit(j);
+    const s = st(j.id);
+    return `<article class="card ${j.tier} ${isExpired(j) ? 'expired' : ''} ${state.sel === j.id ? 'sel' : ''}" data-id="${esc(j.id)}">
+      <h2 class="t">${esc(j.title)}</h2>
+      <div class="c"><b>${esc(j.company)}</b>${j.region ? ' · ' + esc(j.region) : ''}${j.employmentType ? ' · ' + esc(j.employmentType) : ''}</div>
+      <div class="f">
+        <span class="pill ${dl != null && dl >= 0 && dl <= 3 ? 'urgent' : ''}">${esc(ddayText(j))}</span>
+        ${s === 'plan' ? '<span class="pill plan">📌 지원예정</span>' : s === 'done' ? '<span class="pill done">✅ 지원함</span>' : ''}
+        ${isNew(j) ? '<span class="pill new">NEW</span>' : ''}
+        ${mine.length ? `<span class="pill mine">${esc(mine[0])}</span>` : ''}
         <span class="sp"></span>
-        <button class="iconbtn star ${state.stars.has(j.id) ? 'on' : ''}" title="관심 공고">★</button>
-        <button class="iconbtn hide" title="목록에서 숨기기">숨기기</button>
+        <span>${esc(j.sourceName)}</span>
       </div>
     </article>`;
   }
 
+  function renderDetail() {
+    const el = $('#detail');
+    const j = data.jobs.find((x) => x.id === state.sel);
+    document.body.classList.toggle('has-detail', !!j);
+    if (!j) { el.classList.remove('open'); el.innerHTML = ''; return; }
+    const canFrame = !NO_FRAME.has(j.source);
+    if (!canFrame && state.tab === 'frame') state.tab = 'sum';
+    const s = st(j.id);
+    const tags = (j.tags || []).map(catLabel).filter(Boolean);
+    const files = (j.attachments || []).map((f) => `<li><a href="${esc(f.url)}" target="_blank" rel="noopener">${esc(f.name)}</a></li>`).join('');
+    const also = (j.alsoOn || []).map((a) => `<a href="${esc(a.url)}" target="_blank" rel="noopener">${esc(a.sourceName)}</a>`).join(' · ');
+    el.innerHTML = `
+      <div class="d-head">
+        <div class="d-top">
+          <button class="ibtn back" id="dBack">← 목록</button>
+          <button class="ibtn plan ${s === 'plan' ? 'on' : ''}" id="dPlan">📌 지원예정</button>
+          <button class="ibtn done ${s === 'done' ? 'on' : ''}" id="dDone">✅ 지원함</button>
+          <span class="sp"></span>
+          <button class="ibtn" id="dHide" title="목록에서 숨기기">숨기기</button>
+          <a class="ibtn primary" href="${esc(j.url)}" target="_blank" rel="noopener">새 창 ↗</a>
+        </div>
+        <h2 class="d-title">${esc(j.title)}</h2>
+        <div class="d-sub"><b>${esc(j.company)}</b>${[j.region, j.employmentType, j.experience, j.education, j.salary].filter(Boolean).map((x) => ' · ' + esc(x)).join('')}</div>
+        <div class="d-meta">
+          <span><span class="k">시작</span>${esc(fmt(j.startAt || j.postedAt) || '—')}</span>
+          <span><span class="k">마감</span>${esc(fmt(j.deadline) || j.deadlineText || '—')}</span>
+          <span class="pill ${j.deadline && days(j.deadline, today()) >= 0 && days(j.deadline, today()) <= 3 ? 'urgent' : ''}">${esc(ddayText(j))}</span>
+          <span class="pill">${TIER[j.tier]}</span><span class="pill">${esc(j.sourceName)}</span>
+        </div>
+      </div>
+      <div class="d-tabs">
+        <button data-tab="frame" class="${state.tab === 'frame' ? 'on' : ''}" ${canFrame ? '' : 'disabled'}>원문</button>
+        <button data-tab="sum" class="${state.tab === 'sum' ? 'on' : ''}">요약 · 자격 · 첨부</button>
+      </div>
+      <div class="d-body">
+        <div class="d-sum ${state.tab === 'sum' ? '' : 'off'}">
+          ${j.summary ? `<h3>요약</h3><pre>${esc(j.summary)}</pre>` : ''}
+          ${j.qualifications ? `<h3>지원 자격</h3><pre>${esc(j.qualifications)}</pre>` : ''}
+          ${tags.length ? `<h3>분야</h3><div class="tags">${tags.map((t) => `<span class="tag">${esc(t)}</span>`).join('')}</div>` : ''}
+          ${files ? `<h3>첨부파일 (원문 페이지에서 내려받기)</h3><ul>${files}</ul>` : ''}
+          ${j.applyUrl ? `<h3>지원 페이지</h3><a href="${esc(j.applyUrl)}" target="_blank" rel="noopener">${esc(j.applyUrl)}</a>` : ''}
+          ${also ? `<h3>같은 공고가 올라온 다른 곳</h3>${also}` : ''}
+          <h3>원문 주소</h3><a href="${esc(j.url)}" target="_blank" rel="noopener">${esc(j.url)}</a>
+          ${!j.summary && !j.qualifications ? '<p style="color:var(--muted);font-size:13px">요약할 본문이 없는 공고입니다. 원문을 확인해 주세요.</p>' : ''}
+        </div>
+        <div class="d-frame ${state.tab === 'frame' ? 'on' : ''}">
+          ${canFrame
+            ? `<div class="d-note">원문 페이지를 그대로 보여줍니다. 화면이 비어 있으면 "새 창 ↗"으로 열어 주세요.</div><iframe src="${esc(j.url)}" sandbox="allow-scripts allow-same-origin allow-forms allow-popups allow-popups-to-escape-sandbox" referrerpolicy="no-referrer"></iframe>`
+            : `<div class="d-blocked">이 사이트는 다른 페이지 안에 보여주는 것을 막고 있어요.<br /><a class="ibtn primary" href="${esc(j.url)}" target="_blank" rel="noopener">새 창에서 원문 열기 ↗</a></div>`}
+        </div>
+      </div>`;
+    el.classList.add('open');
+    $('#dBack').addEventListener('click', () => { state.sel = null; render(); });
+    $('#dPlan').addEventListener('click', () => { setStatus(j.id, s === 'plan' ? '' : 'plan'); render(); toast(st(j.id) === 'plan' ? '"지원할 공고"에 담았습니다.' : '지원예정 표시를 지웠습니다.'); });
+    $('#dDone').addEventListener('click', () => { setStatus(j.id, s === 'done' ? '' : 'done'); render(); toast(st(j.id) === 'done' ? '지원 완료로 표시했습니다. 수고했어요!' : '지원 표시를 지웠습니다.'); });
+    $('#dHide').addEventListener('click', () => { state.hidden.add(j.id); store.set('hidden', [...state.hidden]); state.sel = null; render(); toast('숨겼습니다. 필터에서 되돌릴 수 있어요.'); });
+    el.querySelectorAll('.d-tabs button').forEach((b) => b.addEventListener('click', () => { if (b.disabled) return; state.tab = b.dataset.tab; el.querySelector('.d-sum').classList.toggle('off', state.tab !== 'sum'); el.querySelector('.d-frame').classList.toggle('on', state.tab === 'frame'); el.querySelectorAll('.d-tabs button').forEach((x) => x.classList.toggle('on', x === b)); }));
+  }
+
   function render() {
+    renderCheer();
     renderControls();
     const list = sorted(filtered());
     $('#list').innerHTML = list.map(card).join('');
-    $('#empty').style.display = list.length ? 'none' : '';
-    const all = data.jobs.filter((j) => !state.hidden.has(j.id));
-    const open = all.filter((j) => !isExpired(j) && j.kind !== 'result');
-    const soon = open.filter((j) => j.deadline && days(j.deadline, today()) <= 3);
-    $('#stats').innerHTML = [
-      ['표시 중', list.length],
-      ['진행 중 공고', open.length],
-      ['새 공고(2일 내)', open.filter(isNew).length],
-      ['3일 내 마감', soon.length],
-      ['★ 관심', state.stars.size],
-    ].map(([k, v]) => `<div class="stat"><b>${v}</b>${k}</div>`).join('');
-    $('#list').querySelectorAll('.card').forEach((el) => {
-      const id = el.dataset.id;
-      el.querySelector('.star').addEventListener('click', (e) => { state.stars.has(id) ? state.stars.delete(id) : state.stars.add(id); store.set('stars', [...state.stars]); e.currentTarget.classList.toggle('on'); render(); });
-      el.querySelector('.hide').addEventListener('click', () => { state.hidden.add(id); store.set('hidden', [...state.hidden]); render(); toast('숨겼습니다. 아래 메뉴에서 되돌릴 수 있어요.'); });
-      const s = el.querySelector('.summary'); if (s) s.addEventListener('click', () => s.classList.toggle('open'));
-    });
+    const empty = $('#empty');
+    empty.style.display = list.length ? 'none' : '';
+    empty.innerHTML = state.view === 'plan' ? '아직 "지원예정"으로 표시한 공고가 없어요.<br />공고를 열고 📌 지원예정 버튼을 눌러 보세요.' : state.view === 'done' ? '아직 "지원함"으로 표시한 공고가 없어요.<br />지원을 마쳤다면 ✅ 지원함 버튼을 눌러 기록해 두세요.' : '조건에 맞는 공고가 없습니다.';
+    const open = data.jobs.filter((j) => !state.hidden.has(j.id) && !isExpired(j) && j.kind !== 'result');
+    $('#count').textContent = `${list.length}건`;
+    $('#stats').textContent = state.view === 'all' ? `진행 중 ${open.length} · 새 공고 ${open.filter(isNew).length} · 3일 내 마감 ${open.filter((j) => j.deadline && days(j.deadline, today()) <= 3).length}` : state.view === 'plan' ? '마감 가까운 순' : '최근 올라온 순';
+    $('#list').querySelectorAll('.card').forEach((el) => el.addEventListener('click', () => { state.sel = el.dataset.id; state.tab = 'frame'; render(); }));
+    renderDetail();
   }
 
   $('#q').addEventListener('input', (e) => { state.q = e.target.value; render(); });
+  $('#filterBtn').addEventListener('click', () => { $('#drawer').classList.toggle('open'); $('#filterBtn').classList.toggle('on', $('#drawer').classList.contains('open')); renderCheer(); });
   $('#sort').value = state.sort; $('#sort').addEventListener('change', (e) => { state.sort = e.target.value; store.set('sort', state.sort); render(); });
   $('#hideExpired').checked = state.hideExpired; $('#hideExpired').addEventListener('change', (e) => { state.hideExpired = e.target.checked; store.set('hideExpired', state.hideExpired); render(); });
   $('#hideResult').checked = state.hideResult; $('#hideResult').addEventListener('change', (e) => { state.hideResult = e.target.checked; store.set('hideResult', state.hideResult); render(); });
-  $('#onlyStar').addEventListener('change', (e) => { state.onlyStar = e.target.checked; render(); });
   const addKw = () => { const v = $('#kwInput').value.trim(); if (!v) return; if (!state.kws.includes(v)) state.kws.push(v); store.set('kws', state.kws); $('#kwInput').value = ''; render(); };
   $('#kwAdd').addEventListener('click', addKw);
   $('#kwInput').addEventListener('keydown', (e) => { if (e.key === 'Enter') addKw(); });
   $('#unhideAll').addEventListener('click', () => { state.hidden.clear(); store.set('hidden', []); render(); toast('숨긴 공고를 모두 되돌렸습니다.'); });
+  document.addEventListener('keydown', (e) => { if (e.key === 'Escape' && state.sel) { state.sel = null; render(); } });
+  window.addEventListener('resize', () => document.documentElement.style.setProperty('--top-h', $('#top').offsetHeight + 12 + 'px'));
 
   fetch('data/jobs.json?t=' + Date.now())
     .then((r) => r.json())
     .then((d) => {
       data = d;
       const u = new Date(d.updatedAt);
-      $('#updated').textContent = `마지막 수집 ${u.toLocaleString('ko-KR', { timeZone: 'Asia/Seoul', month: 'numeric', day: 'numeric', hour: '2-digit', minute: '2-digit' })} · 전체 ${d.count}건`;
+      $('#updated').textContent = `${u.toLocaleString('ko-KR', { timeZone: 'Asia/Seoul', month: 'numeric', day: 'numeric', hour: '2-digit', minute: '2-digit' })} 수집`;
       render();
     })
     .catch((e) => { $('#updated').textContent = '데이터를 불러오지 못했습니다: ' + e.message; });
