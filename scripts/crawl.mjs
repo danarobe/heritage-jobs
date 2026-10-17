@@ -58,7 +58,7 @@ for (const job of collected) {
   const old = prevById.get(job.id);
   if (old) {
     job.firstSeen = old.firstSeen || today;
-    if (old.detailAt && daysBetween(today, old.detailAt) <= DETAIL_TTL_DAYS) {
+    if (old.detailOk && old.detailAt && daysBetween(today, old.detailAt) <= DETAIL_TTL_DAYS) {
       // 이전 상세 내용 재사용 (목록에서 새로 얻은 값 중 비어있지 않은 것만 덮어씀)
       const keep = Object.fromEntries(Object.entries(job).filter(([, v]) => v !== null && v !== undefined && v !== ''));
       Object.assign(job, old, keep, { needsDetail: false, detailAt: old.detailAt });
@@ -72,6 +72,7 @@ for (const job of collected) {
     try {
       await job._mod.enrich(job);
       job.detailAt = today;
+      job.detailOk = true;
       enriched++;
       await sleep(600);
     } catch (e) {
