@@ -10,6 +10,7 @@ import * as nrich from './sources/nrich.mjs';
 import * as kha from './sources/kha.mjs';
 import * as alio from './sources/alio.mjs';
 import * as gojobs from './sources/gojobs.mjs';
+import * as momo365 from './sources/momo365.mjs';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const DATA = path.join(ROOT, 'data');
@@ -31,6 +32,7 @@ const SOURCES = [
   { mod: kha },
   { mod: alio, keywords: cfg.searchKeywords.alio },
   { mod: gojobs, keywords: cfg.searchKeywords.gojobs || cfg.searchKeywords.alio },
+  { mod: momo365 },
 ];
 
 // 이번에 실행하지 않은 출처는 이전 상태를 그대로 유지

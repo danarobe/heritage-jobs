@@ -226,10 +226,12 @@ export function scoreJob(job, cfg) {
       [...inTitle, ...inCompany, ...inBody].forEach((k) => hits.add(k));
     }
   }
+  // '문화재단'(문화 재단)은 '문화재'가 아니므로 핵심 단어 매칭에서 제외
   const core = cfg.core;
-  const ct = count(title, core.keywords);
-  const cc = count(company, core.keywords);
-  const cb = count(body, core.keywords);
+  const noFoundation = (t) => t.replace(/문화재단/g, '문화x단');
+  const ct = count(noFoundation(title), core.keywords);
+  const cc = count(noFoundation(company), core.keywords);
+  const cb = count(noFoundation(body), core.keywords);
   if (ct.length) score += core.weight * 2;
   if (cc.length) score += core.weight;
   if (cb.length) score += Math.min(cb.length, 2) * (core.weight / 2);

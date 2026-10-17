@@ -1,8 +1,8 @@
 {
- "updatedAt": "2026-10-17T03:49:28.967Z",
+ "updatedAt": "2026-10-17T03:54:53.426Z",
  "today": "2026-10-17",
- "count": 179,
- "newToday": 179,
+ "count": 216,
+ "newToday": 216,
  "sources": {
   "saramin": {
    "name": "사람인",
@@ -45,6 +45,12 @@
    "ok": true,
    "count": 49,
    "ms": 15375
+  },
+  "momo365": {
+   "name": "모모365",
+   "ok": true,
+   "count": 100,
+   "ms": 1900
   }
  },
  "categories": [
@@ -680,6 +686,53 @@
    ]
   },
   {
+   "id": "momo365:28347",
+   "source": "momo365",
+   "sourceName": "모모365",
+   "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28347",
+   "title": "[대림문화재단 채용공고] 전시해설 프로그램 담당 에듀케이터 경력직 채용공고 (1명, 계약직)",
+   "company": "(재)대림문화재단",
+   "region": "서울",
+   "experience": "",
+   "education": "",
+   "employmentType": "임기∙계약직",
+   "salary": "",
+   "sector": "",
+   "postedAt": "2026-09-15",
+   "startAt": "2026-09-15",
+   "deadline": "2026-09-30",
+   "deadlineText": "",
+   "summary": "[포지션 및 근무 형태] 포지션명: 전시해설 에듀케이터 (육아휴직 대체인력) 고용 형태: 계약직 (근무기간: 2026.10.28 ~ 2027.09.28) 모집 인원: 1명 [담당업무] ㆍ대림미술관, 디뮤지엄 전시 관련 전시해설 프로그램 기획, 운영 ㆍ전시 정규해설 및 VIP 국/영문 투어 ㆍ기타 교육문화파트 내 미술관 지정 업무 [핵심역량] ㆍ영어 구사 능력, 타인과의 원활한 커뮤니케이션, 성실성, 계획성, [자격요건] ㆍ학력: 학사 학위 이상 소지자 (전공: 미술, 미술교육, 예술교육, 예술경영, 문화콘텐츠, 커뮤니케이션 등 문화예술 및 업무 관련 전공자) ㆍ경력:…",
+   "qualifications": "[자격요건]\nㆍ학력: 학사 학위 이상 소지자 (전공: 미술, 미술교육, 예술교육, 예술경영, 문화콘텐츠, 커뮤니케이션 등 문화예술 및 업무 관련 전공자)\nㆍ경력: 미술관, 유사문화예술(교육)기관 및 단체에서 전시해설 및 교육 프로그램 기획 및 실행 실무 경력 2년 이상\nㆍ필수요건\n- 미술관 및 문화시설 전시해설 프로그램 기획, 실행, 운영 유경험자 영문 전시 해설 가능 및 커뮤니케이션 능통자\n- 주말 및 공휴일 근무 가능자 (주 5일 기준, 주말 근무 시 대체 휴무 적용, 연장 근무 시 탄력 근무 적용)\n- 협업 및 원활한 커뮤니케이션 능력 소지자\n- 전시&콘텐츠 간 연계성에 대한 풍부한 이해도",
+   "kind": "job",
+   "official": false,
+   "firstSeen": "2026-10-17",
+   "lastSeen": "2026-10-17",
+   "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=94982",
+   "attachments": [
+    {
+     "name": "(재)대림문화재단_입사지원서_양식.docx",
+     "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28347"
+    }
+   ],
+   "detailAt": "2026-10-17",
+   "detailOk": true,
+   "score": 42,
+   "tier": "high",
+   "tags": [
+    "curation",
+    "education",
+    "institution"
+   ],
+   "matched": [
+    "전시",
+    "전시해설",
+    "미술관",
+    "해설",
+    "문화재단"
+   ]
+  },
+  {
    "id": "saramin:55100059",
    "source": "saramin",
    "sourceName": "사람인",
@@ -843,6 +896,54 @@
    ]
   },
   {
+   "id": "momo365:28297",
+   "source": "momo365",
+   "sourceName": "모모365",
+   "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28297",
+   "title": "[한국사립박물관협회] 2026년 사립 및 사립대학박물관 예비 학예인력 지원사업 9차 인력 모집 공고",
+   "company": "사단법인한국사립박물관협회",
+   "region": "서울",
+   "experience": "",
+   "education": "",
+   "employmentType": "인턴∙연수∙교육",
+   "salary": "",
+   "sector": "",
+   "postedAt": "2026-09-09",
+   "startAt": "2026-09-09",
+   "deadline": "2026-09-17",
+   "deadlineText": "",
+   "summary": "사단법인한국사립박물관협회 · 서울 · 인턴∙연수∙교육",
+   "qualifications": "",
+   "kind": "job",
+   "official": false,
+   "firstSeen": "2026-10-17",
+   "lastSeen": "2026-10-17",
+   "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=94921",
+   "attachments": [
+    {
+     "name": "서식 1. 예비 학예인력 지원신청서.hwpx",
+     "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28297"
+    },
+    {
+     "name": "붙임 1. 제9차 예비 학예인력 지원 신청 가능 관 목록.pdf",
+     "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28297"
+    }
+   ],
+   "detailAt": "2026-10-17",
+   "detailOk": true,
+   "score": 39,
+   "tier": "high",
+   "tags": [
+    "curation",
+    "research"
+   ],
+   "matched": [
+    "학예",
+    "박물관",
+    "한국사"
+   ]
+  },
+  {
    "id": "saramin:55176358",
    "source": "saramin",
    "sourceName": "사람인",
@@ -889,6 +990,54 @@
    ]
   },
   {
+   "id": "momo365:28440",
+   "source": "momo365",
+   "sourceName": "모모365",
+   "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28440",
+   "title": "[대림문화재단] 대림미술관 / 디뮤지엄 전시 도슨트 모집",
+   "company": "(재)대림문화재단",
+   "region": "서울",
+   "experience": "",
+   "education": "",
+   "employmentType": "임기∙계약직",
+   "salary": "",
+   "sector": "",
+   "postedAt": "2026-09-23",
+   "startAt": "2026-09-23",
+   "deadline": "2026-10-05",
+   "deadlineText": "",
+   "summary": "대림문화재단은 개관 이래 삶을 둘러싼 주제를 다양하게 조명한 새로운 예술문화 콘텐츠로 많은 관객과 소통해 왔습니다. 다양한 전시를 소개하며 그 경계를 확장해 나가고 있는 '대림미술관'과 영감을 디자인하는 복합문화예술센터 '디뮤지엄'에서 전시에 대한 이해도를 높이고자 관객의 눈높이에서 전시해설을 진행할 도슨트를 모집합니다. 1. 모집부문 * 교육문화파트 대림미술관 전시 도슨트 (0명) * 교육문화파트 디뮤지엄 전시 도슨트 (0명) (1) 담당업무 - 대림미술관 or 디뮤지엄 전시 정규 투어 - 단체 투어 및 미술관 교육 프로그램(필요시) 투어 진행 - 기타 미술관에서 …",
+   "qualifications": "(2) 자격요건\n- 성별 무관, 성실하고 약속을 잘 지키는 분\n- 주말, 공휴일 근무 및 전시 종료일까지 근무 가능한 자\n- 문화예술에 관심이 높고 평소 도슨트 투어를 즐겨 듣는분\n- 타인과의 원활한 커뮤니케이션 능력 및 스피치 역량 우수자\n- 상황에 따라 유연한 대처가 가능하며 적극적인 리더십 소유하신 분",
+   "kind": "job",
+   "official": false,
+   "firstSeen": "2026-10-17",
+   "lastSeen": "2026-10-17",
+   "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=95094",
+   "attachments": [
+    {
+     "name": "(재)대림문화재단_대림미술관,디뮤지엄도슨트지원서.docx",
+     "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28440"
+    }
+   ],
+   "detailAt": "2026-10-17",
+   "detailOk": true,
+   "score": 38,
+   "tier": "high",
+   "tags": [
+    "curation",
+    "education",
+    "institution"
+   ],
+   "matched": [
+    "전시",
+    "미술관",
+    "도슨트",
+    "전시해설",
+    "해설",
+    "문화재단"
+   ]
+  },
+  {
    "id": "khs:34581",
    "source": "khs",
    "sourceName": "국가유산청",
@@ -927,6 +1076,58 @@
      "sourceName": "국립문화유산연구원",
      "url": "https://www.nrich.go.kr/kor/boardView.do?menuIdx=285&bbscd=40&bbs_idx=48401"
     }
+   ]
+  },
+  {
+   "id": "momo365:28630",
+   "source": "momo365",
+   "sourceName": "모모365",
+   "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28630",
+   "title": "[사비나미술관] 2026 예비학예인력 모집 공고",
+   "company": "사비나미술관",
+   "region": "서울",
+   "experience": "",
+   "education": "",
+   "employmentType": "임기∙계약직",
+   "salary": "",
+   "sector": "",
+   "postedAt": "2026-10-16",
+   "startAt": "2026-10-16",
+   "deadline": "2026-10-25",
+   "deadlineText": "",
+   "summary": "사비나미술관은 ( 사 ) 한국사립미술관협회가 문화체육관광부 지원으로 실시하는 <2026 사립미술관 예비학예인력 지원사업 > 에 따라 아래와 같이 예비학예인력을 모집하오니 많은 응모 바랍니다 . 1. 모집인원 : 총 1 명 2. 근무기간 : 2026 년 11 월 1 일 ( 일 ) ~ 2026 년 12 월 31 일(목) 3. 근무시간 : 주 5 일 40 시간 근무 , 출퇴근시간 09:30~18:30 ( 월요일 휴무 , 주말 중 1 일 스케쥴 근무 ) 4. 응시자격 1) 준학예사 필기시험 합격자 2) 전문학사학위 이상 소지자 ( 전공 불문 ) ※ 1) 또는 2) 의 요건 …",
+   "qualifications": "4. 응시자격\n1) 준학예사 필기시험 합격자\n2) 전문학사학위 이상 소지자 ( 전공 불문 )\n※ 1) 또는 2) 의 요건 중 어느 하나를 충족해야 함\n[ 채용 불가 대상 ]\n1) 해당 기관에 4 대보험이 가입되어 있는 인력\n( 예외 ) 2025 년 본 사업 지원 예비학예인력 연속채용 가능\n2) 재학생 채용 불가 ( 단 , 휴학생 , 졸업예정자 , 야간대학원 재학생은 가능 )\n3) 4 대보험 전체가입 불가한 자 ( 단 , 조기연금 및 타 연금 수령자는 가능 )\n4) 대표 ( 또는 관장 ) 및 기존 임직원과의 관계가 친인척 (8 촌 이내 혈족 , 4 촌 이내 인척 ) 인 자\n* 배우자는 원칙적으로 허용하지 않음 .\n5. 급여\n'2026 년 예비학예인력 지원사업 ' 규정에 따름\n6. ' 예비학예인력 ' 의 업무 범위\n○ 전시 기획\n- 미술관 전시기획 , 학예연구 보조\n- 전시 및 작품 , 작가관련 전시자료 수집\n- 전시작품 및 소장품 관리 보조\n- 전시설치 실무 보조\n- 참여 작가 커뮤니케이션\n○ 전시 홍보\n- 전시 홍보 일정 수립 및 컨텐츠 기획\n- 미술관 SNS, 웹사이트 게시물 작성 및 관리\n- 미술관 체험 및 전시연계 교육프로그램 기획 및 운영 보조\n- 미…",
+   "kind": "job",
+   "official": false,
+   "firstSeen": "2026-10-17",
+   "lastSeen": "2026-10-17",
+   "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=95363",
+   "attachments": [
+    {
+     "name": "별첨2026예비학예인력지원서(자기소개서및개인정보활용동의서포함).hwp",
+     "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28630"
+    }
+   ],
+   "detailAt": "2026-10-17",
+   "detailOk": true,
+   "score": 36,
+   "tier": "high",
+   "tags": [
+    "curation",
+    "education",
+    "research"
+   ],
+   "matched": [
+    "학예",
+    "미술관",
+    "학예사",
+    "학예연구",
+    "전시기획",
+    "전시",
+    "소장품",
+    "체험",
+    "한국사",
+    "사학"
    ]
   },
   {
@@ -1614,6 +1815,58 @@
     "학술연구",
     "학술",
     "문화유산"
+   ]
+  },
+  {
+   "id": "momo365:28616",
+   "source": "momo365",
+   "sourceName": "모모365",
+   "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28616",
+   "title": "2026 수성문화재단 미술관 전문 학예인력 채용 공고",
+   "company": "수성문화재단",
+   "region": "대구",
+   "experience": "",
+   "education": "",
+   "employmentType": "임기∙계약직",
+   "salary": "",
+   "sector": "",
+   "postedAt": "2026-10-15",
+   "startAt": "2026-10-15",
+   "deadline": "2026-10-19",
+   "deadlineText": "",
+   "summary": "수성문화재단 · 대구 · 임기∙계약직",
+   "qualifications": "",
+   "kind": "job",
+   "official": false,
+   "firstSeen": "2026-10-17",
+   "lastSeen": "2026-10-17",
+   "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=95344",
+   "attachments": [
+    {
+     "name": "채용서류 반환청구서 (1).hwp",
+     "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28616"
+    },
+    {
+     "name": "2026 수성문화재단 미술관 전문 학예인력 채용 공고.pdf",
+     "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28616"
+    },
+    {
+     "name": "(응시서류) 서식 1-6.hwp",
+     "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28616"
+    }
+   ],
+   "detailAt": "2026-10-17",
+   "detailOk": true,
+   "score": 30,
+   "tier": "high",
+   "tags": [
+    "curation",
+    "institution"
+   ],
+   "matched": [
+    "학예",
+    "미술관",
+    "문화재단"
    ]
   },
   {
@@ -3706,6 +3959,57 @@
    ]
   },
   {
+   "id": "momo365:28497",
+   "source": "momo365",
+   "sourceName": "모모365",
+   "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28497",
+   "title": "2027바다미술제 전시감독 공개모집",
+   "company": "(사)부산비엔날레조직위원회",
+   "region": "부산",
+   "experience": "",
+   "education": "",
+   "employmentType": "임기∙계약직",
+   "salary": "",
+   "sector": "",
+   "postedAt": "2026-09-30",
+   "startAt": "2026-09-30",
+   "deadline": "2026-10-31",
+   "deadlineText": "",
+   "summary": "(사)부산비엔날레조직위원회는 2027바다미술제 전시감독 선정을 위한 국제공모를 실시합니다. 1987년 시작된 바다미술제는 부산의 바다와 도시를 동시대 미술의 시각으로 새롭게 해석해 온 독창적인 예술 행사입니다. 해양도시 부산의 변화를 함께 성찰하고 바다미술제의 새로운 가능성을 제시할 역량 있는 기획자 여러분의 참여를 바랍니다. 1. 사업개요 ○ 개최방향 ▷ 부산의 해안 공간과 도시의 변화를 동시대적 관점에서 재해석하는 장소특정적 예술 프로젝트 추진 ▷ 해수욕장, 강변, 항만 등 부산의 해양적 특성을 지닌 장소를 중심으로 주변 거리 상가, 공공시설, 문화공간, 미디어월…",
+   "qualifications": "3. 지원요건\n○ 바다미술제의 역사와 해양도시 부산의 지역적 특성에 대한 이해를 바탕으로 새로운 변화와 가능성을 제시할 수 있는 자\n○ 동시대 미술에 대한 전문성과 국내외 전시 또는 예술 프로젝트 기획 경험을 갖춘 자\n○ 장소의 특성을 반영한 실험적인 전시 및 공간 구성을 기획 및 실행할 수 있는 자\n○ 조직위원회와 원활하게 소통하며 전시기획 및 실행 업무를 협력하여 수행할 수 있는 자\n○ 지역의 다양한 주체와 협업하고 시민과 소통하는 개방적인 프로그램을 제안할 수 있는 자\n○ 전시 준비와 실행을 위해 부산을 방문하고 일정 기간 체류할 수 있는 자\n○ 조직위원회의 국제적 네트워크 확장에 기여할 수 있는 자\n4. 주요임무\n○ 2027바다미술제 전시 및 프로젝트의 예술적 방향 총괄\n▷ 전시 주제와 기획 방향 수립 및 세부 실행계획 마련\n▷ 참여작가와 작품 선정 및 작품 제작 방향 총괄\n▷ 전시 예산안 수립 및 예산 배분 관련 조직위원회 협의\n▷ 전시장소 공간 구성, 장소별 프로젝트의 실행 가능성 검토\n○ 리서치·공공 프로그램·아카이브 등 연계 프로젝트 기획 및 실행\n○ 국내외 홍보를 위한 컨텐츠 제공, 협력기관 발굴 및 협찬 확보를 위한 제반 업무 협조\n○ 기타…",
+   "kind": "job",
+   "official": false,
+   "firstSeen": "2026-10-17",
+   "lastSeen": "2026-10-17",
+   "applyUrl": "http://www.busanbiennale.org/BBOCkr/?pCode=notice&mode=view&idx=12553",
+   "attachments": [
+    {
+     "name": "별첨. 바다미술제 소개서.pdf",
+     "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28497"
+    },
+    {
+     "name": "붙임. 2027바다미술제 전시감독 공개모집 공고문.pdf",
+     "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28497"
+    }
+   ],
+   "detailAt": "2026-10-17",
+   "detailOk": true,
+   "score": 20,
+   "tier": "high",
+   "tags": [
+    "curation",
+    "excavation",
+    "research"
+   ],
+   "matched": [
+    "전시",
+    "전시기획",
+    "아카이브",
+    "발굴",
+    "역사"
+   ]
+  },
+  {
    "id": "saramin:55133665",
    "source": "saramin",
    "sourceName": "사람인",
@@ -3980,6 +4284,101 @@
    ]
   },
   {
+   "id": "momo365:28441",
+   "source": "momo365",
+   "sourceName": "모모365",
+   "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28441",
+   "title": "[PKM갤러리] 전시팀장 모집 공고",
+   "company": "(주)피케이엠갤러리",
+   "region": "서울",
+   "experience": "경력3년↑",
+   "education": "대졸이상",
+   "employmentType": "정규직",
+   "salary": "회사 내규에 따름 (면접 후 결정)",
+   "sector": "",
+   "postedAt": "2026-09-23",
+   "startAt": "2026-09-23",
+   "deadline": "2026-10-01",
+   "deadlineText": "",
+   "summary": "PKM갤러리에서 전시팀 팀장을 모집합니다. ● 모집분야 및 인원 PKM갤러리 전시팀 팀장 1명 ● 업무내용 - 전시팀 운영 및 팀원 관리 - 인하우스 학예 및 전시 총괄 - 전속작가 리에종 외 ● 근무조건 - 근무시작일: 10월 초·중순 (협의 가능) - 근무일시: 주5일제 (화-토 l 09:00-18:00 근무) - 근무지역: 서울 종로구 삼청동 - 급여: 면접 시 협의 - 복리후생: 4대보험, 연차휴가, 퇴직연금 - 채용형태: 정규직 (수습기간 3개월) ● 지원자격 - 유관업무 경력 3년 이상인 자 - 미술 관련학과 (미술사학, 예술학, 미술경영, 미술이론, 미술…",
+   "qualifications": "● 지원자격\n- 유관업무 경력 3년 이상인 자\n- 미술 관련학과 (미술사학, 예술학, 미술경영, 미술이론, 미술교육, 순수미술 또는 이외 관련학과) 전공 학사 또는 석사 학위 취득자\n- 영어 작문 및 회화 능숙한 자\n- 팀 리드 경험 있는 자 우대\n- 컴퓨터 프로그램 사용 능숙자 우대 (MS Office, Adobe 등)\n● 지원방법\n- 접수기간: 2026년 9월 23일 (수) ~ 채용 시 마감",
+   "kind": "job",
+   "official": false,
+   "firstSeen": "2026-10-17",
+   "lastSeen": "2026-10-17",
+   "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=95093",
+   "attachments": [],
+   "detailAt": "2026-10-17",
+   "detailOk": true,
+   "score": 19,
+   "tier": "high",
+   "tags": [
+    "curation",
+    "research"
+   ],
+   "matched": [
+    "전시",
+    "학예",
+    "미술사",
+    "사학"
+   ],
+   "alsoOn": [
+    {
+     "source": "jobkorea",
+     "sourceName": "잡코리아",
+     "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50043708"
+    }
+   ]
+  },
+  {
+   "id": "momo365:28349",
+   "source": "momo365",
+   "sourceName": "모모365",
+   "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28349",
+   "title": "[더프리마아트센터] 큐레이터 경력직 채용",
+   "company": "더프리마",
+   "region": "서울",
+   "experience": "",
+   "education": "",
+   "employmentType": "임기∙계약직",
+   "salary": "",
+   "sector": "",
+   "postedAt": "2026-09-15",
+   "startAt": "2026-09-15",
+   "deadline": "2026-09-20",
+   "deadlineText": "",
+   "summary": "[더프리마아트센터] 큐레이터 경력직 큐레이터 채용 공고 1. 모집내용 1) 자격요건 ㆍ미술사학 또는 관련 전공 학사 이상 ㆍ경력 8년 이상 ㆍTOEIC Speaking IH 또는 OPIc IM3 이상 보유자(제출 기한 내 유효한 성적에 한함) 2) 담당업무 ㆍ전시 프로그램 기획 ㆍ작품 데이터베이스 관리 ㆍ소장품 관리 행정 3) 우대사항 ㆍ정학예사 자격증 ㆍ영어/제2외국어 능통 4) 근무조건 - 최소 6개월 계약직 근무 후 업무 성과 평가에 따라 정규직 전환 여부 결정 - 근무형태 : 주 5일(스케줄 근무) - 급여 : 4,300~5,000만원(면접 시 협의) - 근무…",
+   "qualifications": "1) 자격요건\nㆍ미술사학 또는 관련 전공 학사 이상\nㆍ경력 8년 이상\nㆍTOEIC Speaking IH 또는 OPIc IM3 이상 보유자(제출 기한 내 유효한 성적에 한함)\n2) 담당업무\nㆍ전시 프로그램 기획\nㆍ작품 데이터베이스 관리\nㆍ소장품 관리 행정",
+   "kind": "job",
+   "official": false,
+   "firstSeen": "2026-10-17",
+   "lastSeen": "2026-10-17",
+   "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=94979",
+   "attachments": [
+    {
+     "name": "입사지원서(경력).pptx",
+     "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28349"
+    }
+   ],
+   "detailAt": "2026-10-17",
+   "detailOk": true,
+   "score": 19,
+   "tier": "high",
+   "tags": [
+    "curation",
+    "research"
+   ],
+   "matched": [
+    "큐레이터",
+    "학예",
+    "학예사",
+    "전시",
+    "소장품",
+    "미술사",
+    "사학"
+   ]
+  },
+  {
    "id": "gojobs:305924",
    "source": "gojobs",
    "sourceName": "나라일터",
@@ -4121,6 +4520,50 @@
    ],
    "matched": [
     "박물관"
+   ]
+  },
+  {
+   "id": "momo365:28602",
+   "source": "momo365",
+   "sourceName": "모모365",
+   "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28602",
+   "title": "[대림문화재단] 홍보마케팅파트 인턴 채용공고",
+   "company": "(재)대림문화재단",
+   "region": "서울",
+   "experience": "",
+   "education": "",
+   "employmentType": "인턴∙연수∙교육",
+   "salary": "",
+   "sector": "",
+   "postedAt": "2026-10-13",
+   "startAt": "2026-10-13",
+   "deadline": "2026-10-18",
+   "deadlineText": "",
+   "summary": "1. 모집부문 (1) 담당업무 * 대림문화재단(디뮤지엄&대림미술관) 홍보마케팅파트 업무 지원 - 전시 홍보 및 세일즈 서포트 - 프로모션 기획 서포트 - 소셜 미디어 업무 서포트 - 기자 커뮤니케이션 업무 서포트 - 기타 홍보마케팅 업무 (2) 자격요건 - 광고홍보, 커뮤니케이션, 디자인, 문화예술 관련 전공 학부 졸업생 이상(2027년 2월 졸업예정자 불가) - Word, Power Point, Excel 기본 기능 활용 가능자 (3) 우대사항 -소셜 미디어 및 블로그 운영 경험이 있거나 관련 콘텐츠 제작에 적극적인 자 - 문화·예술 분야에 대한 관심과 이해도가 높…",
+   "qualifications": "(2) 자격요건\n- 광고홍보, 커뮤니케이션, 디자인, 문화예술 관련 전공 학부 졸업생 이상(2027년 2월 졸업예정자 불가)\n- Word, Power Point, Excel 기본 기능 활용 가능자",
+   "kind": "job",
+   "official": false,
+   "firstSeen": "2026-10-17",
+   "lastSeen": "2026-10-17",
+   "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=95312",
+   "attachments": [
+    {
+     "name": "(재)대림문화재단_입사지원서_양식.docx",
+     "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28602"
+    }
+   ],
+   "detailAt": "2026-10-17",
+   "detailOk": true,
+   "score": 18,
+   "tier": "high",
+   "tags": [
+    "curation",
+    "institution"
+   ],
+   "matched": [
+    "전시",
+    "미술관",
+    "문화재단"
    ]
   },
   {
@@ -4570,6 +5013,46 @@
    ]
   },
   {
+   "id": "momo365:28459",
+   "source": "momo365",
+   "sourceName": "모모365",
+   "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28459",
+   "title": "2026년 3차 극장 용 공연장 안내원 모집 공고(~10/3)",
+   "company": "국립박물관문화재단",
+   "region": "서울",
+   "experience": "",
+   "education": "",
+   "employmentType": "일용직∙아르바이트",
+   "salary": "",
+   "sector": "",
+   "postedAt": "2026-09-28",
+   "startAt": "2026-09-28",
+   "deadline": "2026-10-03",
+   "deadlineText": "",
+   "summary": "국립박물관문화재단 · 서울 · 일용직∙아르바이트",
+   "qualifications": "",
+   "kind": "job",
+   "official": false,
+   "firstSeen": "2026-10-17",
+   "lastSeen": "2026-10-17",
+   "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=95117",
+   "attachments": [],
+   "detailAt": "2026-10-17",
+   "detailOk": true,
+   "score": 17,
+   "tier": "high",
+   "tags": [
+    "curation",
+    "institution"
+   ],
+   "matched": [
+    "박물관",
+    "문화재단",
+    "국립박물관",
+    "박물관문화재단"
+   ]
+  },
+  {
    "id": "saramin:55304934",
    "source": "saramin",
    "sourceName": "사람인",
@@ -4790,6 +5273,127 @@
    ]
   },
   {
+   "id": "momo365:28536",
+   "source": "momo365",
+   "sourceName": "모모365",
+   "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28536",
+   "title": "[피크닉 piknic] 전시 운영 부매니저 모집 공고",
+   "company": "재단법인 목목문화재단",
+   "region": "서울",
+   "experience": "",
+   "education": "",
+   "employmentType": "임기∙계약직",
+   "salary": "",
+   "sector": "",
+   "postedAt": "2026-10-05",
+   "startAt": "2026-10-05",
+   "deadline": "2026-10-05",
+   "deadlineText": "",
+   "summary": "[피크닉 piknic] 전시 운영 부매니저 모집 공고 2026년 10월부터 전시 공간 ‘피크닉 piknic’ 에서 진행되는 기획 전시에 함께할 부매니저를 모집합니다. 전시 공간의 전반적인 운영을 관리하고, 관람객과 현장 스태프 사이에서 원활한 커뮤니케이션을 이끌어갈 분을 찾고 있습니다. 현장 운영에 책임감을 가지고 함께해주실 분들의 많은 관심과 지원 바랍니다. [공간 정보] https://www.instagram.com/piknic.kr [담당 업무] 1. 전시장 운영 전반 - 전시장 일일 운영 및 현장 관리 - 관람객 응대 및 전시장 질서 유지 - 작품 및 전시 공…",
+   "qualifications": "[지원 자격]\n- 전시장 또는 문화예술 관련 공간 운영 경험이 있는 분\n- 현장에서 발생하는 다양한 상황에 유연하게 대응할 수 있는 분\n- 관람객 및 스태프와 원활하게 소통할 수 있는 분\n- 책임감을 가지고 전시장 운영을 협조적으로 관리할 수 있는 분\n- 기본적인 문서(구글 닥, 스프레드 시트 등) 작성 가능한 분\n- 전시 기간 동안 성실하게 근무할 수 있는 분\n- 수·목·금·토·일 근무가 가능한 분\n[지원 방법 및 일정]\n1. 지원 방법\n- 이메일 recruit@piknic.kr 로 지원서를 제출해 주세요.\n※ 별도 양식 없음 / PDF 형식 필수\n※ 경력 및 경험이 있는 경우 근무 기간과 담당 업무를 구체적으로 기재해 주세요.\n2. 지원 메일 형식\n[부매니저 / 이름] _ [부매니저/김피크]\n3. 지원 일정\n- 서류 마감 : 2026년 10월 5일(월)\n- 서류 합격자 발표 : 서류 마감 후 2일 이내 개별 연락\n- 면접 : 2026년 10월 7일(수)부터 순차 진행\n- 최종 합격자 발표 : 2026년 10월 12일(월) 예정\n[주의 사항]\n※ 무단결근, 반복적인 지각 등 원활한 전시장 운영에 중대한 영향을 미치는 경우 근무가 제한되거나 채용이 취소될 수…",
+   "kind": "job",
+   "official": false,
+   "firstSeen": "2026-10-17",
+   "lastSeen": "2026-10-17",
+   "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=95223",
+   "attachments": [],
+   "detailAt": "2026-10-17",
+   "detailOk": true,
+   "score": 16,
+   "tier": "high",
+   "tags": [
+    "curation",
+    "institution"
+   ],
+   "matched": [
+    "전시",
+    "문화재단"
+   ],
+   "alsoOn": [
+    {
+     "source": "momo365",
+     "sourceName": "모모365",
+     "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28460"
+    }
+   ]
+  },
+  {
+   "id": "momo365:28535",
+   "source": "momo365",
+   "sourceName": "모모365",
+   "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28535",
+   "title": "[피크닉 piknic] 전시 주말 운영 스태프 모집 공고",
+   "company": "재단법인 목목문화재단",
+   "region": "서울",
+   "experience": "",
+   "education": "",
+   "employmentType": "일용직∙아르바이트",
+   "salary": "",
+   "sector": "",
+   "postedAt": "2026-10-05",
+   "startAt": "2026-10-05",
+   "deadline": "2026-10-05",
+   "deadlineText": "",
+   "summary": "[피크닉 piknic] 전시 운영 스태프 모집 공고 2026년 10월부터 전시 공간 ‘피크닉 piknic’ 에서 진행되는 기획 전시에 함께할 스태프를 모집합니다. 전시와 공간, 예술을 가까이에서 경험하며 함께 전시를 만들어갈 분들의 많은 관심과 지원 바랍니다. [공간 정보] https://www.instagram.com/piknic.kr [지원 분야 / 담당 업무] ※ 지원 분야 간 중복 지원이 가능합니다. ※ 복수 분야 지원 시 지원서에 희망 분야를 함께 기재해 주세요. 1. 스태프 - 전시장 입장 및 공간 안내 - 관람객 응대 및 전시장 질서 유지 - 전시장 내 …",
+   "qualifications": "",
+   "kind": "job",
+   "official": false,
+   "firstSeen": "2026-10-17",
+   "lastSeen": "2026-10-17",
+   "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=95224",
+   "attachments": [],
+   "detailAt": "2026-10-17",
+   "detailOk": true,
+   "score": 16,
+   "tier": "high",
+   "tags": [
+    "curation",
+    "institution"
+   ],
+   "matched": [
+    "전시",
+    "문화재단"
+   ]
+  },
+  {
+   "id": "momo365:28461",
+   "source": "momo365",
+   "sourceName": "모모365",
+   "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28461",
+   "title": "[피크닉 piknic] 전시 운영 스태프 모집 공고",
+   "company": "재단법인 목목문화재단",
+   "region": "서울",
+   "experience": "",
+   "education": "",
+   "employmentType": "일용직∙아르바이트",
+   "salary": "",
+   "sector": "",
+   "postedAt": "2026-09-28",
+   "startAt": "2026-09-28",
+   "deadline": "2026-10-05",
+   "deadlineText": "",
+   "summary": "[피크닉 piknic] 전시 운영 스태프 모집 공고 2026년 10월부터 전시 공간 ‘피크닉 piknic’ 에서 진행되는 기획 전시에 함께할 스태프를 모집합니다. 전시와 공간, 예술을 가까이에서 경험하며 함께 전시를 만들어갈 분들의 많은 관심과 지원 바랍니다. [공간 정보] https://www.instagram.com/piknic.kr [지원 분야 / 담당 업무] ※ 지원 분야 간 중복 지원이 가능합니다. ※ 복수 분야 지원 시 지원서에 희망 분야를 함께 기재해 주세요. 1. 스태프 - 전시장 입장 및 공간 안내 - 관람객 응대 및 전시장 질서 유지 - 전시장 내 …",
+   "qualifications": "",
+   "kind": "job",
+   "official": false,
+   "firstSeen": "2026-10-17",
+   "lastSeen": "2026-10-17",
+   "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=95123",
+   "attachments": [],
+   "detailAt": "2026-10-17",
+   "detailOk": true,
+   "score": 16,
+   "tier": "high",
+   "tags": [
+    "curation",
+    "institution"
+   ],
+   "matched": [
+    "전시",
+    "문화재단"
+   ]
+  },
+  {
    "id": "kha:119912",
    "source": "kha",
    "sourceName": "국가유산진흥원",
@@ -4902,6 +5506,759 @@
    ],
    "matched": [
     "미술관"
+   ]
+  },
+  {
+   "id": "momo365:28634",
+   "source": "momo365",
+   "sourceName": "모모365",
+   "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28634",
+   "title": "2026년 제8차 종로문화재단 직원 공개모집 공고",
+   "company": "재단법인 종로문화재단",
+   "region": "서울",
+   "experience": "",
+   "education": "",
+   "employmentType": "임기∙계약직",
+   "salary": "",
+   "sector": "",
+   "postedAt": "2026-10-16",
+   "startAt": "2026-10-16",
+   "deadline": "2026-10-29",
+   "deadlineText": "",
+   "summary": "*상세 자격요건, 근로 및 보수 조건 등 상세 내용은 자사 채용홈페이지에 기재된 공고문 참고",
+   "qualifications": "*상세 자격요건, 근로 및 보수 조건 등 상세 내용은 자사 채용홈페이지에 기재된 공고문 참고",
+   "kind": "job",
+   "official": false,
+   "firstSeen": "2026-10-17",
+   "lastSeen": "2026-10-17",
+   "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=95359",
+   "attachments": [
+    {
+     "name": "(붙임4) 채용이의신청서 및 채용서류반환청구서.hwp",
+     "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28634"
+    },
+    {
+     "name": "(붙임3) 종로문화재단 직무기술서_문화예술행정(무대기술감독).pdf",
+     "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28634"
+    },
+    {
+     "name": "(붙임2) 입사지원서 양식.hwp",
+     "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28634"
+    },
+    {
+     "name": "(붙임1) 입사지원서 작성‧제출 안내(필독).pdf",
+     "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28634"
+    }
+   ],
+   "detailAt": "2026-10-17",
+   "detailOk": true,
+   "score": 13,
+   "tier": "mid",
+   "tags": [
+    "conservation",
+    "institution"
+   ],
+   "matched": [
+    "보수",
+    "문화재단"
+   ]
+  },
+  {
+   "id": "momo365:28632",
+   "source": "momo365",
+   "sourceName": "모모365",
+   "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28632",
+   "title": "노원문화재단 2026년 제9차 공개채용 공고",
+   "company": "재단법인노원문화재단",
+   "region": "대구,인천",
+   "experience": "",
+   "education": "",
+   "employmentType": "임기∙계약직",
+   "salary": "",
+   "sector": "",
+   "postedAt": "2026-10-16",
+   "startAt": "2026-10-16",
+   "deadline": "2026-11-02",
+   "deadlineText": "",
+   "summary": "재단법인노원문화재단 · 대구,인천 · 임기∙계약직",
+   "qualifications": "",
+   "kind": "job",
+   "official": false,
+   "firstSeen": "2026-10-17",
+   "lastSeen": "2026-10-17",
+   "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=95361",
+   "attachments": [
+    {
+     "name": "이의제기 신청 안내 및 신청서.hwp",
+     "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28632"
+    }
+   ],
+   "detailAt": "2026-10-17",
+   "detailOk": true,
+   "score": 12,
+   "tier": "mid",
+   "tags": [
+    "institution"
+   ],
+   "matched": [
+    "문화재단"
+   ]
+  },
+  {
+   "id": "momo365:28608",
+   "source": "momo365",
+   "sourceName": "모모365",
+   "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28608",
+   "title": "용산문화재단 용산아트홀 하우스 어셔 모집",
+   "company": "용산문화재단",
+   "region": "서울",
+   "experience": "",
+   "education": "",
+   "employmentType": "일용직∙아르바이트",
+   "salary": "",
+   "sector": "",
+   "postedAt": "2026-10-14",
+   "startAt": "2026-10-14",
+   "deadline": "2026-10-31",
+   "deadlineText": "",
+   "summary": "용산문화재단 용산아트홀과 함께할 공연장 안내원을 아래와 같이 모집합니다. 1. 모집개요 - 모집분야 : 공연장 안내원 - 모집인원 : 00명 - 근무장소 : 용산아트홀(서울 용산구 녹사평대로 150) 대극장 및 소극장 2. 지원자격 - 만 19세 이상으로 공연예술에 관심이 있는 자 - 한 달 근무스케줄 중 70% 이상 근무 가능한 자 (금,토,일 중 이틀 이상 필수 / 매달 근무스케줄은 일정치 않음) - 긍정적인 마인드를 소유한 자 - 타인을 먼저 배려하는 따뜻한 마음을 가진 자 - 책임감이 강하며 능동적인 근무 수행이 가능한 자 3, 근무 내용 - 객석 안내 및 수…",
+   "qualifications": "2. 지원자격\n- 만 19세 이상으로 공연예술에 관심이 있는 자\n- 한 달 근무스케줄 중 70% 이상 근무 가능한 자\n(금,토,일 중 이틀 이상 필수 / 매달 근무스케줄은 일정치 않음)\n- 긍정적인 마인드를 소유한 자\n- 타인을 먼저 배려하는 따뜻한 마음을 가진 자\n- 책임감이 강하며 능동적인 근무 수행이 가능한 자\n3, 근무 내용\n- 객석 안내 및 수표\n- 로비 및 물품보관소 운영\n- 용산아트홀 공연 및 행사 진행 관객 안전 관리\n- 공연장 내.외부 질서 및 청결유지\n- 관객 불편사항 해결 및 서비스 제공\n- 공연장 시설 내 관객서비스 관련 업무 전반",
+   "kind": "job",
+   "official": false,
+   "firstSeen": "2026-10-17",
+   "lastSeen": "2026-10-17",
+   "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=95330",
+   "attachments": [
+    {
+     "name": "[공고문] 용산문화재단 용산아트홀 하우스 어셔 모집 공고.pdf",
+     "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28608"
+    },
+    {
+     "name": "[용산아트홀] 하우스 어셔 지원서.hwp",
+     "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28608"
+    }
+   ],
+   "detailAt": "2026-10-17",
+   "detailOk": true,
+   "score": 12,
+   "tier": "mid",
+   "tags": [
+    "institution"
+   ],
+   "matched": [
+    "문화재단"
+   ]
+  },
+  {
+   "id": "momo365:28598",
+   "source": "momo365",
+   "sourceName": "모모365",
+   "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28598",
+   "title": "[재]강북문화재단 2026년 제4차 정규직 및 기간제근로자 공개채용 공고",
+   "company": "재단법인 강북문화재단",
+   "region": "서울",
+   "experience": "",
+   "education": "",
+   "employmentType": "정규직,임기∙계약직",
+   "salary": "",
+   "sector": "",
+   "postedAt": "2026-10-12",
+   "startAt": "2026-10-12",
+   "deadline": "2026-10-22",
+   "deadlineText": "",
+   "summary": "재단법인 강북문화재단 · 서울 · 정규직,임기∙계약직",
+   "qualifications": "",
+   "kind": "job",
+   "official": false,
+   "firstSeen": "2026-10-17",
+   "lastSeen": "2026-10-17",
+   "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=95309",
+   "attachments": [
+    {
+     "name": "별첨. 채용이의신청서 및 채용서류 반환청구서.hwp",
+     "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28598"
+    },
+    {
+     "name": "별첨. 자격사항 점수표.pdf",
+     "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28598"
+    },
+    {
+     "name": "붙임. 2026년 제4차 강북문화재단 정규직 및 기간제근로자 공개채용 공고문.pdf",
+     "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28598"
+    }
+   ],
+   "detailAt": "2026-10-17",
+   "detailOk": true,
+   "score": 12,
+   "tier": "mid",
+   "tags": [
+    "institution"
+   ],
+   "matched": [
+    "문화재단"
+   ]
+  },
+  {
+   "id": "momo365:28587",
+   "source": "momo365",
+   "sourceName": "모모365",
+   "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28587",
+   "title": "2026년 서울문화재단 대학로 극장 쿼드 QUAD 하우스 안내원 모집 (~2026.10.21)",
+   "company": "서울문화재단 대학로센터",
+   "region": "서울",
+   "experience": "",
+   "education": "",
+   "employmentType": "일용직∙아르바이트",
+   "salary": "",
+   "sector": "",
+   "postedAt": "2026-10-09",
+   "startAt": "2026-10-09",
+   "deadline": "2026-10-21",
+   "deadlineText": "",
+   "summary": "서울문화재단 대학로극장 쿼드QUAD HELLO, TEAM QUAD! 2026년 서울문화재단 대학로극장 쿼드(QUAD)에서 ‘TEAM QUAD’의 멤버를 모집합니다. 공연 예술에 대한 열정과 밝은 미소로 관객과 소통할 수 있는 여러분들의 많은 지원 바랍니다. ■ 모집인원 - 00명 (성별 무관) ■ 지원자격(필수) - 공연일정에 따라 주말포함 주 2회 이상 근무가 가능하신 분 - 안내원 선발 후 신입 안내원 교육 참석이 가능한 자(추후 교육 불참 시 합격이 취소됨) ※ 신입교육 일정 : 11월 18일(수), 11월 19일(목) 2일 예정(교육일정 모두 참석 시 교육비 …",
+   "qualifications": "■ 지원자격(필수)\n- 공연일정에 따라 주말포함 주 2회 이상 근무가 가능하신 분\n- 안내원 선발 후 신입 안내원 교육 참석이 가능한 자(추후 교육 불참 시 합격이 취소됨)\n※ 신입교육 일정 : 11월 18일(수), 11월 19일(목) 2일 예정(교육일정 모두 참석 시 교육비 지급. 중도 포기 시 지급X) *상기 일정은 추후 변경될 수 있음\n- 만 19세 이상의 건강하고 성실한 자",
+   "kind": "job",
+   "official": false,
+   "firstSeen": "2026-10-17",
+   "lastSeen": "2026-10-17",
+   "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=95295",
+   "attachments": [
+    {
+     "name": "02.모집공고(안)_26년_3차_1.hwp",
+     "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28587"
+    },
+    {
+     "name": "03.안내원_지원서_양식(쿼드)_1_1.hwp",
+     "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28587"
+    }
+   ],
+   "detailAt": "2026-10-17",
+   "detailOk": true,
+   "score": 12,
+   "tier": "mid",
+   "tags": [
+    "institution"
+   ],
+   "matched": [
+    "문화재단"
+   ]
+  },
+  {
+   "id": "momo365:28585",
+   "source": "momo365",
+   "sourceName": "모모365",
+   "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28585",
+   "title": "성동문화재단(소월아트홀, 성수아트홀) 공연장안내원 모집 공고",
+   "company": "재단법인성동문화재단",
+   "region": "서울",
+   "experience": "",
+   "education": "",
+   "employmentType": "일용직∙아르바이트",
+   "salary": "",
+   "sector": "",
+   "postedAt": "2026-10-09",
+   "startAt": "2026-10-09",
+   "deadline": "2026-12-31",
+   "deadlineText": "",
+   "summary": "<성동문화재단 공연장 안내원 모집 공고> 1. 모집부서 : 공연사업팀 2. 모집부문 : 공연장안내원 3. 모집인원 : 00명 4. 지원자격 ○ 만 19세 이상 근면하고 성실한 자 ○ 공연 일정에 따른 전일 근무자 및 6개월 이상 근무 가능자 우대 ○ 서비스 정신이 투철하고 밝은 미소를 가진 자 ○ 공연예술에 관심이 많고, 성실함으로 근무에 임할 수 있는 자 ○ 공연 종료 시간에 맞추어 퇴근이 가능한 자 5. 결격사유 ○ 다음 각 호에 해당되는 자 -------------------------------------------------------------- 1. 피성…",
+   "qualifications": "4. 지원자격\n○ 만 19세 이상 근면하고 성실한 자\n○ 공연 일정에 따른 전일 근무자 및 6개월 이상 근무 가능자 우대\n○ 서비스 정신이 투철하고 밝은 미소를 가진 자\n○ 공연예술에 관심이 많고, 성실함으로 근무에 임할 수 있는 자\n○ 공연 종료 시간에 맞추어 퇴근이 가능한 자",
+   "kind": "job",
+   "official": false,
+   "firstSeen": "2026-10-17",
+   "lastSeen": "2026-10-17",
+   "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=95297",
+   "attachments": [
+    {
+     "name": "2. (공연장안내원)입사지원서 및 자기소개서, 개인정보동의서(양식).hwp",
+     "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28585"
+    }
+   ],
+   "detailAt": "2026-10-17",
+   "detailOk": true,
+   "score": 12,
+   "tier": "mid",
+   "tags": [
+    "institution"
+   ],
+   "matched": [
+    "문화재단"
+   ]
+  },
+  {
+   "id": "momo365:28554",
+   "source": "momo365",
+   "sourceName": "모모365",
+   "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28554",
+   "title": "(재)연수문화재단 2026년 제6차 직원(기간제근로자) 공개채용 공고",
+   "company": "(재)연수문화재단",
+   "region": "인천",
+   "experience": "",
+   "education": "",
+   "employmentType": "임기∙계약직",
+   "salary": "",
+   "sector": "",
+   "postedAt": "2026-10-07",
+   "startAt": "2026-10-07",
+   "deadline": "2026-10-26",
+   "deadlineText": "",
+   "summary": "(재)연수문화재단 · 인천 · 임기∙계약직",
+   "qualifications": "",
+   "kind": "job",
+   "official": false,
+   "firstSeen": "2026-10-17",
+   "lastSeen": "2026-10-17",
+   "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=95241",
+   "attachments": [
+    {
+     "name": "[서식] 채용시험 이의제기 신청서.hwp",
+     "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28554"
+    },
+    {
+     "name": "3. 심사관련 서식(2026년 제6차 채용)_261006.hwp",
+     "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28554"
+    },
+    {
+     "name": "2. (게시) 응시원서_261006.hwpx",
+     "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28554"
+    }
+   ],
+   "detailAt": "2026-10-17",
+   "detailOk": true,
+   "score": 12,
+   "tier": "mid",
+   "tags": [
+    "institution"
+   ],
+   "matched": [
+    "문화재단"
+   ]
+  },
+  {
+   "id": "momo365:28552",
+   "source": "momo365",
+   "sourceName": "모모365",
+   "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28552",
+   "title": "(재)광진문화재단 2026년도 제5회 직원 공개채용 공고",
+   "company": "(재)광진문화재단",
+   "region": "서울",
+   "experience": "",
+   "education": "",
+   "employmentType": "정규직",
+   "salary": "",
+   "sector": "",
+   "postedAt": "2026-10-07",
+   "startAt": "2026-10-07",
+   "deadline": "2026-10-16",
+   "deadlineText": "",
+   "summary": "(재)광진문화재단 · 서울 · 정규직",
+   "qualifications": "",
+   "kind": "job",
+   "official": false,
+   "firstSeen": "2026-10-17",
+   "lastSeen": "2026-10-17",
+   "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=95243",
+   "attachments": [
+    {
+     "name": "2026년도_제5회_채용_응시자제출서식.hwp",
+     "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28552"
+    },
+    {
+     "name": "2026년도_제5회_채용_직무기술서.pdf",
+     "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28552"
+    },
+    {
+     "name": "(재)광진문화재단_2026년도_제5회_직원_공개채용_공고.pdf",
+     "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28552"
+    }
+   ],
+   "detailAt": "2026-10-17",
+   "detailOk": true,
+   "score": 12,
+   "tier": "mid",
+   "tags": [
+    "institution"
+   ],
+   "matched": [
+    "문화재단"
+   ]
+  },
+  {
+   "id": "momo365:28526",
+   "source": "momo365",
+   "sourceName": "모모365",
+   "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28526",
+   "title": "[(재)구미문화재단] 2026년 기간제 근로자 채용 안내",
+   "company": "(재)구미문화재단",
+   "region": "경북",
+   "experience": "",
+   "education": "",
+   "employmentType": "임기∙계약직",
+   "salary": "",
+   "sector": "",
+   "postedAt": "2026-10-02",
+   "startAt": "2026-10-02",
+   "deadline": "2026-10-14",
+   "deadlineText": "",
+   "summary": "(재)구미문화재단 · 경북 · 임기∙계약직",
+   "qualifications": "",
+   "kind": "job",
+   "official": false,
+   "firstSeen": "2026-10-17",
+   "lastSeen": "2026-10-17",
+   "applyUrl": "http://www.ancf.or.kr/p/6abefce0760de6acd1a436b4",
+   "attachments": [
+    {
+     "name": "1.공고문_(재)구미문화재단구미생활문화센터기간제근로자채용.pdf",
+     "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28526"
+    },
+    {
+     "name": "2.응시서류일체_(재)구미문화재단구미생활문화센터기간제근로자채용.hwpx",
+     "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28526"
+    }
+   ],
+   "detailAt": "2026-10-17",
+   "detailOk": true,
+   "score": 12,
+   "tier": "mid",
+   "tags": [
+    "institution"
+   ],
+   "matched": [
+    "문화재단"
+   ]
+  },
+  {
+   "id": "momo365:28517",
+   "source": "momo365",
+   "sourceName": "모모365",
+   "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28517",
+   "title": "(재)금천문화재단 2026년 제4차 공개채용 공고",
+   "company": "(재)금천문화재단",
+   "region": "서울",
+   "experience": "",
+   "education": "",
+   "employmentType": "정규직,임기∙계약직",
+   "salary": "",
+   "sector": "",
+   "postedAt": "2026-10-02",
+   "startAt": "2026-10-02",
+   "deadline": "2026-10-12",
+   "deadlineText": "",
+   "summary": "(재)금천문화재단 · 서울 · 정규직,임기∙계약직",
+   "qualifications": "",
+   "kind": "job",
+   "official": false,
+   "firstSeen": "2026-10-17",
+   "lastSeen": "2026-10-17",
+   "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=95192",
+   "attachments": [
+    {
+     "name": "3-1. 장애인 응시자 편의제공 신청서(서식).hwpx",
+     "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28517"
+    },
+    {
+     "name": "3. 재단법인 금천문화재단 장애인 응시자 편의제공 안내.pdf",
+     "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28517"
+    },
+    {
+     "name": "2. 직무기술서(6개 직무).pdf",
+     "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28517"
+    },
+    {
+     "name": "1. 금천문화재단 2026년 제4차 채용 공고.pdf",
+     "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28517"
+    }
+   ],
+   "detailAt": "2026-10-17",
+   "detailOk": true,
+   "score": 12,
+   "tier": "mid",
+   "tags": [
+    "institution"
+   ],
+   "matched": [
+    "문화재단"
+   ]
+  },
+  {
+   "id": "momo365:28444",
+   "source": "momo365",
+   "sourceName": "모모365",
+   "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28444",
+   "title": "2026년 (재)거창문화재단 기간제근로자 채용 공고",
+   "company": "(재)거창문화재단",
+   "region": "경남",
+   "experience": "",
+   "education": "",
+   "employmentType": "임기∙계약직",
+   "salary": "",
+   "sector": "",
+   "postedAt": "2026-09-23",
+   "startAt": "2026-09-23",
+   "deadline": "2026-09-29",
+   "deadlineText": "",
+   "summary": "(재)거창문화재단 · 경남 · 임기∙계약직",
+   "qualifications": "",
+   "kind": "job",
+   "official": false,
+   "firstSeen": "2026-10-17",
+   "lastSeen": "2026-10-17",
+   "applyUrl": "https://www.gccf.or.kr/front/M0000036/article/view.do?atcId=AT000743",
+   "attachments": [
+    {
+     "name": "붙임자료.hwp",
+     "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28444"
+    },
+    {
+     "name": "2026년 (재)거창문화재단 기간제 근로자 채용공고.pdf",
+     "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28444"
+    }
+   ],
+   "detailAt": "2026-10-17",
+   "detailOk": true,
+   "score": 12,
+   "tier": "mid",
+   "tags": [
+    "institution"
+   ],
+   "matched": [
+    "문화재단"
+   ]
+  },
+  {
+   "id": "momo365:28397",
+   "source": "momo365",
+   "sourceName": "모모365",
+   "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28397",
+   "title": "(재)인제군문화재단 신규직원(기간제근로자_CGV원통) 채용 재공고",
+   "company": "(재)인제군문화재단",
+   "region": "강원",
+   "experience": "",
+   "education": "",
+   "employmentType": "임기∙계약직",
+   "salary": "",
+   "sector": "",
+   "postedAt": "2026-09-18",
+   "startAt": "2026-09-18",
+   "deadline": "2026-09-23",
+   "deadlineText": "",
+   "summary": "(재)인제군문화재단 · 강원 · 임기∙계약직",
+   "qualifications": "",
+   "kind": "job",
+   "official": false,
+   "firstSeen": "2026-10-17",
+   "lastSeen": "2026-10-17",
+   "applyUrl": "https://www.injeart.or.kr/?p=19&page=1&viewMode=view&reqIdx=202609171616531882#url",
+   "attachments": [
+    {
+     "name": "신규직원(기간제근로자)채용재공고문.hwp",
+     "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28397"
+    }
+   ],
+   "detailAt": "2026-10-17",
+   "detailOk": true,
+   "score": 12,
+   "tier": "mid",
+   "tags": [
+    "institution"
+   ],
+   "matched": [
+    "문화재단"
+   ],
+   "alsoOn": [
+    {
+     "source": "momo365",
+     "sourceName": "모모365",
+     "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28300"
+    }
+   ]
+  },
+  {
+   "id": "momo365:28371",
+   "source": "momo365",
+   "sourceName": "모모365",
+   "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28371",
+   "title": "2026년 제5차 김포문화재단 직원채용 공고(일반직 7급)",
+   "company": "김포문화재단",
+   "region": "경기",
+   "experience": "",
+   "education": "",
+   "employmentType": "정규직",
+   "salary": "",
+   "sector": "",
+   "postedAt": "2026-09-16",
+   "startAt": "2026-09-16",
+   "deadline": "2026-09-30",
+   "deadlineText": "",
+   "summary": "김포문화재단 · 경기 · 정규직",
+   "qualifications": "",
+   "kind": "job",
+   "official": false,
+   "firstSeen": "2026-10-17",
+   "lastSeen": "2026-10-17",
+   "applyUrl": "https://www.gcf.or.kr/main/pst/view.do?pst_id=recruit&pst_sn=5285&search=ajR6eHNSV05Pc0UrNjZEd1NFVnNIZkduNGFKTVBHZVRMbTJ1bnFaYk5uY1RYZGJBV1NWWE1XZVpLS2VkcjIzbkZXUjZESm9uSUxhd1V4OXJaSVhKZE9Ib3RjTVVkRTREcnZhS25WVVNLckU9",
+   "attachments": [
+    {
+     "name": "2026년 제5차 채용 김포문화재단 직무기술서(문화예술, 홍보마케팅).pdf",
+     "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28371"
+    },
+    {
+     "name": "붙임4. 2026년 제5차 채용 입사지원서 등 서식.hwp",
+     "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28371"
+    },
+    {
+     "name": "2026년 제5차 김포문화재단 직원 채용 공고문.pdf",
+     "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28371"
+    }
+   ],
+   "detailAt": "2026-10-17",
+   "detailOk": true,
+   "score": 12,
+   "tier": "mid",
+   "tags": [
+    "institution"
+   ],
+   "matched": [
+    "문화재단"
+   ]
+  },
+  {
+   "id": "momo365:28370",
+   "source": "momo365",
+   "sourceName": "모모365",
+   "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28370",
+   "title": "2026년 제6차 김포문화재단 직원채용 공고(임기직 6급, 임기직 7급)",
+   "company": "김포문화재단",
+   "region": "경기",
+   "experience": "",
+   "education": "",
+   "employmentType": "임기∙계약직",
+   "salary": "",
+   "sector": "",
+   "postedAt": "2026-09-16",
+   "startAt": "2026-09-16",
+   "deadline": "2026-09-30",
+   "deadlineText": "",
+   "summary": "김포문화재단 · 경기 · 임기∙계약직",
+   "qualifications": "",
+   "kind": "job",
+   "official": false,
+   "firstSeen": "2026-10-17",
+   "lastSeen": "2026-10-17",
+   "applyUrl": "https://www.gcf.or.kr/main/pst/view.do?pst_id=recruit&pst_sn=5286&search=ajR6eHNSV05Pc0UrNjZEd1NFVnNIZkduNGFKTVBHZVRMbTJ1bnFaYk5uY1RYZGJBV1NWWE1XZVpLS2VkcjIzbnRkdWg0WHZVTmFING5yWk9Cbkd4V3dvVEdiQzExMXBYRFpTenZrOUljbHc9",
+   "attachments": [
+    {
+     "name": "2026년 제6차 김포문화재단 직원 채용 직무기술서(6급, 7급).pdf",
+     "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28370"
+    },
+    {
+     "name": "붙임4. 2026년 제6차 채용 입사지원서 등 서식.hwp",
+     "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28370"
+    },
+    {
+     "name": "2026년 제6차 김포문화재단 직원 채용 공고문(6급, 7급).pdf",
+     "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28370"
+    }
+   ],
+   "detailAt": "2026-10-17",
+   "detailOk": true,
+   "score": 12,
+   "tier": "mid",
+   "tags": [
+    "institution"
+   ],
+   "matched": [
+    "문화재단"
+   ]
+  },
+  {
+   "id": "momo365:28338",
+   "source": "momo365",
+   "sourceName": "모모365",
+   "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28338",
+   "title": "[(재)원주문화재단] 2026년 신규직원 채용",
+   "company": "(재)원주문화재단",
+   "region": "강원",
+   "experience": "",
+   "education": "",
+   "employmentType": "정규직",
+   "salary": "",
+   "sector": "",
+   "postedAt": "2026-09-14",
+   "startAt": "2026-09-14",
+   "deadline": "2026-09-23",
+   "deadlineText": "",
+   "summary": "(재)원주문화재단 · 강원 · 정규직",
+   "qualifications": "",
+   "kind": "job",
+   "official": false,
+   "firstSeen": "2026-10-17",
+   "lastSeen": "2026-10-17",
+   "applyUrl": "http://www.ancf.or.kr/p/6aa73fc8760de6acd1a2b27b",
+   "attachments": [
+    {
+     "name": "01-1.직무기술서.pdf",
+     "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28338"
+    }
+   ],
+   "detailAt": "2026-10-17",
+   "detailOk": true,
+   "score": 12,
+   "tier": "mid",
+   "tags": [
+    "institution"
+   ],
+   "matched": [
+    "문화재단"
+   ]
+  },
+  {
+   "id": "momo365:28356",
+   "source": "momo365",
+   "sourceName": "모모365",
+   "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28356",
+   "title": "2026년 제3회 양평문화재단 직원 채용 공고 [무대기술]",
+   "company": "양평문화재단",
+   "region": "경기",
+   "experience": "",
+   "education": "",
+   "employmentType": "정규직",
+   "salary": "",
+   "sector": "",
+   "postedAt": "2026-09-15",
+   "startAt": "2026-09-15",
+   "deadline": "2026-09-28",
+   "deadlineText": "",
+   "summary": "양평문화재단 · 경기 · 정규직",
+   "qualifications": "",
+   "kind": "job",
+   "official": false,
+   "firstSeen": "2026-10-17",
+   "lastSeen": "2026-10-17",
+   "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=94996",
+   "attachments": [
+    {
+     "name": "별첨 3. 채용 이의신청서.pdf",
+     "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28356"
+    },
+    {
+     "name": "별첨 2. 채용서류 반환청구서.pdf",
+     "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28356"
+    },
+    {
+     "name": "별첨 1. 직무기술서.pdf",
+     "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28356"
+    }
+   ],
+   "detailAt": "2026-10-17",
+   "detailOk": true,
+   "score": 12,
+   "tier": "mid",
+   "tags": [
+    "institution"
+   ],
+   "matched": [
+    "문화재단"
    ]
   },
   {
@@ -5037,42 +6394,6 @@
    ],
    "matched": [
     "학예",
-    "큐레이터"
-   ]
-  },
-  {
-   "id": "jobkorea:50043708",
-   "source": "jobkorea",
-   "sourceName": "잡코리아",
-   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50043708",
-   "title": "[PKM갤러리] 전시팀장 모집 공고",
-   "company": "피케이엠갤러리",
-   "region": "서울 종로구",
-   "experience": "경력3년↑",
-   "education": "대졸이상",
-   "employmentType": "정규직",
-   "salary": "회사 내규에 따름 (면접 후 결정)",
-   "sector": "문화·공연·예술, 경영·비즈니스기획, 큐레이터",
-   "postedAt": "2026-09-23",
-   "startAt": "2026-09-23",
-   "deadline": "2026-10-23",
-   "deadlineText": "",
-   "summary": "서울 종로구 · 경력3년↑ · 문화·공연·예술, 경영·비즈니스기획, 큐레이터",
-   "qualifications": "경력: 경력3년↑",
-   "kind": "job",
-   "official": false,
-   "foundBy": "학예",
-   "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
-   "detailAt": "2026-10-17",
-   "detailOk": true,
-   "score": 12,
-   "tier": "mid",
-   "tags": [
-    "curation"
-   ],
-   "matched": [
-    "전시",
     "큐레이터"
    ]
   },
@@ -5227,6 +6548,42 @@
    ]
   },
   {
+   "id": "momo365:28607",
+   "source": "momo365",
+   "sourceName": "모모365",
+   "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28607",
+   "title": "서울문화재단 예술지원사업 및 입주공모 업무 보조 단기인력 구인(연희문학창작촌)",
+   "company": "서울문화재단 연희문학창작촌",
+   "region": "서울",
+   "experience": "",
+   "education": "",
+   "employmentType": "임기∙계약직",
+   "salary": "",
+   "sector": "",
+   "postedAt": "2026-10-14",
+   "startAt": "2026-10-14",
+   "deadline": "2026-10-22",
+   "deadlineText": "",
+   "summary": "[아르바이트 모집] -근무기간 : 10.22.(목)~11.6(금) / 주 5일 근무 *11.3(화) 제외, 평일 기준 11일 -근무시간 : 9:00-18:00 (휴게시간 1시간 포함) *점심 미제공 *지각 및 근무기간 중 결근 불가 -근무장소 : 연희문학창작촌 운영사무실(서울시 서대문구 증가로2길 6-7) -근무내용 : 연희문학창작촌 지원사업 및 입주공모 행정심사 및 공간 운영 보조 *해당 공모 지원신청자 신청 불가, 실무자 및 관련자 신청 불가 -제출서류 : 이력서 1부 *10/18(일)까지 메일로 제출 (yeonhui@sfac.or.kr) *자유양식, 서류 검토 …",
+   "qualifications": "",
+   "kind": "job",
+   "official": false,
+   "firstSeen": "2026-10-17",
+   "lastSeen": "2026-10-17",
+   "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=95331",
+   "attachments": [],
+   "detailAt": "2026-10-17",
+   "detailOk": true,
+   "score": 10,
+   "tier": "mid",
+   "tags": [
+    "institution"
+   ],
+   "matched": [
+    "문화재단"
+   ]
+  },
+  {
    "id": "saramin:55303728",
    "source": "saramin",
    "sourceName": "사람인",
@@ -5297,6 +6654,42 @@
    "matched": [
     "문화유산연구원",
     "문화유산"
+   ]
+  },
+  {
+   "id": "momo365:28510",
+   "source": "momo365",
+   "sourceName": "모모365",
+   "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28510",
+   "title": "[CNCITY에너지] 전시운영 매니저(계약직) 채용",
+   "company": "씨엔씨티에너지",
+   "region": "대전",
+   "experience": "",
+   "education": "",
+   "employmentType": "임기∙계약직",
+   "salary": "",
+   "sector": "",
+   "postedAt": "2026-10-01",
+   "startAt": "2026-10-01",
+   "deadline": "2026-10-11",
+   "deadlineText": "",
+   "summary": "씨엔씨티에너지 · 대전 · 임기∙계약직",
+   "qualifications": "",
+   "kind": "job",
+   "official": false,
+   "firstSeen": "2026-10-17",
+   "lastSeen": "2026-10-17",
+   "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=95180",
+   "attachments": [],
+   "detailAt": "2026-10-17",
+   "detailOk": true,
+   "score": 9,
+   "tier": "mid",
+   "tags": [
+    "curation"
+   ],
+   "matched": [
+    "전시"
    ]
   },
   {
@@ -5647,6 +7040,249 @@
    "tags": [],
    "matched": [
     "국가유산"
+   ]
+  },
+  {
+   "id": "momo365:28628",
+   "source": "momo365",
+   "sourceName": "모모365",
+   "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28628",
+   "title": "충무아트센터 하우스어셔 채용공고(~10/26)",
+   "company": "재단법인중구문화재단",
+   "region": "서울",
+   "experience": "",
+   "education": "",
+   "employmentType": "일용직∙아르바이트",
+   "salary": "",
+   "sector": "",
+   "postedAt": "2026-10-16",
+   "startAt": "2026-10-16",
+   "deadline": "2026-10-25",
+   "deadlineText": "",
+   "summary": "재단법인중구문화재단 · 서울 · 일용직∙아르바이트",
+   "qualifications": "",
+   "kind": "job",
+   "official": false,
+   "firstSeen": "2026-10-17",
+   "lastSeen": "2026-10-17",
+   "score": 6,
+   "tier": "low",
+   "tags": [
+    "institution"
+   ],
+   "matched": [
+    "문화재단"
+   ]
+  },
+  {
+   "id": "momo365:28592",
+   "source": "momo365",
+   "sourceName": "모모365",
+   "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28592",
+   "title": "마포아트센터 공연장 안내원 모집(2026년 3차)",
+   "company": "재단법인마포문화재단",
+   "region": "서울",
+   "experience": "",
+   "education": "",
+   "employmentType": "일용직∙아르바이트",
+   "salary": "",
+   "sector": "",
+   "postedAt": "2026-10-12",
+   "startAt": "2026-10-12",
+   "deadline": "2026-10-12",
+   "deadlineText": "",
+   "summary": "재단법인마포문화재단 · 서울 · 일용직∙아르바이트",
+   "qualifications": "",
+   "kind": "job",
+   "official": false,
+   "firstSeen": "2026-10-17",
+   "lastSeen": "2026-10-17",
+   "score": 6,
+   "tier": "low",
+   "tags": [
+    "institution"
+   ],
+   "matched": [
+    "문화재단"
+   ],
+   "alsoOn": [
+    {
+     "source": "momo365",
+     "sourceName": "모모365",
+     "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28561"
+    },
+    {
+     "source": "momo365",
+     "sourceName": "모모365",
+     "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28509"
+    }
+   ]
+  },
+  {
+   "id": "momo365:28569",
+   "source": "momo365",
+   "sourceName": "모모365",
+   "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28569",
+   "title": "2026년 (재)의정부문화관광재단 기간제근로자 공개 채용 공고",
+   "company": "재단법인의정부문화재단",
+   "region": "경기",
+   "experience": "",
+   "education": "",
+   "employmentType": "임기∙계약직",
+   "salary": "",
+   "sector": "",
+   "postedAt": "2026-10-08",
+   "startAt": "2026-10-08",
+   "deadline": "2026-10-15",
+   "deadlineText": "",
+   "summary": "재단법인의정부문화재단 · 경기 · 임기∙계약직",
+   "qualifications": "",
+   "kind": "job",
+   "official": false,
+   "firstSeen": "2026-10-17",
+   "lastSeen": "2026-10-17",
+   "score": 6,
+   "tier": "low",
+   "tags": [
+    "institution"
+   ],
+   "matched": [
+    "문화재단"
+   ]
+  },
+  {
+   "id": "momo365:28463",
+   "source": "momo365",
+   "sourceName": "모모365",
+   "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28463",
+   "title": "2027년도 제15회 무주산골영화제 사무국 스태프 1차 채용공고",
+   "company": "(재)무주산골문화재단",
+   "region": "전북",
+   "experience": "",
+   "education": "",
+   "employmentType": "임기∙계약직",
+   "salary": "",
+   "sector": "",
+   "postedAt": "2026-09-28",
+   "startAt": "2026-09-28",
+   "deadline": "2026-10-20",
+   "deadlineText": "",
+   "summary": "(재)무주산골문화재단 · 전북 · 임기∙계약직",
+   "qualifications": "",
+   "kind": "job",
+   "official": false,
+   "firstSeen": "2026-10-17",
+   "lastSeen": "2026-10-17",
+   "score": 6,
+   "tier": "low",
+   "tags": [
+    "institution"
+   ],
+   "matched": [
+    "문화재단"
+   ]
+  },
+  {
+   "id": "momo365:28424",
+   "source": "momo365",
+   "sourceName": "모모365",
+   "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28424",
+   "title": "2026 성남아트센터 공연장안내원 모집공고 (~10/11)",
+   "company": "성남문화재단",
+   "region": "경기",
+   "experience": "",
+   "education": "",
+   "employmentType": "일용직∙아르바이트",
+   "salary": "",
+   "sector": "",
+   "postedAt": "2026-09-22",
+   "startAt": "2026-09-22",
+   "deadline": "2026-10-11",
+   "deadlineText": "",
+   "summary": "성남문화재단 · 경기 · 일용직∙아르바이트",
+   "qualifications": "",
+   "kind": "job",
+   "official": false,
+   "firstSeen": "2026-10-17",
+   "lastSeen": "2026-10-17",
+   "score": 6,
+   "tier": "low",
+   "tags": [
+    "institution"
+   ],
+   "matched": [
+    "문화재단"
+   ]
+  },
+  {
+   "id": "momo365:28385",
+   "source": "momo365",
+   "sourceName": "모모365",
+   "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28385",
+   "title": "2026년 제3회 (재)화성시문화관광재단 공연장 안내원 모집",
+   "company": "재단법인 화성시문화재단",
+   "region": "경기",
+   "experience": "",
+   "education": "",
+   "employmentType": "일용직∙아르바이트",
+   "salary": "",
+   "sector": "",
+   "postedAt": "2026-09-18",
+   "startAt": "2026-09-18",
+   "deadline": "2026-10-05",
+   "deadlineText": "",
+   "summary": "재단법인 화성시문화재단 · 경기 · 일용직∙아르바이트",
+   "qualifications": "",
+   "kind": "job",
+   "official": false,
+   "firstSeen": "2026-10-17",
+   "lastSeen": "2026-10-17",
+   "score": 6,
+   "tier": "low",
+   "tags": [
+    "institution"
+   ],
+   "matched": [
+    "문화재단"
+   ]
+  },
+  {
+   "id": "momo365:28384",
+   "source": "momo365",
+   "sourceName": "모모365",
+   "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28384",
+   "title": "롯데콘서트홀 하우스어텐던트(공연장 안내원) 모집 공고",
+   "company": "롯데문화재단",
+   "region": "서울",
+   "experience": "",
+   "education": "",
+   "employmentType": "일용직∙아르바이트",
+   "salary": "",
+   "sector": "",
+   "postedAt": "2026-09-18",
+   "startAt": "2026-09-18",
+   "deadline": "2026-10-31",
+   "deadlineText": "",
+   "summary": "롯데문화재단 · 서울 · 일용직∙아르바이트",
+   "qualifications": "",
+   "kind": "job",
+   "official": false,
+   "firstSeen": "2026-10-17",
+   "lastSeen": "2026-10-17",
+   "score": 6,
+   "tier": "low",
+   "tags": [
+    "institution"
+   ],
+   "matched": [
+    "문화재단"
+   ],
+   "alsoOn": [
+    {
+     "source": "momo365",
+     "sourceName": "모모365",
+     "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28348"
+    }
    ]
   },
   {
