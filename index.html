@@ -48,7 +48,7 @@
   .btn.on { border-color: var(--accent); color: var(--accent); }
   .btn .dot { display: inline-block; width: 6px; height: 6px; border-radius: 50%; background: var(--accent); margin-left: 6px; vertical-align: middle; }
   .views { display: flex; gap: 0; background: var(--panel); border: 1px solid var(--line); border-radius: 10px; padding: 3px; }
-  .views button { flex: 1; height: 32px; border: 0; border-radius: 8px; background: transparent; color: var(--muted); font-size: 13.5px; display: inline-flex; align-items: center; justify-content: center; gap: 5px; }
+  .views button { flex: 1; height: 32px; border: 0; border-radius: 8px; background: transparent; color: var(--muted); font-size: 13.5px; display: inline-flex; align-items: center; justify-content: center; gap: 4px; white-space: nowrap; padding: 0 4px; min-width: 0; }
   .views button.on { background: var(--ink); color: var(--bg); font-weight: 600; }
   .views .n { font-size: 11px; opacity: .75; }
   .seg { display: flex; gap: 6px; flex-wrap: wrap; }
@@ -140,9 +140,26 @@
     body.has-detail .placeholder { display: none; }
   }
   @media (max-width: 899px) {
+    .top { position: static; }
+    .top-in { padding: 8px 12px; gap: 7px; }
+    .cheer { padding: 8px 12px; font-size: 13.5px; }
+    .cheer .em { font-size: 18px; }
+    .views button { font-size: 13px; }
+    .main { padding: 10px 12px 40px; }
+    .card { padding: 11px 12px 11px 14px; }
     .placeholder { display: none; }
     .detail.open { position: fixed; inset: 0; z-index: 20; border-radius: 0; border: 0; }
     .d-top .back { display: inline-flex; }
+    .d-top { flex-wrap: nowrap; gap: 5px; margin-bottom: 6px; }
+    .ibtn { height: 30px; padding: 0 8px; font-size: 12.5px; border-radius: 7px; }
+    .d-head { padding: 10px 12px 8px; }
+    .d-title { font-size: 16.5px; }
+    .d-sub { font-size: 13px; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+    .d-meta { margin-top: 6px; gap: 4px 10px; font-size: 12.5px; }
+    .d-tabs { padding: 0 6px; }
+    .d-tabs button { padding: 8px 8px; font-size: 13px; }
+    .d-sum { padding: 12px; font-size: 13.5px; }
+    .d-note { padding: 6px 12px; font-size: 11.5px; }
     body.has-detail { overflow: hidden; }
     .d-frame iframe { min-height: 50vh; }
   }
@@ -203,7 +220,7 @@
   const $ = (s, el = document) => el.querySelector(s);
   const TIER = { high: '딱 맞음', mid: '관련 있음', low: '관련 낮음' };
   const NO_FRAME = new Set(['nrich', 'alio']); // 다른 페이지 안에 끼워 넣기를 막는 사이트
-  const VIEWS = [['all', '전체'], ['plan', '지원할 공고'], ['done', '지원한 공고']];
+  const VIEWS = [['all', '전체'], ['plan', '📌 지원예정'], ['done', '✅ 지원함']];
   const CHEERS = [
     '오늘도 한 걸음. 어제의 나보다 조금만 더 가면 됩니다.',
     '문화유산을 지키고 싶었던 그 마음, 그게 당신의 가장 큰 자격입니다.',
@@ -270,7 +287,7 @@
     const greet = h < 5 ? '늦은 밤이네요' : h < 11 ? '좋은 아침이에요' : h < 17 ? '좋은 오후예요' : '수고 많았어요';
     const done = Object.values(state.status).filter((v) => v === 'done').length;
     const plan = Object.values(state.status).filter((v) => v === 'plan').length;
-    $('#cheer').innerHTML = `<span class="em">🌅</span><div class="txt">${esc(CHEERS[cheerIdx])}<small>${greet} · 지금까지 지원 ${done}건, 지원 예정 ${plan}건</small></div><button id="cheerNext" title="다른 문구">↻</button>`;
+    $('#cheer').innerHTML = `<span class="em">🌅</span><div class="txt">${esc(CHEERS[cheerIdx])}<small>${greet} · 지원 ${done}건 · 지원예정 ${plan}건</small></div><button id="cheerNext" title="다른 문구">↻</button>`;
     $('#cheerNext').addEventListener('click', () => { cheerIdx = (cheerIdx + 1) % CHEERS.length; renderCheer(); });
     requestAnimationFrame(() => document.documentElement.style.setProperty('--top-h', $('#top').offsetHeight + 12 + 'px'));
   }
@@ -309,7 +326,7 @@
     const live = data.jobs.filter((j) => !state.hidden.has(j.id) && !(state.hideExpired && isExpired(j)) && !(state.hideResult && j.kind === 'result'));
     const cnt = (f) => live.filter(f).length;
     const nStatus = (v) => data.jobs.filter((j) => st(j.id) === v).length;
-    $('#views').innerHTML = VIEWS.map(([k, l]) => `<button class="${state.view === k ? 'on' : ''}" data-v="${k}">${k === 'plan' ? '📌 ' : k === 'done' ? '✅ ' : ''}${l}${k !== 'all' ? `<span class="n">${nStatus(k)}</span>` : ''}</button>`).join('');
+    $('#views').innerHTML = VIEWS.map(([k, l]) => `<button class="${state.view === k ? 'on' : ''}" data-v="${k}">${l}${k !== 'all' ? `<span class="n">${nStatus(k)}</span>` : ''}</button>`).join('');
     $('#views').querySelectorAll('button').forEach((b) => b.addEventListener('click', () => { state.view = b.dataset.v; render(); }));
     const tierRow = $('#tierChips');
     tierRow.style.display = state.view === 'all' ? '' : 'none';
@@ -362,8 +379,8 @@
           <button class="ibtn plan ${s === 'plan' ? 'on' : ''}" id="dPlan">📌 지원예정</button>
           <button class="ibtn done ${s === 'done' ? 'on' : ''}" id="dDone">✅ 지원함</button>
           <span class="sp"></span>
-          <button class="ibtn" id="dHide" title="목록에서 숨기기">숨기기</button>
-          <a class="ibtn primary" href="${esc(j.url)}" target="_blank" rel="noopener">새 창 ↗</a>
+          <button class="ibtn" id="dHide" title="목록에서 숨기기">숨김</button>
+          <a class="ibtn primary" href="${esc(j.url)}" target="_blank" rel="noopener">새 창↗</a>
         </div>
         <h2 class="d-title">${esc(j.title)}</h2>
         <div class="d-sub"><b>${esc(j.company)}</b>${[j.region, j.employmentType, j.experience, j.education, j.salary].filter(Boolean).map((x) => ' · ' + esc(x)).join('')}</div>
@@ -391,7 +408,7 @@
         </div>
         <div class="d-frame ${state.tab === 'frame' ? 'on' : ''}">
           ${canFrame
-            ? `<div class="d-note">원문 페이지를 그대로 보여줍니다. 화면이 비어 있으면 "새 창 ↗"으로 열어 주세요.</div><iframe src="${esc(j.url)}" sandbox="allow-scripts allow-same-origin allow-forms allow-popups allow-popups-to-escape-sandbox" referrerpolicy="no-referrer"></iframe>`
+            ? `<div class="d-note">원문을 그대로 보여줍니다. 화면이 비어 있으면 "새 창↗"으로 열어 주세요.</div><iframe src="${esc(j.url)}" sandbox="allow-scripts allow-same-origin allow-forms allow-popups allow-popups-to-escape-sandbox" referrerpolicy="no-referrer"></iframe>`
             : `<div class="d-blocked">이 사이트는 다른 페이지 안에 보여주는 것을 막고 있어요.<br /><a class="ibtn primary" href="${esc(j.url)}" target="_blank" rel="noopener">새 창에서 원문 열기 ↗</a></div>`}
         </div>
       </div>`;
