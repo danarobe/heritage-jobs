@@ -1,0 +1,309 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>문화유산 채용 보드</title>
+<meta name="description" content="사람인·잡코리아·국가유산청·국립문화유산연구원·국가유산진흥원·잡알리오·나라일터의 문화유산 관련 채용공고를 자동으로 모아 관심도 순으로 보여줍니다." />
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E🏛️%3C/text%3E%3C/svg%3E" />
+<style>
+  :root {
+    --bg: #f6f4ef; --card: #ffffff; --ink: #1f1d1a; --muted: #6b665d; --line: #e6e1d7;
+    --accent: #8a5a2b; --accent-ink: #fff; --chip: #efeae0; --chip-on: #8a5a2b; --chip-on-ink: #fff;
+    --high: #2e7d4f; --high-bg: #e5f3ea; --mid: #a4641a; --mid-bg: #fbeedb; --low: #7a746a; --low-bg: #ecebe6;
+    --new: #c0392b; --danger: #c0392b; --danger-bg: #fbe4e1; --shadow: 0 1px 2px rgba(0,0,0,.05), 0 4px 14px rgba(60,40,10,.06);
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: #17161a; --card: #222126; --ink: #ecebe6; --muted: #a7a39a; --line: #37353c;
+      --accent: #d6a06a; --accent-ink: #1b140c; --chip: #2d2c33; --chip-on: #d6a06a; --chip-on-ink: #1b140c;
+      --high: #8fd3a7; --high-bg: #1f3328; --mid: #f0c38a; --mid-bg: #3a2c1a; --low: #b9b4aa; --low-bg: #2b2a2f;
+      --new: #ff7b6b; --danger: #ff7b6b; --danger-bg: #40231f; --shadow: 0 1px 2px rgba(0,0,0,.4);
+    }
+  }
+  * { box-sizing: border-box; }
+  html { -webkit-text-size-adjust: 100%; }
+  body { margin: 0; background: var(--bg); color: var(--ink); font-family: -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Pretendard", "Noto Sans KR", "Malgun Gothic", sans-serif; line-height: 1.5; font-size: 15px; }
+  a { color: inherit; }
+  .wrap { max-width: 920px; margin: 0 auto; padding: 16px 16px 80px; }
+  header { display: flex; flex-wrap: wrap; align-items: baseline; gap: 8px 14px; margin-bottom: 10px; }
+  header h1 { font-size: 22px; margin: 0; letter-spacing: -.01em; }
+  header .meta { color: var(--muted); font-size: 13px; }
+  .stats { display: flex; gap: 8px; flex-wrap: wrap; margin: 6px 0 14px; }
+  .stat { background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 8px 12px; font-size: 13px; color: var(--muted); }
+  .stat b { color: var(--ink); font-size: 16px; margin-right: 3px; }
+  .panel { background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 12px; box-shadow: var(--shadow); margin-bottom: 14px; }
+  .row { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin: 6px 0; }
+  .row .label { font-size: 12px; color: var(--muted); min-width: 52px; }
+  .chip { border: 1px solid var(--line); background: var(--chip); color: var(--ink); border-radius: 999px; padding: 5px 11px; font-size: 13px; cursor: pointer; user-select: none; line-height: 1.2; }
+  .chip.on { background: var(--chip-on); color: var(--chip-on-ink); border-color: var(--chip-on); }
+  .chip .n { opacity: .7; font-size: 11px; margin-left: 3px; }
+  input[type="search"], input[type="text"] { width: 100%; font: inherit; padding: 10px 12px; border: 1px solid var(--line); border-radius: 10px; background: var(--bg); color: var(--ink); }
+  select { font: inherit; padding: 6px 8px; border: 1px solid var(--line); border-radius: 8px; background: var(--bg); color: var(--ink); }
+  label.tog { font-size: 13px; color: var(--muted); display: inline-flex; gap: 5px; align-items: center; cursor: pointer; }
+  details.more { font-size: 13px; color: var(--muted); }
+  details.more summary { cursor: pointer; }
+  .mykw { display: flex; gap: 6px; margin-top: 6px; }
+  .mykw input { flex: 1; }
+  .btn { font: inherit; font-size: 13px; padding: 7px 12px; border-radius: 10px; border: 1px solid var(--line); background: var(--chip); color: var(--ink); cursor: pointer; }
+  .btn.primary { background: var(--accent); color: var(--accent-ink); border-color: var(--accent); }
+  .list { display: grid; gap: 10px; }
+  .card { background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 14px 14px 12px; box-shadow: var(--shadow); position: relative; }
+  .card.expired { opacity: .6; }
+  .card.hidden { display: none; }
+  .top { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; font-size: 12px; margin-bottom: 6px; }
+  .badge { border-radius: 6px; padding: 2px 7px; font-weight: 600; font-size: 12px; line-height: 1.4; }
+  .badge.high { background: var(--high-bg); color: var(--high); }
+  .badge.mid { background: var(--mid-bg); color: var(--mid); }
+  .badge.low { background: var(--low-bg); color: var(--low); }
+  .badge.new { background: var(--new); color: #fff; }
+  .badge.dday { background: var(--chip); color: var(--ink); }
+  .badge.dday.urgent { background: var(--danger-bg); color: var(--danger); }
+  .badge.src { background: transparent; border: 1px solid var(--line); color: var(--muted); font-weight: 500; }
+  .badge.kind { background: var(--low-bg); color: var(--low); font-weight: 500; }
+  .badge.mine { background: #ffe9a8; color: #6b4b00; }
+  .title { font-size: 17px; font-weight: 700; margin: 0 0 4px; line-height: 1.35; letter-spacing: -.01em; }
+  .title a { text-decoration: none; }
+  .title a:hover { text-decoration: underline; }
+  .sub { color: var(--muted); font-size: 13.5px; margin-bottom: 8px; }
+  .sub b { color: var(--ink); font-weight: 600; }
+  .dates { display: flex; flex-wrap: wrap; gap: 4px 14px; font-size: 13.5px; margin-bottom: 8px; }
+  .dates span.k { color: var(--muted); margin-right: 4px; font-size: 12.5px; }
+  .summary { font-size: 14px; white-space: pre-line; color: var(--ink); background: var(--bg); border-radius: 10px; padding: 9px 11px; margin: 0 0 8px; max-height: 7.5em; overflow: hidden; position: relative; }
+  .summary.open { max-height: none; }
+  .summary .fade { position: absolute; left: 0; right: 0; bottom: 0; height: 2.2em; background: linear-gradient(transparent, var(--bg)); pointer-events: none; }
+  .summary.open .fade { display: none; }
+  .quals { font-size: 13.5px; margin: 0 0 8px; }
+  .quals summary { cursor: pointer; color: var(--accent); font-weight: 600; }
+  .quals pre { white-space: pre-wrap; font: inherit; margin: 6px 0 0; background: var(--bg); border-radius: 10px; padding: 9px 11px; }
+  .tags { display: flex; flex-wrap: wrap; gap: 5px; margin-bottom: 8px; }
+  .tag { font-size: 12px; background: var(--chip); border-radius: 6px; padding: 2px 7px; color: var(--muted); }
+  .foot { display: flex; flex-wrap: wrap; gap: 6px 12px; align-items: center; font-size: 12.5px; color: var(--muted); border-top: 1px dashed var(--line); padding-top: 8px; }
+  .foot a { color: var(--accent); }
+  .foot .sp { flex: 1; }
+  .iconbtn { font: inherit; font-size: 13px; background: none; border: 1px solid var(--line); border-radius: 8px; padding: 3px 8px; cursor: pointer; color: var(--muted); }
+  .iconbtn.on { color: #d19a00; border-color: #d19a00; }
+  .empty { text-align: center; color: var(--muted); padding: 40px 0; }
+  .srcstat { display: flex; flex-wrap: wrap; gap: 6px; font-size: 12px; }
+  .srcstat span { border: 1px solid var(--line); border-radius: 6px; padding: 2px 7px; color: var(--muted); }
+  .srcstat span.bad { color: var(--danger); border-color: var(--danger); }
+  .toast { position: fixed; left: 50%; bottom: 20px; transform: translateX(-50%); background: var(--ink); color: var(--bg); padding: 9px 14px; border-radius: 10px; font-size: 13px; opacity: 0; transition: opacity .2s; pointer-events: none; }
+  .toast.show { opacity: 1; }
+  @media (max-width: 480px) { .title { font-size: 16px; } .wrap { padding: 12px 12px 80px; } }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>🏛️ 문화유산 채용 보드</h1>
+    <div class="meta" id="updated">불러오는 중…</div>
+  </header>
+  <div class="stats" id="stats"></div>
+
+  <div class="panel">
+    <input type="search" id="q" placeholder="공고 제목·기관·지역으로 검색 (예: 학예, 경주, 보존처리)" />
+    <div class="row"><span class="label">관심도</span><div id="tierChips"></div></div>
+    <div class="row"><span class="label">분야</span><div id="catChips"></div></div>
+    <div class="row"><span class="label">출처</span><div id="srcChips"></div></div>
+    <div class="row">
+      <span class="label">정렬</span>
+      <select id="sort">
+        <option value="score">관심도 높은 순</option>
+        <option value="deadline">마감 임박 순</option>
+        <option value="new">새로 올라온 순</option>
+      </select>
+      <label class="tog"><input type="checkbox" id="hideExpired" checked /> 마감 지난 공고 숨기기</label>
+      <label class="tog"><input type="checkbox" id="hideResult" checked /> 합격자 발표·일정 공지 숨기기</label>
+      <label class="tog"><input type="checkbox" id="onlyStar" /> ★ 관심 공고만</label>
+    </div>
+    <details class="more">
+      <summary>내 키워드 추가 · 출처 상태 · 사용법</summary>
+      <div style="margin-top:8px">
+        <div style="font-size:13px;color:var(--muted)">내가 특히 보고 싶은 단어를 넣으면 그 단어가 들어간 공고가 맨 위로 올라오고 <span class="badge mine">내 키워드</span> 표시가 붙습니다. (이 브라우저에만 저장됨)</div>
+        <div class="mykw"><input type="text" id="kwInput" placeholder="예: 경주, 고고학, 전통건축" /><button class="btn primary" id="kwAdd">추가</button></div>
+        <div class="row" id="kwList"></div>
+        <div style="font-size:13px;color:var(--muted);margin-top:10px">출처별 마지막 수집 상태</div>
+        <div class="srcstat" id="srcStat"></div>
+        <div style="font-size:13px;color:var(--muted);margin-top:10px;line-height:1.6">
+          · 하루 3번(07:30 / 12:30 / 18:30) 자동으로 새 공고를 모읍니다. 새로고침하면 최신 데이터가 보입니다.<br />
+          · <b>관심도</b>는 제목·기관·내용에 문화유산 관련 단어(학예, 발굴, 보존처리, 국가유산 …)가 얼마나 들어있는지로 자동 계산한 값입니다.<br />
+          · 공식 기관 게시판 공고는 자세한 자격 요건이 첨부파일(hwp/pdf)에 있는 경우가 많으니 "원문 보기"에서 첨부파일을 확인하세요.<br />
+          · ★ 를 누르면 관심 공고로 저장되고, "숨기기"를 누르면 그 공고는 목록에서 사라집니다(이 브라우저에만 저장).
+        </div>
+        <div class="row" style="margin-top:8px"><button class="btn" id="unhideAll">숨긴 공고 모두 다시 보기</button></div>
+      </div>
+    </details>
+  </div>
+
+  <div class="list" id="list"></div>
+  <div class="empty" id="empty" style="display:none">조건에 맞는 공고가 없습니다.</div>
+</div>
+<div class="toast" id="toast"></div>
+
+<script>
+(() => {
+  const $ = (s, el = document) => el.querySelector(s);
+  const TIER_LABEL = { high: '딱 맞음', mid: '관련 있음', low: '관련 낮음' };
+  const store = {
+    get(k, d) { try { const v = localStorage.getItem('hj:' + k); return v == null ? d : JSON.parse(v); } catch { return d; } },
+    set(k, v) { try { localStorage.setItem('hj:' + k, JSON.stringify(v)); } catch {} },
+  };
+  const state = {
+    tiers: new Set(store.get('tiers', ['high', 'mid'])),
+    cats: new Set(store.get('cats', [])),
+    srcs: new Set(store.get('srcs', [])),
+    q: '',
+    sort: store.get('sort', 'score'),
+    hideExpired: store.get('hideExpired', true),
+    hideResult: store.get('hideResult', true),
+    onlyStar: false,
+    stars: new Set(store.get('stars', [])),
+    hidden: new Set(store.get('hidden', [])),
+    kws: store.get('kws', []),
+  };
+  let data = null;
+  const today = () => (data && data.today) || new Date(Date.now() + 9 * 3600e3).toISOString().slice(0, 10);
+  const days = (a, b) => Math.round((Date.parse(a) - Date.parse(b)) / 86400e3);
+  const esc = (s) => String(s ?? '').replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+  const fmt = (d) => (d ? d.replace(/^(\d{4})-(\d{2})-(\d{2})$/, '$1.$2.$3') : '');
+  const toast = (m) => { const t = $('#toast'); t.textContent = m; t.classList.add('show'); setTimeout(() => t.classList.remove('show'), 1600); };
+
+  function myKwHit(j) {
+    if (!state.kws.length) return [];
+    const text = [j.title, j.company, j.region, j.summary, j.qualifications, j.sector].join(' ').toLowerCase();
+    return state.kws.filter((k) => text.includes(k.toLowerCase()));
+  }
+  function isExpired(j) { return !!(j.deadline && days(j.deadline, today()) < 0); }
+  function isNew(j) { return j.firstSeen && days(today(), j.firstSeen) <= 2; }
+
+  function filtered() {
+    const q = state.q.trim().toLowerCase();
+    return data.jobs.filter((j) => {
+      if (state.hidden.has(j.id)) return false;
+      if (state.onlyStar && !state.stars.has(j.id)) return false;
+      if (state.hideResult && j.kind === 'result') return false;
+      if (state.hideExpired && isExpired(j)) return false;
+      const mine = myKwHit(j).length > 0;
+      if (!mine && state.tiers.size && !state.tiers.has(j.tier)) return false;
+      if (state.cats.size && !(j.tags || []).some((t) => state.cats.has(t))) return false;
+      if (state.srcs.size && !state.srcs.has(j.source)) return false;
+      if (q && ![j.title, j.company, j.region, j.summary, j.sector].join(' ').toLowerCase().includes(q)) return false;
+      return true;
+    });
+  }
+  function sorted(list) {
+    const far = '9999-12-31';
+    const key = {
+      score: (j) => [myKwHit(j).length ? 1 : 0, j.score, j.firstSeen || ''],
+      deadline: (j) => [myKwHit(j).length ? 1 : 0, -(Date.parse(j.deadline || far)), j.score],
+      new: (j) => [myKwHit(j).length ? 1 : 0, j.firstSeen || '', j.postedAt || '', j.score],
+    }[state.sort];
+    return list.map((j) => [key(j), j]).sort((a, b) => { for (let i = 0; i < a[0].length; i++) { if (a[0][i] > b[0][i]) return -1; if (a[0][i] < b[0][i]) return 1; } return 0; }).map((x) => x[1]);
+  }
+
+  function chips(el, items, set, onChange) {
+    el.innerHTML = items.map((it) => `<span class="chip ${set.has(it.key) ? 'on' : ''}" data-k="${esc(it.key)}">${esc(it.label)}${it.n != null ? `<span class="n">${it.n}</span>` : ''}</span>`).join('');
+    el.querySelectorAll('.chip').forEach((c) => c.addEventListener('click', () => { const k = c.dataset.k; set.has(k) ? set.delete(k) : set.add(k); onChange(); }));
+  }
+
+  function renderControls() {
+    const live = data.jobs.filter((j) => !state.hidden.has(j.id) && !(state.hideExpired && isExpired(j)) && !(state.hideResult && j.kind === 'result'));
+    const cnt = (f) => live.filter(f).length;
+    chips($('#tierChips'), ['high', 'mid', 'low'].map((t) => ({ key: t, label: TIER_LABEL[t], n: cnt((j) => j.tier === t) })), state.tiers, () => { store.set('tiers', [...state.tiers]); render(); });
+    chips($('#catChips'), data.categories.map((c) => ({ key: c.key, label: c.label, n: cnt((j) => (j.tags || []).includes(c.key)) })), state.cats, () => { store.set('cats', [...state.cats]); render(); });
+    const srcMap = new Map(Object.entries(data.sources).map(([k, v]) => [k, v.name]));
+    data.jobs.forEach((j) => { if (!srcMap.has(j.source)) srcMap.set(j.source, j.sourceName); });
+    const srcs = [...srcMap].map(([k, name]) => ({ key: k, label: name, n: cnt((j) => j.source === k) }));
+    chips($('#srcChips'), srcs, state.srcs, () => { store.set('srcs', [...state.srcs]); render(); });
+    $('#srcStat').innerHTML = Object.values(data.sources).map((s) => `<span class="${s.ok ? '' : 'bad'}">${esc(s.name)} ${s.ok ? `${s.count}건` : '실패: ' + esc(s.error || '')}</span>`).join('');
+    $('#kwList').innerHTML = state.kws.map((k) => `<span class="chip on" data-k="${esc(k)}">${esc(k)} ✕</span>`).join('') || '<span style="font-size:12px;color:var(--muted)">추가한 키워드 없음</span>';
+    $('#kwList').querySelectorAll('.chip').forEach((c) => c.addEventListener('click', () => { state.kws = state.kws.filter((k) => k !== c.dataset.k); store.set('kws', state.kws); render(); }));
+  }
+
+  function card(j) {
+    const exp = isExpired(j);
+    const dl = j.deadline ? days(j.deadline, today()) : null;
+    const dday = j.deadline ? (dl < 0 ? '마감' : dl === 0 ? 'D-DAY' : `D-${dl}`) : (j.deadlineText || '마감일 미정');
+    const mine = myKwHit(j);
+    const tags = (j.tags || []).map((t) => (data.categories.find((c) => c.key === t) || {}).label).filter(Boolean);
+    const also = (j.alsoOn || []).map((a) => `<a href="${esc(a.url)}" target="_blank" rel="noopener">${esc(a.sourceName)}</a>`).join(' · ');
+    const files = (j.attachments || []).slice(0, 4).map((f) => `<a href="${esc(f.url)}" target="_blank" rel="noopener">📎 ${esc(f.name)}</a>`).join(' ');
+    const subPlain = [j.region, j.employmentType, j.experience, j.education, j.salary].filter(Boolean).join(' · ');
+    const summary = j.summary && j.summary !== subPlain ? `<div class="summary" data-toggle>${esc(j.summary)}<div class="fade"></div></div>` : '';
+    const quals = j.qualifications ? `<details class="quals"><summary>지원 자격 보기</summary><pre>${esc(j.qualifications)}</pre></details>` : '';
+    const sub = [j.company && `<b>${esc(j.company)}</b>`, j.region, j.employmentType, j.experience, j.education, j.salary].filter(Boolean).map((s) => (s.startsWith('<b>') ? s : esc(s))).join(' · ');
+    return `<article class="card ${exp ? 'expired' : ''}" data-id="${esc(j.id)}">
+      <div class="top">
+        <span class="badge ${j.tier}">${TIER_LABEL[j.tier]}</span>
+        ${mine.length ? `<span class="badge mine">내 키워드: ${esc(mine.join(', '))}</span>` : ''}
+        ${isNew(j) ? '<span class="badge new">NEW</span>' : ''}
+        <span class="badge dday ${dl != null && dl >= 0 && dl <= 3 ? 'urgent' : ''}">${esc(dday)}</span>
+        ${j.kind === 'result' ? '<span class="badge kind">발표·공지</span>' : ''}
+        <span class="badge src">${esc(j.sourceName)}</span>
+      </div>
+      <h2 class="title"><a href="${esc(j.url)}" target="_blank" rel="noopener">${esc(j.title)}</a></h2>
+      <div class="sub">${sub}</div>
+      <div class="dates">
+        <div><span class="k">시작</span>${esc(fmt(j.startAt || j.postedAt) || '—')}</div>
+        <div><span class="k">마감</span>${esc(fmt(j.deadline) || j.deadlineText || '—')}</div>
+      </div>
+      ${summary}${quals}
+      ${tags.length ? `<div class="tags">${tags.map((t) => `<span class="tag">${esc(t)}</span>`).join('')}</div>` : ''}
+      <div class="foot">
+        <a href="${esc(j.url)}" target="_blank" rel="noopener">원문 보기 ↗</a>
+        ${j.applyUrl ? `<a href="${esc(j.applyUrl)}" target="_blank" rel="noopener">지원 페이지 ↗</a>` : ''}
+        ${also ? `<span>다른 곳: ${also}</span>` : ''}
+        ${files}
+        <span class="sp"></span>
+        <button class="iconbtn star ${state.stars.has(j.id) ? 'on' : ''}" title="관심 공고">★</button>
+        <button class="iconbtn hide" title="목록에서 숨기기">숨기기</button>
+      </div>
+    </article>`;
+  }
+
+  function render() {
+    renderControls();
+    const list = sorted(filtered());
+    $('#list').innerHTML = list.map(card).join('');
+    $('#empty').style.display = list.length ? 'none' : '';
+    const all = data.jobs.filter((j) => !state.hidden.has(j.id));
+    const open = all.filter((j) => !isExpired(j) && j.kind !== 'result');
+    const soon = open.filter((j) => j.deadline && days(j.deadline, today()) <= 3);
+    $('#stats').innerHTML = [
+      ['표시 중', list.length],
+      ['진행 중 공고', open.length],
+      ['새 공고(2일 내)', open.filter(isNew).length],
+      ['3일 내 마감', soon.length],
+      ['★ 관심', state.stars.size],
+    ].map(([k, v]) => `<div class="stat"><b>${v}</b>${k}</div>`).join('');
+    $('#list').querySelectorAll('.card').forEach((el) => {
+      const id = el.dataset.id;
+      el.querySelector('.star').addEventListener('click', (e) => { state.stars.has(id) ? state.stars.delete(id) : state.stars.add(id); store.set('stars', [...state.stars]); e.currentTarget.classList.toggle('on'); render(); });
+      el.querySelector('.hide').addEventListener('click', () => { state.hidden.add(id); store.set('hidden', [...state.hidden]); render(); toast('숨겼습니다. 아래 메뉴에서 되돌릴 수 있어요.'); });
+      const s = el.querySelector('.summary'); if (s) s.addEventListener('click', () => s.classList.toggle('open'));
+    });
+  }
+
+  $('#q').addEventListener('input', (e) => { state.q = e.target.value; render(); });
+  $('#sort').value = state.sort; $('#sort').addEventListener('change', (e) => { state.sort = e.target.value; store.set('sort', state.sort); render(); });
+  $('#hideExpired').checked = state.hideExpired; $('#hideExpired').addEventListener('change', (e) => { state.hideExpired = e.target.checked; store.set('hideExpired', state.hideExpired); render(); });
+  $('#hideResult').checked = state.hideResult; $('#hideResult').addEventListener('change', (e) => { state.hideResult = e.target.checked; store.set('hideResult', state.hideResult); render(); });
+  $('#onlyStar').addEventListener('change', (e) => { state.onlyStar = e.target.checked; render(); });
+  const addKw = () => { const v = $('#kwInput').value.trim(); if (!v) return; if (!state.kws.includes(v)) state.kws.push(v); store.set('kws', state.kws); $('#kwInput').value = ''; render(); };
+  $('#kwAdd').addEventListener('click', addKw);
+  $('#kwInput').addEventListener('keydown', (e) => { if (e.key === 'Enter') addKw(); });
+  $('#unhideAll').addEventListener('click', () => { state.hidden.clear(); store.set('hidden', []); render(); toast('숨긴 공고를 모두 되돌렸습니다.'); });
+
+  fetch('data/jobs.json?t=' + Date.now())
+    .then((r) => r.json())
+    .then((d) => {
+      data = d;
+      const u = new Date(d.updatedAt);
+      $('#updated').textContent = `마지막 수집 ${u.toLocaleString('ko-KR', { timeZone: 'Asia/Seoul', month: 'numeric', day: 'numeric', hour: '2-digit', minute: '2-digit' })} · 전체 ${d.count}건`;
+      render();
+    })
+    .catch((e) => { $('#updated').textContent = '데이터를 불러오지 못했습니다: ' + e.message; });
+})();
+</script>
+</body>
+</html>

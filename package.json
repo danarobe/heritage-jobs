@@ -1,0 +1,16 @@
+{
+  "name": "heritage-jobs",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "문화유산 채용공고 자동 수집 보드",
+  "scripts": {
+    "crawl": "node scripts/crawl.mjs",
+    "serve": "node scripts/serve.mjs"
+  },
+  "dependencies": {
+    "cheerio": "1.0.0",
+    "iconv-lite": "0.6.3"
+  },
+  "engines": { "node": ">=20" }
+}
