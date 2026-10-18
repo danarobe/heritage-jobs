@@ -1,56 +1,56 @@
 {
- "updatedAt": "2026-10-17T13:07:13.081Z",
- "today": "2026-10-17",
- "count": 219,
- "newToday": 219,
+ "updatedAt": "2026-10-18T00:14:22.499Z",
+ "today": "2026-10-18",
+ "count": 217,
+ "newToday": 0,
  "sources": {
   "saramin": {
    "name": "사람인",
    "ok": true,
-   "count": 387,
-   "ms": 29840
+   "count": 380,
+   "ms": 32470
   },
   "jobkorea": {
    "name": "잡코리아",
    "ok": true,
-   "count": 209,
-   "ms": 20593
+   "count": 204,
+   "ms": 21222
   },
   "khs": {
    "name": "국가유산청",
    "ok": false,
    "error": "fetch failed",
-   "ms": 35985
+   "ms": 35988
   },
   "nrich": {
    "name": "국립문화유산연구원",
    "ok": true,
    "count": 20,
-   "ms": 7312
+   "ms": 7635
   },
   "kha": {
    "name": "국가유산진흥원",
    "ok": true,
    "count": 20,
-   "ms": 4349
+   "ms": 5460
   },
   "alio": {
    "name": "잡알리오",
    "ok": false,
    "error": "fetch failed",
-   "ms": 35984
+   "ms": 35987
   },
   "gojobs": {
    "name": "나라일터",
    "ok": false,
    "error": "fetch failed",
-   "ms": 35985
+   "ms": 35990
   },
   "momo365": {
    "name": "모모365",
    "ok": true,
    "count": 100,
-   "ms": 4787
+   "ms": 4504
   }
  },
  "categories": [
@@ -106,7 +106,7 @@
    "kind": "result",
    "official": true,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "score": 74,
    "tier": "high",
    "tags": [
@@ -145,7 +145,7 @@
    "kind": "result",
    "official": true,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "score": 74,
    "tier": "high",
    "tags": [
@@ -232,7 +232,7 @@
    "salary": "",
    "sector": "미술문화유산연구실",
    "postedAt": "2026-09-30",
-   "startAt": "2026-10-02",
+   "startAt": "2026-09-30",
    "deadline": "2026-10-16",
    "deadlineText": "",
    "summary": "미술문화유산연구실 공고 제2026-91호 국립문화유산연구원 미술문화유산연구실에서 공무직근로자(연구원 가급, 라급)를 채용 하고자 합니다. 유능한 인재의 많은 응시 바랍니다. 2026년 9월 30일 국립문화유산연구원장 1. 채용예정 분야 및 인원 ㅇ 채용분야 : 공무직근로자(연구원 가급, 라급) ㅇ 채용인원 : 총 2명 ㅇ 담당업무 : 국가지정 동산문화유산 정기조사 및 보고서 발간지원 미술문화유산연구실 연구과제 등 학예업무 지원 2. 채용일정 ㅇ 모집공고 : 2026. 9. 30.(수) ~ 10. 7.(수) ㅇ 원서접수 : 2026. 10. 2.(금) 09:00 ~ 1…",
@@ -240,7 +240,7 @@
    "kind": "job",
    "official": true,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "attachments": [
     {
      "name": "2026년 국립문화유산연구원 미술문화유산연구실 공무직근로자(가급, 라급) 채용 공고문.hwpx (0.12 MB)",
@@ -349,7 +349,7 @@
    "kind": "result",
    "official": true,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "score": 56,
    "tier": "high",
    "tags": [
@@ -361,13 +361,6 @@
     "고고학",
     "문화유산연구소",
     "문화유산"
-   ],
-   "alsoOn": [
-    {
-     "source": "khs",
-     "sourceName": "국가유산청",
-     "url": "https://www.khs.go.kr/multiBbz/selectMultiBbzView.do?id=10003&no=34601&bbzId=newexam&pageIndex=1&pageUnit=10&strWhere=&searchWrd=&sdate=&edate=&mn=NS_01_06"
-    }
    ]
   },
   {
@@ -469,7 +462,7 @@
    "salary": "",
    "sector": "국립경주문화유산연구소",
    "postedAt": "2026-09-28",
-   "startAt": "2026-10-06",
+   "startAt": "2026-09-28",
    "deadline": "2026-10-15",
    "deadlineText": "",
    "summary": "국립경주문화유산연구소 공고 제2026 -16호 국립경주문화유산연구소에서 금척리 고분군 기간제근로자(연구원 가급-고고)를 다음과 같이 공개모집하오니, 많은 지원 바랍니다. 2026년 9월 28일 국립경주문화유산연구소장 1. 채용개요 - 직급/인원: 연구원 가급 1명 - 모집 분야: 고고 - 담당 업무: 경주 금척리 고분군 발굴현장조사 업무 등 2. 채용일정 - 채용 공고: 2026. 9. 28.(월) ~ 10. 9.(금) - 원서 접수: 2026. 10. 6.(화) ~ 10. 9.(금) 18:00 - 서류 전형 합격자 발표: 2026. 10. 15.(목) 예정 - 면접…",
@@ -477,7 +470,7 @@
    "kind": "job",
    "official": true,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "attachments": [
     {
      "name": "국립경주문화유산연구소 기간제근로자(금척리고분군-고고) 채용 공고.hwpx (0.13 MB)",
@@ -533,7 +526,7 @@
    "kind": "result",
    "official": true,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "score": 52,
    "tier": "high",
    "tags": [
@@ -545,13 +538,6 @@
     "연구원 가급",
     "국립문화유산연구원",
     "문화유산"
-   ],
-   "alsoOn": [
-    {
-     "source": "khs",
-     "sourceName": "국가유산청",
-     "url": "https://www.khs.go.kr/multiBbz/selectMultiBbzView.do?id=10004&no=34602&bbzId=newexam&pageIndex=1&pageUnit=10&strWhere=&searchWrd=&sdate=&edate=&mn=NS_01_06"
-    }
    ]
   },
   {
@@ -661,7 +647,7 @@
    "kind": "job",
    "official": false,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=94982",
    "attachments": [
     {
@@ -687,48 +673,6 @@
    ]
   },
   {
-   "id": "gojobs:303532",
-   "source": "gojobs",
-   "sourceName": "나라일터",
-   "url": "https://www.gojobs.go.kr/apmView.do?empmnsn=303532",
-   "title": "국립가야문화유산연구소 기간제근로자(대행사업) 최종합격자 공고",
-   "company": "국가유산청 국립문화유산연구원 국립가야문화유산연구소 학예연구실",
-   "region": "",
-   "experience": "",
-   "education": "",
-   "employmentType": "기간제",
-   "salary": "",
-   "sector": "",
-   "postedAt": "2026-09-14",
-   "startAt": "2026-09-14",
-   "deadline": "2026-09-17",
-   "deadlineText": "",
-   "summary": "",
-   "qualifications": "",
-   "kind": "result",
-   "official": true,
-   "foundBy": "유산",
-   "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
-   "score": 44,
-   "tier": "high",
-   "tags": [
-    "curation",
-    "excavation",
-    "institution"
-   ],
-   "matched": [
-    "학예",
-    "학예연구",
-    "문화유산연구원",
-    "문화유산연구소",
-    "국가유산청",
-    "국립문화유산연구원",
-    "문화유산",
-    "국가유산"
-   ]
-  },
-  {
    "id": "saramin:55100059",
    "source": "saramin",
    "sourceName": "사람인",
@@ -751,7 +695,7 @@
    "official": false,
    "foundBy": "문화유산",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "score": 41,
    "tier": "high",
    "tags": [
@@ -787,7 +731,7 @@
    "official": false,
    "foundBy": "국가유산",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "score": 41,
    "tier": "high",
    "tags": [
@@ -828,7 +772,7 @@
    "official": false,
    "foundBy": "국가유산",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "score": 40,
    "tier": "high",
    "tags": [
@@ -914,7 +858,7 @@
    "official": false,
    "foundBy": "국가유산",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "score": 39,
    "tier": "high",
    "tags": [
@@ -935,54 +879,6 @@
      "sourceName": "잡코리아",
      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50090914"
     }
-   ]
-  },
-  {
-   "id": "momo365:28297",
-   "source": "momo365",
-   "sourceName": "모모365",
-   "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28297",
-   "title": "[한국사립박물관협회] 2026년 사립 및 사립대학박물관 예비 학예인력 지원사업 9차 인력 모집 공고",
-   "company": "사단법인한국사립박물관협회",
-   "region": "서울",
-   "experience": "",
-   "education": "",
-   "employmentType": "인턴∙연수∙교육",
-   "salary": "",
-   "sector": "",
-   "postedAt": "2026-09-09",
-   "startAt": "2026-09-09",
-   "deadline": "2026-09-17",
-   "deadlineText": "",
-   "summary": "사단법인한국사립박물관협회 · 서울 · 인턴∙연수∙교육",
-   "qualifications": "",
-   "kind": "job",
-   "official": false,
-   "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
-   "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=94921",
-   "attachments": [
-    {
-     "name": "서식 1. 예비 학예인력 지원신청서.hwpx",
-     "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28297"
-    },
-    {
-     "name": "붙임 1. 제9차 예비 학예인력 지원 신청 가능 관 목록.pdf",
-     "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28297"
-    }
-   ],
-   "detailAt": "2026-10-17",
-   "detailOk": true,
-   "score": 39,
-   "tier": "high",
-   "tags": [
-    "curation",
-    "research"
-   ],
-   "matched": [
-    "학예",
-    "박물관",
-    "한국사"
    ]
   },
   {
@@ -1007,7 +903,7 @@
    "kind": "result",
    "official": true,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "score": 38,
    "tier": "high",
    "tags": [
@@ -1016,13 +912,6 @@
    "matched": [
     "문화유산연구소",
     "문화유산"
-   ],
-   "alsoOn": [
-    {
-     "source": "khs",
-     "sourceName": "국가유산청",
-     "url": "https://www.khs.go.kr/multiBbz/selectMultiBbzView.do?id=9983&no=34581&bbzId=newexam&pageIndex=3&pageUnit=10&strWhere=&searchWrd=&sdate=&edate=&mn=NS_01_06"
-    }
    ]
   },
   {
@@ -1048,7 +937,7 @@
    "official": false,
    "foundBy": "문화유산",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "score": 37,
    "tier": "high",
    "tags": [
@@ -1092,7 +981,7 @@
    "official": false,
    "foundBy": "보존처리",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "score": 37,
    "tier": "high",
    "tags": [
@@ -1138,7 +1027,7 @@
    "official": false,
    "foundBy": "국가유산",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "score": 36,
    "tier": "high",
    "tags": [
@@ -1174,7 +1063,7 @@
    "official": false,
    "foundBy": "보존처리",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "score": 36,
    "tier": "high",
    "tags": [
@@ -1209,7 +1098,7 @@
    "official": false,
    "foundBy": "문화유산",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "detailAt": "2026-10-17",
    "detailOk": true,
    "score": 36,
@@ -1255,7 +1144,7 @@
    "official": false,
    "foundBy": "문화재",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "score": 36,
    "tier": "high",
    "tags": [
@@ -1289,7 +1178,7 @@
    "kind": "job",
    "official": false,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=95094",
    "attachments": [
     {
@@ -1383,7 +1272,7 @@
    "official": false,
    "foundBy": "국가유산",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "score": 35,
    "tier": "high",
    "tags": [
@@ -1420,7 +1309,7 @@
    "official": false,
    "foundBy": "국가유산",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "score": 35,
    "tier": "high",
    "tags": [
@@ -1456,7 +1345,7 @@
    "kind": "job",
    "official": false,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=95363",
    "attachments": [
     {
@@ -1554,7 +1443,7 @@
    "official": false,
    "foundBy": "국가유산",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "score": 32,
    "tier": "high",
    "tags": [
@@ -1594,7 +1483,7 @@
    "official": false,
    "foundBy": "학예",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "score": 32,
    "tier": "high",
    "tags": [
@@ -1635,7 +1524,7 @@
    "official": false,
    "foundBy": "학예",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "score": 32,
    "tier": "high",
    "tags": [
@@ -1712,7 +1601,7 @@
    "official": false,
    "foundBy": "보존처리",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "score": 31,
    "tier": "high",
    "tags": [
@@ -1751,7 +1640,7 @@
    "official": false,
    "foundBy": "국가유산",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "score": 31,
    "tier": "high",
    "tags": [
@@ -1788,7 +1677,7 @@
    "official": false,
    "foundBy": "문화유산",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "score": 31,
    "tier": "high",
    "tags": [
@@ -1825,7 +1714,7 @@
    "official": false,
    "foundBy": "학예",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "score": 30,
    "tier": "high",
    "tags": [
@@ -1860,7 +1749,7 @@
    "kind": "job",
    "official": true,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "attachments": [],
    "applyUrl": "https://kha.careerlink.kr/",
    "detailAt": "2026-10-17",
@@ -1897,7 +1786,7 @@
    "kind": "job",
    "official": true,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "attachments": [],
    "applyUrl": "https://kha.careerlink.kr/",
    "detailAt": "2026-10-17",
@@ -1934,7 +1823,7 @@
    "kind": "job",
    "official": false,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=95344",
    "attachments": [
     {
@@ -1987,7 +1876,7 @@
    "official": false,
    "foundBy": "문화재",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "score": 28,
    "tier": "high",
    "tags": [
@@ -2025,7 +1914,7 @@
    "official": false,
    "foundBy": "보존처리",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "score": 28,
    "tier": "high",
    "tags": [
@@ -2064,7 +1953,7 @@
    "official": false,
    "foundBy": "국가유산",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "score": 28,
    "tier": "high",
    "tags": [
@@ -2338,7 +2227,7 @@
    "official": false,
    "foundBy": "국가유산",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "score": 27,
    "tier": "high",
    "tags": [
@@ -2374,7 +2263,7 @@
    "official": false,
    "foundBy": "국가유산",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "detailAt": "2026-10-17",
    "detailOk": true,
    "score": 27,
@@ -2410,7 +2299,7 @@
    "official": false,
    "foundBy": "문화유산",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "detailAt": "2026-10-17",
    "detailOk": true,
    "score": 27,
@@ -2483,7 +2372,7 @@
    "official": false,
    "foundBy": "국가유산",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "score": 26,
    "tier": "high",
    "tags": [
@@ -2520,7 +2409,7 @@
    "official": false,
    "foundBy": "학예",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "score": 26,
    "tier": "high",
    "tags": [
@@ -2565,7 +2454,7 @@
    "official": false,
    "foundBy": "학예",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "score": 26,
    "tier": "high",
    "tags": [
@@ -2605,7 +2494,7 @@
    "official": false,
    "foundBy": "국가유산",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "detailAt": "2026-10-17",
    "detailOk": true,
    "score": 26,
@@ -2641,7 +2530,7 @@
    "kind": "result",
    "official": true,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "score": 26,
    "tier": "high",
    "tags": [
@@ -2674,7 +2563,7 @@
    "kind": "result",
    "official": true,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "score": 26,
    "tier": "high",
    "tags": [
@@ -2707,7 +2596,7 @@
    "kind": "result",
    "official": true,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "score": 26,
    "tier": "high",
    "tags": [
@@ -2740,7 +2629,7 @@
    "kind": "result",
    "official": true,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "score": 26,
    "tier": "high",
    "tags": [
@@ -2883,7 +2772,7 @@
    "official": false,
    "foundBy": "학예",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "score": 25,
    "tier": "high",
    "tags": [
@@ -2928,7 +2817,7 @@
    "official": false,
    "foundBy": "보존처리",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "score": 24,
    "tier": "high",
    "tags": [
@@ -2938,6 +2827,80 @@
     "보존처리",
     "보존",
     "문화재"
+   ]
+  },
+  {
+   "id": "saramin:55137252",
+   "source": "saramin",
+   "sourceName": "사람인",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55137252",
+   "title": "갤러리박영 큐레이터 채용 / 전시기획 및 갤러리 운영",
+   "company": "갤러리박영",
+   "region": "경기 파주시",
+   "experience": "경력무관",
+   "education": "초대졸↑",
+   "employmentType": "정규직",
+   "salary": "",
+   "sector": "큐레이터, 도슨트, 박물관, 미술관, 전시기획",
+   "postedAt": "2026-09-28",
+   "startAt": "2026-09-28",
+   "deadline": null,
+   "deadlineText": "채용시",
+   "summary": "경기 파주시 · 정규직 · 경력무관 · 초대졸↑",
+   "qualifications": "경력: 경력무관\n학력: 초대졸↑",
+   "kind": "job",
+   "official": false,
+   "foundBy": "학예",
+   "firstSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
+   "score": 24,
+   "tier": "high",
+   "tags": [
+    "curation"
+   ],
+   "matched": [
+    "큐레이터",
+    "전시기획",
+    "전시",
+    "박물관",
+    "미술관",
+    "도슨트"
+   ]
+  },
+  {
+   "id": "jobkorea:5605665",
+   "source": "jobkorea",
+   "sourceName": "잡코리아",
+   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/5605665/Ext?siteCode=WN",
+   "title": "신생 박물관에서 학예직원을 모집합니다.",
+   "company": "에로스박물관",
+   "region": "전남광주 신안군",
+   "experience": "경력무관",
+   "education": "대졸이상",
+   "employmentType": "계약직",
+   "salary": "월급 ~250만원",
+   "sector": "월급 ~250만원",
+   "postedAt": "2026-09-02",
+   "startAt": "2026-09-02",
+   "deadline": "2026-10-31",
+   "deadlineText": "",
+   "summary": "전남광주 신안군 · 경력무관 · 월급 ~250만원 · 월급 ~250만원",
+   "qualifications": "경력: 경력무관",
+   "kind": "job",
+   "official": false,
+   "foundBy": "박물관 학예",
+   "firstSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
+   "detailAt": "2026-10-17",
+   "detailOk": true,
+   "score": 24,
+   "tier": "high",
+   "tags": [
+    "curation"
+   ],
+   "matched": [
+    "학예",
+    "박물관"
    ]
   },
   {
@@ -2974,44 +2937,6 @@
     "미술관",
     "큐레이터",
     "박물관"
-   ]
-  },
-  {
-   "id": "saramin:55137252",
-   "source": "saramin",
-   "sourceName": "사람인",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55137252",
-   "title": "갤러리박영 큐레이터 채용 / 전시기획 및 갤러리 운영",
-   "company": "갤러리박영",
-   "region": "경기 파주시",
-   "experience": "경력무관",
-   "education": "초대졸↑",
-   "employmentType": "정규직",
-   "salary": "",
-   "sector": "큐레이터, 도슨트, 박물관, 미술관, 전시기획",
-   "postedAt": "2026-09-28",
-   "startAt": "2026-09-28",
-   "deadline": null,
-   "deadlineText": "채용시",
-   "summary": "경기 파주시 · 정규직 · 경력무관 · 초대졸↑",
-   "qualifications": "경력: 경력무관\n학력: 초대졸↑",
-   "kind": "job",
-   "official": false,
-   "foundBy": "학예",
-   "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
-   "score": 24,
-   "tier": "high",
-   "tags": [
-    "curation"
-   ],
-   "matched": [
-    "큐레이터",
-    "전시기획",
-    "전시",
-    "박물관",
-    "미술관",
-    "도슨트"
    ]
   },
   {
@@ -3098,42 +3023,6 @@
    ]
   },
   {
-   "id": "jobkorea:5605665",
-   "source": "jobkorea",
-   "sourceName": "잡코리아",
-   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/5605665/Ext?siteCode=WN",
-   "title": "신생 박물관에서 학예직원을 모집합니다.",
-   "company": "에로스박물관",
-   "region": "전남광주 신안군",
-   "experience": "경력무관",
-   "education": "대졸이상",
-   "employmentType": "계약직",
-   "salary": "월급 ~250만원",
-   "sector": "월급 ~250만원",
-   "postedAt": "2026-09-02",
-   "startAt": "2026-09-02",
-   "deadline": "2026-10-31",
-   "deadlineText": "",
-   "summary": "전남광주 신안군 · 경력무관 · 월급 ~250만원 · 월급 ~250만원",
-   "qualifications": "경력: 경력무관",
-   "kind": "job",
-   "official": false,
-   "foundBy": "박물관 학예",
-   "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
-   "detailAt": "2026-10-17",
-   "detailOk": true,
-   "score": 24,
-   "tier": "high",
-   "tags": [
-    "curation"
-   ],
-   "matched": [
-    "학예",
-    "박물관"
-   ]
-  },
-  {
    "id": "khs:34592",
    "source": "khs",
    "sourceName": "국가유산청",
@@ -3206,7 +3095,7 @@
    "official": false,
    "foundBy": "학예",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "score": 23,
    "tier": "high",
    "tags": [
@@ -3221,13 +3110,6 @@
     "도슨트",
     "해설",
     "역사"
-   ],
-   "alsoOn": [
-    {
-     "source": "saramin",
-     "sourceName": "사람인",
-     "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55189876"
-    }
    ]
   },
   {
@@ -3253,7 +3135,7 @@
    "official": false,
    "foundBy": "학예",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "score": 23,
    "tier": "high",
    "tags": [
@@ -3289,7 +3171,7 @@
    "official": false,
    "foundBy": "학예",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "score": 23,
    "tier": "high",
    "tags": [
@@ -3326,7 +3208,7 @@
    "kind": "result",
    "official": true,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "score": 22,
    "tier": "high",
    "tags": [
@@ -3481,7 +3363,7 @@
    "official": false,
    "foundBy": "학예",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "detailAt": "2026-10-17",
    "detailOk": true,
    "score": 21,
@@ -3518,7 +3400,7 @@
    "official": false,
    "foundBy": "박물관 학예",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "detailAt": "2026-10-17",
    "detailOk": true,
    "score": 21,
@@ -3555,7 +3437,7 @@
    "official": false,
    "foundBy": "학예",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "detailAt": "2026-10-17",
    "detailOk": true,
    "score": 21,
@@ -3592,7 +3474,7 @@
    "official": false,
    "foundBy": "학예",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "detailAt": "2026-10-17",
    "detailOk": true,
    "score": 21,
@@ -3675,7 +3557,7 @@
    "official": false,
    "foundBy": "국가유산",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "score": 20,
    "tier": "high",
    "tags": [
@@ -3711,7 +3593,7 @@
    "official": false,
    "foundBy": "학예",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "score": 20,
    "tier": "high",
    "tags": [
@@ -3746,7 +3628,7 @@
    "official": false,
    "foundBy": "학예",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "score": 20,
    "tier": "high",
    "tags": [
@@ -3781,7 +3663,7 @@
    "official": false,
    "foundBy": "문화재",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "score": 20,
    "tier": "high",
    "tags": [
@@ -3815,7 +3697,7 @@
    "kind": "job",
    "official": false,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "applyUrl": "http://www.busanbiennale.org/BBOCkr/?pCode=notice&mode=view&idx=12553",
    "attachments": [
     {
@@ -4000,7 +3882,7 @@
    "official": false,
    "foundBy": "학예",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "detailAt": "2026-10-17",
    "detailOk": true,
    "score": 19,
@@ -4043,7 +3925,7 @@
    "kind": "job",
    "official": false,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=94979",
    "attachments": [
     {
@@ -4285,7 +4167,7 @@
    "official": false,
    "foundBy": "학예",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "score": 18,
    "tier": "high",
    "tags": [
@@ -4319,7 +4201,7 @@
    "official": false,
    "foundBy": "문화유산",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "score": 18,
    "tier": "high",
    "tags": [
@@ -4353,7 +4235,7 @@
    "official": false,
    "foundBy": "문화유산",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "detailAt": "2026-10-17",
    "detailOk": true,
    "score": 18,
@@ -4391,7 +4273,7 @@
    "official": false,
    "foundBy": "학예",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "detailAt": "2026-10-17",
    "detailOk": true,
    "score": 18,
@@ -4427,7 +4309,7 @@
    "official": false,
    "foundBy": "학예",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "detailAt": "2026-10-17",
    "detailOk": true,
    "score": 18,
@@ -4462,7 +4344,7 @@
    "kind": "job",
    "official": false,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=95223",
    "attachments": [],
    "detailAt": "2026-10-17",
@@ -4730,7 +4612,7 @@
    "official": false,
    "foundBy": "학예",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "score": 17,
    "tier": "high",
    "tags": [
@@ -4764,7 +4646,7 @@
    "official": false,
    "foundBy": "문화유산",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "detailAt": "2026-10-17",
    "detailOk": true,
    "score": 17,
@@ -4807,7 +4689,7 @@
    "official": false,
    "foundBy": "국가유산",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "score": 17,
    "tier": "high",
    "tags": [
@@ -4841,7 +4723,7 @@
    "official": false,
    "foundBy": "학예",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "score": 17,
    "tier": "high",
    "tags": [
@@ -4878,7 +4760,7 @@
    "official": false,
    "foundBy": "문화재",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "detailAt": "2026-10-17",
    "detailOk": true,
    "score": 17,
@@ -4899,7 +4781,7 @@
    "title": "국가유산안내판 조사원",
    "company": "㈜김스애드",
    "region": "경기 남양주시",
-   "experience": "신입 지원 가능",
+   "experience": "오늘 마감! 놓치지 마세요!",
    "education": "고졸이상",
    "employmentType": "아르바이트",
    "salary": "월급 210~220만원",
@@ -4908,13 +4790,13 @@
    "startAt": "2026-09-18",
    "deadline": "2026-10-18",
    "deadlineText": "",
-   "summary": "경기 남양주시 · 신입 지원 가능 · 디자인·CAD, 설문·리서치 · 월급 210~220만원",
-   "qualifications": "경력: 신입 지원 가능",
+   "summary": "경기 남양주시 · 오늘 마감! 놓치지 마세요! · 디자인·CAD, 설문·리서치 · 월급 210~220만원",
+   "qualifications": "경력: 오늘 마감! 놓치지 마세요!",
    "kind": "job",
    "official": false,
    "foundBy": "국가유산",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "detailAt": "2026-10-17",
    "detailOk": true,
    "score": 17,
@@ -4949,7 +4831,7 @@
    "kind": "job",
    "official": false,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=95117",
    "attachments": [],
    "detailAt": "2026-10-17",
@@ -4989,7 +4871,7 @@
    "kind": "job",
    "official": true,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "attachments": [],
    "applyUrl": "",
    "detailAt": "2026-10-17",
@@ -5203,7 +5085,7 @@
    "official": false,
    "foundBy": "국가유산",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "detailAt": "2026-10-17",
    "detailOk": true,
    "score": 15,
@@ -5246,7 +5128,7 @@
    "official": false,
    "foundBy": "박물관 학예",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "detailAt": "2026-10-17",
    "detailOk": true,
    "score": 15,
@@ -5280,7 +5162,7 @@
    "kind": "job",
    "official": false,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=95359",
    "attachments": [
     {
@@ -5335,7 +5217,7 @@
    "kind": "job",
    "official": false,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=95224",
    "attachments": [],
    "detailAt": "2026-10-17",
@@ -5373,7 +5255,7 @@
    "kind": "job",
    "official": false,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=95123",
    "attachments": [],
    "detailAt": "2026-10-17",
@@ -5510,7 +5392,7 @@
    "official": false,
    "foundBy": "문화유산",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "score": 12,
    "tier": "mid",
    "tags": [],
@@ -5541,7 +5423,7 @@
    "official": false,
    "foundBy": "문화유산",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "score": 12,
    "tier": "mid",
    "tags": [
@@ -5574,7 +5456,7 @@
    "official": false,
    "foundBy": "문화유산",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "detailAt": "2026-10-17",
    "detailOk": true,
    "score": 12,
@@ -5610,7 +5492,7 @@
    "official": false,
    "foundBy": "학예",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "detailAt": "2026-10-17",
    "detailOk": true,
    "score": 12,
@@ -5645,7 +5527,7 @@
    "kind": "result",
    "official": true,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "score": 12,
    "tier": "mid",
    "tags": [
@@ -5678,7 +5560,7 @@
    "kind": "result",
    "official": true,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "score": 12,
    "tier": "mid",
    "tags": [
@@ -5711,7 +5593,7 @@
    "kind": "job",
    "official": false,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=95361",
    "attachments": [
     {
@@ -5752,7 +5634,7 @@
    "kind": "job",
    "official": false,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=95330",
    "attachments": [
     {
@@ -5797,7 +5679,7 @@
    "kind": "job",
    "official": false,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=95331",
    "attachments": [],
    "detailAt": "2026-10-17",
@@ -5833,7 +5715,7 @@
    "kind": "job",
    "official": false,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=95312",
    "attachments": [
     {
@@ -5874,7 +5756,7 @@
    "kind": "job",
    "official": false,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=95309",
    "attachments": [
     {
@@ -5923,7 +5805,7 @@
    "kind": "job",
    "official": false,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=95295",
    "attachments": [
     {
@@ -5968,7 +5850,7 @@
    "kind": "job",
    "official": false,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=95297",
    "attachments": [
     {
@@ -6009,7 +5891,7 @@
    "kind": "job",
    "official": false,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=95241",
    "attachments": [
     {
@@ -6058,7 +5940,7 @@
    "kind": "job",
    "official": false,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=95243",
    "attachments": [
     {
@@ -6107,7 +5989,7 @@
    "kind": "job",
    "official": false,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "applyUrl": "http://www.ancf.or.kr/p/6abefce0760de6acd1a436b4",
    "attachments": [
     {
@@ -6152,7 +6034,7 @@
    "kind": "job",
    "official": false,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=95192",
    "attachments": [
     {
@@ -6205,7 +6087,7 @@
    "kind": "job",
    "official": false,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "applyUrl": "https://www.gccf.or.kr/front/M0000036/article/view.do?atcId=AT000743",
    "attachments": [
     {
@@ -6250,7 +6132,7 @@
    "kind": "job",
    "official": false,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "applyUrl": "https://www.injeart.or.kr/?p=19&page=1&viewMode=view&reqIdx=202609171616531882#url",
    "attachments": [
     {
@@ -6298,7 +6180,7 @@
    "kind": "job",
    "official": false,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "applyUrl": "https://www.gcf.or.kr/main/pst/view.do?pst_id=recruit&pst_sn=5285&search=ajR6eHNSV05Pc0UrNjZEd1NFVnNIZkduNGFKTVBHZVRMbTJ1bnFaYk5uY1RYZGJBV1NWWE1XZVpLS2VkcjIzbkZXUjZESm9uSUxhd1V4OXJaSVhKZE9Ib3RjTVVkRTREcnZhS25WVVNLckU9",
    "attachments": [
     {
@@ -6347,7 +6229,7 @@
    "kind": "job",
    "official": false,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "applyUrl": "https://www.gcf.or.kr/main/pst/view.do?pst_id=recruit&pst_sn=5286&search=ajR6eHNSV05Pc0UrNjZEd1NFVnNIZkduNGFKTVBHZVRMbTJ1bnFaYk5uY1RYZGJBV1NWWE1XZVpLS2VkcjIzbnRkdWg0WHZVTmFING5yWk9Cbkd4V3dvVEdiQzExMXBYRFpTenZrOUljbHc9",
    "attachments": [
     {
@@ -6396,7 +6278,7 @@
    "kind": "job",
    "official": false,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "applyUrl": "http://www.ancf.or.kr/p/6aa73fc8760de6acd1a2b27b",
    "attachments": [
     {
@@ -6437,7 +6319,7 @@
    "kind": "job",
    "official": false,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=94996",
    "attachments": [
     {
@@ -6563,7 +6445,7 @@
    "sector": "문화재, 도슨트, 큐레이터, 해설가, 에디터",
    "postedAt": "2026-10-16",
    "startAt": "2026-10-16",
-   "deadline": "2026-10-19",
+   "deadline": null,
    "deadlineText": "",
    "summary": "경기 양주시 · 계약직 · 경력무관 · 고졸↑ · 227 만원",
    "qualifications": "경력: 경력무관\n학력: 고졸↑",
@@ -6571,7 +6453,7 @@
    "official": false,
    "foundBy": "문화재",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "score": 10,
    "tier": "mid",
    "tags": [
@@ -6608,7 +6490,7 @@
    "official": false,
    "foundBy": "문화유산",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "detailAt": "2026-10-17",
    "detailOk": true,
    "score": 10,
@@ -6689,7 +6571,7 @@
    "official": false,
    "foundBy": "문화유산",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "score": 9,
    "tier": "mid",
    "tags": [
@@ -6722,7 +6604,7 @@
    "official": false,
    "foundBy": "국가유산",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "score": 9,
    "tier": "mid",
    "tags": [
@@ -6755,7 +6637,7 @@
    "official": false,
    "foundBy": "발굴",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "score": 9,
    "tier": "mid",
    "tags": [
@@ -6788,7 +6670,7 @@
    "official": false,
    "foundBy": "발굴",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "score": 9,
    "tier": "mid",
    "tags": [
@@ -6821,7 +6703,7 @@
    "official": false,
    "foundBy": "보존처리",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "detailAt": "2026-10-17",
    "detailOk": true,
    "score": 9,
@@ -6855,7 +6737,7 @@
    "kind": "job",
    "official": false,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=95180",
    "attachments": [],
    "detailAt": "2026-10-17",
@@ -6892,7 +6774,7 @@
    "official": false,
    "foundBy": "문화재",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "score": 8,
    "tier": "mid",
    "tags": [
@@ -6929,7 +6811,7 @@
    "official": false,
    "foundBy": "문화재",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "score": 8,
    "tier": "mid",
    "tags": [
@@ -6966,7 +6848,7 @@
    "official": false,
    "foundBy": "학예",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "score": 8,
    "tier": "mid",
    "tags": [
@@ -7002,7 +6884,7 @@
    "official": false,
    "foundBy": "보존처리",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "detailAt": "2026-10-17",
    "detailOk": true,
    "score": 8,
@@ -7038,7 +6920,7 @@
    "official": false,
    "foundBy": "문화유산",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "detailAt": "2026-10-17",
    "detailOk": true,
    "score": 8,
@@ -7075,7 +6957,7 @@
    "official": false,
    "foundBy": "국가유산",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "detailAt": "2026-10-17",
    "detailOk": true,
    "score": 8,
@@ -7108,7 +6990,7 @@
    "official": false,
    "foundBy": "국가유산",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "score": 6,
    "tier": "low",
    "tags": [
@@ -7148,7 +7030,7 @@
    "official": false,
    "foundBy": "국가유산",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "score": 6,
    "tier": "low",
    "tags": [
@@ -7189,7 +7071,7 @@
    "official": false,
    "foundBy": "국가유산",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "score": 6,
    "tier": "low",
    "tags": [
@@ -7230,7 +7112,7 @@
    "official": false,
    "foundBy": "국가유산",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "score": 6,
    "tier": "low",
    "tags": [
@@ -7263,7 +7145,7 @@
    "official": false,
    "foundBy": "문화유산",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "score": 6,
    "tier": "low",
    "tags": [
@@ -7281,7 +7163,7 @@
    "title": "인디자인",
    "company": "(유)학예기획",
    "region": "전북 전주시",
-   "experience": "경력",
+   "experience": "오늘 마감! 놓치지 마세요!",
    "education": "",
    "employmentType": "",
    "salary": "월급 210~250만원",
@@ -7290,13 +7172,13 @@
    "startAt": null,
    "deadline": null,
    "deadlineText": "",
-   "summary": "전북 전주시 · 경력 · 월급 210~250만원 · 월급 210~250만원",
-   "qualifications": "경력: 경력",
+   "summary": "전북 전주시 · 오늘 마감! 놓치지 마세요! · 월급 210~250만원 · 월급 210~250만원",
+   "qualifications": "경력: 오늘 마감! 놓치지 마세요!",
    "kind": "job",
    "official": false,
    "foundBy": "학예",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "score": 6,
    "tier": "low",
    "tags": [
@@ -7387,7 +7269,7 @@
    "kind": "job",
    "official": true,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "attachments": [
     {
      "name": "2026년 국립문화유산연구원 기간제근로자(사무원) 채용 공고문.hwpx (0.13 MB)",
@@ -7434,7 +7316,7 @@
    "kind": "job",
    "official": false,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "score": 6,
    "tier": "low",
    "tags": [
@@ -7466,7 +7348,7 @@
    "kind": "job",
    "official": false,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "score": 6,
    "tier": "low",
    "tags": [
@@ -7510,7 +7392,7 @@
    "kind": "job",
    "official": false,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "score": 6,
    "tier": "low",
    "tags": [
@@ -7542,7 +7424,7 @@
    "kind": "job",
    "official": false,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "score": 6,
    "tier": "low",
    "tags": [
@@ -7574,7 +7456,7 @@
    "kind": "job",
    "official": false,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "score": 6,
    "tier": "low",
    "tags": [
@@ -7606,7 +7488,7 @@
    "kind": "job",
    "official": false,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "score": 6,
    "tier": "low",
    "tags": [
@@ -7638,7 +7520,7 @@
    "kind": "job",
    "official": false,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "score": 6,
    "tier": "low",
    "tags": [
@@ -7746,7 +7628,7 @@
    "official": false,
    "foundBy": "발굴",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "score": 5,
    "tier": "low",
    "tags": [
@@ -7862,7 +7744,7 @@
    "kind": "result",
    "official": true,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "score": 4,
    "tier": "low",
    "tags": [
@@ -7940,7 +7822,7 @@
    "kind": "result",
    "official": true,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "score": 4,
    "tier": "low",
    "tags": [
@@ -7975,7 +7857,7 @@
    "kind": "result",
    "official": true,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "score": 4,
    "tier": "low",
    "tags": [
@@ -8105,7 +7987,7 @@
    "kind": "result",
    "official": true,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "score": 3,
    "tier": "low",
    "tags": [
@@ -8114,13 +7996,6 @@
    "matched": [
     "문화유산연구소",
     "문화유산"
-   ],
-   "alsoOn": [
-    {
-     "source": "khs",
-     "sourceName": "국가유산청",
-     "url": "https://www.khs.go.kr/multiBbz/selectMultiBbzView.do?id=9989&no=34587&bbzId=newexam&pageIndex=2&pageUnit=10&strWhere=&searchWrd=&sdate=&edate=&mn=NS_01_06"
-    }
    ]
   },
   {
@@ -8186,7 +8061,7 @@
    "kind": "job",
    "official": true,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "attachments": [
     {
      "name": "국립완주문화유산연구소_기간제근로자_채용공고_2026.09.22.hwp (0.09 MB)",
@@ -8382,7 +8257,7 @@
    "kind": "job",
    "official": true,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "attachments": [],
    "applyUrl": "",
    "detailAt": "2026-10-17",
@@ -8484,7 +8359,7 @@
    "kind": "job",
    "official": true,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "attachments": [],
    "applyUrl": "",
    "detailAt": "2026-10-17",
@@ -8521,7 +8396,7 @@
    "kind": "result",
    "official": true,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "score": 0,
    "tier": "low",
    "tags": [
@@ -8554,7 +8429,7 @@
    "kind": "result",
    "official": true,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
    "score": 0,
    "tier": "low",
    "tags": [
