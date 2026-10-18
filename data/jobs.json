@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-18T08:14:56.671Z",
+ "updatedAt": "2026-10-18T13:26:22.601Z",
  "today": "2026-10-18",
  "count": 217,
  "newToday": 1,
@@ -8,49 +8,49 @@
    "name": "사람인",
    "ok": true,
    "count": 380,
-   "ms": 31773
+   "ms": 29174
   },
   "jobkorea": {
    "name": "잡코리아",
    "ok": true,
    "count": 204,
-   "ms": 21485
+   "ms": 21043
   },
   "khs": {
    "name": "국가유산청",
    "ok": true,
    "count": 30,
-   "ms": 12112
+   "ms": 9456
   },
   "nrich": {
    "name": "국립문화유산연구원",
    "ok": true,
    "count": 20,
-   "ms": 7014
+   "ms": 5799
   },
   "kha": {
    "name": "국가유산진흥원",
    "ok": true,
    "count": 20,
-   "ms": 6106
+   "ms": 4344
   },
   "alio": {
    "name": "잡알리오",
    "ok": true,
    "count": 7,
-   "ms": 15564
+   "ms": 11996
   },
   "gojobs": {
    "name": "나라일터",
    "ok": true,
    "count": 49,
-   "ms": 16739
+   "ms": 15460
   },
   "momo365": {
    "name": "모모365",
    "ok": true,
    "count": 100,
-   "ms": 4934
+   "ms": 4830
   }
  },
  "categories": [
@@ -232,7 +232,7 @@
    "salary": "",
    "sector": "",
    "postedAt": "2026-09-30",
-   "startAt": "2026-10-02",
+   "startAt": "2026-09-30",
    "deadline": "2026-10-07",
    "deadlineText": "",
    "summary": "미술문화유산연구실 공고 제2026-91호 국립문화유산연구원 미술문화유산연구실에서 공무직근로자(연구원 가급, 라급)를 채용 하고자 합니다. 유능한 인재의 많은 응시 바랍니다. 2026년 9월 30일 국립문화유산연구원장 1. 채용예정 분야 및 인원 ㅇ 채용분야 : 공무직근로자(연구원 가급, 라급) ㅇ 채용인원 : 총 2명 ㅇ 담당업무 : 국가지정 동산문화유산 정기조사 및 보고서 발간지원 미술문화유산연구실 연구과제 등 학예업무 지원 2. 채용일정 ㅇ 모집공고 : 2026. 9. 30.(수) ~ 10. 7.(수) ㅇ 원서접수 : 2026. 10. 2.(금) 09:00 ~ 1…",
@@ -471,7 +471,7 @@
    "salary": "",
    "sector": "",
    "postedAt": "2026-09-28",
-   "startAt": "2026-10-06",
+   "startAt": "2026-09-28",
    "deadline": "2026-10-09",
    "deadlineText": "",
    "summary": "국립경주문화유산연구소 공고 제2026 -16호 국립경주문화유산연구소에서 금척리 고분군 기간제근로자(연구원 가급-고고)를 다음과 같이 공개모집하오니, 많은 지원 바랍니다. 2026년 9월 28일 국립경주문화유산연구소장 1. 채용개요 - 직급/인원: 연구원 가급 1명 - 모집 분야: 고고 - 담당 업무: 경주 금척리 고분군 발굴현장조사 업무 등 2. 채용일정 - 채용 공고: 2026. 9. 28.(월) ~ 10. 9.(금) - 원서 접수: 2026. 10. 6.(화) ~ 10. 9.(금) 18:00 - 서류 전형 합격자 발표: 2026. 10. 15.(목) 예정 - 면접…",
@@ -6604,39 +6604,6 @@
    ]
   },
   {
-   "id": "saramin:55319839",
-   "source": "saramin",
-   "sourceName": "사람인",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55319839",
-   "title": "일본, 중국, 영어권 거래처 영업및 마켓팅 발굴 모집",
-   "company": "트리트리 TREE(3)",
-   "region": "서울 동대문구",
-   "experience": "경력 3~10년",
-   "education": "학력무관",
-   "employmentType": "정규직",
-   "salary": "",
-   "sector": "사업기획, 전략기획, 경영기획, PM(프로젝트매니저), CTO",
-   "postedAt": "2026-10-17",
-   "startAt": "2026-10-17",
-   "deadline": null,
-   "deadlineText": "",
-   "summary": "서울 동대문구 · 정규직 · 경력 3~10년 · 학력무관",
-   "qualifications": "경력: 경력 3~10년\n학력: 학력무관",
-   "kind": "job",
-   "official": false,
-   "foundBy": "발굴",
-   "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-18",
-   "score": 9,
-   "tier": "mid",
-   "tags": [
-    "excavation"
-   ],
-   "matched": [
-    "발굴"
-   ]
-  },
-  {
    "id": "jobkorea:50143248",
    "source": "jobkorea",
    "sourceName": "잡코리아",
@@ -6705,6 +6672,39 @@
    ],
    "matched": [
     "전시"
+   ]
+  },
+  {
+   "id": "saramin:55319839",
+   "source": "saramin",
+   "sourceName": "사람인",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55319839",
+   "title": "일본, 중국, 영어권 거래처 영업및 마켓팅 발굴 모집",
+   "company": "트리트리 TREE(3)",
+   "region": "서울 동대문구",
+   "experience": "경력 3~10년",
+   "education": "학력무관",
+   "employmentType": "정규직",
+   "salary": "",
+   "sector": "사업기획, 전략기획, 경영기획, PM(프로젝트매니저), CTO",
+   "postedAt": "2026-10-17",
+   "startAt": "2026-10-17",
+   "deadline": null,
+   "deadlineText": "",
+   "summary": "서울 동대문구 · 정규직 · 경력 3~10년 · 학력무관",
+   "qualifications": "경력: 경력 3~10년\n학력: 학력무관",
+   "kind": "job",
+   "official": false,
+   "foundBy": "발굴",
+   "firstSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
+   "score": 9,
+   "tier": "mid",
+   "tags": [
+    "excavation"
+   ],
+   "matched": [
+    "발굴"
    ]
   },
   {
@@ -7630,41 +7630,6 @@
    ]
   },
   {
-   "id": "saramin:55320637",
-   "source": "saramin",
-   "sourceName": "사람인",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55320637",
-   "title": "(주) 제이엔티이노베이션 중국 OEM 상품소싱 및 기획 팀원 모집",
-   "company": "(주)제이엔티이노베이션",
-   "region": "서울 강서구",
-   "experience": "경력무관",
-   "education": "고졸↑",
-   "employmentType": "정규직",
-   "salary": "",
-   "sector": "신사업발굴, 시장조사, 해외영업관리, 국제무역사, 무역사무원",
-   "postedAt": "2026-10-17",
-   "startAt": "2026-10-17",
-   "deadline": "2026-11-16",
-   "deadlineText": "",
-   "summary": "서울 강서구 · 정규직 · 경력무관 · 고졸↑",
-   "qualifications": "경력: 경력무관\n학력: 고졸↑",
-   "kind": "job",
-   "official": false,
-   "foundBy": "발굴",
-   "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-18",
-   "score": 5,
-   "tier": "low",
-   "tags": [
-    "excavation",
-    "research"
-   ],
-   "matched": [
-    "발굴",
-    "역사"
-   ]
-  },
-  {
    "id": "gojobs:304174",
    "source": "gojobs",
    "sourceName": "나라일터",
@@ -7709,6 +7674,41 @@
     "국립문화유산연구원",
     "문화유산",
     "국가유산"
+   ]
+  },
+  {
+   "id": "saramin:55320637",
+   "source": "saramin",
+   "sourceName": "사람인",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55320637",
+   "title": "(주) 제이엔티이노베이션 중국 OEM 상품소싱 및 기획 팀원 모집",
+   "company": "(주)제이엔티이노베이션",
+   "region": "서울 강서구",
+   "experience": "경력무관",
+   "education": "고졸↑",
+   "employmentType": "정규직",
+   "salary": "",
+   "sector": "신사업발굴, 시장조사, 해외영업관리, 국제무역사, 무역사무원",
+   "postedAt": "2026-10-17",
+   "startAt": "2026-10-17",
+   "deadline": "2026-11-16",
+   "deadlineText": "",
+   "summary": "서울 강서구 · 정규직 · 경력무관 · 고졸↑",
+   "qualifications": "경력: 경력무관\n학력: 고졸↑",
+   "kind": "job",
+   "official": false,
+   "foundBy": "발굴",
+   "firstSeen": "2026-10-17",
+   "lastSeen": "2026-10-18",
+   "score": 5,
+   "tier": "low",
+   "tags": [
+    "excavation",
+    "research"
+   ],
+   "matched": [
+    "발굴",
+    "역사"
    ]
   },
   {
