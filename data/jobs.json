@@ -1,56 +1,56 @@
 {
- "updatedAt": "2026-10-20T01:12:50.907Z",
+ "updatedAt": "2026-10-20T08:47:35.624Z",
  "today": "2026-10-20",
- "count": 237,
- "newToday": 11,
+ "count": 246,
+ "newToday": 20,
  "sources": {
   "saramin": {
    "name": "사람인",
    "ok": true,
-   "count": 382,
-   "ms": 33214
+   "count": 391,
+   "ms": 31327
   },
   "jobkorea": {
    "name": "잡코리아",
    "ok": true,
-   "count": 201,
-   "ms": 21065
+   "count": 204,
+   "ms": 22667
   },
   "khs": {
    "name": "국가유산청",
    "ok": true,
    "count": 30,
-   "ms": 10971
+   "ms": 9525
   },
   "nrich": {
    "name": "국립문화유산연구원",
    "ok": true,
    "count": 20,
-   "ms": 7176
+   "ms": 5862
   },
   "kha": {
    "name": "국가유산진흥원",
    "ok": true,
    "count": 20,
-   "ms": 5377
+   "ms": 4008
   },
   "alio": {
    "name": "잡알리오",
    "ok": true,
-   "count": 4,
-   "ms": 13186
+   "count": 5,
+   "ms": 11856
   },
   "gojobs": {
    "name": "나라일터",
    "ok": true,
    "count": 48,
-   "ms": 17554
+   "ms": 15844
   },
   "momo365": {
    "name": "모모365",
    "ok": true,
    "count": 100,
-   "ms": 2986
+   "ms": 2638
   }
  },
  "categories": [
@@ -1084,7 +1084,7 @@
    "startAt": "2026-10-20",
    "deadline": "2026-10-31",
    "deadlineText": "",
-   "summary": "\"일상이 예술이 되는 미술관\" 대림미술관은 오는 10월 새로운 전시를 개최합니다. 다양한 예술 장르를 넘나들며 감각적인 전시를 소개하는 대림미술관과 함께 할 전시 운영 크루를 모집하오니 문화와 예술 그리고 미술관을 사랑하는 역량 있는 분들의 많은 지원 바랍니다. · 전시명 : DCF Collection : 대림문화재단 소장품 전 · 전시기간 : 2026년 10월 30일 ~ 2027년 05월 30일 · 운영시간 : 화~일 11:00~18:00 (* 매주 월요일, 신정(1/1), 설연휴(2/7, 2/8) 휴관) 1. 모집부문 (1) 담당업무 * 전시 크루 (00명) - …",
+   "summary": "(재)대림문화재단 · 서울 · 일용직∙아르바이트",
    "qualifications": "(2) 자격요건\n- 학력 / 성별 / 연령 : 무관\n- 적극적인 업무 자세와 고객 중심의 서비스 마인드를 갖추신 분\n- 유연한 커뮤니케이션 및 문제 해결 능력을 갖추신 분\n- 대림미술관과 문화 예술분야에 높은 관심을 가지신 분\n- 전시 전체 일정 근무 가능한 분(주말, 공휴일 근무 포함)\n- 팀워크 역량을 갖추신 분",
    "kind": "job",
    "official": false,
@@ -1103,7 +1103,6 @@
    "matched": [
     "전시",
     "미술관",
-    "소장품",
     "문화재단"
    ]
   },
@@ -1617,6 +1616,44 @@
    "matched": [
     "박물관",
     "유물"
+   ]
+  },
+  {
+   "id": "saramin:55338781",
+   "source": "saramin",
+   "sourceName": "사람인",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55338781",
+   "title": "소장품자료과 기간제 근로자(학예보조) 채용 공고",
+   "company": "국립현대미술관",
+   "region": "경기 과천시",
+   "experience": "경력무관",
+   "education": "대졸↑",
+   "employmentType": "기간제·계약직",
+   "salary": "",
+   "sector": "미술관, 박물관, 조사원, 자료조사, 박물관·미술관",
+   "postedAt": "2026-10-20",
+   "startAt": "2026-10-20",
+   "deadline": "2026-10-25",
+   "deadlineText": "",
+   "summary": "경기 과천시 · 기간제·계약직 · 경력무관 · 대졸↑",
+   "qualifications": "경력: 경력무관\n학력: 대졸↑",
+   "kind": "job",
+   "official": false,
+   "foundBy": "학예",
+   "firstSeen": "2026-10-20",
+   "lastSeen": "2026-10-20",
+   "score": 33,
+   "tier": "high",
+   "tags": [
+    "curation",
+    "excavation"
+   ],
+   "matched": [
+    "학예",
+    "소장품",
+    "미술관",
+    "박물관",
+    "조사원"
    ]
   },
   {
@@ -2992,6 +3029,43 @@
    ]
   },
   {
+   "id": "saramin:55344267",
+   "source": "saramin",
+   "sourceName": "사람인",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55344267",
+   "title": "학예사 및 홍보영상 편집 디자이너 채용 공고",
+   "company": "다보성갤러리",
+   "region": "서울 종로구",
+   "experience": "신입·경력",
+   "education": "학력무관",
+   "employmentType": "정규직",
+   "salary": "",
+   "sector": "큐레이터, 미술관, 박물관, 영상디자이너, 영상제작",
+   "postedAt": "2026-10-20",
+   "startAt": "2026-10-20",
+   "deadline": "2026-11-03",
+   "deadlineText": "",
+   "summary": "서울 종로구 · 정규직 · 신입·경력 · 학력무관",
+   "qualifications": "경력: 신입·경력\n학력: 학력무관",
+   "kind": "job",
+   "official": false,
+   "foundBy": "학예",
+   "firstSeen": "2026-10-20",
+   "lastSeen": "2026-10-20",
+   "score": 24,
+   "tier": "high",
+   "tags": [
+    "curation"
+   ],
+   "matched": [
+    "학예",
+    "학예사",
+    "큐레이터",
+    "박물관",
+    "미술관"
+   ]
+  },
+  {
    "id": "jobkorea:5686724",
    "source": "jobkorea",
    "sourceName": "잡코리아",
@@ -3613,6 +3687,41 @@
    ]
   },
   {
+   "id": "saramin:55339419",
+   "source": "saramin",
+   "sourceName": "사람인",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55339419",
+   "title": "공무직 근로자(학예보조) 채용 공고",
+   "company": "국립청주박물관",
+   "region": "충북 청주시 상당구",
+   "experience": "경력무관",
+   "education": "대졸↑",
+   "employmentType": "정규직·계약직",
+   "salary": "",
+   "sector": "박물관, 콘텐츠관리, 접수/예약, 접수/예약, 박물관·미술관",
+   "postedAt": "2026-10-20",
+   "startAt": "2026-10-20",
+   "deadline": "2026-10-27",
+   "deadlineText": "",
+   "summary": "충북 청주시 상당구 · 정규직·계약직 · 경력무관 · 대졸↑",
+   "qualifications": "경력: 경력무관\n학력: 대졸↑",
+   "kind": "job",
+   "official": false,
+   "foundBy": "학예",
+   "firstSeen": "2026-10-20",
+   "lastSeen": "2026-10-20",
+   "score": 21,
+   "tier": "high",
+   "tags": [
+    "curation"
+   ],
+   "matched": [
+    "학예",
+    "박물관",
+    "미술관"
+   ]
+  },
+  {
    "id": "saramin:55337434",
    "source": "saramin",
    "sourceName": "사람인",
@@ -4175,6 +4284,41 @@
    ]
   },
   {
+   "id": "alio:306181",
+   "source": "alio",
+   "sourceName": "잡알리오",
+   "url": "https://job.alio.go.kr/recruitview.do?idx=306181",
+   "title": "국립농업박물관 2026년 제6차 직원 채용",
+   "company": "국립농업박물관",
+   "region": "경기",
+   "experience": "",
+   "education": "학력무관",
+   "employmentType": "무기계약직,정규직",
+   "salary": "",
+   "sector": "일반직,행정직,사무직,시설직,공무직,계약직",
+   "postedAt": "2026-10-20",
+   "startAt": "2026-10-20",
+   "deadline": "2026-11-03",
+   "deadlineText": "",
+   "summary": "채용구분: 신입+경력\n고용형태: 무기계약직,정규직\n채용인원: 5명\n근무지: 경기\n근무분야: 일반직,행정직,사무직,시설직,공무직,계약직\n학력: 학력무관",
+   "qualifications": "우대: 취업보호대상자, 장애인",
+   "kind": "job",
+   "official": true,
+   "foundBy": "박물관",
+   "firstSeen": "2026-10-20",
+   "lastSeen": "2026-10-20",
+   "detailAt": "2026-10-20",
+   "detailOk": true,
+   "score": 19,
+   "tier": "high",
+   "tags": [
+    "curation"
+   ],
+   "matched": [
+    "박물관"
+   ]
+  },
+  {
    "id": "jobkorea:50043708",
    "source": "jobkorea",
    "sourceName": "잡코리아",
@@ -4457,6 +4601,43 @@
    ],
    "matched": [
     "박물관"
+   ]
+  },
+  {
+   "id": "jobkorea:5689633",
+   "source": "jobkorea",
+   "sourceName": "잡코리아",
+   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/5689633/Ext?siteCode=WN",
+   "title": "문화재조사 업무를 담당할 성실한 직원을 채용",
+   "company": "재단법인 해원문화유산연구원",
+   "region": "전북 군산시",
+   "experience": "경력무관 학력",
+   "education": "고졸이상",
+   "employmentType": "정규직",
+   "salary": "연봉 2760 ~3000 만원",
+   "sector": "연봉 2,760~3,000만원",
+   "postedAt": "2026-10-20",
+   "startAt": "2026-10-20",
+   "deadline": "2026-12-19",
+   "deadlineText": "",
+   "summary": "고용형태: 정규직\n급여: 연봉 2760 ~3000 만원\n근무지: 전북 군산시",
+   "qualifications": "경력: 경력무관 학력\n학력: 고졸이상",
+   "kind": "job",
+   "official": false,
+   "foundBy": "문화유산",
+   "firstSeen": "2026-10-20",
+   "lastSeen": "2026-10-20",
+   "detailAt": "2026-10-20",
+   "detailOk": true,
+   "score": 18,
+   "tier": "high",
+   "tags": [
+    "excavation"
+   ],
+   "matched": [
+    "문화유산연구원",
+    "문화재",
+    "문화유산"
    ]
   },
   {
@@ -5387,6 +5568,42 @@
    ]
   },
   {
+   "id": "saramin:55343542",
+   "source": "saramin",
+   "sourceName": "사람인",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55343542",
+   "title": "[학술연구]전략/조직/성과평가 경영컨설턴트 모집",
+   "company": "한국경제경영연구원",
+   "region": "서울 영등포구",
+   "experience": "경력1년↑",
+   "education": "대졸↑",
+   "employmentType": "정규직",
+   "salary": "",
+   "sector": "신사업발굴, 신사업기획, 전략기획, 기획, 서비스기획",
+   "postedAt": "2026-10-20",
+   "startAt": "2026-10-20",
+   "deadline": "2026-10-30",
+   "deadlineText": "",
+   "summary": "서울 영등포구 · 정규직 · 경력1년↑ · 대졸↑",
+   "qualifications": "경력: 경력1년↑\n학력: 대졸↑",
+   "kind": "job",
+   "official": false,
+   "foundBy": "발굴",
+   "firstSeen": "2026-10-20",
+   "lastSeen": "2026-10-20",
+   "score": 15,
+   "tier": "high",
+   "tags": [
+    "excavation",
+    "research"
+   ],
+   "matched": [
+    "발굴",
+    "학술연구",
+    "학술"
+   ]
+  },
+  {
    "id": "saramin:55331294",
    "source": "saramin",
    "sourceName": "사람인",
@@ -5836,7 +6053,7 @@
    "startAt": "2026-10-20",
    "deadline": "2026-10-23",
    "deadlineText": "",
-   "summary": "봉산문화회관 공연전시 안내근무자 모집 * 모집분야 - 공연 안내근무자(하우스 어텐던트) - 전시 안내근무자 * 모집인원 분야별 명: 00 * 근무지 : 봉산문화회관 전시실 및 공연장: * 근무시간 - (공연) 공연시작 90분전 ~ 공연종료 후 30분 (1회 최대 5시간 기준) - (전시) 전시시작 10분전 ~ 전시종료 후 10분 (1회 최대 4시간 30분 기준) *보상금 : 시간당 12,000원 (2026년 기준 / 식대, 교통비 포함) *자격요건 - 만 20세 이상 만 50세 미만인 자로 1년 이상 근무가능한 자 - 토, 일, 공휴일 및 야간 근무 가능자 - 문화예…",
+   "summary": "봉산문화회관 · 대구 · 일용직∙아르바이트",
    "qualifications": "*자격요건\n- 만 20세 이상 만 50세 미만인 자로 1년 이상 근무가능한 자\n- 토, 일, 공휴일 및 야간 근무 가능자\n- 문화예술에 관심이 많고 친절과 관객 서비스 정신을 겸비한 자\n*주요업무\n- 공연장, 전시실 관객 안내 및 질서유지\n- 공연장 객석 관리 및 입장권 검표\n- 전시작품 설명 및 관람객 응대\n- 안전사고 발생 시 관객 대피 유도 등 안전관리\n- 기타 공연 및 전시 운영 관련 지원 및 관객 편의 제공",
    "kind": "job",
    "official": false,
@@ -5857,42 +6074,6 @@
      "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28668"
     }
    ],
-   "detailAt": "2026-10-20",
-   "detailOk": true,
-   "score": 12,
-   "tier": "mid",
-   "tags": [
-    "curation"
-   ],
-   "matched": [
-    "전시"
-   ]
-  },
-  {
-   "id": "momo365:28661",
-   "source": "momo365",
-   "sourceName": "모모365",
-   "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28661",
-   "title": "[월간사진] 전시·콘텐츠 담당자 채용",
-   "company": "주식회사 월간사진",
-   "region": "서울",
-   "experience": "",
-   "education": "",
-   "employmentType": "정규직",
-   "salary": "",
-   "sector": "",
-   "postedAt": "2026-10-19",
-   "startAt": "2026-10-19",
-   "deadline": "2026-10-31",
-   "deadlineText": "",
-   "summary": "사진 전문 매체 〈월간사진〉에서 전시와 콘텐츠 업무를 함께할 직원을 모집합니다. 〈월간사진〉의 콘텐츠 제작과 전시 관련 업무, 일상적인 운영 실무를 지속적으로 맡아가는 자리입니다. 관련 전공이나 문화예술기관 근무 경험이 없어도 지원할 수 있습니다. 전문 디자이너 수준의 이미지 편집 역량이나 고급 영상 편집 능력도 필요하지 않습니다. 저희가 중요하게 보는 것은 다음 세 가지입니다. - 어도비 포토샵(Photoshop)을 활용한 기본적인 이미지 편집 - SNS 콘텐츠에 대한 이해와 제작 역량 - 이메일, 전화, 대면 업무를 안정적으로 수행할 수 있는 비즈니스 커뮤니케이션…",
-   "qualifications": "3. 지원 자격\n- 학력 무관\n- 전공 무관\n- 경력 무관\n- 문화예술/출판 분야 경력 불필요\n- 관련 자격증 불필요\n- 포트폴리오 제출 불필요\n아래와 같은 이유로 지원을 망설일 필요는 없습니다.\n“미술이나 사진을 전공하지 않았습니다.”\n→ 전공은 중요하지 않습니다.\n“출판사나 갤러리에서 일해본 적이 없습니다.”\n→ 관련 경력 없이 지원할 수 있습니다.\n“Photoshop을 아주 잘하지는 못합니다.”\n→ 기본적인 이미지 편집이 가능하면 됩니다.\n“영상 편집은 잘 못합니다.”\n→ 고급 영상 편집은 필수 역량이 아닙니다.\n“포트폴리오가 없습니다.”\n→ 제출하지 않아도 됩니다.\n“문화예술 분야 경력이 없습니다.”\n→ 신입 및 다른 분야 경력자도 지원 가능합니다.",
-   "kind": "job",
-   "official": false,
-   "firstSeen": "2026-10-20",
-   "lastSeen": "2026-10-20",
-   "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=95395",
-   "attachments": [],
    "detailAt": "2026-10-20",
    "detailOk": true,
    "score": 12,
@@ -6187,7 +6368,7 @@
    "startAt": "2026-10-20",
    "deadline": "2026-10-21",
    "deadlineText": "",
-   "summary": "서울문화재단 대학로극장 쿼드QUAD HELLO, TEAM QUAD! 2026년 서울문화재단 대학로극장 쿼드(QUAD)에서 ‘TEAM QUAD’의 멤버를 모집합니다. 공연 예술에 대한 열정과 밝은 미소로 관객과 소통할 수 있는 여러분들의 많은 지원 바랍니다. ■ 모집인원 - 00명 (성별 무관) ■ 지원자격(필수) - 공연일정에 따라 주말포함 주 2회 이상 근무가 가능하신 분 - 안내원 선발 후 신입 안내원 교육 참석이 가능한 자(추후 교육 불참 시 합격이 취소됨) ※ 신입교육 일정 : 11월 18일(수), 11월 19일(목) 2일 예정(교육일정 모두 참석 시 교육비 …",
+   "summary": "서울문화재단 대학로센터 · 서울 · 일용직∙아르바이트",
    "qualifications": "■ 지원자격(필수)\n- 공연일정에 따라 주말포함 주 2회 이상 근무가 가능하신 분\n- 안내원 선발 후 신입 안내원 교육 참석이 가능한 자(추후 교육 불참 시 합격이 취소됨)\n※ 신입교육 일정 : 11월 18일(수), 11월 19일(목) 2일 예정(교육일정 모두 참석 시 교육비 지급. 중도 포기 시 지급X) *상기 일정은 추후 변경될 수 있음\n- 만 19세 이상의 건강하고 성실한 자",
    "kind": "job",
    "official": false,
@@ -7056,6 +7237,43 @@
    ]
   },
   {
+   "id": "saramin:55303728",
+   "source": "saramin",
+   "sourceName": "사람인",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55303728",
+   "title": "[양주/신입가능/5개월/셔틀버스] 서울우유 양주공장 견학안내원",
+   "company": "(주)키스템프그룹",
+   "region": "경기 양주시",
+   "experience": "경력무관",
+   "education": "고졸↑",
+   "employmentType": "계약직",
+   "salary": "227 만원",
+   "sector": "문화재, 도슨트, 큐레이터, 해설가, 관광가이드",
+   "postedAt": "2026-10-20",
+   "startAt": "2026-10-20",
+   "deadline": "2026-10-26",
+   "deadlineText": "",
+   "summary": "경기 양주시 · 계약직 · 경력무관 · 고졸↑ · 227 만원",
+   "qualifications": "경력: 경력무관\n학력: 고졸↑",
+   "kind": "job",
+   "official": false,
+   "foundBy": "문화재",
+   "firstSeen": "2026-10-17",
+   "lastSeen": "2026-10-20",
+   "score": 10,
+   "tier": "mid",
+   "tags": [
+    "curation",
+    "education"
+   ],
+   "matched": [
+    "큐레이터",
+    "도슨트",
+    "해설",
+    "문화재"
+   ]
+  },
+  {
    "id": "jobkorea:5640575",
    "source": "jobkorea",
    "sourceName": "잡코리아",
@@ -7137,40 +7355,105 @@
    ]
   },
   {
-   "id": "saramin:55303728",
+   "id": "saramin:55343822",
    "source": "saramin",
    "sourceName": "사람인",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55303728",
-   "title": "[양주/신입가능/5개월/셔틀버스] 서울우유 양주공장 견학안내원",
-   "company": "(주)키스템프그룹",
-   "region": "경기 양주시",
-   "experience": "경력무관",
-   "education": "고졸↑",
-   "employmentType": "계약직",
-   "salary": "227 만원",
-   "sector": "문화재, 도슨트, 큐레이터, 해설가, 관광가이드",
-   "postedAt": "2026-10-16",
-   "startAt": "2026-10-16",
-   "deadline": null,
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55343822",
+   "title": "[판다인] 글로벌 상품 소싱 매니저(상품발굴) 인재 모집",
+   "company": "(주)판다인",
+   "region": "서울 금천구",
+   "experience": "신입·경력",
+   "education": "초대졸↑",
+   "employmentType": "정규직",
+   "salary": "",
+   "sector": "기획MD, 바잉MD, 리빙, 상품관리, 상품분석",
+   "postedAt": "2026-10-20",
+   "startAt": "2026-10-20",
+   "deadline": "2026-11-19",
    "deadlineText": "",
-   "summary": "경기 양주시 · 계약직 · 경력무관 · 고졸↑ · 227 만원",
-   "qualifications": "경력: 경력무관\n학력: 고졸↑",
+   "summary": "서울 금천구 · 정규직 · 신입·경력 · 초대졸↑",
+   "qualifications": "경력: 신입·경력\n학력: 초대졸↑",
    "kind": "job",
    "official": false,
-   "foundBy": "문화재",
-   "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-19",
-   "score": 10,
+   "foundBy": "발굴",
+   "firstSeen": "2026-10-20",
+   "lastSeen": "2026-10-20",
+   "score": 9,
    "tier": "mid",
    "tags": [
-    "curation",
-    "education"
+    "excavation"
    ],
    "matched": [
-    "큐레이터",
-    "도슨트",
-    "해설",
-    "문화재"
+    "발굴"
+   ]
+  },
+  {
+   "id": "saramin:55343478",
+   "source": "saramin",
+   "sourceName": "사람인",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55343478",
+   "title": "[재택/본업병행] ISO 인증 소개 파트너 / 성과보수형",
+   "company": "아이티씨패스",
+   "region": "경남 창원시 성산구",
+   "experience": "경력무관",
+   "education": "학력무관",
+   "employmentType": "프리랜서",
+   "salary": "",
+   "sector": "영업, 거래처영업, 영업마케팅, 컨설팅, 경영연구소",
+   "postedAt": "2026-10-20",
+   "startAt": "2026-10-20",
+   "deadline": "2026-11-19",
+   "deadlineText": "",
+   "summary": "경남 창원시 성산구 · 프리랜서 · 경력무관 · 학력무관",
+   "qualifications": "경력: 경력무관\n학력: 학력무관",
+   "kind": "job",
+   "official": false,
+   "foundBy": "발굴",
+   "firstSeen": "2026-10-20",
+   "lastSeen": "2026-10-20",
+   "score": 9,
+   "tier": "mid",
+   "tags": [
+    "conservation"
+   ],
+   "matched": [
+    "보수"
+   ]
+  },
+  {
+   "id": "momo365:28661",
+   "source": "momo365",
+   "sourceName": "모모365",
+   "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28661",
+   "title": "[월간사진] 전시·콘텐츠 담당자 채용",
+   "company": "주식회사 월간사진",
+   "region": "서울",
+   "experience": "",
+   "education": "",
+   "employmentType": "정규직",
+   "salary": "",
+   "sector": "",
+   "postedAt": "2026-10-19",
+   "startAt": "2026-10-19",
+   "deadline": "2026-10-31",
+   "deadlineText": "",
+   "summary": "주식회사 월간사진 · 서울 · 정규직",
+   "qualifications": "3. 지원 자격\n- 학력 무관\n- 전공 무관\n- 경력 무관\n- 문화예술/출판 분야 경력 불필요\n- 관련 자격증 불필요\n- 포트폴리오 제출 불필요\n아래와 같은 이유로 지원을 망설일 필요는 없습니다.\n“미술이나 사진을 전공하지 않았습니다.”\n→ 전공은 중요하지 않습니다.\n“출판사나 갤러리에서 일해본 적이 없습니다.”\n→ 관련 경력 없이 지원할 수 있습니다.\n“Photoshop을 아주 잘하지는 못합니다.”\n→ 기본적인 이미지 편집이 가능하면 됩니다.\n“영상 편집은 잘 못합니다.”\n→ 고급 영상 편집은 필수 역량이 아닙니다.\n“포트폴리오가 없습니다.”\n→ 제출하지 않아도 됩니다.\n“문화예술 분야 경력이 없습니다.”\n→ 신입 및 다른 분야 경력자도 지원 가능합니다.",
+   "kind": "job",
+   "official": false,
+   "firstSeen": "2026-10-20",
+   "lastSeen": "2026-10-20",
+   "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=95395",
+   "attachments": [],
+   "detailAt": "2026-10-20",
+   "detailOk": true,
+   "score": 9,
+   "tier": "mid",
+   "tags": [
+    "curation"
+   ],
+   "matched": [
+    "전시"
    ]
   },
   {
@@ -7204,39 +7487,6 @@
    ],
    "matched": [
     "전시"
-   ]
-  },
-  {
-   "id": "saramin:55039192",
-   "source": "saramin",
-   "sourceName": "사람인",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55039192",
-   "title": "(신입/경력)CCTV설치 및 통신공사 & CCTV 유지보수 직원 모집",
-   "company": "(주)한국아이티에스",
-   "region": "경북 경산시",
-   "experience": "경력무관",
-   "education": "학력무관",
-   "employmentType": "정규직",
-   "salary": "",
-   "sector": "통신공사, 통신",
-   "postedAt": "2026-10-19",
-   "startAt": "2026-10-19",
-   "deadline": "2026-11-14",
-   "deadlineText": "",
-   "summary": "경북 경산시 · 정규직 · 경력무관 · 학력무관",
-   "qualifications": "경력: 경력무관\n학력: 학력무관",
-   "kind": "job",
-   "official": false,
-   "foundBy": "문화유산",
-   "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-20",
-   "score": 9,
-   "tier": "mid",
-   "tags": [
-    "conservation"
-   ],
-   "matched": [
-    "보수"
    ]
   },
   {
@@ -7341,6 +7591,39 @@
    ],
    "matched": [
     "전시"
+   ]
+  },
+  {
+   "id": "saramin:55039192",
+   "source": "saramin",
+   "sourceName": "사람인",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55039192",
+   "title": "(신입/경력)CCTV설치 및 통신공사 & CCTV 유지보수 직원 모집",
+   "company": "(주)한국아이티에스",
+   "region": "경북 경산시",
+   "experience": "경력무관",
+   "education": "학력무관",
+   "employmentType": "정규직",
+   "salary": "",
+   "sector": "통신공사, 통신",
+   "postedAt": "2026-10-19",
+   "startAt": "2026-10-19",
+   "deadline": "2026-11-14",
+   "deadlineText": "",
+   "summary": "경북 경산시 · 정규직 · 경력무관 · 학력무관",
+   "qualifications": "경력: 경력무관\n학력: 학력무관",
+   "kind": "job",
+   "official": false,
+   "foundBy": "문화유산",
+   "firstSeen": "2026-10-17",
+   "lastSeen": "2026-10-20",
+   "score": 9,
+   "tier": "mid",
+   "tags": [
+    "conservation"
+   ],
+   "matched": [
+    "보수"
    ]
   },
   {
@@ -7628,6 +7911,39 @@
    "matched": [
     "문화유산연구소",
     "문화유산"
+   ]
+  },
+  {
+   "id": "saramin:55344026",
+   "source": "saramin",
+   "sourceName": "사람인",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55344026",
+   "title": "GM한국사업장 구매본부(GPSC) 신입사원 채용",
+   "company": "한국지엠(주)",
+   "region": "인천 부평구",
+   "experience": "신입",
+   "education": "대졸↑",
+   "employmentType": "정규직",
+   "salary": "",
+   "sector": "개발구매, 물류자동화, 자동차",
+   "postedAt": "2026-10-20",
+   "startAt": "2026-10-20",
+   "deadline": "2026-11-01",
+   "deadlineText": "",
+   "summary": "인천 부평구 · 정규직 · 신입 · 대졸↑",
+   "qualifications": "경력: 신입\n학력: 대졸↑",
+   "kind": "job",
+   "official": false,
+   "foundBy": "발굴",
+   "firstSeen": "2026-10-20",
+   "lastSeen": "2026-10-20",
+   "score": 6,
+   "tier": "low",
+   "tags": [
+    "research"
+   ],
+   "matched": [
+    "한국사"
    ]
   },
   {
@@ -8316,10 +8632,10 @@
    ]
   },
   {
-   "id": "saramin:55321222",
+   "id": "saramin:55344222",
    "source": "saramin",
    "sourceName": "사람인",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55321222",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55344222",
    "title": "[중국어or영어]공장 발주/수입 담담자 정규직 채용(남양주)",
    "company": "(주)에이유테크",
    "region": "경기 남양주시",
@@ -8328,9 +8644,9 @@
    "employmentType": "정규직",
    "salary": "",
    "sector": "바이어발굴/관리, 거래처관리, 해외영업, 무역경리, 무역사무원",
-   "postedAt": "2026-10-18",
-   "startAt": "2026-10-18",
-   "deadline": "2026-11-17",
+   "postedAt": "2026-10-20",
+   "startAt": "2026-10-20",
+   "deadline": "2026-11-19",
    "deadlineText": "",
    "summary": "경기 남양주시 · 정규직 · 경력 1~2년 · 초대졸↑",
    "qualifications": "경력: 경력 1~2년\n학력: 초대졸↑",
@@ -8338,7 +8654,7 @@
    "official": false,
    "foundBy": "발굴",
    "firstSeen": "2026-10-18",
-   "lastSeen": "2026-10-18",
+   "lastSeen": "2026-10-20",
    "score": 5,
    "tier": "low",
    "tags": [
@@ -8348,6 +8664,13 @@
    "matched": [
     "발굴",
     "역사"
+   ],
+   "alsoOn": [
+    {
+     "source": "saramin",
+     "sourceName": "사람인",
+     "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55321222"
+    }
    ]
   },
   {
