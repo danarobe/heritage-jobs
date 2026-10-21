@@ -1,56 +1,56 @@
 {
- "updatedAt": "2026-10-21T00:50:05.298Z",
+ "updatedAt": "2026-10-21T08:48:44.406Z",
  "today": "2026-10-21",
- "count": 249,
- "newToday": 1,
+ "count": 255,
+ "newToday": 7,
  "sources": {
   "saramin": {
    "name": "사람인",
    "ok": true,
-   "count": 409,
-   "ms": 32998
+   "count": 413,
+   "ms": 37242
   },
   "jobkorea": {
    "name": "잡코리아",
    "ok": true,
    "count": 203,
-   "ms": 20644
+   "ms": 22061
   },
   "khs": {
    "name": "국가유산청",
    "ok": true,
    "count": 30,
-   "ms": 9508
+   "ms": 11793
   },
   "nrich": {
    "name": "국립문화유산연구원",
    "ok": true,
    "count": 20,
-   "ms": 5800
+   "ms": 8166
   },
   "kha": {
    "name": "국가유산진흥원",
    "ok": true,
    "count": 20,
-   "ms": 4449
+   "ms": 5310
   },
   "alio": {
    "name": "잡알리오",
    "ok": true,
    "count": 5,
-   "ms": 11581
+   "ms": 13677
   },
   "gojobs": {
    "name": "나라일터",
    "ok": true,
-   "count": 48,
-   "ms": 16870
+   "count": 49,
+   "ms": 17761
   },
   "momo365": {
    "name": "모모365",
    "ok": true,
    "count": 100,
-   "ms": 4727
+   "ms": 3077
   }
  },
  "categories": [
@@ -2984,6 +2984,41 @@
    ]
   },
   {
+   "id": "gojobs:306338",
+   "source": "gojobs",
+   "sourceName": "나라일터",
+   "url": "https://www.gojobs.go.kr/apmView.do?empmnsn=306338",
+   "title": "2026년 국립중앙박물관 공무원(연구직) 경력경쟁채용 서류전형 합격자 및 면접시험 공고",
+   "company": "문화체육관광부 국립중앙박물관",
+   "region": "",
+   "experience": "",
+   "education": "",
+   "employmentType": "",
+   "salary": "",
+   "sector": "",
+   "postedAt": "2026-10-21",
+   "startAt": "2026-10-21",
+   "deadline": "2026-11-02",
+   "deadlineText": "",
+   "summary": "",
+   "qualifications": "",
+   "kind": "result",
+   "official": true,
+   "foundBy": "박물관",
+   "firstSeen": "2026-10-21",
+   "lastSeen": "2026-10-21",
+   "score": 25,
+   "tier": "high",
+   "tags": [
+    "curation",
+    "research"
+   ],
+   "matched": [
+    "박물관",
+    "연구직"
+   ]
+  },
+  {
    "id": "saramin:55298222",
    "source": "saramin",
    "sourceName": "사람인",
@@ -3722,6 +3757,77 @@
    ]
   },
   {
+   "id": "saramin:55353508",
+   "source": "saramin",
+   "sourceName": "사람인",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55353508",
+   "title": "[국립농업박물관] 2026년 제5차 기간제 채용(교육, 전시운영)",
+   "company": "(주)커리어넷",
+   "region": "경기 수원시 권선구",
+   "experience": "경력1년↑",
+   "education": "학력무관",
+   "employmentType": "기간제·계약직",
+   "salary": "",
+   "sector": "전시디자인, 교육운영, 취업포털",
+   "postedAt": "2026-10-21",
+   "startAt": "2026-10-21",
+   "deadline": "2026-11-03",
+   "deadlineText": "",
+   "summary": "경기 수원시 권선구 · 기간제·계약직 · 경력1년↑ · 학력무관",
+   "qualifications": "경력: 경력1년↑\n학력: 학력무관",
+   "kind": "job",
+   "official": false,
+   "foundBy": "보존처리",
+   "firstSeen": "2026-10-21",
+   "lastSeen": "2026-10-21",
+   "score": 21,
+   "tier": "high",
+   "tags": [
+    "curation"
+   ],
+   "matched": [
+    "전시",
+    "박물관"
+   ]
+  },
+  {
+   "id": "saramin:55353138",
+   "source": "saramin",
+   "sourceName": "사람인",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55353138",
+   "title": "2026년 제6차 직원 채용(일반직 4급/5급 - 학예)",
+   "company": "국립농업박물관",
+   "region": "경기 수원시 권선구",
+   "experience": "신입·경력",
+   "education": "학력무관",
+   "employmentType": "정규직",
+   "salary": "",
+   "sector": "도슨트, 박물관, 전시디자인, 기획, 박물관·미술관",
+   "postedAt": "2026-10-21",
+   "startAt": "2026-10-21",
+   "deadline": null,
+   "deadlineText": "",
+   "summary": "경기 수원시 권선구 · 정규직 · 신입·경력 · 학력무관",
+   "qualifications": "경력: 신입·경력\n학력: 학력무관",
+   "kind": "job",
+   "official": false,
+   "foundBy": "학예",
+   "firstSeen": "2026-10-21",
+   "lastSeen": "2026-10-21",
+   "score": 21,
+   "tier": "high",
+   "tags": [
+    "curation"
+   ],
+   "matched": [
+    "학예",
+    "박물관",
+    "전시",
+    "미술관",
+    "도슨트"
+   ]
+  },
+  {
    "id": "saramin:55339419",
    "source": "saramin",
    "sourceName": "사람인",
@@ -4319,6 +4425,39 @@
    ]
   },
   {
+   "id": "gojobs:306348",
+   "source": "gojobs",
+   "sourceName": "나라일터",
+   "url": "https://www.gojobs.go.kr/apmView.do?empmnsn=306348",
+   "title": "2026년 국립전주박물관 공무직근로자(시설물관리원) 최종합격자 공고",
+   "company": "문화체육관광부 국립중앙박물관 전주박물관",
+   "region": "",
+   "experience": "",
+   "education": "",
+   "employmentType": "공무직",
+   "salary": "",
+   "sector": "",
+   "postedAt": "2026-10-21",
+   "startAt": "2026-10-21",
+   "deadline": "2026-10-28",
+   "deadlineText": "",
+   "summary": "",
+   "qualifications": "",
+   "kind": "result",
+   "official": true,
+   "foundBy": "박물관",
+   "firstSeen": "2026-10-21",
+   "lastSeen": "2026-10-21",
+   "score": 19,
+   "tier": "high",
+   "tags": [
+    "curation"
+   ],
+   "matched": [
+    "박물관"
+   ]
+  },
+  {
    "id": "jobkorea:50043708",
    "source": "jobkorea",
    "sourceName": "잡코리아",
@@ -4592,40 +4731,6 @@
     "문화유산연구원",
     "문화재",
     "문화유산"
-   ]
-  },
-  {
-   "id": "saramin:55214475",
-   "source": "saramin",
-   "sourceName": "사람인",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55214475",
-   "title": "청주대학교 직원(학예사) 채용 공고",
-   "company": "청주대학교",
-   "region": "충북 청주시 청원구",
-   "experience": "경력무관",
-   "education": "학력무관",
-   "employmentType": "기간제·계약직",
-   "salary": "",
-   "sector": "교직원, 대학교, 대학교",
-   "postedAt": "2026-10-06",
-   "startAt": "2026-10-06",
-   "deadline": null,
-   "deadlineText": "",
-   "summary": "충북 청주시 청원구 · 기간제·계약직 · 경력무관 · 학력무관",
-   "qualifications": "경력: 경력무관\n학력: 학력무관",
-   "kind": "job",
-   "official": false,
-   "foundBy": "학예",
-   "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-21",
-   "score": 18,
-   "tier": "high",
-   "tags": [
-    "curation"
-   ],
-   "matched": [
-    "학예",
-    "학예사"
    ]
   },
   {
@@ -4966,6 +5071,40 @@
      "sourceName": "모모365",
      "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28460"
     }
+   ]
+  },
+  {
+   "id": "saramin:55214475",
+   "source": "saramin",
+   "sourceName": "사람인",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55214475",
+   "title": "청주대학교 직원(학예사) 채용 공고",
+   "company": "청주대학교",
+   "region": "충북 청주시 청원구",
+   "experience": "경력무관",
+   "education": "학력무관",
+   "employmentType": "기간제·계약직",
+   "salary": "",
+   "sector": "교직원, 대학교, 대학교",
+   "postedAt": "2026-10-06",
+   "startAt": "2026-10-06",
+   "deadline": null,
+   "deadlineText": "",
+   "summary": "충북 청주시 청원구 · 기간제·계약직 · 경력무관 · 학력무관",
+   "qualifications": "경력: 경력무관\n학력: 학력무관",
+   "kind": "job",
+   "official": false,
+   "foundBy": "학예",
+   "firstSeen": "2026-10-17",
+   "lastSeen": "2026-10-21",
+   "score": 18,
+   "tier": "high",
+   "tags": [
+    "curation"
+   ],
+   "matched": [
+    "학예",
+    "학예사"
    ]
   },
   {
@@ -5565,7 +5704,7 @@
    "title": "학예팀 채용(작품 구독·아트테크 서비스/신입-2년 미만 경력)",
    "company": "오픈갤러리",
    "region": "서울 성동구",
-   "experience": "신입·경력 학력",
+   "experience": "신입 지원 가능",
    "education": "초대졸이상",
    "employmentType": "정규직",
    "salary": "회사 내규에 따름 (면접 후 결정)",
@@ -5574,8 +5713,8 @@
    "startAt": "2026-10-19",
    "deadline": "2026-10-22",
    "deadlineText": "",
-   "summary": "모집분야: 큐레이터\n고용형태: 정규직\n급여: 회사 내규에 따름 (면접 후 결정)\n근무지: 서울 성동구 성수동1가 656-75\n근무시간: 면접 후 결정",
-   "qualifications": "경력: 신입·경력 학력\n학력: 초대졸이상",
+   "summary": "서울 성동구 · 신입 지원 가능 · 문화·공연·예술, 공간디자이너, 큐레이터",
+   "qualifications": "경력: 신입 지원 가능",
    "kind": "job",
    "official": false,
    "foundBy": "학예",
@@ -5942,41 +6081,6 @@
    ]
   },
   {
-   "id": "saramin:55345722",
-   "source": "saramin",
-   "sourceName": "사람인",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55345722",
-   "title": "[정규직] 웹에이전시 상공, 영업전략팀 모집",
-   "company": "(주)상공",
-   "region": "경기 고양시 덕양구",
-   "experience": "경력무관",
-   "education": "학력무관",
-   "employmentType": "정규직",
-   "salary": "",
-   "sector": "신사업발굴, 신사업기획, 사업기획, 전략기획, 시장조사",
-   "postedAt": "2026-10-20",
-   "startAt": "2026-10-20",
-   "deadline": "2026-11-19",
-   "deadlineText": "",
-   "summary": "경기 고양시 덕양구 · 정규직 · 경력무관 · 학력무관",
-   "qualifications": "경력: 경력무관\n학력: 학력무관",
-   "kind": "job",
-   "official": false,
-   "foundBy": "발굴",
-   "firstSeen": "2026-10-20",
-   "lastSeen": "2026-10-21",
-   "score": 12,
-   "tier": "mid",
-   "tags": [
-    "curation",
-    "excavation"
-   ],
-   "matched": [
-    "전시",
-    "발굴"
-   ]
-  },
-  {
    "id": "momo365:28669",
    "source": "momo365",
    "sourceName": "모모365",
@@ -6121,6 +6225,41 @@
    ],
    "matched": [
     "문화재단"
+   ]
+  },
+  {
+   "id": "saramin:55345722",
+   "source": "saramin",
+   "sourceName": "사람인",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55345722",
+   "title": "[정규직] 웹에이전시 상공, 영업전략팀 모집",
+   "company": "(주)상공",
+   "region": "경기 고양시 덕양구",
+   "experience": "경력무관",
+   "education": "학력무관",
+   "employmentType": "정규직",
+   "salary": "",
+   "sector": "신사업발굴, 신사업기획, 사업기획, 전략기획, 시장조사",
+   "postedAt": "2026-10-20",
+   "startAt": "2026-10-20",
+   "deadline": "2026-11-19",
+   "deadlineText": "",
+   "summary": "경기 고양시 덕양구 · 정규직 · 경력무관 · 학력무관",
+   "qualifications": "경력: 경력무관\n학력: 학력무관",
+   "kind": "job",
+   "official": false,
+   "foundBy": "발굴",
+   "firstSeen": "2026-10-20",
+   "lastSeen": "2026-10-21",
+   "score": 12,
+   "tier": "mid",
+   "tags": [
+    "curation",
+    "excavation"
+   ],
+   "matched": [
+    "전시",
+    "발굴"
    ]
   },
   {
@@ -7189,6 +7328,40 @@
    ],
    "matched": [
     "전시"
+   ]
+  },
+  {
+   "id": "saramin:55356455",
+   "source": "saramin",
+   "sourceName": "사람인",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55356455",
+   "title": "[판교 바이오벤처] 비임상개발(연구기획/학술)포지션 채용",
+   "company": "알지노믹스(주)",
+   "region": "경기 성남시 분당구",
+   "experience": "경력3년↑",
+   "education": "",
+   "employmentType": "정규직",
+   "salary": "",
+   "sector": "R&D, R&D기획, 동물실험, 유전자, 학술연구",
+   "postedAt": "2026-10-21",
+   "startAt": "2026-10-21",
+   "deadline": null,
+   "deadlineText": "채용시",
+   "summary": "경기 성남시 분당구 · 정규직 · 경력3년↑",
+   "qualifications": "경력: 경력3년↑",
+   "kind": "job",
+   "official": false,
+   "foundBy": "발굴",
+   "firstSeen": "2026-10-21",
+   "lastSeen": "2026-10-21",
+   "score": 10,
+   "tier": "mid",
+   "tags": [
+    "research"
+   ],
+   "matched": [
+    "학술",
+    "학술연구"
    ]
   },
   {
@@ -8651,6 +8824,41 @@
    "matched": [
     "전시기획",
     "전시"
+   ]
+  },
+  {
+   "id": "saramin:55355833",
+   "source": "saramin",
+   "sourceName": "사람인",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55355833",
+   "title": "2026년 UNI 무역팀 (식품 수입/중국어) 경력 공채",
+   "company": "(주)유앤아이트레이드",
+   "region": "경기 광명시",
+   "experience": "경력",
+   "education": "학력무관",
+   "employmentType": "정규직",
+   "salary": "",
+   "sector": "바이어발굴/관리, 해외영업, 해외영업관리, 무역사무원, 무역MR",
+   "postedAt": "2026-10-21",
+   "startAt": "2026-10-21",
+   "deadline": "2026-12-20",
+   "deadlineText": "",
+   "summary": "경기 광명시 · 정규직 · 경력 · 학력무관",
+   "qualifications": "경력: 경력\n학력: 학력무관",
+   "kind": "job",
+   "official": false,
+   "foundBy": "발굴",
+   "firstSeen": "2026-10-21",
+   "lastSeen": "2026-10-21",
+   "score": 5,
+   "tier": "low",
+   "tags": [
+    "excavation",
+    "research"
+   ],
+   "matched": [
+    "발굴",
+    "역사"
    ]
   },
   {
