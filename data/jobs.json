@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-21T08:48:44.406Z",
+ "updatedAt": "2026-10-21T14:36:18.266Z",
  "today": "2026-10-21",
  "count": 255,
  "newToday": 7,
@@ -7,50 +7,50 @@
   "saramin": {
    "name": "사람인",
    "ok": true,
-   "count": 413,
-   "ms": 37242
+   "count": 391,
+   "ms": 30375
   },
   "jobkorea": {
    "name": "잡코리아",
    "ok": true,
    "count": 203,
-   "ms": 22061
+   "ms": 20438
   },
   "khs": {
    "name": "국가유산청",
    "ok": true,
    "count": 30,
-   "ms": 11793
+   "ms": 9152
   },
   "nrich": {
    "name": "국립문화유산연구원",
    "ok": true,
    "count": 20,
-   "ms": 8166
+   "ms": 6052
   },
   "kha": {
    "name": "국가유산진흥원",
    "ok": true,
    "count": 20,
-   "ms": 5310
+   "ms": 4161
   },
   "alio": {
    "name": "잡알리오",
    "ok": true,
    "count": 5,
-   "ms": 13677
+   "ms": 10850
   },
   "gojobs": {
    "name": "나라일터",
    "ok": true,
    "count": 49,
-   "ms": 17761
+   "ms": 15411
   },
   "momo365": {
    "name": "모모365",
    "ok": true,
    "count": 100,
-   "ms": 3077
+   "ms": 4739
   }
  },
  "categories": [
@@ -4128,49 +4128,6 @@
    ]
   },
   {
-   "id": "jobkorea:5689254",
-   "source": "jobkorea",
-   "sourceName": "잡코리아",
-   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/5689254/Ext?siteCode=WN",
-   "title": "코리아나미술관 `예비학예인력` 모집 공고",
-   "company": "(주)코리아나화장품",
-   "region": "서울 강남구",
-   "experience": "오늘 마감! 놓치지 마세요!",
-   "education": "대졸이상",
-   "employmentType": "계약직",
-   "salary": "월급 ~210만원",
-   "sector": "월급 ~210만원",
-   "postedAt": "2026-10-14",
-   "startAt": "2026-10-14",
-   "deadline": "2026-10-21",
-   "deadlineText": "",
-   "summary": "서울 강남구 · 오늘 마감! 놓치지 마세요! · 월급 ~210만원 · 월급 ~210만원",
-   "qualifications": "경력: 오늘 마감! 놓치지 마세요!",
-   "kind": "job",
-   "official": false,
-   "foundBy": "학예",
-   "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-21",
-   "detailAt": "2026-10-20",
-   "detailOk": true,
-   "score": 20,
-   "tier": "high",
-   "tags": [
-    "curation"
-   ],
-   "matched": [
-    "학예",
-    "미술관"
-   ],
-   "alsoOn": [
-    {
-     "source": "saramin",
-     "sourceName": "사람인",
-     "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55293117"
-    }
-   ]
-  },
-  {
    "id": "saramin:55229693",
    "source": "saramin",
    "sourceName": "사람인",
@@ -4731,6 +4688,13 @@
     "문화유산연구원",
     "문화재",
     "문화유산"
+   ],
+   "alsoOn": [
+    {
+     "source": "saramin",
+     "sourceName": "사람인",
+     "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55358994"
+    }
    ]
   },
   {
@@ -4839,6 +4803,49 @@
    "matched": [
     "학예",
     "미술관"
+   ]
+  },
+  {
+   "id": "jobkorea:5689254",
+   "source": "jobkorea",
+   "sourceName": "잡코리아",
+   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/5689254/Ext?siteCode=WN",
+   "title": "코리아나미술관 `예비학예인력` 모집 공고",
+   "company": "(주)코리아나화장품",
+   "region": "서울 강남구",
+   "experience": "오늘 마감! 놓치지 마세요!",
+   "education": "대졸이상",
+   "employmentType": "계약직",
+   "salary": "월급 ~210만원",
+   "sector": "월급 ~210만원",
+   "postedAt": "2026-10-14",
+   "startAt": "2026-10-14",
+   "deadline": "2026-10-21",
+   "deadlineText": "",
+   "summary": "서울 강남구 · 오늘 마감! 놓치지 마세요! · 월급 ~210만원 · 월급 ~210만원",
+   "qualifications": "경력: 오늘 마감! 놓치지 마세요!",
+   "kind": "job",
+   "official": false,
+   "foundBy": "학예",
+   "firstSeen": "2026-10-17",
+   "lastSeen": "2026-10-21",
+   "detailAt": "2026-10-20",
+   "detailOk": true,
+   "score": 18,
+   "tier": "high",
+   "tags": [
+    "curation"
+   ],
+   "matched": [
+    "학예",
+    "미술관"
+   ],
+   "alsoOn": [
+    {
+     "source": "saramin",
+     "sourceName": "사람인",
+     "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55293117"
+    }
    ]
   },
   {
