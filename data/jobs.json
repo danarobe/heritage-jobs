@@ -1,56 +1,56 @@
 {
- "updatedAt": "2026-10-22T00:52:37.179Z",
+ "updatedAt": "2026-10-22T08:50:43.836Z",
  "today": "2026-10-22",
- "count": 256,
- "newToday": 4,
+ "count": 265,
+ "newToday": 13,
  "sources": {
   "saramin": {
    "name": "사람인",
    "ok": true,
-   "count": 384,
-   "ms": 31250
+   "count": 390,
+   "ms": 30789
   },
   "jobkorea": {
    "name": "잡코리아",
-   "ok": true,
-   "count": 201,
-   "ms": 21754
+   "ok": false,
+   "error": "fetch failed",
+   "ms": 36075
   },
   "khs": {
    "name": "국가유산청",
    "ok": true,
    "count": 30,
-   "ms": 11140
+   "ms": 9619
   },
   "nrich": {
    "name": "국립문화유산연구원",
    "ok": true,
    "count": 20,
-   "ms": 7214
+   "ms": 6035
   },
   "kha": {
    "name": "국가유산진흥원",
    "ok": true,
    "count": 20,
-   "ms": 4820
+   "ms": 4506
   },
   "alio": {
    "name": "잡알리오",
    "ok": true,
-   "count": 4,
-   "ms": 12427
+   "count": 5,
+   "ms": 12728
   },
   "gojobs": {
    "name": "나라일터",
    "ok": true,
-   "count": 49,
-   "ms": 18426
+   "count": 48,
+   "ms": 15894
   },
   "momo365": {
    "name": "모모365",
    "ok": true,
    "count": 100,
-   "ms": 2915
+   "ms": 2580
   }
  },
  "categories": [
@@ -471,7 +471,7 @@
    "salary": "",
    "sector": "국립경주문화유산연구소",
    "postedAt": "2026-09-28",
-   "startAt": "2026-10-06",
+   "startAt": "2026-09-28",
    "deadline": "2026-10-15",
    "deadlineText": "",
    "summary": "국립경주문화유산연구소 공고 제2026 -16호 국립경주문화유산연구소에서 금척리 고분군 기간제근로자(연구원 가급-고고)를 다음과 같이 공개모집하오니, 많은 지원 바랍니다. 2026년 9월 28일 국립경주문화유산연구소장 1. 채용개요 - 직급/인원: 연구원 가급 1명 - 모집 분야: 고고 - 담당 업무: 경주 금척리 고분군 발굴현장조사 업무 등 2. 채용일정 - 채용 공고: 2026. 9. 28.(월) ~ 10. 9.(금) - 원서 접수: 2026. 10. 6.(화) ~ 10. 9.(금) 18:00 - 서류 전형 합격자 발표: 2026. 10. 15.(목) 예정 - 면접…",
@@ -900,7 +900,7 @@
    "experience": "경력무관",
    "education": "대졸↑",
    "employmentType": "정규직",
-   "salary": "회사 내규에 따름 (면접 후 결정)",
+   "salary": "",
    "sector": "연구원, 학술연구, 매장유산조사, 연구원",
    "postedAt": "2026-10-01",
    "startAt": "2026-10-01",
@@ -926,13 +926,6 @@
     "학술연구",
     "학술",
     "문화유산"
-   ],
-   "alsoOn": [
-    {
-     "source": "jobkorea",
-     "sourceName": "잡코리아",
-     "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50090914"
-    }
    ]
   },
   {
@@ -973,96 +966,6 @@
      "source": "nrich",
      "sourceName": "국립문화유산연구원",
      "url": "https://www.nrich.go.kr/kor/boardView.do?menuIdx=285&bbscd=40&bbs_idx=48401"
-    }
-   ]
-  },
-  {
-   "id": "saramin:55274447",
-   "source": "saramin",
-   "sourceName": "사람인",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55274447",
-   "title": "(재)금강문화유산연구원 채용공고",
-   "company": "(재)금강문화유산연구원",
-   "region": "대전 유성구",
-   "experience": "경력무관",
-   "education": "대졸↑",
-   "employmentType": "정규직",
-   "salary": "회사 내규에 따름 (면접 후 결정)",
-   "sector": "학술연구, 연구소",
-   "postedAt": "2026-10-13",
-   "startAt": "2026-10-13",
-   "deadline": null,
-   "deadlineText": "채용시",
-   "summary": "대전 유성구 · 정규직 · 경력무관 · 대졸↑",
-   "qualifications": "경력: 경력무관\n학력: 대졸↑",
-   "kind": "job",
-   "official": false,
-   "foundBy": "문화유산",
-   "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-22",
-   "score": 37,
-   "tier": "high",
-   "tags": [
-    "excavation",
-    "research"
-   ],
-   "matched": [
-    "문화유산연구원",
-    "학술연구",
-    "학술",
-    "문화유산"
-   ],
-   "alsoOn": [
-    {
-     "source": "jobkorea",
-     "sourceName": "잡코리아",
-     "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50159257"
-    }
-   ]
-  },
-  {
-   "id": "saramin:55175752",
-   "source": "saramin",
-   "sourceName": "사람인",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55175752",
-   "title": "재단법인 충청문화유산연구원 채용공고",
-   "company": "(재)충청문화유산연구원",
-   "region": "충남 공주시",
-   "experience": "경력무관",
-   "education": "대졸↑",
-   "employmentType": "정규직",
-   "salary": "2,800 만원",
-   "sector": "연구원, 연구소",
-   "postedAt": "2026-10-01",
-   "startAt": "2026-10-01",
-   "deadline": "2026-11-30",
-   "deadlineText": "",
-   "summary": "충남 공주시 · 정규직 · 경력무관 · 대졸↑ · 2,800 만원",
-   "qualifications": "경력: 경력무관\n학력: 대졸↑",
-   "kind": "job",
-   "official": false,
-   "foundBy": "보존처리",
-   "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-22",
-   "score": 37,
-   "tier": "high",
-   "tags": [
-    "excavation"
-   ],
-   "matched": [
-    "문화유산연구원",
-    "문화유산"
-   ],
-   "alsoOn": [
-    {
-     "source": "saramin",
-     "sourceName": "사람인",
-     "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55195750"
-    },
-    {
-     "source": "jobkorea",
-     "sourceName": "잡코리아",
-     "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50089781"
     }
    ]
   },
@@ -1223,6 +1126,51 @@
    ]
   },
   {
+   "id": "momo365:28440",
+   "source": "momo365",
+   "sourceName": "모모365",
+   "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28440",
+   "title": "[대림문화재단] 대림미술관 / 디뮤지엄 전시 도슨트 모집",
+   "company": "(재)대림문화재단",
+   "region": "서울",
+   "experience": "",
+   "education": "",
+   "employmentType": "임기∙계약직",
+   "salary": "",
+   "sector": "",
+   "postedAt": "2026-09-23",
+   "startAt": "2026-09-23",
+   "deadline": "2026-10-05",
+   "deadlineText": "",
+   "summary": "(재)대림문화재단 · 서울 · 임기∙계약직",
+   "qualifications": "(2) 자격요건\n- 성별 무관, 성실하고 약속을 잘 지키는 분\n- 주말, 공휴일 근무 및 전시 종료일까지 근무 가능한 자\n- 문화예술에 관심이 높고 평소 도슨트 투어를 즐겨 듣는분\n- 타인과의 원활한 커뮤니케이션 능력 및 스피치 역량 우수자\n- 상황에 따라 유연한 대처가 가능하며 적극적인 리더십 소유하신 분",
+   "kind": "job",
+   "official": false,
+   "firstSeen": "2026-10-17",
+   "lastSeen": "2026-10-22",
+   "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=95094",
+   "attachments": [
+    {
+     "name": "(재)대림문화재단_대림미술관,디뮤지엄도슨트지원서.docx",
+     "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28440"
+    }
+   ],
+   "detailAt": "2026-10-17",
+   "detailOk": true,
+   "score": 36,
+   "tier": "high",
+   "tags": [
+    "curation",
+    "institution"
+   ],
+   "matched": [
+    "전시",
+    "미술관",
+    "도슨트",
+    "문화재단"
+   ]
+  },
+  {
    "id": "gojobs:304858",
    "source": "gojobs",
    "sourceName": "나라일터",
@@ -1268,51 +1216,6 @@
     "학예",
     "학예연구",
     "연구사"
-   ]
-  },
-  {
-   "id": "momo365:28440",
-   "source": "momo365",
-   "sourceName": "모모365",
-   "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28440",
-   "title": "[대림문화재단] 대림미술관 / 디뮤지엄 전시 도슨트 모집",
-   "company": "(재)대림문화재단",
-   "region": "서울",
-   "experience": "",
-   "education": "",
-   "employmentType": "임기∙계약직",
-   "salary": "",
-   "sector": "",
-   "postedAt": "2026-09-23",
-   "startAt": "2026-09-23",
-   "deadline": "2026-10-05",
-   "deadlineText": "",
-   "summary": "(재)대림문화재단 · 서울 · 임기∙계약직",
-   "qualifications": "(2) 자격요건\n- 성별 무관, 성실하고 약속을 잘 지키는 분\n- 주말, 공휴일 근무 및 전시 종료일까지 근무 가능한 자\n- 문화예술에 관심이 높고 평소 도슨트 투어를 즐겨 듣는분\n- 타인과의 원활한 커뮤니케이션 능력 및 스피치 역량 우수자\n- 상황에 따라 유연한 대처가 가능하며 적극적인 리더십 소유하신 분",
-   "kind": "job",
-   "official": false,
-   "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-22",
-   "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=95094",
-   "attachments": [
-    {
-     "name": "(재)대림문화재단_대림미술관,디뮤지엄도슨트지원서.docx",
-     "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28440"
-    }
-   ],
-   "detailAt": "2026-10-17",
-   "detailOk": true,
-   "score": 36,
-   "tier": "high",
-   "tags": [
-    "curation",
-    "institution"
-   ],
-   "matched": [
-    "전시",
-    "미술관",
-    "도슨트",
-    "문화재단"
    ]
   },
   {
@@ -1747,7 +1650,7 @@
    "experience": "신입",
    "education": "대졸",
    "employmentType": "계약직",
-   "salary": "월급 215 ~215 만원",
+   "salary": "",
    "sector": "문화재, 박물관·미술관",
    "postedAt": "2026-10-14",
    "startAt": "2026-10-14",
@@ -1770,13 +1673,6 @@
     "미술관",
     "박물관",
     "문화재"
-   ],
-   "alsoOn": [
-    {
-     "source": "jobkorea",
-     "sourceName": "잡코리아",
-     "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/5679882/Ext?siteCode=WN"
-    }
    ]
   },
   {
@@ -1810,6 +1706,43 @@
    ],
    "matched": [
     "문화유산연구소",
+    "문화유산"
+   ]
+  },
+  {
+   "id": "saramin:55274447",
+   "source": "saramin",
+   "sourceName": "사람인",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55274447",
+   "title": "(재)금강문화유산연구원 채용공고",
+   "company": "(재)금강문화유산연구원",
+   "region": "대전 유성구",
+   "experience": "경력무관",
+   "education": "대졸↑",
+   "employmentType": "정규직",
+   "salary": "",
+   "sector": "학술연구, 연구소",
+   "postedAt": "2026-10-13",
+   "startAt": "2026-10-13",
+   "deadline": null,
+   "deadlineText": "채용시",
+   "summary": "대전 유성구 · 정규직 · 경력무관 · 대졸↑",
+   "qualifications": "경력: 경력무관\n학력: 대졸↑",
+   "kind": "job",
+   "official": false,
+   "foundBy": "문화유산",
+   "firstSeen": "2026-10-17",
+   "lastSeen": "2026-10-22",
+   "score": 31,
+   "tier": "high",
+   "tags": [
+    "excavation",
+    "research"
+   ],
+   "matched": [
+    "문화유산연구원",
+    "학술연구",
+    "학술",
     "문화유산"
    ]
   },
@@ -2086,6 +2019,53 @@
     "학예",
     "미술관",
     "문화재단"
+   ]
+  },
+  {
+   "id": "gojobs:306409",
+   "source": "gojobs",
+   "sourceName": "나라일터",
+   "url": "https://www.gojobs.go.kr/apmView.do?empmnsn=306409",
+   "title": "서대문자연사박물관 일반임기제공무원(학예연구분야) 채용 공고",
+   "company": "서울특별시 서대문구",
+   "region": "서울특별시 서대문구",
+   "experience": "",
+   "education": "",
+   "employmentType": "임기제",
+   "salary": "",
+   "sector": "",
+   "postedAt": "2026-10-22",
+   "startAt": "2026-11-03",
+   "deadline": "2026-11-05",
+   "deadlineText": "",
+   "summary": "채용직급: 일반임기제공무원6급 1명\n근무지역: 서울특별시 서대문구\n<채용분야 및 선발예정인원> * 채용분야: 학예연구분야 * 채용등급: 일반임기제공무원 6급 * 채용인원: 1명 * 근무예정부서: 서대문자연사박물관 * 원서 접수기간: 2026. 11. 3.(화) ~ 2026. 11. 5.(목) <평일 3일간 09:00~18:00> ※중식시간(12:00~13:00)제외 * 접수장소 : 서대문자연사박물관 사무동 1층 사무실(서대문구 연희로32길 51, ☎02-330-8859)",
+   "qualifications": "",
+   "kind": "job",
+   "official": true,
+   "foundBy": "학예",
+   "firstSeen": "2026-10-22",
+   "lastSeen": "2026-10-22",
+   "attachments": [
+    {
+     "name": "공고문(게시용).pdf",
+     "url": "https://www.gojobs.go.kr/apmView.do?empmnsn=306409"
+    },
+    {
+     "name": "3. 응시원서 등.hwp",
+     "url": "https://www.gojobs.go.kr/apmView.do?empmnsn=306409"
+    }
+   ],
+   "detailAt": "2026-10-22",
+   "detailOk": true,
+   "score": 28,
+   "tier": "high",
+   "tags": [
+    "curation"
+   ],
+   "matched": [
+    "학예",
+    "학예연구",
+    "박물관"
    ]
   },
   {
@@ -2476,6 +2456,84 @@
    ]
   },
   {
+   "id": "saramin:55175752",
+   "source": "saramin",
+   "sourceName": "사람인",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55175752",
+   "title": "재단법인 충청문화유산연구원 채용공고",
+   "company": "(재)충청문화유산연구원",
+   "region": "충남 공주시",
+   "experience": "경력무관",
+   "education": "대졸↑",
+   "employmentType": "정규직",
+   "salary": "2,800 만원",
+   "sector": "연구원, 연구소",
+   "postedAt": "2026-10-01",
+   "startAt": "2026-10-01",
+   "deadline": "2026-11-30",
+   "deadlineText": "",
+   "summary": "충남 공주시 · 정규직 · 경력무관 · 대졸↑ · 2,800 만원",
+   "qualifications": "경력: 경력무관\n학력: 대졸↑",
+   "kind": "job",
+   "official": false,
+   "foundBy": "보존처리",
+   "firstSeen": "2026-10-17",
+   "lastSeen": "2026-10-22",
+   "score": 27,
+   "tier": "high",
+   "tags": [
+    "excavation"
+   ],
+   "matched": [
+    "문화유산연구원",
+    "문화유산"
+   ],
+   "alsoOn": [
+    {
+     "source": "saramin",
+     "sourceName": "사람인",
+     "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55195750"
+    }
+   ]
+  },
+  {
+   "id": "khs:34583",
+   "source": "khs",
+   "sourceName": "국가유산청",
+   "url": "https://www.khs.go.kr/multiBbz/selectMultiBbzView.do?id=9985&no=34583&bbzId=newexam&pageIndex=3&pageUnit=10&strWhere=&searchWrd=&sdate=&edate=&mn=NS_01_06",
+   "title": "2026년 궁능유적본부 복원정비과 3차 공무직 근로자 공개경쟁채용 서류전형 합격자 및 면접시험 일정 공고",
+   "company": "국가유산청",
+   "region": "",
+   "experience": "",
+   "education": "",
+   "employmentType": "공무직",
+   "salary": "",
+   "sector": "",
+   "postedAt": "2026-09-30",
+   "startAt": "2026-09-30",
+   "deadline": "2026-10-15",
+   "deadlineText": "",
+   "summary": "",
+   "qualifications": "",
+   "kind": "result",
+   "official": true,
+   "author": "안미정",
+   "firstSeen": "2026-10-17",
+   "lastSeen": "2026-10-22",
+   "score": 27,
+   "tier": "high",
+   "tags": [
+    "conservation",
+    "institution"
+   ],
+   "matched": [
+    "복원",
+    "궁능유적본부",
+    "국가유산청",
+    "국가유산"
+   ]
+  },
+  {
    "id": "jobkorea:50147554",
    "source": "jobkorea",
    "sourceName": "잡코리아",
@@ -2548,40 +2606,39 @@
    ]
   },
   {
-   "id": "khs:34583",
-   "source": "khs",
-   "sourceName": "국가유산청",
-   "url": "https://www.khs.go.kr/multiBbz/selectMultiBbzView.do?id=9985&no=34583&bbzId=newexam&pageIndex=3&pageUnit=10&strWhere=&searchWrd=&sdate=&edate=&mn=NS_01_06",
-   "title": "2026년 궁능유적본부 복원정비과 3차 공무직 근로자 공개경쟁채용 서류전형 합격자 및 면접시험 일정 공고",
-   "company": "국가유산청",
-   "region": "",
-   "experience": "",
-   "education": "",
-   "employmentType": "공무직",
+   "id": "saramin:55363157",
+   "source": "saramin",
+   "sourceName": "사람인",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55363157",
+   "title": "[경주] 책임감리 보수기술자 문화재수리기술자(보수)",
+   "company": "(주)볕터건축사사무소",
+   "region": "경북 경주시",
+   "experience": "경력무관",
+   "education": "대졸↑",
+   "employmentType": "계약직",
    "salary": "",
-   "sector": "",
-   "postedAt": "2026-09-30",
-   "startAt": "2026-09-30",
-   "deadline": "2026-10-15",
+   "sector": "감리원, CAD, 건축계획, 실시설계, 건축",
+   "postedAt": "2026-10-22",
+   "startAt": "2026-10-22",
+   "deadline": "2026-12-04",
    "deadlineText": "",
-   "summary": "",
-   "qualifications": "",
-   "kind": "result",
-   "official": true,
-   "author": "안미정",
-   "firstSeen": "2026-10-17",
+   "summary": "경북 경주시 · 계약직 · 경력무관 · 대졸↑",
+   "qualifications": "경력: 경력무관\n학력: 대졸↑",
+   "kind": "job",
+   "official": false,
+   "foundBy": "국가유산",
+   "firstSeen": "2026-10-22",
    "lastSeen": "2026-10-22",
-   "score": 27,
+   "score": 26,
    "tier": "high",
    "tags": [
-    "conservation",
-    "institution"
+    "conservation"
    ],
    "matched": [
-    "복원",
-    "궁능유적본부",
-    "국가유산청",
-    "국가유산"
+    "수리기술자",
+    "문화재수리",
+    "보수",
+    "문화재"
    ]
   },
   {
@@ -3055,51 +3112,6 @@
    ]
   },
   {
-   "id": "saramin:55298222",
-   "source": "saramin",
-   "sourceName": "사람인",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55298222",
-   "title": "개성 만월대 사업 학예 직원 채용",
-   "company": "(사)남북역사학자협의회",
-   "region": "서울 종로구",
-   "experience": "신입·경력",
-   "education": "대학원(석사)이상",
-   "employmentType": "기간제·계약직",
-   "salary": "회사 내규에 따름 (면접 후 결정)",
-   "sector": "교육기획, 문화기획, 사업기획, 사업관리, 협회",
-   "postedAt": "2026-10-15",
-   "startAt": "2026-10-15",
-   "deadline": "2026-10-30",
-   "deadlineText": "",
-   "summary": "서울 종로구 · 기간제·계약직 · 신입·경력",
-   "qualifications": "경력: 신입·경력",
-   "kind": "job",
-   "official": false,
-   "foundBy": "학예",
-   "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-22",
-   "score": 25,
-   "tier": "high",
-   "tags": [
-    "curation",
-    "education",
-    "research"
-   ],
-   "matched": [
-    "학예",
-    "문화기획",
-    "역사",
-    "사학"
-   ],
-   "alsoOn": [
-    {
-     "source": "jobkorea",
-     "sourceName": "잡코리아",
-     "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50175357"
-    }
-   ]
-  },
-  {
    "id": "saramin:55344267",
    "source": "saramin",
    "sourceName": "사람인",
@@ -3246,42 +3258,6 @@
    ]
   },
   {
-   "id": "jobkorea:5605665",
-   "source": "jobkorea",
-   "sourceName": "잡코리아",
-   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/5605665/Ext?siteCode=WN",
-   "title": "신생 박물관에서 학예직원을 모집합니다.",
-   "company": "에로스박물관",
-   "region": "전남광주 신안군",
-   "experience": "경력무관",
-   "education": "대졸이상",
-   "employmentType": "계약직",
-   "salary": "월급 ~250만원",
-   "sector": "월급 ~250만원",
-   "postedAt": "2026-09-02",
-   "startAt": "2026-09-02",
-   "deadline": "2026-10-31",
-   "deadlineText": "",
-   "summary": "전남광주 신안군 · 경력무관 · 월급 ~250만원 · 월급 ~250만원",
-   "qualifications": "경력: 경력무관",
-   "kind": "job",
-   "official": false,
-   "foundBy": "박물관 학예",
-   "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-22",
-   "detailAt": "2026-10-17",
-   "detailOk": true,
-   "score": 24,
-   "tier": "high",
-   "tags": [
-    "curation"
-   ],
-   "matched": [
-    "학예",
-    "박물관"
-   ]
-  },
-  {
    "id": "khs:34592",
    "source": "khs",
    "sourceName": "국가유산청",
@@ -3329,6 +3305,42 @@
    "matched": [
     "전통문화",
     "전통문화대학교"
+   ]
+  },
+  {
+   "id": "jobkorea:5605665",
+   "source": "jobkorea",
+   "sourceName": "잡코리아",
+   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/5605665/Ext?siteCode=WN",
+   "title": "신생 박물관에서 학예직원을 모집합니다.",
+   "company": "에로스박물관",
+   "region": "전남광주 신안군",
+   "experience": "경력무관",
+   "education": "대졸이상",
+   "employmentType": "계약직",
+   "salary": "월급 ~250만원",
+   "sector": "월급 ~250만원",
+   "postedAt": "2026-09-02",
+   "startAt": "2026-09-02",
+   "deadline": "2026-10-31",
+   "deadlineText": "",
+   "summary": "전남광주 신안군 · 경력무관 · 월급 ~250만원 · 월급 ~250만원",
+   "qualifications": "경력: 경력무관",
+   "kind": "job",
+   "official": false,
+   "foundBy": "박물관 학예",
+   "firstSeen": "2026-10-17",
+   "lastSeen": "2026-10-22",
+   "detailAt": "2026-10-17",
+   "detailOk": true,
+   "score": 24,
+   "tier": "high",
+   "tags": [
+    "curation"
+   ],
+   "matched": [
+    "학예",
+    "박물관"
    ]
   },
   {
@@ -3562,6 +3574,51 @@
     "도슨트",
     "해설",
     "역사"
+   ]
+  },
+  {
+   "id": "gojobs:306394",
+   "source": "gojobs",
+   "sourceName": "나라일터",
+   "url": "https://www.gojobs.go.kr/apmView.do?empmnsn=306394",
+   "title": "국립청주박물관 공무직 근로자(전기) 채용 공고",
+   "company": "문화체육관광부 국립중앙박물관 청주박물관",
+   "region": "충청북도 청주시 상당구",
+   "experience": "",
+   "education": "",
+   "employmentType": "공무직",
+   "salary": "",
+   "sector": "",
+   "postedAt": "2026-10-22",
+   "startAt": "2026-10-22",
+   "deadline": "2026-10-30",
+   "deadlineText": "",
+   "summary": "채용직급: 공무직(시설물관리원) 1명\n근무지역: 충청북도 청주시 상당구\n[국립청주박물관 공고 제2026-33호] 국립청주박물관 공무직 근로자(전기) 채용공고 국립청주박물관(기획운영과)에서 공무직 근로자(전기)를 다음과 같이 공개 모집하오니 많은 지원 바랍니다. - 채용분야: 시설물관리원(전기) - 채용인원: 1명 - 채용예정일: 2026. 12. 7.(월) (예정) 기타 자세한 사항은 첨부된 공고문을 참고하시기 바랍니다. 2026년 10월 22일 국립청주박물관장",
+   "qualifications": "",
+   "kind": "job",
+   "official": true,
+   "foundBy": "박물관",
+   "firstSeen": "2026-10-22",
+   "lastSeen": "2026-10-22",
+   "attachments": [
+    {
+     "name": "(공고) 2026년 국립청주박물관 기획운영과 공무직 근로자(전기) 채용 공고문.hwpx",
+     "url": "https://www.gojobs.go.kr/apmView.do?empmnsn=306394"
+    },
+    {
+     "name": "(공고) 2026년 국립청주박물관 기획운영과 공무직 근로자(전기) 채용 공고문.pdf",
+     "url": "https://www.gojobs.go.kr/apmView.do?empmnsn=306394"
+    }
+   ],
+   "detailAt": "2026-10-22",
+   "detailOk": true,
+   "score": 22,
+   "tier": "high",
+   "tags": [
+    "curation"
+   ],
+   "matched": [
+    "박물관"
    ]
   },
   {
@@ -3970,6 +4027,52 @@
    ]
   },
   {
+   "id": "gojobs:303986",
+   "source": "gojobs",
+   "sourceName": "나라일터",
+   "url": "https://www.gojobs.go.kr/apmView.do?empmnsn=303986",
+   "title": "2026년 제10회 전주시 지방임기제공무원 임용계획 공고(인권옹호팀장, 문화유산관리, 한옥마을디자인, 영상홍보, 전주시민기록관)",
+   "company": "전북특별자치도 전주시",
+   "region": "전북특별자치도 전주시",
+   "experience": "",
+   "education": "",
+   "employmentType": "임기제",
+   "salary": "",
+   "sector": "",
+   "postedAt": "2026-09-18",
+   "startAt": "2026-09-18",
+   "deadline": "2026-09-29",
+   "deadlineText": "",
+   "summary": "채용직급: 지방행정6급 1명 지방행정7급 1명 지방시설(건축)7급 1명 지방공업(기계)7급 1명 시간선택제임기제나급 1명\n근무지역: 전북특별자치도 전주시\n전주시인사위원회 공고 제2026-27호 전주시 지방임기제공무원 임용계획 공고 2026년 제10회 전주시 지방임기제공무원 임용시험 시행계획을 붙임과 같이 공고하오니 유능한 인재들의 많은 응모 바랍니다! 2026년 9월 18일 전주시인사위원회위원장 ※ 접수기간 : 2026. 9. 23.(수) ~ 9. 29.(화) / 3일간",
+   "qualifications": "",
+   "kind": "job",
+   "official": true,
+   "foundBy": "유산",
+   "firstSeen": "2026-10-17",
+   "lastSeen": "2026-10-22",
+   "attachments": [
+    {
+     "name": "★공고문(2026년 제10회).pdf",
+     "url": "https://www.gojobs.go.kr/apmView.do?empmnsn=303986"
+    },
+    {
+     "name": "응시자 제출서류.hwpx",
+     "url": "https://www.gojobs.go.kr/apmView.do?empmnsn=303986"
+    }
+   ],
+   "detailAt": "2026-10-17",
+   "detailOk": true,
+   "score": 21,
+   "tier": "high",
+   "tags": [
+    "architecture"
+   ],
+   "matched": [
+    "한옥",
+    "문화유산"
+   ]
+  },
+  {
    "id": "jobkorea:49973014",
    "source": "jobkorea",
    "sourceName": "잡코리아",
@@ -4118,49 +4221,38 @@
    ]
   },
   {
-   "id": "gojobs:303986",
-   "source": "gojobs",
-   "sourceName": "나라일터",
-   "url": "https://www.gojobs.go.kr/apmView.do?empmnsn=303986",
-   "title": "2026년 제10회 전주시 지방임기제공무원 임용계획 공고(인권옹호팀장, 문화유산관리, 한옥마을디자인, 영상홍보, 전주시민기록관)",
-   "company": "전북특별자치도 전주시",
-   "region": "전북특별자치도 전주시",
-   "experience": "",
-   "education": "",
-   "employmentType": "임기제",
+   "id": "saramin:55362388",
+   "source": "saramin",
+   "sourceName": "사람인",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55362388",
+   "title": "(주)엔가드 보존처리·연구(건설·건축) 신입·경력 채용 공고",
+   "company": "(주)엔가드",
+   "region": "경기 성남시 중원구",
+   "experience": "경력무관",
+   "education": "학력무관",
+   "employmentType": "정규직",
    "salary": "",
-   "sector": "",
-   "postedAt": "2026-09-18",
-   "startAt": "2026-09-18",
-   "deadline": "2026-09-29",
+   "sector": "연구원, 문화재, 관급공사, 시공사",
+   "postedAt": "2026-10-22",
+   "startAt": "2026-10-22",
+   "deadline": "2026-11-21",
    "deadlineText": "",
-   "summary": "채용직급: 지방행정6급 1명 지방행정7급 1명 지방시설(건축)7급 1명 지방공업(기계)7급 1명 시간선택제임기제나급 1명\n근무지역: 전북특별자치도 전주시\n전주시인사위원회 공고 제2026-27호 전주시 지방임기제공무원 임용계획 공고 2026년 제10회 전주시 지방임기제공무원 임용시험 시행계획을 붙임과 같이 공고하오니 유능한 인재들의 많은 응모 바랍니다! 2026년 9월 18일 전주시인사위원회위원장 ※ 접수기간 : 2026. 9. 23.(수) ~ 9. 29.(화) / 3일간",
-   "qualifications": "",
+   "summary": "경기 성남시 중원구 · 정규직 · 경력무관 · 학력무관",
+   "qualifications": "경력: 경력무관\n학력: 학력무관",
    "kind": "job",
-   "official": true,
-   "foundBy": "유산",
-   "firstSeen": "2026-10-17",
+   "official": false,
+   "foundBy": "보존처리",
+   "firstSeen": "2026-10-22",
    "lastSeen": "2026-10-22",
-   "attachments": [
-    {
-     "name": "★공고문(2026년 제10회).pdf",
-     "url": "https://www.gojobs.go.kr/apmView.do?empmnsn=303986"
-    },
-    {
-     "name": "응시자 제출서류.hwpx",
-     "url": "https://www.gojobs.go.kr/apmView.do?empmnsn=303986"
-    }
-   ],
-   "detailAt": "2026-10-17",
-   "detailOk": true,
-   "score": 21,
+   "score": 20,
    "tier": "high",
    "tags": [
-    "architecture"
+    "conservation"
    ],
    "matched": [
-    "한옥",
-    "문화유산"
+    "보존처리",
+    "보존",
+    "문화재"
    ]
   },
   {
@@ -4487,50 +4579,6 @@
    ]
   },
   {
-   "id": "jobkorea:50043708",
-   "source": "jobkorea",
-   "sourceName": "잡코리아",
-   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50043708",
-   "title": "[PKM갤러리] 전시팀장 모집 공고",
-   "company": "피케이엠갤러리",
-   "region": "서울 종로구",
-   "experience": "경력3년↑",
-   "education": "대졸이상",
-   "employmentType": "정규직",
-   "salary": "회사 내규에 따름 (면접 후 결정)",
-   "sector": "문화·공연·예술, 경영·비즈니스기획, 큐레이터",
-   "postedAt": "2026-09-23",
-   "startAt": "2026-09-23",
-   "deadline": "2026-10-23",
-   "deadlineText": "",
-   "summary": "서울 종로구 · 경력3년↑ · 문화·공연·예술, 경영·비즈니스기획, 큐레이터",
-   "qualifications": "경력: 경력3년↑",
-   "kind": "job",
-   "official": false,
-   "foundBy": "학예",
-   "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-22",
-   "detailAt": "2026-10-20",
-   "detailOk": true,
-   "score": 19,
-   "tier": "high",
-   "tags": [
-    "curation",
-    "research"
-   ],
-   "matched": [
-    "전시",
-    "큐레이터"
-   ],
-   "alsoOn": [
-    {
-     "source": "momo365",
-     "sourceName": "모모365",
-     "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28441"
-    }
-   ]
-  },
-  {
    "id": "gojobs:304364",
    "source": "gojobs",
    "sourceName": "나라일터",
@@ -4693,6 +4741,53 @@
    ]
   },
   {
+   "id": "momo365:28441",
+   "source": "momo365",
+   "sourceName": "모모365",
+   "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28441",
+   "title": "[PKM갤러리] 전시팀장 모집 공고",
+   "company": "(주)피케이엠갤러리",
+   "region": "서울",
+   "experience": "경력3년↑",
+   "education": "대졸이상",
+   "employmentType": "정규직",
+   "salary": "회사 내규에 따름 (면접 후 결정)",
+   "sector": "",
+   "postedAt": "2026-09-23",
+   "startAt": "2026-09-23",
+   "deadline": "2026-10-01",
+   "deadlineText": "",
+   "summary": "PKM갤러리에서 전시팀 팀장을 모집합니다. ● 모집분야 및 인원 PKM갤러리 전시팀 팀장 1명 ● 업무내용 - 전시팀 운영 및 팀원 관리 - 인하우스 학예 및 전시 총괄 - 전속작가 리에종 외 ● 근무조건 - 근무시작일: 10월 초·중순 (협의 가능) - 근무일시: 주5일제 (화-토 l 09:00-18:00 근무) - 근무지역: 서울 종로구 삼청동 - 급여: 면접 시 협의 - 복리후생: 4대보험, 연차휴가, 퇴직연금 - 채용형태: 정규직 (수습기간 3개월) ● 지원자격 - 유관업무 경력 3년 이상인 자 - 미술 관련학과 (미술사학, 예술학, 미술경영, 미술이론, 미술…",
+   "qualifications": "● 지원자격\n- 유관업무 경력 3년 이상인 자\n- 미술 관련학과 (미술사학, 예술학, 미술경영, 미술이론, 미술교육, 순수미술 또는 이외 관련학과) 전공 학사 또는 석사 학위 취득자\n- 영어 작문 및 회화 능숙한 자\n- 팀 리드 경험 있는 자 우대\n- 컴퓨터 프로그램 사용 능숙자 우대 (MS Office, Adobe 등)\n● 지원방법\n- 접수기간: 2026년 9월 23일 (수) ~ 채용 시 마감",
+   "kind": "job",
+   "official": false,
+   "firstSeen": "2026-10-17",
+   "lastSeen": "2026-10-22",
+   "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=95093",
+   "attachments": [],
+   "detailAt": "2026-10-22",
+   "detailOk": true,
+   "score": 19,
+   "tier": "high",
+   "tags": [
+    "curation",
+    "research"
+   ],
+   "matched": [
+    "전시",
+    "학예",
+    "미술사",
+    "사학"
+   ],
+   "alsoOn": [
+    {
+     "source": "jobkorea",
+     "sourceName": "잡코리아",
+     "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50043708"
+    }
+   ]
+  },
+  {
    "id": "gojobs:305393",
    "source": "gojobs",
    "sourceName": "나라일터",
@@ -4805,6 +4900,47 @@
    ]
   },
   {
+   "id": "saramin:55366219",
+   "source": "saramin",
+   "sourceName": "사람인",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55366219",
+   "title": "청주대학교 직원(학예사) 채용 공고",
+   "company": "청주대학교",
+   "region": "충북 청주시 청원구",
+   "experience": "경력무관",
+   "education": "학력무관",
+   "employmentType": "기간제·계약직",
+   "salary": "",
+   "sector": "교직원, 대학교, 대학교",
+   "postedAt": "2026-10-22",
+   "startAt": "2026-10-22",
+   "deadline": "2026-11-04",
+   "deadlineText": "",
+   "summary": "충북 청주시 청원구 · 기간제·계약직 · 경력무관 · 학력무관",
+   "qualifications": "경력: 경력무관\n학력: 학력무관",
+   "kind": "job",
+   "official": false,
+   "foundBy": "학예",
+   "firstSeen": "2026-10-17",
+   "lastSeen": "2026-10-22",
+   "score": 18,
+   "tier": "high",
+   "tags": [
+    "curation"
+   ],
+   "matched": [
+    "학예",
+    "학예사"
+   ],
+   "alsoOn": [
+    {
+     "source": "saramin",
+     "sourceName": "사람인",
+     "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55214475"
+    }
+   ]
+  },
+  {
    "id": "saramin:55214539",
    "source": "saramin",
    "sourceName": "사람인",
@@ -4836,80 +4972,6 @@
    "matched": [
     "전시",
     "박물관"
-   ]
-  },
-  {
-   "id": "jobkorea:50076092",
-   "source": "jobkorea",
-   "sourceName": "잡코리아",
-   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50076092",
-   "title": "한국사/역사 체험학습 프리랜서 강사 모집",
-   "company": "꿈꾸는해치",
-   "region": "서울 용산구",
-   "experience": "신입 지원 가능",
-   "education": "대졸이상",
-   "employmentType": "프리랜서",
-   "salary": "건별 50,000원",
-   "sector": "학원·어학원·교육원, 학원강사",
-   "postedAt": "2026-09-30",
-   "startAt": "2026-09-30",
-   "deadline": "2026-11-29",
-   "deadlineText": "",
-   "summary": "서울 용산구 · 신입 지원 가능 · 학원·어학원·교육원, 학원강사",
-   "qualifications": "경력: 신입 지원 가능",
-   "kind": "job",
-   "official": false,
-   "foundBy": "문화유산",
-   "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-22",
-   "detailAt": "2026-10-17",
-   "detailOk": true,
-   "score": 18,
-   "tier": "high",
-   "tags": [
-    "education",
-    "research"
-   ],
-   "matched": [
-    "체험",
-    "역사",
-    "한국사"
-   ]
-  },
-  {
-   "id": "jobkorea:50097351",
-   "source": "jobkorea",
-   "sourceName": "잡코리아",
-   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50097351",
-   "title": "'26년 경력채용-미술관 학예 및 운영 담당",
-   "company": "㈜아모레퍼시픽",
-   "region": "서울 용산구",
-   "experience": "오늘 마감! 놓치지 마세요!",
-   "education": "대졸이상",
-   "employmentType": "정규직",
-   "salary": "회사 내규에 따름",
-   "sector": "생활화학·화장품, 마케팅기획",
-   "postedAt": "2026-10-02",
-   "startAt": "2026-10-02",
-   "deadline": "2026-10-22",
-   "deadlineText": "",
-   "summary": "서울 용산구 · 오늘 마감! 놓치지 마세요! · 생활화학·화장품, 마케팅기획",
-   "qualifications": "경력: 오늘 마감! 놓치지 마세요!",
-   "kind": "job",
-   "official": false,
-   "foundBy": "학예",
-   "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-22",
-   "detailAt": "2026-10-17",
-   "detailOk": true,
-   "score": 18,
-   "tier": "high",
-   "tags": [
-    "curation"
-   ],
-   "matched": [
-    "학예",
-    "미술관"
    ]
   },
   {
@@ -5145,6 +5207,80 @@
    ]
   },
   {
+   "id": "jobkorea:50076092",
+   "source": "jobkorea",
+   "sourceName": "잡코리아",
+   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50076092",
+   "title": "한국사/역사 체험학습 프리랜서 강사 모집",
+   "company": "꿈꾸는해치",
+   "region": "서울 용산구",
+   "experience": "신입 지원 가능",
+   "education": "대졸이상",
+   "employmentType": "프리랜서",
+   "salary": "건별 50,000원",
+   "sector": "학원·어학원·교육원, 학원강사",
+   "postedAt": "2026-09-30",
+   "startAt": "2026-09-30",
+   "deadline": "2026-11-29",
+   "deadlineText": "",
+   "summary": "서울 용산구 · 신입 지원 가능 · 학원·어학원·교육원, 학원강사",
+   "qualifications": "경력: 신입 지원 가능",
+   "kind": "job",
+   "official": false,
+   "foundBy": "문화유산",
+   "firstSeen": "2026-10-17",
+   "lastSeen": "2026-10-22",
+   "detailAt": "2026-10-17",
+   "detailOk": true,
+   "score": 18,
+   "tier": "high",
+   "tags": [
+    "education",
+    "research"
+   ],
+   "matched": [
+    "체험",
+    "역사",
+    "한국사"
+   ]
+  },
+  {
+   "id": "jobkorea:50097351",
+   "source": "jobkorea",
+   "sourceName": "잡코리아",
+   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50097351",
+   "title": "'26년 경력채용-미술관 학예 및 운영 담당",
+   "company": "㈜아모레퍼시픽",
+   "region": "서울 용산구",
+   "experience": "오늘 마감! 놓치지 마세요!",
+   "education": "대졸이상",
+   "employmentType": "정규직",
+   "salary": "회사 내규에 따름",
+   "sector": "생활화학·화장품, 마케팅기획",
+   "postedAt": "2026-10-02",
+   "startAt": "2026-10-02",
+   "deadline": "2026-10-22",
+   "deadlineText": "",
+   "summary": "서울 용산구 · 오늘 마감! 놓치지 마세요! · 생활화학·화장품, 마케팅기획",
+   "qualifications": "경력: 오늘 마감! 놓치지 마세요!",
+   "kind": "job",
+   "official": false,
+   "foundBy": "학예",
+   "firstSeen": "2026-10-17",
+   "lastSeen": "2026-10-22",
+   "detailAt": "2026-10-17",
+   "detailOk": true,
+   "score": 18,
+   "tier": "high",
+   "tags": [
+    "curation"
+   ],
+   "matched": [
+    "학예",
+    "미술관"
+   ]
+  },
+  {
    "id": "jobkorea:5689254",
    "source": "jobkorea",
    "sourceName": "잡코리아",
@@ -5185,40 +5321,6 @@
      "sourceName": "사람인",
      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55293117"
     }
-   ]
-  },
-  {
-   "id": "saramin:55214475",
-   "source": "saramin",
-   "sourceName": "사람인",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55214475",
-   "title": "청주대학교 직원(학예사) 채용 공고",
-   "company": "청주대학교",
-   "region": "충북 청주시 청원구",
-   "experience": "경력무관",
-   "education": "학력무관",
-   "employmentType": "기간제·계약직",
-   "salary": "",
-   "sector": "교직원, 대학교, 대학교",
-   "postedAt": "2026-10-06",
-   "startAt": "2026-10-06",
-   "deadline": null,
-   "deadlineText": "",
-   "summary": "충북 청주시 청원구 · 기간제·계약직 · 경력무관 · 학력무관",
-   "qualifications": "경력: 경력무관\n학력: 학력무관",
-   "kind": "job",
-   "official": false,
-   "foundBy": "학예",
-   "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-21",
-   "score": 18,
-   "tier": "high",
-   "tags": [
-    "curation"
-   ],
-   "matched": [
-    "학예",
-    "학예사"
    ]
   },
   {
@@ -5450,42 +5552,6 @@
    ]
   },
   {
-   "id": "jobkorea:50182902",
-   "source": "jobkorea",
-   "sourceName": "잡코리아",
-   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50182902",
-   "title": "건축사사무소 간향 문화재설계 정규직 채용",
-   "company": "건축사사무소간향",
-   "region": "경북 경산시",
-   "experience": "신입 지원 가능",
-   "education": "초대졸이상",
-   "employmentType": "정규직",
-   "salary": "연봉 ~3,000만원",
-   "sector": "건축·설비·환경, 설계엔지니어",
-   "postedAt": "2026-10-16",
-   "startAt": "2026-10-16",
-   "deadline": "2026-12-15",
-   "deadlineText": "",
-   "summary": "경북 경산시 · 신입 지원 가능 · 건축·설비·환경, 설계엔지니어 · 연봉 ~3,000만원",
-   "qualifications": "경력: 신입 지원 가능",
-   "kind": "job",
-   "official": false,
-   "foundBy": "문화재",
-   "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-22",
-   "detailAt": "2026-10-17",
-   "detailOk": true,
-   "score": 17,
-   "tier": "high",
-   "tags": [
-    "architecture"
-   ],
-   "matched": [
-    "문화재설계",
-    "문화재"
-   ]
-  },
-  {
    "id": "momo365:28459",
    "source": "momo365",
    "sourceName": "모모365",
@@ -5523,6 +5589,42 @@
     "문화재단",
     "국립박물관",
     "박물관문화재단"
+   ]
+  },
+  {
+   "id": "jobkorea:50182902",
+   "source": "jobkorea",
+   "sourceName": "잡코리아",
+   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50182902",
+   "title": "건축사사무소 간향 문화재설계 정규직 채용",
+   "company": "건축사사무소간향",
+   "region": "경북 경산시",
+   "experience": "신입 지원 가능",
+   "education": "초대졸이상",
+   "employmentType": "정규직",
+   "salary": "연봉 ~3,000만원",
+   "sector": "건축·설비·환경, 설계엔지니어",
+   "postedAt": "2026-10-16",
+   "startAt": "2026-10-16",
+   "deadline": "2026-12-15",
+   "deadlineText": "",
+   "summary": "경북 경산시 · 신입 지원 가능 · 건축·설비·환경, 설계엔지니어 · 연봉 ~3,000만원",
+   "qualifications": "경력: 신입 지원 가능",
+   "kind": "job",
+   "official": false,
+   "foundBy": "문화재",
+   "firstSeen": "2026-10-17",
+   "lastSeen": "2026-10-22",
+   "detailAt": "2026-10-17",
+   "detailOk": true,
+   "score": 17,
+   "tier": "high",
+   "tags": [
+    "architecture"
+   ],
+   "matched": [
+    "문화재설계",
+    "문화재"
    ]
   },
   {
@@ -5811,31 +5913,29 @@
    ]
   },
   {
-   "id": "jobkorea:50199425",
-   "source": "jobkorea",
-   "sourceName": "잡코리아",
-   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50199425",
-   "title": "학예팀 채용(작품 구독·아트테크 서비스/신입-2년 미만 경력)",
-   "company": "오픈갤러리",
+   "id": "saramin:55368001",
+   "source": "saramin",
+   "sourceName": "사람인",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55368001",
+   "title": "학예팀 채용(작품 구독·아트테크 서비스/신입~2년 미만 경력)",
+   "company": "(주)오픈갤러리",
    "region": "서울 성동구",
-   "experience": "오늘 마감! 놓치지 마세요!",
-   "education": "초대졸이상",
+   "experience": "신입·경력",
+   "education": "초대졸↑",
    "employmentType": "정규직",
    "salary": "회사 내규에 따름 (면접 후 결정)",
-   "sector": "문화·공연·예술, 공간디자이너, 큐레이터",
-   "postedAt": "2026-10-19",
-   "startAt": "2026-10-19",
-   "deadline": "2026-10-22",
+   "sector": "큐레이터, 도슨트, 공간디자인, 학예사, 전자상거래",
+   "postedAt": "2026-10-22",
+   "startAt": "2026-10-22",
+   "deadline": "2026-10-30",
    "deadlineText": "",
-   "summary": "서울 성동구 · 오늘 마감! 놓치지 마세요! · 문화·공연·예술, 공간디자이너, 큐레이터",
-   "qualifications": "경력: 오늘 마감! 놓치지 마세요!",
+   "summary": "서울 성동구 · 정규직 · 신입·경력 · 초대졸↑",
+   "qualifications": "경력: 신입·경력\n학력: 초대졸↑",
    "kind": "job",
    "official": false,
    "foundBy": "학예",
    "firstSeen": "2026-10-19",
    "lastSeen": "2026-10-22",
-   "detailAt": "2026-10-21",
-   "detailOk": true,
    "score": 15,
    "tier": "high",
    "tags": [
@@ -5843,13 +5943,20 @@
    ],
    "matched": [
     "학예",
-    "큐레이터"
+    "학예사",
+    "큐레이터",
+    "도슨트"
    ],
    "alsoOn": [
     {
      "source": "saramin",
      "sourceName": "사람인",
      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55331294"
+    },
+    {
+     "source": "jobkorea",
+     "sourceName": "잡코리아",
+     "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50199425"
     }
    ]
   },
@@ -5931,38 +6038,41 @@
    ]
   },
   {
-   "id": "jobkorea:50169429",
-   "source": "jobkorea",
-   "sourceName": "잡코리아",
-   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50169429",
-   "title": "권정호미술관 `에듀케이터` 모집 공고 (2026 전문인력 지원사업)",
-   "company": "권정호 미술관",
-   "region": "대구 동구",
-   "experience": "경력무관",
-   "education": "대졸이상",
-   "employmentType": "계약직",
-   "salary": "월급 230~260만원",
-   "sector": "문화·공연·예술, 학교·특수학교교사",
-   "postedAt": "2026-10-14",
-   "startAt": "2026-10-14",
-   "deadline": "2026-10-24",
+   "id": "saramin:55298222",
+   "source": "saramin",
+   "sourceName": "사람인",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55298222",
+   "title": "개성 만월대 사업 학예 직원 채용",
+   "company": "(사)남북역사학자협의회",
+   "region": "서울 종로구",
+   "experience": "신입·경력",
+   "education": "",
+   "employmentType": "기간제·계약직",
+   "salary": "",
+   "sector": "교육기획, 문화기획, 사업기획, 사업관리, 협회",
+   "postedAt": "2026-10-15",
+   "startAt": "2026-10-15",
+   "deadline": "2026-10-30",
    "deadlineText": "",
-   "summary": "대구 동구 · 경력무관 · 문화·공연·예술, 학교·특수학교교사 · 월급 230~260만원",
-   "qualifications": "경력: 경력무관",
+   "summary": "서울 종로구 · 기간제·계약직 · 신입·경력",
+   "qualifications": "경력: 신입·경력",
    "kind": "job",
    "official": false,
-   "foundBy": "박물관 학예",
+   "foundBy": "학예",
    "firstSeen": "2026-10-17",
    "lastSeen": "2026-10-22",
-   "detailAt": "2026-10-17",
-   "detailOk": true,
    "score": 15,
    "tier": "high",
    "tags": [
-    "curation"
+    "curation",
+    "education",
+    "research"
    ],
    "matched": [
-    "미술관"
+    "학예",
+    "문화기획",
+    "역사",
+    "사학"
    ]
   },
   {
@@ -6094,6 +6204,41 @@
    "matched": [
     "전시",
     "문화재단"
+   ]
+  },
+  {
+   "id": "jobkorea:50169429",
+   "source": "jobkorea",
+   "sourceName": "잡코리아",
+   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50169429",
+   "title": "권정호미술관 `에듀케이터` 모집 공고 (2026 전문인력 지원사업)",
+   "company": "권정호 미술관",
+   "region": "대구 동구",
+   "experience": "경력무관",
+   "education": "대졸이상",
+   "employmentType": "계약직",
+   "salary": "월급 230~260만원",
+   "sector": "문화·공연·예술, 학교·특수학교교사",
+   "postedAt": "2026-10-14",
+   "startAt": "2026-10-14",
+   "deadline": "2026-10-24",
+   "deadlineText": "",
+   "summary": "대구 동구 · 경력무관 · 문화·공연·예술, 학교·특수학교교사 · 월급 230~260만원",
+   "qualifications": "경력: 경력무관",
+   "kind": "job",
+   "official": false,
+   "foundBy": "박물관 학예",
+   "firstSeen": "2026-10-17",
+   "lastSeen": "2026-10-22",
+   "detailAt": "2026-10-17",
+   "detailOk": true,
+   "score": 15,
+   "tier": "high",
+   "tags": [
+    "curation"
+   ],
+   "matched": [
+    "미술관"
    ]
   },
   {
@@ -6405,42 +6550,6 @@
    "tags": [],
    "matched": [
     "문화유산"
-   ]
-  },
-  {
-   "id": "jobkorea:50117542",
-   "source": "jobkorea",
-   "sourceName": "잡코리아",
-   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50117542",
-   "title": "뮤지엄호두 학예책임자 채용 공고",
-   "company": "뮤지엄호두㈜",
-   "region": "충남 천안시",
-   "experience": "유연근무제 시행중",
-   "education": "대학원(석사)이상",
-   "employmentType": "정규직",
-   "salary": "회사 내규에 따름 (면접 후 결정)",
-   "sector": "문화·공연·예술, 큐레이터",
-   "postedAt": "2026-10-06",
-   "startAt": "2026-10-06",
-   "deadline": "2026-11-05",
-   "deadlineText": "",
-   "summary": "충남 천안시 · 유연근무제 시행중 · 문화·공연·예술, 큐레이터",
-   "qualifications": "경력: 유연근무제 시행중",
-   "kind": "job",
-   "official": false,
-   "foundBy": "학예",
-   "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-22",
-   "detailAt": "2026-10-17",
-   "detailOk": true,
-   "score": 12,
-   "tier": "mid",
-   "tags": [
-    "curation"
-   ],
-   "matched": [
-    "학예",
-    "큐레이터"
    ]
   },
   {
@@ -7376,6 +7485,42 @@
    ]
   },
   {
+   "id": "jobkorea:50117542",
+   "source": "jobkorea",
+   "sourceName": "잡코리아",
+   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50117542",
+   "title": "뮤지엄호두 학예책임자 채용 공고",
+   "company": "뮤지엄호두㈜",
+   "region": "충남 천안시",
+   "experience": "유연근무제 시행중",
+   "education": "대학원(석사)이상",
+   "employmentType": "정규직",
+   "salary": "회사 내규에 따름 (면접 후 결정)",
+   "sector": "문화·공연·예술, 큐레이터",
+   "postedAt": "2026-10-06",
+   "startAt": "2026-10-06",
+   "deadline": "2026-11-05",
+   "deadlineText": "",
+   "summary": "충남 천안시 · 유연근무제 시행중 · 문화·공연·예술, 큐레이터",
+   "qualifications": "경력: 유연근무제 시행중",
+   "kind": "job",
+   "official": false,
+   "foundBy": "학예",
+   "firstSeen": "2026-10-17",
+   "lastSeen": "2026-10-22",
+   "detailAt": "2026-10-17",
+   "detailOk": true,
+   "score": 12,
+   "tier": "mid",
+   "tags": [
+    "curation"
+   ],
+   "matched": [
+    "학예",
+    "큐레이터"
+   ]
+  },
+  {
    "id": "jobkorea:49818164",
    "source": "jobkorea",
    "sourceName": "잡코리아",
@@ -7550,42 +7695,6 @@
    ]
   },
   {
-   "id": "jobkorea:5640575",
-   "source": "jobkorea",
-   "sourceName": "잡코리아",
-   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/5640575/Ext?siteCode=WN",
-   "title": "연구원 사무행정직 직원채용",
-   "company": "재단법인 영해문화유산연구원",
-   "region": "전남광주 북구",
-   "experience": "경력",
-   "education": "초대졸이상",
-   "employmentType": "계약직",
-   "salary": "월급 ~250만원",
-   "sector": "월급 ~250만원",
-   "postedAt": "2026-09-21",
-   "startAt": "2026-09-21",
-   "deadline": "2026-11-20",
-   "deadlineText": "",
-   "summary": "전남광주 북구 · 경력 · 월급 ~250만원 · 월급 ~250만원",
-   "qualifications": "경력: 경력",
-   "kind": "job",
-   "official": false,
-   "foundBy": "문화유산",
-   "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-22",
-   "detailAt": "2026-10-17",
-   "detailOk": true,
-   "score": 10,
-   "tier": "mid",
-   "tags": [
-    "excavation"
-   ],
-   "matched": [
-    "문화유산연구원",
-    "문화유산"
-   ]
-  },
-  {
    "id": "gojobs:304065",
    "source": "gojobs",
    "sourceName": "나라일터",
@@ -7628,6 +7737,141 @@
    ],
    "matched": [
     "문화재단"
+   ]
+  },
+  {
+   "id": "jobkorea:5640575",
+   "source": "jobkorea",
+   "sourceName": "잡코리아",
+   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/5640575/Ext?siteCode=WN",
+   "title": "연구원 사무행정직 직원채용",
+   "company": "재단법인 영해문화유산연구원",
+   "region": "전남광주 북구",
+   "experience": "경력",
+   "education": "초대졸이상",
+   "employmentType": "계약직",
+   "salary": "월급 ~250만원",
+   "sector": "월급 ~250만원",
+   "postedAt": "2026-09-21",
+   "startAt": "2026-09-21",
+   "deadline": "2026-11-20",
+   "deadlineText": "",
+   "summary": "전남광주 북구 · 경력 · 월급 ~250만원 · 월급 ~250만원",
+   "qualifications": "경력: 경력",
+   "kind": "job",
+   "official": false,
+   "foundBy": "문화유산",
+   "firstSeen": "2026-10-17",
+   "lastSeen": "2026-10-22",
+   "detailAt": "2026-10-17",
+   "detailOk": true,
+   "score": 10,
+   "tier": "mid",
+   "tags": [
+    "excavation"
+   ],
+   "matched": [
+    "문화유산연구원",
+    "문화유산"
+   ]
+  },
+  {
+   "id": "saramin:55367305",
+   "source": "saramin",
+   "sourceName": "사람인",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55367305",
+   "title": "[쿼터풀] 일본 작가 발굴 및 콘텐츠 수급",
+   "company": "주식회사쿼터풀(QuarterFullInc.)",
+   "region": "경기 성남시 분당구",
+   "experience": "경력무관",
+   "education": "학력무관",
+   "employmentType": "정규직",
+   "salary": "",
+   "sector": "사업개발, 사업제휴, B2B, 기업영업, 출판기획",
+   "postedAt": "2026-10-22",
+   "startAt": "2026-10-22",
+   "deadline": "2026-11-21",
+   "deadlineText": "",
+   "summary": "경기 성남시 분당구 · 정규직 · 경력무관 · 학력무관",
+   "qualifications": "경력: 경력무관\n학력: 학력무관",
+   "kind": "job",
+   "official": false,
+   "foundBy": "발굴",
+   "firstSeen": "2026-10-22",
+   "lastSeen": "2026-10-22",
+   "score": 9,
+   "tier": "mid",
+   "tags": [
+    "excavation"
+   ],
+   "matched": [
+    "발굴"
+   ]
+  },
+  {
+   "id": "saramin:55367294",
+   "source": "saramin",
+   "sourceName": "사람인",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55367294",
+   "title": "[쿼터풀] 대만 작가 발굴 및 콘텐츠 수급",
+   "company": "주식회사쿼터풀(QuarterFullInc.)",
+   "region": "경기 성남시 분당구",
+   "experience": "경력무관",
+   "education": "학력무관",
+   "employmentType": "정규직",
+   "salary": "",
+   "sector": "사업개발, 사업제휴, B2B, 기업영업, 출판기획",
+   "postedAt": "2026-10-22",
+   "startAt": "2026-10-22",
+   "deadline": "2026-11-21",
+   "deadlineText": "",
+   "summary": "경기 성남시 분당구 · 정규직 · 경력무관 · 학력무관",
+   "qualifications": "경력: 경력무관\n학력: 학력무관",
+   "kind": "job",
+   "official": false,
+   "foundBy": "발굴",
+   "firstSeen": "2026-10-22",
+   "lastSeen": "2026-10-22",
+   "score": 9,
+   "tier": "mid",
+   "tags": [
+    "excavation"
+   ],
+   "matched": [
+    "발굴"
+   ]
+  },
+  {
+   "id": "saramin:55367258",
+   "source": "saramin",
+   "sourceName": "사람인",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55367258",
+   "title": "[쿼터풀] 미국 작가 발굴 및 콘텐츠 수급",
+   "company": "주식회사쿼터풀(QuarterFullInc.)",
+   "region": "경기 성남시 분당구",
+   "experience": "경력무관",
+   "education": "학력무관",
+   "employmentType": "정규직",
+   "salary": "",
+   "sector": "사업개발, 사업제휴, B2B, 기업영업, 출판기획",
+   "postedAt": "2026-10-22",
+   "startAt": "2026-10-22",
+   "deadline": "2026-11-21",
+   "deadlineText": "",
+   "summary": "경기 성남시 분당구 · 정규직 · 경력무관 · 학력무관",
+   "qualifications": "경력: 경력무관\n학력: 학력무관",
+   "kind": "job",
+   "official": false,
+   "foundBy": "발굴",
+   "firstSeen": "2026-10-22",
+   "lastSeen": "2026-10-22",
+   "score": 9,
+   "tier": "mid",
+   "tags": [
+    "excavation"
+   ],
+   "matched": [
+    "발굴"
    ]
   },
   {
@@ -7865,41 +8109,6 @@
    ]
   },
   {
-   "id": "jobkorea:50143248",
-   "source": "jobkorea",
-   "sourceName": "잡코리아",
-   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50143248",
-   "title": "IT인프라 통합유지보수 사업·계약관리 담당 채용",
-   "company": "㈜미래아이엔텍",
-   "region": "서울 중구",
-   "experience": "경력3년↑",
-   "education": "학력무관",
-   "employmentType": "정규직",
-   "salary": "회사 내규에 따름 (면접 후 결정)",
-   "sector": "솔루션·SI·CRM·ERP, PL·PM·PO, IT·기술영업",
-   "postedAt": "2026-10-12",
-   "startAt": "2026-10-12",
-   "deadline": "2026-11-11",
-   "deadlineText": "",
-   "summary": "서울 중구 · 경력3년↑ · 솔루션·SI·CRM·ERP, PL·PM·PO, IT·기술영업",
-   "qualifications": "경력: 경력3년↑",
-   "kind": "job",
-   "official": false,
-   "foundBy": "보존처리",
-   "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-22",
-   "detailAt": "2026-10-17",
-   "detailOk": true,
-   "score": 9,
-   "tier": "mid",
-   "tags": [
-    "conservation"
-   ],
-   "matched": [
-    "보수"
-   ]
-  },
-  {
    "id": "momo365:28510",
    "source": "momo365",
    "sourceName": "모모365",
@@ -7933,6 +8142,41 @@
    ],
    "matched": [
     "전시"
+   ]
+  },
+  {
+   "id": "jobkorea:50143248",
+   "source": "jobkorea",
+   "sourceName": "잡코리아",
+   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50143248",
+   "title": "IT인프라 통합유지보수 사업·계약관리 담당 채용",
+   "company": "㈜미래아이엔텍",
+   "region": "서울 중구",
+   "experience": "경력3년↑",
+   "education": "학력무관",
+   "employmentType": "정규직",
+   "salary": "회사 내규에 따름 (면접 후 결정)",
+   "sector": "솔루션·SI·CRM·ERP, PL·PM·PO, IT·기술영업",
+   "postedAt": "2026-10-12",
+   "startAt": "2026-10-12",
+   "deadline": "2026-11-11",
+   "deadlineText": "",
+   "summary": "서울 중구 · 경력3년↑ · 솔루션·SI·CRM·ERP, PL·PM·PO, IT·기술영업",
+   "qualifications": "경력: 경력3년↑",
+   "kind": "job",
+   "official": false,
+   "foundBy": "보존처리",
+   "firstSeen": "2026-10-17",
+   "lastSeen": "2026-10-22",
+   "detailAt": "2026-10-17",
+   "detailOk": true,
+   "score": 9,
+   "tier": "mid",
+   "tags": [
+    "conservation"
+   ],
+   "matched": [
+    "보수"
    ]
   },
   {
@@ -8387,13 +8631,6 @@
    ],
    "matched": [
     "기록물"
-   ],
-   "alsoOn": [
-    {
-     "source": "jobkorea",
-     "sourceName": "잡코리아",
-     "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50181637"
-    }
    ]
   },
   {
@@ -8428,13 +8665,6 @@
    "matched": [
     "전시기획",
     "전시"
-   ],
-   "alsoOn": [
-    {
-     "source": "jobkorea",
-     "sourceName": "잡코리아",
-     "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50171045"
-    }
    ]
   },
   {
@@ -8469,79 +8699,6 @@
    "matched": [
     "전시기획",
     "전시"
-   ],
-   "alsoOn": [
-    {
-     "source": "jobkorea",
-     "sourceName": "잡코리아",
-     "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50149318"
-    }
-   ]
-  },
-  {
-   "id": "jobkorea:50062408",
-   "source": "jobkorea",
-   "sourceName": "잡코리아",
-   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50062408",
-   "title": "문화기획자 채용 공고",
-   "company": "문화플랫폼아티온",
-   "region": "경기 고양시",
-   "experience": "유연근무제 시행중",
-   "education": "",
-   "employmentType": "",
-   "salary": "월급 230만원~",
-   "sector": "문화·공연·예술, 경영·비즈니스기획, 웹기획, 마케팅기획",
-   "postedAt": null,
-   "startAt": null,
-   "deadline": null,
-   "deadlineText": "",
-   "summary": "경기 고양시 · 유연근무제 시행중 · 문화·공연·예술, 경영·비즈니스기획, 웹기획, 마케팅기획 · 월급 230만원~",
-   "qualifications": "경력: 유연근무제 시행중",
-   "kind": "job",
-   "official": false,
-   "foundBy": "국가유산",
-   "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-22",
-   "score": 6,
-   "tier": "low",
-   "tags": [
-    "education"
-   ],
-   "matched": [
-    "문화기획"
-   ]
-  },
-  {
-   "id": "jobkorea:49840889",
-   "source": "jobkorea",
-   "sourceName": "잡코리아",
-   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49840889",
-   "title": "[유니크스튜디오] 아카이빙 팀원 채용 (기록물관리요원 자격증 우대)",
-   "company": "㈜유니크스튜디오",
-   "region": "서울 동대문구",
-   "experience": "유연근무제 시행중",
-   "education": "",
-   "employmentType": "",
-   "salary": "",
-   "sector": "공기업·공공기관, 사서",
-   "postedAt": null,
-   "startAt": null,
-   "deadline": null,
-   "deadlineText": "",
-   "summary": "서울 동대문구 · 유연근무제 시행중 · 공기업·공공기관, 사서",
-   "qualifications": "경력: 유연근무제 시행중",
-   "kind": "job",
-   "official": false,
-   "foundBy": "문화유산",
-   "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-22",
-   "score": 6,
-   "tier": "low",
-   "tags": [
-    "research"
-   ],
-   "matched": [
-    "기록물"
    ]
   },
   {
@@ -8837,6 +8994,72 @@
    ],
    "matched": [
     "문화재단"
+   ]
+  },
+  {
+   "id": "jobkorea:50062408",
+   "source": "jobkorea",
+   "sourceName": "잡코리아",
+   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50062408",
+   "title": "문화기획자 채용 공고",
+   "company": "문화플랫폼아티온",
+   "region": "경기 고양시",
+   "experience": "유연근무제 시행중",
+   "education": "",
+   "employmentType": "",
+   "salary": "월급 230만원~",
+   "sector": "문화·공연·예술, 경영·비즈니스기획, 웹기획, 마케팅기획",
+   "postedAt": null,
+   "startAt": null,
+   "deadline": null,
+   "deadlineText": "",
+   "summary": "경기 고양시 · 유연근무제 시행중 · 문화·공연·예술, 경영·비즈니스기획, 웹기획, 마케팅기획 · 월급 230만원~",
+   "qualifications": "경력: 유연근무제 시행중",
+   "kind": "job",
+   "official": false,
+   "foundBy": "국가유산",
+   "firstSeen": "2026-10-17",
+   "lastSeen": "2026-10-22",
+   "score": 6,
+   "tier": "low",
+   "tags": [
+    "education"
+   ],
+   "matched": [
+    "문화기획"
+   ]
+  },
+  {
+   "id": "jobkorea:49840889",
+   "source": "jobkorea",
+   "sourceName": "잡코리아",
+   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49840889",
+   "title": "[유니크스튜디오] 아카이빙 팀원 채용 (기록물관리요원 자격증 우대)",
+   "company": "㈜유니크스튜디오",
+   "region": "서울 동대문구",
+   "experience": "유연근무제 시행중",
+   "education": "",
+   "employmentType": "",
+   "salary": "",
+   "sector": "공기업·공공기관, 사서",
+   "postedAt": null,
+   "startAt": null,
+   "deadline": null,
+   "deadlineText": "",
+   "summary": "서울 동대문구 · 유연근무제 시행중 · 공기업·공공기관, 사서",
+   "qualifications": "경력: 유연근무제 시행중",
+   "kind": "job",
+   "official": false,
+   "foundBy": "문화유산",
+   "firstSeen": "2026-10-17",
+   "lastSeen": "2026-10-22",
+   "score": 6,
+   "tier": "low",
+   "tags": [
+    "research"
+   ],
+   "matched": [
+    "기록물"
    ]
   },
   {
@@ -9609,6 +9832,42 @@
    ]
   },
   {
+   "id": "gojobs:305645",
+   "source": "gojobs",
+   "sourceName": "나라일터",
+   "url": "https://www.gojobs.go.kr/apmView.do?empmnsn=305645",
+   "title": "학예연구사·운전서기보 경력경쟁채용 최종합격자 공고",
+   "company": "통일부",
+   "region": "",
+   "experience": "",
+   "education": "",
+   "employmentType": "학예연구사",
+   "salary": "",
+   "sector": "",
+   "postedAt": "2026-10-13",
+   "startAt": "2026-10-13",
+   "deadline": "2026-10-27",
+   "deadlineText": "",
+   "summary": "",
+   "qualifications": "",
+   "kind": "result",
+   "official": true,
+   "foundBy": "학예",
+   "firstSeen": "2026-10-17",
+   "lastSeen": "2026-10-22",
+   "score": 3,
+   "tier": "low",
+   "tags": [
+    "curation",
+    "research"
+   ],
+   "matched": [
+    "학예",
+    "학예연구",
+    "연구사"
+   ]
+  },
+  {
    "id": "gojobs:303496",
    "source": "gojobs",
    "sourceName": "나라일터",
@@ -9645,42 +9904,6 @@
     "국립문화유산연구원",
     "문화유산",
     "국가유산"
-   ]
-  },
-  {
-   "id": "gojobs:305645",
-   "source": "gojobs",
-   "sourceName": "나라일터",
-   "url": "https://www.gojobs.go.kr/apmView.do?empmnsn=305645",
-   "title": "학예연구사·운전서기보 경력경쟁채용 최종합격자 공고",
-   "company": "통일부",
-   "region": "",
-   "experience": "",
-   "education": "",
-   "employmentType": "학예연구사",
-   "salary": "",
-   "sector": "",
-   "postedAt": "2026-10-13",
-   "startAt": "2026-10-13",
-   "deadline": "2026-10-27",
-   "deadlineText": "",
-   "summary": "",
-   "qualifications": "",
-   "kind": "result",
-   "official": true,
-   "foundBy": "학예",
-   "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-22",
-   "score": 3,
-   "tier": "low",
-   "tags": [
-    "curation",
-    "research"
-   ],
-   "matched": [
-    "학예",
-    "학예연구",
-    "연구사"
    ]
   },
   {
@@ -9941,6 +10164,90 @@
    ]
   },
   {
+   "id": "alio:306265",
+   "source": "alio",
+   "sourceName": "잡알리오",
+   "url": "https://job.alio.go.kr/recruitview.do?idx=306265",
+   "title": "[덕유산] 덕유산국립공원 겨울성수기 한시인력(수익시설) 직원 채용 공고",
+   "company": "국립공원공단",
+   "region": "전북",
+   "experience": "",
+   "education": "학력무관",
+   "employmentType": "비정규직",
+   "salary": "",
+   "sector": "계약직",
+   "postedAt": "2026-10-22",
+   "startAt": "2026-10-22",
+   "deadline": "2026-10-27",
+   "deadlineText": "",
+   "summary": "채용구분: 신입+경력\n고용형태: 비정규직\n채용인원: 6명\n근무지: 전북\n근무분야: 계약직\n학력: 학력무관",
+   "qualifications": "우대: 취업지원대상자, 장애인, 자립준비청년",
+   "kind": "job",
+   "official": true,
+   "foundBy": "유산",
+   "firstSeen": "2026-10-22",
+   "lastSeen": "2026-10-22",
+   "detailAt": "2026-10-22",
+   "detailOk": true,
+   "score": 0,
+   "tier": "low",
+   "tags": [],
+   "matched": []
+  },
+  {
+   "id": "gojobs:306464",
+   "source": "gojobs",
+   "sourceName": "나라일터",
+   "url": "https://www.gojobs.go.kr/apmView.do?empmnsn=306464",
+   "title": "[덕유산] 덕유산국립공원 겨울성수기 한시인력(수익시설) 직원 채용 공고",
+   "company": "국립공원공단 덕유산국립공원사무소",
+   "region": "전북특별자치도 무주군",
+   "experience": "",
+   "education": "",
+   "employmentType": "",
+   "salary": "",
+   "sector": "",
+   "postedAt": "2026-10-22",
+   "startAt": "2026-10-22",
+   "deadline": "2026-10-27",
+   "deadlineText": "",
+   "summary": "채용직급: 기간제(한시인력) 6명\n근무지역: 전북특별자치도 무주군\n덕유산국립공원사무소 공고 제2026 - 38호 덕유산국립공원 겨울성수기 한시인력(수익시설) 직원 채용 공고 국립공원공단 덕유산국립공원사무소에서 근무할 겨울성수기 한시인력(수익시설) 직원을 채용하고자 아래와 같이 공고합니다. 1. 채용개요 ○ 채용분야 : 겨울성수기 한시인력(수익시설) ○ 모집인원 : 1분야(1명), 2분야(5명) ○ 근로기간 - 1분야: 2026. 11. 2.(예정) ~ 12. 31.(2개월) - 2분야: 20…",
+   "qualifications": "",
+   "kind": "job",
+   "official": true,
+   "foundBy": "유산",
+   "firstSeen": "2026-10-22",
+   "lastSeen": "2026-10-22",
+   "attachments": [
+    {
+     "name": "채용공고문_덕유산국립공원 겨울성수기 한시인력(수익시설) 직원 채용.hwp",
+     "url": "https://www.gojobs.go.kr/apmView.do?empmnsn=306464"
+    },
+    {
+     "name": "붙임1. 입사지원서 및 경험경력기술서.hwp",
+     "url": "https://www.gojobs.go.kr/apmView.do?empmnsn=306464"
+    },
+    {
+     "name": "붙임2. NCS 기반 채용 직무 설명자료(수익시설).hwp",
+     "url": "https://www.gojobs.go.kr/apmView.do?empmnsn=306464"
+    },
+    {
+     "name": "붙임3. 인정자격 목록.hwp",
+     "url": "https://www.gojobs.go.kr/apmView.do?empmnsn=306464"
+    },
+    {
+     "name": "붙임4. 경력확인서(양식).hwp",
+     "url": "https://www.gojobs.go.kr/apmView.do?empmnsn=306464"
+    }
+   ],
+   "detailAt": "2026-10-22",
+   "detailOk": true,
+   "score": 0,
+   "tier": "low",
+   "tags": [],
+   "matched": []
+  },
+  {
    "id": "gojobs:306375",
    "source": "gojobs",
    "sourceName": "나라일터",
@@ -9954,7 +10261,7 @@
    "salary": "",
    "sector": "",
    "postedAt": "2026-10-22",
-   "startAt": "2026-10-30",
+   "startAt": "2026-10-22",
    "deadline": "2026-11-04",
    "deadlineText": "",
    "summary": "채용직급: 공무직 3명\n근무지역: 경상북도 경주시\n국립경주박물관 공고 제2026–032호 국립경주박물관 기획운영과에서 근무할 공무직(시설_상황), (미화_1반)을 다음과 같이 공개모집 하오니 관심 있는 분들의 많은 응시를 바랍니다. 2026년 10월 22일 국립경주박물관장 * 채용분야: 시설(상황), 시설물(건물)청소원 * 채용인원: 3명 * 공고기간: 2026. 10. 22.(목) ~ 2026. 11. 4.(수) * 접수기간: 2026. 10. 30.(금) ~ 2026. 1…",
