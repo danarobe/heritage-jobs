@@ -1,56 +1,56 @@
 {
- "updatedAt": "2026-10-24T01:00:29.271Z",
+ "updatedAt": "2026-10-24T08:20:56.951Z",
  "today": "2026-10-24",
- "count": 280,
+ "count": 279,
  "newToday": 2,
  "sources": {
   "saramin": {
    "name": "사람인",
    "ok": true,
    "count": 396,
-   "ms": 33253
+   "ms": 29531
   },
   "jobkorea": {
    "name": "잡코리아",
    "ok": true,
    "count": 197,
-   "ms": 20069
+   "ms": 18612
   },
   "khs": {
    "name": "국가유산청",
    "ok": true,
    "count": 30,
-   "ms": 11690
+   "ms": 9504
   },
   "nrich": {
    "name": "국립문화유산연구원",
    "ok": true,
    "count": 20,
-   "ms": 7171
+   "ms": 5577
   },
   "kha": {
    "name": "국가유산진흥원",
    "ok": true,
    "count": 20,
-   "ms": 5399
+   "ms": 4725
   },
   "alio": {
    "name": "잡알리오",
    "ok": true,
    "count": 5,
-   "ms": 12945
+   "ms": 12243
   },
   "gojobs": {
    "name": "나라일터",
    "ok": true,
    "count": 47,
-   "ms": 16622
+   "ms": 15312
   },
   "momo365": {
    "name": "모모365",
    "ok": true,
    "count": 100,
-   "ms": 5311
+   "ms": 4840
   }
  },
  "categories": [
@@ -1820,17 +1820,17 @@
    "title": "2026년 사비나미술관 ‘예비학예인력’ 모집공고",
    "company": "사비나미술관",
    "region": "서울 은평구",
-   "experience": "신입 학력",
+   "experience": "신입 지원 가능",
    "education": "대졸이상",
    "employmentType": "계약직",
-   "salary": "월급 215 ~215 만원",
+   "salary": "월급 ~210만원",
    "sector": "월급 ~210만원",
    "postedAt": "2026-10-14",
    "startAt": "2026-10-14",
    "deadline": "2026-10-25",
    "deadlineText": "",
-   "summary": "고용형태: 계약직\n급여: 월급 215 ~215 만원\n근무지: 서울 은평구",
-   "qualifications": "경력: 신입 학력\n학력: 대졸이상",
+   "summary": "서울 은평구 · 신입 지원 가능 · 월급 ~210만원 · 월급 ~210만원",
+   "qualifications": "경력: 신입 지원 가능",
    "kind": "job",
    "official": false,
    "foundBy": "학예",
@@ -4910,53 +4910,6 @@
    ]
   },
   {
-   "id": "momo365:28441",
-   "source": "momo365",
-   "sourceName": "모모365",
-   "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28441",
-   "title": "[PKM갤러리] 전시팀장 모집 공고",
-   "company": "(주)피케이엠갤러리",
-   "region": "서울",
-   "experience": "(3년이상)",
-   "education": "대졸이상",
-   "employmentType": "정규직",
-   "salary": "회사 내규에 따름 (면접 후 결정)",
-   "sector": "",
-   "postedAt": "2026-09-23",
-   "startAt": "2026-09-23",
-   "deadline": "2026-10-01",
-   "deadlineText": "",
-   "summary": "PKM갤러리에서 전시팀 팀장을 모집합니다. ● 모집분야 및 인원 PKM갤러리 전시팀 팀장 1명 ● 업무내용 - 전시팀 운영 및 팀원 관리 - 인하우스 학예 및 전시 총괄 - 전속작가 리에종 외 ● 근무조건 - 근무시작일: 10월 초·중순 (협의 가능) - 근무일시: 주5일제 (화-토 l 09:00-18:00 근무) - 근무지역: 서울 종로구 삼청동 - 급여: 면접 시 협의 - 복리후생: 4대보험, 연차휴가, 퇴직연금 - 채용형태: 정규직 (수습기간 3개월) ● 지원자격 - 유관업무 경력 3년 이상인 자 - 미술 관련학과 (미술사학, 예술학, 미술경영, 미술이론, 미술…",
-   "qualifications": "● 지원자격\n- 유관업무 경력 3년 이상인 자\n- 미술 관련학과 (미술사학, 예술학, 미술경영, 미술이론, 미술교육, 순수미술 또는 이외 관련학과) 전공 학사 또는 석사 학위 취득자\n- 영어 작문 및 회화 능숙한 자\n- 팀 리드 경험 있는 자 우대\n- 컴퓨터 프로그램 사용 능숙자 우대 (MS Office, Adobe 등)\n● 지원방법\n- 접수기간: 2026년 9월 23일 (수) ~ 채용 시 마감",
-   "kind": "job",
-   "official": false,
-   "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-24",
-   "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=95093",
-   "attachments": [],
-   "detailAt": "2026-10-24",
-   "detailOk": true,
-   "score": 19,
-   "tier": "high",
-   "tags": [
-    "curation",
-    "research"
-   ],
-   "matched": [
-    "전시",
-    "학예",
-    "미술사",
-    "사학"
-   ],
-   "alsoOn": [
-    {
-     "source": "jobkorea",
-     "sourceName": "잡코리아",
-     "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50043708"
-    }
-   ]
-  },
-  {
    "id": "gojobs:305824",
    "source": "gojobs",
    "sourceName": "나라일터",
@@ -6537,6 +6490,52 @@
    ],
    "matched": [
     "문화재단"
+   ]
+  },
+  {
+   "id": "momo365:28441",
+   "source": "momo365",
+   "sourceName": "모모365",
+   "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28441",
+   "title": "[PKM갤러리] 전시팀장 모집 공고",
+   "company": "(주)피케이엠갤러리",
+   "region": "서울",
+   "experience": "(3년이상)",
+   "education": "대졸이상",
+   "employmentType": "정규직",
+   "salary": "회사 내규에 따름 (면접 후 결정)",
+   "sector": "",
+   "postedAt": "2026-09-23",
+   "startAt": "2026-09-23",
+   "deadline": "2026-10-01",
+   "deadlineText": "",
+   "summary": "(주)피케이엠갤러리 · 서울 · 정규직",
+   "qualifications": "● 지원자격\n- 유관업무 경력 3년 이상인 자\n- 미술 관련학과 (미술사학, 예술학, 미술경영, 미술이론, 미술교육, 순수미술 또는 이외 관련학과) 전공 학사 또는 석사 학위 취득자\n- 영어 작문 및 회화 능숙한 자\n- 팀 리드 경험 있는 자 우대\n- 컴퓨터 프로그램 사용 능숙자 우대 (MS Office, Adobe 등)\n● 지원방법\n- 접수기간: 2026년 9월 23일 (수) ~ 채용 시 마감",
+   "kind": "job",
+   "official": false,
+   "firstSeen": "2026-10-17",
+   "lastSeen": "2026-10-24",
+   "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=95093",
+   "attachments": [],
+   "detailAt": "2026-10-24",
+   "detailOk": true,
+   "score": 13,
+   "tier": "mid",
+   "tags": [
+    "curation",
+    "research"
+   ],
+   "matched": [
+    "전시",
+    "미술사",
+    "사학"
+   ],
+   "alsoOn": [
+    {
+     "source": "jobkorea",
+     "sourceName": "잡코리아",
+     "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50043708"
+    }
    ]
   },
   {
@@ -9196,46 +9195,6 @@
    ],
    "matched": [
     "문화기획"
-   ]
-  },
-  {
-   "id": "jobkorea:50149318",
-   "source": "jobkorea",
-   "sourceName": "잡코리아",
-   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50149318",
-   "title": "[유니원커뮤니케이션즈] K-컬처 뮤지엄 스태프 모집",
-   "company": "㈜유니원커뮤니케이션즈",
-   "region": "인천 영종구",
-   "experience": "경력무관",
-   "education": "학력무관",
-   "employmentType": "기간제·계약직",
-   "salary": "",
-   "sector": "광고·홍보·전시, 홍보",
-   "postedAt": "2026-09-02",
-   "startAt": "2026-09-02",
-   "deadline": null,
-   "deadlineText": "",
-   "summary": "인천 영종구 · 경력무관 · 광고·홍보·전시, 홍보",
-   "qualifications": "경력: 경력무관",
-   "kind": "job",
-   "official": false,
-   "foundBy": "국가유산",
-   "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-24",
-   "score": 6,
-   "tier": "low",
-   "tags": [
-    "curation"
-   ],
-   "matched": [
-    "전시"
-   ],
-   "alsoOn": [
-    {
-     "source": "saramin",
-     "sourceName": "사람인",
-     "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=54828890"
-    }
    ]
   },
   {
