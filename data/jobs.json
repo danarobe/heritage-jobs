@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-25T00:30:19.881Z",
+ "updatedAt": "2026-10-25T08:38:42.137Z",
  "today": "2026-10-25",
  "count": 273,
  "newToday": 0,
@@ -7,50 +7,50 @@
   "saramin": {
    "name": "사람인",
    "ok": true,
-   "count": 388,
-   "ms": 30417
+   "count": 389,
+   "ms": 30298
   },
   "jobkorea": {
    "name": "잡코리아",
    "ok": true,
    "count": 193,
-   "ms": 19362
+   "ms": 20859
   },
   "khs": {
    "name": "국가유산청",
    "ok": true,
    "count": 30,
-   "ms": 10531
+   "ms": 9444
   },
   "nrich": {
    "name": "국립문화유산연구원",
    "ok": true,
    "count": 20,
-   "ms": 6822
+   "ms": 6104
   },
   "kha": {
    "name": "국가유산진흥원",
    "ok": true,
    "count": 20,
-   "ms": 5036
+   "ms": 4477
   },
   "alio": {
    "name": "잡알리오",
    "ok": true,
    "count": 5,
-   "ms": 14371
+   "ms": 12532
   },
   "gojobs": {
    "name": "나라일터",
    "ok": true,
    "count": 47,
-   "ms": 17005
+   "ms": 15754
   },
   "momo365": {
    "name": "모모365",
    "ok": true,
    "count": 100,
-   "ms": 2785
+   "ms": 2667
   }
  },
  "categories": [
@@ -1555,7 +1555,7 @@
    "salary": "",
    "sector": "",
    "postedAt": "2026-10-19",
-   "startAt": "2026-10-20",
+   "startAt": "2026-10-19",
    "deadline": "2026-10-27",
    "deadlineText": "",
    "summary": "채용직급: 공무직 1명\n근무지역: 충청북도 청주시\n[국립청주박물관 공고 제2026-32호] 국립청주박물관 공무직 근로자(학예보조) 채용 공고 국립청주박물관 학예연구실에서 공무직 근로자(학예보조)를 다음과 같이 공개 모집하오니 관심 있는 분들의 많은 응시를 바랍니다. ㅇ 모집분야 및 인원 : 공무직 근로자(학예보조-청련관), 1명 ㅇ 접수기간 : 2026.10.20.(화) ~ 2026.10.27.(화) ※ 자세한 내용은 붙임 파일을 참고하시기 바랍니다. 2026년 10월 19일…",
@@ -5565,7 +5565,7 @@
    "title": "조경 국가유산수리 기능자 / 조경기능사 모집",
    "company": "푸른솔나무병원 주식회사",
    "region": "경기 용인시",
-   "experience": "학력",
+   "experience": "경력",
    "education": "학력무관",
    "employmentType": "계약직",
    "salary": "일급 120000 ~250000 원",
@@ -5574,8 +5574,8 @@
    "startAt": "2026-09-04",
    "deadline": "2026-11-03",
    "deadlineText": "",
-   "summary": "고용형태: 계약직\n급여: 일급 120000 ~250000 원\n근무지: 경기 용인시 기흥구",
-   "qualifications": "경력: 학력\n학력: 학력무관",
+   "summary": "경기 용인시 · 경력 · 일급 120,000~250,000원",
+   "qualifications": "경력: 경력",
    "kind": "job",
    "official": false,
    "foundBy": "국가유산",
@@ -9617,10 +9617,10 @@
    ]
   },
   {
-   "id": "saramin:55344222",
+   "id": "saramin:55385962",
    "source": "saramin",
    "sourceName": "사람인",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55344222",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55385962",
    "title": "[중국어or영어]공장 발주/수입 담담자 정규직 채용(남양주)",
    "company": "(주)에이유테크",
    "region": "경기 남양주시",
@@ -9629,9 +9629,9 @@
    "employmentType": "정규직",
    "salary": "",
    "sector": "바이어발굴/관리, 거래처관리, 해외영업, 무역경리, 무역사무원",
-   "postedAt": "2026-10-20",
-   "startAt": "2026-10-20",
-   "deadline": "2026-11-19",
+   "postedAt": "2026-10-25",
+   "startAt": "2026-10-25",
+   "deadline": "2026-11-24",
    "deadlineText": "",
    "summary": "경기 남양주시 · 정규직 · 경력 1~2년 · 초대졸↑",
    "qualifications": "경력: 경력 1~2년\n학력: 초대졸↑",
@@ -9639,7 +9639,7 @@
    "official": false,
    "foundBy": "발굴",
    "firstSeen": "2026-10-18",
-   "lastSeen": "2026-10-20",
+   "lastSeen": "2026-10-25",
    "score": 5,
    "tier": "low",
    "tags": [
@@ -9655,6 +9655,11 @@
      "source": "saramin",
      "sourceName": "사람인",
      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55321222"
+    },
+    {
+     "source": "saramin",
+     "sourceName": "사람인",
+     "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55344222"
     }
    ]
   },
