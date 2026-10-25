@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-25T08:38:42.137Z",
+ "updatedAt": "2026-10-25T13:50:56.569Z",
  "today": "2026-10-25",
  "count": 273,
  "newToday": 0,
@@ -7,50 +7,50 @@
   "saramin": {
    "name": "사람인",
    "ok": true,
-   "count": 389,
-   "ms": 30298
+   "count": 387,
+   "ms": 30933
   },
   "jobkorea": {
    "name": "잡코리아",
    "ok": true,
    "count": 193,
-   "ms": 20859
+   "ms": 30886
   },
   "khs": {
    "name": "국가유산청",
    "ok": true,
    "count": 30,
-   "ms": 9444
+   "ms": 10220
   },
   "nrich": {
    "name": "국립문화유산연구원",
    "ok": true,
    "count": 20,
-   "ms": 6104
+   "ms": 6567
   },
   "kha": {
    "name": "국가유산진흥원",
    "ok": true,
    "count": 20,
-   "ms": 4477
+   "ms": 4878
   },
   "alio": {
    "name": "잡알리오",
    "ok": true,
    "count": 5,
-   "ms": 12532
+   "ms": 12879
   },
   "gojobs": {
    "name": "나라일터",
    "ok": true,
    "count": 47,
-   "ms": 15754
+   "ms": 15997
   },
   "momo365": {
    "name": "모모365",
    "ok": true,
    "count": 100,
-   "ms": 2667
+   "ms": 5033
   }
  },
  "categories": [
@@ -1813,49 +1813,6 @@
    ]
   },
   {
-   "id": "jobkorea:5679882",
-   "source": "jobkorea",
-   "sourceName": "잡코리아",
-   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/5679882/Ext?siteCode=WN",
-   "title": "2026년 사비나미술관 ‘예비학예인력’ 모집공고",
-   "company": "사비나미술관",
-   "region": "서울 은평구",
-   "experience": "오늘 마감! 놓치지 마세요!",
-   "education": "대졸이상",
-   "employmentType": "계약직",
-   "salary": "월급 ~210만원",
-   "sector": "월급 ~210만원",
-   "postedAt": "2026-10-14",
-   "startAt": "2026-10-14",
-   "deadline": "2026-10-25",
-   "deadlineText": "",
-   "summary": "서울 은평구 · 오늘 마감! 놓치지 마세요! · 월급 ~210만원 · 월급 ~210만원",
-   "qualifications": "경력: 오늘 마감! 놓치지 마세요!",
-   "kind": "job",
-   "official": false,
-   "foundBy": "학예",
-   "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-25",
-   "detailAt": "2026-10-24",
-   "detailOk": true,
-   "score": 32,
-   "tier": "high",
-   "tags": [
-    "curation"
-   ],
-   "matched": [
-    "학예",
-    "미술관"
-   ],
-   "alsoOn": [
-    {
-     "source": "saramin",
-     "sourceName": "사람인",
-     "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55291492"
-    }
-   ]
-  },
-  {
    "id": "khs:34595",
    "source": "khs",
    "sourceName": "국가유산청",
@@ -3450,6 +3407,49 @@
    "matched": [
     "학예",
     "박물관"
+   ]
+  },
+  {
+   "id": "jobkorea:5679882",
+   "source": "jobkorea",
+   "sourceName": "잡코리아",
+   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/5679882/Ext?siteCode=WN",
+   "title": "2026년 사비나미술관 ‘예비학예인력’ 모집공고",
+   "company": "사비나미술관",
+   "region": "서울 은평구",
+   "experience": "오늘 마감! 놓치지 마세요!",
+   "education": "대졸이상",
+   "employmentType": "계약직",
+   "salary": "월급 ~210만원",
+   "sector": "월급 ~210만원",
+   "postedAt": "2026-10-14",
+   "startAt": "2026-10-14",
+   "deadline": "2026-10-25",
+   "deadlineText": "",
+   "summary": "서울 은평구 · 오늘 마감! 놓치지 마세요! · 월급 ~210만원 · 월급 ~210만원",
+   "qualifications": "경력: 오늘 마감! 놓치지 마세요!",
+   "kind": "job",
+   "official": false,
+   "foundBy": "학예",
+   "firstSeen": "2026-10-17",
+   "lastSeen": "2026-10-25",
+   "detailAt": "2026-10-24",
+   "detailOk": true,
+   "score": 24,
+   "tier": "high",
+   "tags": [
+    "curation"
+   ],
+   "matched": [
+    "학예",
+    "미술관"
+   ],
+   "alsoOn": [
+    {
+     "source": "saramin",
+     "sourceName": "사람인",
+     "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55291492"
+    }
    ]
   },
   {
@@ -9649,18 +9649,6 @@
    "matched": [
     "발굴",
     "역사"
-   ],
-   "alsoOn": [
-    {
-     "source": "saramin",
-     "sourceName": "사람인",
-     "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55321222"
-    },
-    {
-     "source": "saramin",
-     "sourceName": "사람인",
-     "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55344222"
-    }
    ]
   },
   {
