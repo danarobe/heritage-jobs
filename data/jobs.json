@@ -1,56 +1,56 @@
 {
- "updatedAt": "2026-10-27T15:30:17.248Z",
+ "updatedAt": "2026-10-28T01:36:30.536Z",
  "today": "2026-10-28",
- "count": 283,
- "newToday": 4,
+ "count": 285,
+ "newToday": 6,
  "sources": {
   "saramin": {
    "name": "사람인",
    "ok": true,
-   "count": 401,
-   "ms": 30434
+   "count": 395,
+   "ms": 30667
   },
   "jobkorea": {
    "name": "잡코리아",
    "ok": true,
-   "count": 201,
-   "ms": 19641
+   "count": 203,
+   "ms": 19743
   },
   "khs": {
    "name": "국가유산청",
    "ok": true,
    "count": 30,
-   "ms": 9450
+   "ms": 10936
   },
   "nrich": {
    "name": "국립문화유산연구원",
    "ok": true,
    "count": 20,
-   "ms": 6027
+   "ms": 6911
   },
   "kha": {
    "name": "국가유산진흥원",
    "ok": true,
    "count": 20,
-   "ms": 4559
+   "ms": 5170
   },
   "alio": {
    "name": "잡알리오",
    "ok": true,
    "count": 5,
-   "ms": 10621
+   "ms": 12027
   },
   "gojobs": {
    "name": "나라일터",
    "ok": true,
    "count": 47,
-   "ms": 15300
+   "ms": 21314
   },
   "momo365": {
    "name": "모모365",
    "ok": true,
    "count": 100,
-   "ms": 3675
+   "ms": 2897
   }
  },
  "categories": [
@@ -480,7 +480,7 @@
    "salary": "",
    "sector": "국립경주문화유산연구소",
    "postedAt": "2026-09-28",
-   "startAt": "2026-10-06",
+   "startAt": "2026-09-28",
    "deadline": "2026-10-15",
    "deadlineText": "",
    "summary": "국립경주문화유산연구소 공고 제2026 -16호 국립경주문화유산연구소에서 금척리 고분군 기간제근로자(연구원 가급-고고)를 다음과 같이 공개모집하오니, 많은 지원 바랍니다. 2026년 9월 28일 국립경주문화유산연구소장 1. 채용개요 - 직급/인원: 연구원 가급 1명 - 모집 분야: 고고 - 담당 업무: 경주 금척리 고분군 발굴현장조사 업무 등 2. 채용일정 - 채용 공고: 2026. 9. 28.(월) ~ 10. 9.(금) - 원서 접수: 2026. 10. 6.(화) ~ 10. 9.(금) 18:00 - 서류 전형 합격자 발표: 2026. 10. 15.(목) 예정 - 면접…",
@@ -2263,7 +2263,7 @@
    "salary": "",
    "sector": "",
    "postedAt": "2026-10-22",
-   "startAt": "2026-11-03",
+   "startAt": "2026-10-22",
    "deadline": "2026-11-05",
    "deadlineText": "",
    "summary": "채용직급: 일반임기제공무원6급 1명\n근무지역: 서울특별시 서대문구\n<채용분야 및 선발예정인원> * 채용분야: 학예연구분야 * 채용등급: 일반임기제공무원 6급 * 채용인원: 1명 * 근무예정부서: 서대문자연사박물관 * 원서 접수기간: 2026. 11. 3.(화) ~ 2026. 11. 5.(목) <평일 3일간 09:00~18:00> ※중식시간(12:00~13:00)제외 * 접수장소 : 서대문자연사박물관 사무동 1층 사무실(서대문구 연희로32길 51, ☎02-330-8859)",
@@ -4058,42 +4058,6 @@
    ]
   },
   {
-   "id": "jobkorea:50212705",
-   "source": "jobkorea",
-   "sourceName": "잡코리아",
-   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50212705",
-   "title": "[국립농업박물관] 대체인력 일반직 5급(교육), 일반운영직(전시) 채용 공고",
-   "company": "㈜커리어넷",
-   "region": "경기 수원시",
-   "experience": "경력무관 학력",
-   "education": "학력무관",
-   "employmentType": "계약직",
-   "salary": "회사 내규에 따름 (면접 후 결정)",
-   "sector": "포털·컨텐츠·커뮤니티, HRD·HRM, 실내디자이너",
-   "postedAt": "2026-10-21",
-   "startAt": "2026-10-21",
-   "deadline": "2026-11-03",
-   "deadlineText": "",
-   "summary": "모집분야: 대체인력\n고용형태: 계약직\n급여: 회사 내규에 따름 (면접 후 결정)\n근무지: 경기 수원시 권선구 수인로 154 (서둔동) 국립농업박물관\n근무시간: 주5일(월~금)",
-   "qualifications": "경력: 경력무관 학력\n학력: 학력무관",
-   "kind": "job",
-   "official": false,
-   "foundBy": "박물관 학예",
-   "firstSeen": "2026-10-22",
-   "lastSeen": "2026-10-28",
-   "detailAt": "2026-10-28",
-   "detailOk": true,
-   "score": 21,
-   "tier": "high",
-   "tags": [
-    "curation"
-   ],
-   "matched": [
-    "전시",
-    "박물관"
-   ]
-  },
-  {
    "id": "saramin:55353508",
    "source": "saramin",
    "sourceName": "사람인",
@@ -4237,43 +4201,6 @@
    ]
   },
   {
-   "id": "jobkorea:50100196",
-   "source": "jobkorea",
-   "sourceName": "잡코리아",
-   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50100196",
-   "title": "[뷰티 대기업]미술관 학예 및 운영 담당",
-   "company": "중견기업(300명이상)",
-   "region": "서울",
-   "experience": "경력3년↑",
-   "education": "",
-   "employmentType": "· 정규직",
-   "salary": "",
-   "sector": "생활화학·화장품, 마케팅기획, 배급·제작자, 큐레이터",
-   "postedAt": null,
-   "startAt": null,
-   "deadline": null,
-   "deadlineText": "",
-   "summary": "서울 · 경력3년↑ · 생활화학·화장품, 마케팅기획, 배급·제작자, 큐레이터",
-   "qualifications": "경력: 경력3년↑",
-   "kind": "job",
-   "official": false,
-   "foundBy": "학예",
-   "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-28",
-   "detailAt": "2026-10-23",
-   "detailOk": true,
-   "score": 21,
-   "tier": "high",
-   "tags": [
-    "curation"
-   ],
-   "matched": [
-    "학예",
-    "미술관",
-    "큐레이터"
-   ]
-  },
-  {
    "id": "jobkorea:50093943",
    "source": "jobkorea",
    "sourceName": "잡코리아",
@@ -4354,6 +4281,43 @@
    "matched": [
     "한옥",
     "문화유산"
+   ]
+  },
+  {
+   "id": "jobkorea:50100196",
+   "source": "jobkorea",
+   "sourceName": "잡코리아",
+   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50100196",
+   "title": "[뷰티 대기업]미술관 학예 및 운영 담당",
+   "company": "중견기업(300명이상)",
+   "region": "서울",
+   "experience": "경력3년↑",
+   "education": "",
+   "employmentType": "· 정규직",
+   "salary": "",
+   "sector": "생활화학·화장품, 마케팅기획, 배급·제작자, 큐레이터",
+   "postedAt": null,
+   "startAt": null,
+   "deadline": null,
+   "deadlineText": "",
+   "summary": "서울 · 경력3년↑ · 생활화학·화장품, 마케팅기획, 배급·제작자, 큐레이터",
+   "qualifications": "경력: 경력3년↑",
+   "kind": "job",
+   "official": false,
+   "foundBy": "학예",
+   "firstSeen": "2026-10-17",
+   "lastSeen": "2026-10-28",
+   "detailAt": "2026-10-23",
+   "detailOk": true,
+   "score": 21,
+   "tier": "high",
+   "tags": [
+    "curation"
+   ],
+   "matched": [
+    "학예",
+    "미술관",
+    "큐레이터"
    ]
   },
   {
@@ -5183,6 +5147,42 @@
     "궁능유적본부",
     "국가유산청",
     "국가유산"
+   ]
+  },
+  {
+   "id": "jobkorea:50212705",
+   "source": "jobkorea",
+   "sourceName": "잡코리아",
+   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50212705",
+   "title": "[국립농업박물관] 대체인력 일반직 5급(교육), 일반운영직(전시) 채용 공고",
+   "company": "㈜커리어넷",
+   "region": "경기 수원시",
+   "experience": "탄탄한 중견기업",
+   "education": "학력무관",
+   "employmentType": "계약직",
+   "salary": "회사 내규에 따름 (면접 후 결정)",
+   "sector": "포털·컨텐츠·커뮤니티, HRD·HRM, 실내디자이너",
+   "postedAt": "2026-10-21",
+   "startAt": "2026-10-21",
+   "deadline": "2026-11-03",
+   "deadlineText": "",
+   "summary": "경기 수원시 · 탄탄한 중견기업 · 포털·컨텐츠·커뮤니티, HRD·HRM, 실내디자이너",
+   "qualifications": "경력: 탄탄한 중견기업",
+   "kind": "job",
+   "official": false,
+   "foundBy": "박물관 학예",
+   "firstSeen": "2026-10-22",
+   "lastSeen": "2026-10-28",
+   "detailAt": "2026-10-28",
+   "detailOk": true,
+   "score": 18,
+   "tier": "high",
+   "tags": [
+    "curation"
+   ],
+   "matched": [
+    "전시",
+    "박물관"
    ]
   },
   {
@@ -6886,6 +6886,41 @@
      "sourceName": "잡코리아",
      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50043708"
     }
+   ]
+  },
+  {
+   "id": "jobkorea:50251552",
+   "source": "jobkorea",
+   "sourceName": "잡코리아",
+   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50251552",
+   "title": "[큐레이터](주)더프리마 아트센터 채용공고(경력)",
+   "company": "㈜더프리마",
+   "region": "서울 종로구",
+   "experience": "(8년이상)",
+   "education": "대졸이상",
+   "employmentType": "계약직",
+   "salary": "회사 내규에 따름 (면접 후 결정)",
+   "sector": "문화·공연·예술, 배급·제작자, 큐레이터",
+   "postedAt": "2026-10-27",
+   "startAt": "2026-10-27",
+   "deadline": "2026-11-09",
+   "deadlineText": "",
+   "summary": "모집분야: 아트센터 큐레이터\n고용형태: 계약직\n급여: 회사 내규에 따름 (면접 후 결정)\n근무지: 서울 종로구 인사동길 37-11 (관훈동) (주)더프리마 아트센터\n근무시간: 주 5일(스케쥴 근무)",
+   "qualifications": "경력: (8년이상)\n학력: 대졸이상",
+   "kind": "job",
+   "official": false,
+   "foundBy": "학예",
+   "firstSeen": "2026-10-28",
+   "lastSeen": "2026-10-28",
+   "detailAt": "2026-10-28",
+   "detailOk": true,
+   "score": 12,
+   "tier": "mid",
+   "tags": [
+    "curation"
+   ],
+   "matched": [
+    "큐레이터"
    ]
   },
   {
@@ -8735,7 +8770,7 @@
    "education": "대졸↑",
    "employmentType": "정규직",
    "salary": "",
-   "sector": "문화재, 연구원, 미술관, 공연예술, 박물관",
+   "sector": "문화재, 연구원, 공연예술, 미술관, 박물관",
    "postedAt": "2026-10-19",
    "startAt": "2026-10-19",
    "deadline": "2026-11-18",
@@ -8770,7 +8805,7 @@
    "education": "학력무관",
    "employmentType": "정규직",
    "salary": "",
-   "sector": "문화재, 연구원, 미술관, 공연예술, 박물관",
+   "sector": "문화재, 연구원, 공연예술, 미술관, 박물관",
    "postedAt": "2026-10-02",
    "startAt": "2026-10-02",
    "deadline": "2026-10-31",
@@ -10201,6 +10236,42 @@
    ]
   },
   {
+   "id": "gojobs:306850",
+   "source": "gojobs",
+   "sourceName": "나라일터",
+   "url": "https://www.gojobs.go.kr/apmView.do?empmnsn=306850",
+   "title": "국립민속박물관 유물과학과 공무직(경비원)채용 최종합격자 공고",
+   "company": "문화체육관광부 국립민속박물관",
+   "region": "",
+   "experience": "",
+   "education": "",
+   "employmentType": "공무직",
+   "salary": "",
+   "sector": "",
+   "postedAt": "2026-10-28",
+   "startAt": "2026-10-28",
+   "deadline": "2026-10-30",
+   "deadlineText": "",
+   "summary": "",
+   "qualifications": "",
+   "kind": "result",
+   "official": true,
+   "foundBy": "박물관",
+   "firstSeen": "2026-10-28",
+   "lastSeen": "2026-10-28",
+   "score": 3,
+   "tier": "low",
+   "tags": [
+    "curation",
+    "research"
+   ],
+   "matched": [
+    "박물관",
+    "유물",
+    "민속"
+   ]
+  },
+  {
    "id": "gojobs:306731",
    "source": "gojobs",
    "sourceName": "나라일터",
@@ -10928,7 +10999,7 @@
    "startAt": "2026-10-22",
    "deadline": "2026-10-27",
    "deadlineText": "",
-   "summary": "채용구분: 신입+경력\n고용형태: 비정규직\n채용인원: 6명\n근무지: 전북\n근무분야: 계약직\n학력: 학력무관",
+   "summary": "국립공원공단 · 전북 · 비정규직 · 마감",
    "qualifications": "우대: 취업지원대상자, 장애인, 자립준비청년",
    "kind": "job",
    "official": true,
