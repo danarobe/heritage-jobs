@@ -1,56 +1,56 @@
 {
- "updatedAt": "2026-10-29T01:58:23.745Z",
+ "updatedAt": "2026-10-29T10:18:53.671Z",
  "today": "2026-10-29",
- "count": 293,
- "newToday": 8,
+ "count": 297,
+ "newToday": 12,
  "sources": {
   "saramin": {
    "name": "사람인",
    "ok": true,
-   "count": 400,
-   "ms": 42577
+   "count": 404,
+   "ms": 32600
   },
   "jobkorea": {
    "name": "잡코리아",
    "ok": true,
-   "count": 198,
-   "ms": 19544
+   "count": 192,
+   "ms": 20451
   },
   "khs": {
    "name": "국가유산청",
    "ok": true,
    "count": 30,
-   "ms": 9968
+   "ms": 12668
   },
   "nrich": {
    "name": "국립문화유산연구원",
    "ok": true,
    "count": 20,
-   "ms": 6482
+   "ms": 8060
   },
   "kha": {
    "name": "국가유산진흥원",
    "ok": true,
    "count": 20,
-   "ms": 4741
+   "ms": 6080
   },
   "alio": {
    "name": "잡알리오",
    "ok": true,
    "count": 4,
-   "ms": 12048
+   "ms": 11205
   },
   "gojobs": {
    "name": "나라일터",
    "ok": true,
    "count": 47,
-   "ms": 18705
+   "ms": 16836
   },
   "momo365": {
    "name": "모모365",
    "ok": true,
    "count": 100,
-   "ms": 3648
+   "ms": 3044
   }
  },
  "categories": [
@@ -1346,17 +1346,17 @@
    "title": "문화재조사 및 연구 준조사원, 보조원 채용",
    "company": "재단법인 통일문화유산연구원",
    "region": "경북 경산시",
-   "experience": "신입 학력",
+   "experience": "신입 지원 가능",
    "education": "대졸이상",
    "employmentType": "정규직",
-   "salary": "월급 215 만원",
+   "salary": "월급 210만원~",
    "sector": "월급 210만원~",
    "postedAt": "2026-10-08",
    "startAt": "2026-10-08",
    "deadline": "2026-12-06",
    "deadlineText": "",
-   "summary": "고용형태: 정규직\n급여: 월급 215 만원\n근무지: 경북 경산시",
-   "qualifications": "경력: 신입 학력\n학력: 대졸이상",
+   "summary": "경북 경산시 · 신입 지원 가능 · 월급 210만원~ · 월급 210만원~",
+   "qualifications": "경력: 신입 지원 가능",
    "kind": "job",
    "official": false,
    "foundBy": "문화유산",
@@ -2192,7 +2192,7 @@
    "salary": "",
    "sector": "",
    "postedAt": "2026-10-29",
-   "startAt": "2026-11-03",
+   "startAt": "2026-10-29",
    "deadline": "2026-11-09",
    "deadlineText": "",
    "summary": "국외소재문화유산재단은 『문화유산의 보존 및 활용에 관한 법률 제69조의3』에 의하여 2012년 7월 27일에 설립된 국가유산청 산하 법인으로 국외소재 한국문화유산에 대한 조사·연구, 환수·활용 및 전략·정책 연구 등 국외소재문화유산과 관련한 제반 사업을 종합적·체계적으로 수행하는 기관입니다. 다음과 같이 직원을 공개 모집하오니 참신하고 유능한 인재들의 많은 응모를 바랍니다. 2026년 10월 29일 국외소재문화유산재단 사무총장 1. 채용예정분야 및 인원 1) 6급 3명 2) 임시계약직 5명(사업A 3명, 사업B 2명) 2. 응시원서 접수: 2026. 11. 3.(화)…",
@@ -2225,44 +2225,6 @@
     "국가유산청",
     "문화유산",
     "국가유산"
-   ]
-  },
-  {
-   "id": "jobkorea:50147554",
-   "source": "jobkorea",
-   "sourceName": "잡코리아",
-   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50147554",
-   "title": "건축문화유산연구원 나무 연구원 채용(신입)",
-   "company": "㈔건축문화유산연구원 나무",
-   "region": "경북 경산시",
-   "experience": "신입 학력",
-   "education": "대졸이상",
-   "employmentType": "정규직",
-   "salary": "회사 내규에 따름 (면접 후 결정)",
-   "sector": "컨설팅·연구·조사, R&D·연구원",
-   "postedAt": "2026-10-12",
-   "startAt": "2026-10-12",
-   "deadline": "2026-11-11",
-   "deadlineText": "",
-   "summary": "모집분야: 학술 연구원\n고용형태: 정규직\n급여: 회사 내규에 따름 (면접 후 결정)\n근무지: 경북 경산시 압량읍 압독2로 5 (신대리) 5층\n근무시간: 주5일(월~금)",
-   "qualifications": "경력: 신입 학력\n학력: 대졸이상",
-   "kind": "job",
-   "official": false,
-   "foundBy": "국가유산",
-   "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-29",
-   "detailAt": "2026-10-29",
-   "detailOk": true,
-   "score": 29,
-   "tier": "high",
-   "tags": [
-    "excavation",
-    "research"
-   ],
-   "matched": [
-    "문화유산연구원",
-    "학술",
-    "문화유산"
    ]
   },
   {
@@ -2782,27 +2744,27 @@
    ]
   },
   {
-   "id": "jobkorea:50076092",
+   "id": "jobkorea:50147554",
    "source": "jobkorea",
    "sourceName": "잡코리아",
-   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50076092",
-   "title": "한국사/역사 체험학습 프리랜서 강사 모집",
-   "company": "꿈꾸는해치",
-   "region": "서울 용산구",
-   "experience": "신입·경력 (3년이상)",
+   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50147554",
+   "title": "건축문화유산연구원 나무 연구원 채용(신입)",
+   "company": "㈔건축문화유산연구원 나무",
+   "region": "경북 경산시",
+   "experience": "신입 지원 가능",
    "education": "대졸이상",
-   "employmentType": "프리랜서",
-   "salary": "건별 50,000원",
-   "sector": "학원·어학원·교육원, 학원강사",
-   "postedAt": "2026-09-30",
-   "startAt": "2026-09-30",
-   "deadline": "2026-11-29",
+   "employmentType": "정규직",
+   "salary": "회사 내규에 따름 (면접 후 결정)",
+   "sector": "컨설팅·연구·조사, R&D·연구원",
+   "postedAt": "2026-10-12",
+   "startAt": "2026-10-12",
+   "deadline": "2026-11-11",
    "deadlineText": "",
-   "summary": "모집분야: 한국사, 역사체험학습강사\n고용형태: 프리랜서\n급여: 건별 50,000원\n근무지: 서울 용산구 서빙고로 137 (용산동6가, 국립중앙박물관) 국립중앙박물관\n근무시간: 10:00 ~ 12:00, 13:00 ~ 15:00",
-   "qualifications": "경력: 신입·경력 (3년이상)\n학력: 대졸이상",
+   "summary": "경북 경산시 · 신입 지원 가능 · 컨설팅·연구·조사, R&D·연구원",
+   "qualifications": "경력: 신입 지원 가능",
    "kind": "job",
    "official": false,
-   "foundBy": "문화유산",
+   "foundBy": "국가유산",
    "firstSeen": "2026-10-17",
    "lastSeen": "2026-10-29",
    "detailAt": "2026-10-29",
@@ -2810,15 +2772,11 @@
    "score": 27,
    "tier": "high",
    "tags": [
-    "curation",
-    "education",
-    "research"
+    "excavation"
    ],
    "matched": [
-    "박물관",
-    "체험",
-    "역사",
-    "한국사"
+    "문화유산연구원",
+    "문화유산"
    ]
   },
   {
@@ -2829,17 +2787,17 @@
    "title": "재단법인 한백문화유산연구원에서는 2026년도 행정...",
    "company": "재단법인 한백문화유산연구원",
    "region": "경기 성남시",
-   "experience": "경력무관 학력",
+   "experience": "경력무관",
    "education": "학력무관",
    "employmentType": "정규직",
-   "salary": "월급 215 ~229 만원",
+   "salary": "월급 210~220만원",
    "sector": "월급 210~220만원",
    "postedAt": "2026-10-07",
    "startAt": "2026-10-07",
    "deadline": "2026-10-31",
    "deadlineText": "",
-   "summary": "고용형태: 정규직\n급여: 월급 215 ~229 만원\n근무지: 경기 성남시 중원구",
-   "qualifications": "경력: 경력무관 학력\n학력: 학력무관",
+   "summary": "경기 성남시 · 경력무관 · 월급 210~220만원 · 월급 210~220만원",
+   "qualifications": "경력: 경력무관",
    "kind": "job",
    "official": false,
    "foundBy": "문화유산",
@@ -3137,17 +3095,17 @@
    "title": "국가유산 실측설계 전문가를 모집합니다",
    "company": "주식회사 바른종합건축사사무소",
    "region": "전북 전주시",
-   "experience": "학력",
+   "experience": "경력",
    "education": "학력무관",
    "employmentType": "정규직",
-   "salary": "연봉 2800 ~3200 만원",
+   "salary": "연봉 2,800~3,200만원",
    "sector": "연봉 2,800~3,200만원",
    "postedAt": "2026-09-01",
    "startAt": "2026-09-01",
    "deadline": "2026-10-31",
    "deadlineText": "",
-   "summary": "고용형태: 정규직\n급여: 연봉 2800 ~3200 만원\n근무지: 전북 전주시 덕진구",
-   "qualifications": "경력: 학력\n학력: 학력무관",
+   "summary": "전북 전주시 · 경력 · 연봉 2,800~3,200만원 · 연봉 2,800~3,200만원",
+   "qualifications": "경력: 경력",
    "kind": "job",
    "official": false,
    "foundBy": "국가유산",
@@ -3444,91 +3402,6 @@
    ]
   },
   {
-   "id": "jobkorea:50175357",
-   "source": "jobkorea",
-   "sourceName": "잡코리아",
-   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50175357",
-   "title": "개성 만월대 사업 학예 직원(사업운영 및 전시기획지원) 채용",
-   "company": "㈔남북역사학자협의회",
-   "region": "서울 종로구",
-   "experience": "신입·경력 (3년이상)",
-   "education": "대학원(석사)이상",
-   "employmentType": "계약직",
-   "salary": "회사 내규에 따름 (면접 후 결정)",
-   "sector": "협회·단체, 마케팅기획",
-   "postedAt": "2026-10-15",
-   "startAt": "2026-10-15",
-   "deadline": "2026-10-30",
-   "deadlineText": "",
-   "summary": "모집분야: 개성 만월대 관련 사업 운영 학예직원\n고용형태: 계약직\n급여: 회사 내규에 따름 (면접 후 결정)\n근무지: 서울 종로구 새문안로3길 7 (신문로1가, 한글회관) 505호\n근무시간: 주5일(월~금)",
-   "qualifications": "경력: 신입·경력 (3년이상)\n학력: 대학원(석사)이상",
-   "kind": "job",
-   "official": false,
-   "foundBy": "박물관 학예",
-   "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-29",
-   "detailAt": "2026-10-29",
-   "detailOk": true,
-   "score": 25,
-   "tier": "high",
-   "tags": [
-    "curation",
-    "research",
-    "education"
-   ],
-   "matched": [
-    "학예",
-    "전시기획",
-    "전시",
-    "역사",
-    "사학"
-   ],
-   "alsoOn": [
-    {
-     "source": "saramin",
-     "sourceName": "사람인",
-     "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55298222"
-    }
-   ]
-  },
-  {
-   "id": "jobkorea:50182902",
-   "source": "jobkorea",
-   "sourceName": "잡코리아",
-   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50182902",
-   "title": "건축사사무소 간향 문화재설계 정규직 채용",
-   "company": "건축사사무소간향",
-   "region": "경북 경산시",
-   "experience": "신입·경력 (1년이상)",
-   "education": "초대졸이상",
-   "employmentType": "정규직",
-   "salary": "연봉 3,000~3,000만원",
-   "sector": "건축·설비·환경, 설계엔지니어",
-   "postedAt": "2026-10-16",
-   "startAt": "2026-10-16",
-   "deadline": "2026-12-15",
-   "deadlineText": "",
-   "summary": "모집분야: 문화재설계, 한옥설계\n고용형태: 정규직\n급여: 연봉 3,000~3,000만원\n근무지: 경북 경산시 펜타힐즈2로 59 (중산동) 9층\n근무시간: 주5일(월~금)",
-   "qualifications": "경력: 신입·경력 (1년이상)\n학력: 초대졸이상",
-   "kind": "job",
-   "official": false,
-   "foundBy": "문화재",
-   "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-29",
-   "detailAt": "2026-10-29",
-   "detailOk": true,
-   "score": 25,
-   "tier": "high",
-   "tags": [
-    "architecture"
-   ],
-   "matched": [
-    "문화재설계",
-    "한옥",
-    "문화재"
-   ]
-  },
-  {
    "id": "saramin:55344267",
    "source": "saramin",
    "sourceName": "사람인",
@@ -3675,43 +3548,6 @@
    ]
   },
   {
-   "id": "jobkorea:49973014",
-   "source": "jobkorea",
-   "sourceName": "잡코리아",
-   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49973014",
-   "title": "(경력인정기관)해든뮤지움 학예사 채용 /김포,인천,강서 출퇴근 용이",
-   "company": "해든뮤지움",
-   "region": "인천 강화군",
-   "experience": "경력무관 학력",
-   "education": "대졸이상",
-   "employmentType": "계약직",
-   "salary": "회사 내규에 따름 (면접 후 결정)",
-   "sector": "문화·공연·예술, 배급·제작자, 큐레이터",
-   "postedAt": "2026-09-11",
-   "startAt": "2026-09-11",
-   "deadline": null,
-   "deadlineText": "상시채용",
-   "summary": "모집분야: 큐레이터, 학예사, 문화예술교육사, 에듀케이터\n고용형태: 계약직\n급여: 회사 내규에 따름 (면접 후 결정)\n근무지: 인천 강화군 길상면 장흥리 211-5 해든뮤지움\n근무시간: 화-금, 주말 중 1일",
-   "qualifications": "경력: 경력무관 학력\n학력: 대졸이상",
-   "kind": "job",
-   "official": false,
-   "foundBy": "학예",
-   "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-29",
-   "detailAt": "2026-10-29",
-   "detailOk": true,
-   "score": 24,
-   "tier": "high",
-   "tags": [
-    "curation"
-   ],
-   "matched": [
-    "학예",
-    "학예사",
-    "큐레이터"
-   ]
-  },
-  {
    "id": "jobkorea:5605665",
    "source": "jobkorea",
    "sourceName": "잡코리아",
@@ -3719,17 +3555,17 @@
    "title": "신생 박물관에서 학예직원을 모집합니다.",
    "company": "에로스박물관",
    "region": "전남광주 신안군",
-   "experience": "경력무관 학력",
+   "experience": "경력무관",
    "education": "대졸이상",
    "employmentType": "계약직",
-   "salary": "월급 250 ~250 만원",
+   "salary": "월급 ~250만원",
    "sector": "월급 ~250만원",
    "postedAt": "2026-09-02",
    "startAt": "2026-09-02",
    "deadline": "2026-10-31",
    "deadlineText": "",
-   "summary": "고용형태: 계약직\n급여: 월급 250 ~250 만원\n근무지: 전남광주 신안군",
-   "qualifications": "경력: 경력무관 학력\n학력: 대졸이상",
+   "summary": "전남광주 신안군 · 경력무관 · 월급 ~250만원 · 월급 ~250만원",
+   "qualifications": "경력: 경력무관",
    "kind": "job",
    "official": false,
    "foundBy": "박물관 학예",
@@ -4162,6 +3998,54 @@
    ]
   },
   {
+   "id": "jobkorea:50175357",
+   "source": "jobkorea",
+   "sourceName": "잡코리아",
+   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50175357",
+   "title": "개성 만월대 사업 학예 직원(사업운영 및 전시기획지원) 채용",
+   "company": "㈔남북역사학자협의회",
+   "region": "서울 종로구",
+   "experience": "신입 지원 가능",
+   "education": "대학원(석사)이상",
+   "employmentType": "계약직",
+   "salary": "회사 내규에 따름 (면접 후 결정)",
+   "sector": "협회·단체, 마케팅기획",
+   "postedAt": "2026-10-15",
+   "startAt": "2026-10-15",
+   "deadline": "2026-10-30",
+   "deadlineText": "",
+   "summary": "서울 종로구 · 신입 지원 가능 · 협회·단체, 마케팅기획",
+   "qualifications": "경력: 신입 지원 가능",
+   "kind": "job",
+   "official": false,
+   "foundBy": "박물관 학예",
+   "firstSeen": "2026-10-17",
+   "lastSeen": "2026-10-29",
+   "detailAt": "2026-10-29",
+   "detailOk": true,
+   "score": 22,
+   "tier": "high",
+   "tags": [
+    "curation",
+    "research",
+    "education"
+   ],
+   "matched": [
+    "학예",
+    "전시기획",
+    "전시",
+    "역사",
+    "사학"
+   ],
+   "alsoOn": [
+    {
+     "source": "saramin",
+     "sourceName": "사람인",
+     "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55298222"
+    }
+   ]
+  },
+  {
    "id": "nrich:48426",
    "source": "nrich",
    "sourceName": "국립문화유산연구원",
@@ -4514,6 +4398,43 @@
    ]
   },
   {
+   "id": "jobkorea:49973014",
+   "source": "jobkorea",
+   "sourceName": "잡코리아",
+   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49973014",
+   "title": "(경력인정기관)해든뮤지움 학예사 채용 /김포,인천,강서 출퇴근 용이",
+   "company": "해든뮤지움",
+   "region": "인천 강화군",
+   "experience": "경력무관",
+   "education": "대졸이상",
+   "employmentType": "계약직",
+   "salary": "회사 내규에 따름 (면접 후 결정)",
+   "sector": "문화·공연·예술, 배급·제작자, 큐레이터",
+   "postedAt": "2026-09-11",
+   "startAt": "2026-09-11",
+   "deadline": null,
+   "deadlineText": "상시채용",
+   "summary": "인천 강화군 · 경력무관 · 문화·공연·예술, 배급·제작자, 큐레이터",
+   "qualifications": "경력: 경력무관",
+   "kind": "job",
+   "official": false,
+   "foundBy": "학예",
+   "firstSeen": "2026-10-17",
+   "lastSeen": "2026-10-29",
+   "detailAt": "2026-10-29",
+   "detailOk": true,
+   "score": 21,
+   "tier": "high",
+   "tags": [
+    "curation"
+   ],
+   "matched": [
+    "학예",
+    "학예사",
+    "큐레이터"
+   ]
+  },
+  {
    "id": "jobkorea:50093943",
    "source": "jobkorea",
    "sourceName": "잡코리아",
@@ -4530,7 +4451,7 @@
    "startAt": null,
    "deadline": null,
    "deadlineText": "",
-   "summary": "고용형태: · 정규직",
+   "summary": "서울 · 경력3년↑ · 생활화학·화장품, 큐레이터",
    "qualifications": "경력: 경력3년↑",
    "kind": "job",
    "official": false,
@@ -5645,6 +5566,40 @@
    ]
   },
   {
+   "id": "saramin:55214539",
+   "source": "saramin",
+   "sourceName": "사람인",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55214539",
+   "title": "박물관·전시 도록 전문 편집디자이너 모집(육아휴직 대체)",
+   "company": "디자인공방",
+   "region": "서울 중구",
+   "experience": "신입·경력",
+   "education": "초대졸↑",
+   "employmentType": "정규직",
+   "salary": "",
+   "sector": "북디자인, 시각디자인, 편집디자인, 폰트디자인, 표지디자인",
+   "postedAt": "2026-10-29",
+   "startAt": "2026-10-29",
+   "deadline": "2026-10-31",
+   "deadlineText": "",
+   "summary": "서울 중구 · 정규직 · 신입·경력 · 초대졸↑",
+   "qualifications": "경력: 신입·경력\n학력: 초대졸↑",
+   "kind": "job",
+   "official": false,
+   "foundBy": "문화유산",
+   "firstSeen": "2026-10-17",
+   "lastSeen": "2026-10-29",
+   "score": 18,
+   "tier": "high",
+   "tags": [
+    "curation"
+   ],
+   "matched": [
+    "전시",
+    "박물관"
+   ]
+  },
+  {
    "id": "saramin:55213342",
    "source": "saramin",
    "sourceName": "사람인",
@@ -5676,6 +5631,44 @@
    "matched": [
     "문화유산 콘텐츠",
     "문화유산"
+   ]
+  },
+  {
+   "id": "jobkorea:50076092",
+   "source": "jobkorea",
+   "sourceName": "잡코리아",
+   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50076092",
+   "title": "한국사/역사 체험학습 프리랜서 강사 모집",
+   "company": "꿈꾸는해치",
+   "region": "서울 용산구",
+   "experience": "신입 지원 가능",
+   "education": "대졸이상",
+   "employmentType": "프리랜서",
+   "salary": "건별 50,000원",
+   "sector": "학원·어학원·교육원, 학원강사",
+   "postedAt": "2026-09-30",
+   "startAt": "2026-09-30",
+   "deadline": "2026-11-29",
+   "deadlineText": "",
+   "summary": "서울 용산구 · 신입 지원 가능 · 학원·어학원·교육원, 학원강사",
+   "qualifications": "경력: 신입 지원 가능",
+   "kind": "job",
+   "official": false,
+   "foundBy": "문화유산",
+   "firstSeen": "2026-10-17",
+   "lastSeen": "2026-10-29",
+   "detailAt": "2026-10-29",
+   "detailOk": true,
+   "score": 18,
+   "tier": "high",
+   "tags": [
+    "education",
+    "research"
+   ],
+   "matched": [
+    "체험",
+    "역사",
+    "한국사"
    ]
   },
   {
@@ -5876,40 +5869,6 @@
    ]
   },
   {
-   "id": "saramin:55214539",
-   "source": "saramin",
-   "sourceName": "사람인",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55214539",
-   "title": "박물관·전시 도록 전문 편집디자이너 모집(육아휴직 대체)",
-   "company": "디자인공방",
-   "region": "서울 중구",
-   "experience": "신입·경력",
-   "education": "초대졸↑",
-   "employmentType": "정규직",
-   "salary": "",
-   "sector": "북디자인, 시각디자인, 편집디자인, 폰트디자인, 표지디자인",
-   "postedAt": "2026-10-19",
-   "startAt": "2026-10-19",
-   "deadline": null,
-   "deadlineText": "",
-   "summary": "서울 중구 · 정규직 · 신입·경력 · 초대졸↑",
-   "qualifications": "경력: 신입·경력\n학력: 초대졸↑",
-   "kind": "job",
-   "official": false,
-   "foundBy": "문화유산",
-   "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-26",
-   "score": 18,
-   "tier": "high",
-   "tags": [
-    "curation"
-   ],
-   "matched": [
-    "전시",
-    "박물관"
-   ]
-  },
-  {
    "id": "khs:34579",
    "source": "khs",
    "sourceName": "국가유산청",
@@ -6067,17 +6026,17 @@
    "title": "CAD 전문가로서 문화유산 보존에 기여해 보세요!",
    "company": "（주）삼진건축사사무소",
    "region": "전남광주 화순군",
-   "experience": "신입 학력",
+   "experience": "신입 지원 가능",
    "education": "대졸이상",
    "employmentType": "정규직",
-   "salary": "월급 280 ~450 만원",
+   "salary": "월급 280~450만원",
    "sector": "월급 280~450만원",
    "postedAt": "2026-09-29",
    "startAt": "2026-09-29",
    "deadline": "2026-11-28",
    "deadlineText": "",
-   "summary": "고용형태: 정규직\n급여: 월급 280 ~450 만원\n근무지: 전남광주 화순군",
-   "qualifications": "경력: 신입 학력\n학력: 대졸이상",
+   "summary": "전남광주 화순군 · 신입 지원 가능 · 월급 280~450만원 · 월급 280~450만원",
+   "qualifications": "경력: 신입 지원 가능",
    "kind": "job",
    "official": false,
    "foundBy": "문화유산",
@@ -6143,6 +6102,42 @@
      "sourceName": "사람인",
      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=54949696"
     }
+   ]
+  },
+  {
+   "id": "jobkorea:50182902",
+   "source": "jobkorea",
+   "sourceName": "잡코리아",
+   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50182902",
+   "title": "건축사사무소 간향 문화재설계 정규직 채용",
+   "company": "건축사사무소간향",
+   "region": "경북 경산시",
+   "experience": "신입 지원 가능",
+   "education": "초대졸이상",
+   "employmentType": "정규직",
+   "salary": "연봉 ~3,000만원",
+   "sector": "건축·설비·환경, 설계엔지니어",
+   "postedAt": "2026-10-16",
+   "startAt": "2026-10-16",
+   "deadline": "2026-12-15",
+   "deadlineText": "",
+   "summary": "경북 경산시 · 신입 지원 가능 · 건축·설비·환경, 설계엔지니어 · 연봉 ~3,000만원",
+   "qualifications": "경력: 신입 지원 가능",
+   "kind": "job",
+   "official": false,
+   "foundBy": "문화재",
+   "firstSeen": "2026-10-17",
+   "lastSeen": "2026-10-29",
+   "detailAt": "2026-10-29",
+   "detailOk": true,
+   "score": 17,
+   "tier": "high",
+   "tags": [
+    "architecture"
+   ],
+   "matched": [
+    "문화재설계",
+    "문화재"
    ]
   },
   {
@@ -6506,6 +6501,42 @@
    ]
   },
   {
+   "id": "saramin:55425481",
+   "source": "saramin",
+   "sourceName": "사람인",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55425481",
+   "title": "2026년 하반기 직원 채용공고 (학예직)",
+   "company": "독립기념관",
+   "region": "충남 천안시 동남구",
+   "experience": "경력무관",
+   "education": "대졸↑",
+   "employmentType": "정규직",
+   "salary": "",
+   "sector": "문서작성, 사무보조, 사무행정, 전시디자인, 박물관·미술관",
+   "postedAt": "2026-10-29",
+   "startAt": "2026-10-29",
+   "deadline": "2026-11-12",
+   "deadlineText": "",
+   "summary": "충남 천안시 동남구 · 정규직 · 경력무관 · 대졸↑",
+   "qualifications": "경력: 경력무관\n학력: 대졸↑",
+   "kind": "job",
+   "official": false,
+   "foundBy": "학예",
+   "firstSeen": "2026-10-29",
+   "lastSeen": "2026-10-29",
+   "score": 15,
+   "tier": "high",
+   "tags": [
+    "curation"
+   ],
+   "matched": [
+    "학예",
+    "전시",
+    "박물관",
+    "미술관"
+   ]
+  },
+  {
    "id": "saramin:55396580",
    "source": "saramin",
    "sourceName": "사람인",
@@ -6614,7 +6645,7 @@
    "title": "학예팀 채용(작품 구독·아트테크 서비스/신입-2년 미만 경력)",
    "company": "오픈갤러리",
    "region": "서울 성동구",
-   "experience": "신입·경력 학력",
+   "experience": "신입 지원 가능",
    "education": "초대졸이상",
    "employmentType": "정규직",
    "salary": "회사 내규에 따름 (면접 후 결정)",
@@ -6623,8 +6654,8 @@
    "startAt": "2026-10-22",
    "deadline": "2026-10-30",
    "deadlineText": "",
-   "summary": "모집분야: 큐레이터\n고용형태: 정규직\n급여: 회사 내규에 따름 (면접 후 결정)\n근무지: 서울 성동구 성수동1가 656-75\n근무시간: 면접 후 결정",
-   "qualifications": "경력: 신입·경력 학력\n학력: 초대졸이상",
+   "summary": "서울 성동구 · 신입 지원 가능 · 문화·공연·예술, 공간디자이너, 큐레이터",
+   "qualifications": "경력: 신입 지원 가능",
    "kind": "job",
    "official": false,
    "foundBy": "학예",
@@ -6657,17 +6688,17 @@
    "title": "[유니원커뮤니케이션즈]2026년 수소안전뮤지엄 도슨트 모집",
    "company": "㈜유니원커뮤니케이션즈",
    "region": "충북 음성군",
-   "experience": "경력무관 학력",
+   "experience": "상여금/인센티브 지급",
    "education": "학력무관",
    "employmentType": "계약직",
-   "salary": "월급 300~300만원",
+   "salary": "월급 ~300만원",
    "sector": "광고·홍보·전시, 스태프",
    "postedAt": "2026-10-15",
    "startAt": "2026-10-15",
    "deadline": "2026-11-12",
    "deadlineText": "",
-   "summary": "모집분야: [유니원커뮤니케이션즈]2026년 수소안전뮤지\n고용형태: 계약직\n급여: 월급 300~300만원\n근무지: 충북 음성군 맹동면 연미로 360-33 (두성리) 수소안전뮤지엄\n근무시간: 주5일(화~토)",
-   "qualifications": "경력: 경력무관 학력\n학력: 학력무관",
+   "summary": "충북 음성군 · 상여금/인센티브 지급 · 광고·홍보·전시, 스태프 · 월급 ~300만원",
+   "qualifications": "경력: 상여금/인센티브 지급",
    "kind": "job",
    "official": false,
    "foundBy": "국가유산",
@@ -6728,11 +6759,6 @@
     "미술관"
    ],
    "alsoOn": [
-    {
-     "source": "jobkorea",
-     "sourceName": "잡코리아",
-     "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50117542"
-    },
     {
      "source": "jobkorea",
      "sourceName": "잡코리아",
@@ -7150,36 +7176,40 @@
    ]
   },
   {
-   "id": "saramin:55423767",
+   "id": "saramin:55412978",
    "source": "saramin",
    "sourceName": "사람인",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55423767",
-   "title": "[미디어윌네트웍스] 신사업 발굴 및 기획 담당",
-   "company": "(주)미디어윌네트웍스",
-   "region": "서울 강남구",
-   "experience": "경력7년↑",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55412978",
+   "title": "문화 · 예술 · 역사 분야 인재를 모집합니다.",
+   "company": "컬쳐블록더함(주)",
+   "region": "부산 중구",
+   "experience": "신입·경력",
    "education": "대졸↑",
    "employmentType": "정규직",
    "salary": "",
-   "sector": "신사업발굴, 신사업기획, 사업기획, 사업개발, 사업관리",
+   "sector": "정책연구, 학술연구, 시각디자인, 문화기획, 연구소",
    "postedAt": "2026-10-29",
    "startAt": "2026-10-29",
-   "deadline": "2026-11-19",
+   "deadline": "2026-11-28",
    "deadlineText": "",
-   "summary": "서울 강남구 · 정규직 · 경력7년↑ · 대졸↑",
-   "qualifications": "경력: 경력7년↑\n학력: 대졸↑",
+   "summary": "부산 중구 · 정규직 · 신입·경력 · 대졸↑",
+   "qualifications": "경력: 신입·경력\n학력: 대졸↑",
    "kind": "job",
    "official": false,
-   "foundBy": "발굴",
+   "foundBy": "국가유산",
    "firstSeen": "2026-10-29",
    "lastSeen": "2026-10-29",
    "score": 12,
    "tier": "mid",
    "tags": [
-    "excavation"
+    "education",
+    "research"
    ],
    "matched": [
-    "발굴"
+    "문화기획",
+    "역사",
+    "학술연구",
+    "학술"
    ]
   },
   {
@@ -7216,6 +7246,39 @@
    ],
    "matched": [
     "문화재단"
+   ]
+  },
+  {
+   "id": "saramin:55423767",
+   "source": "saramin",
+   "sourceName": "사람인",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55423767",
+   "title": "[미디어윌네트웍스] 신사업 발굴 및 기획 담당",
+   "company": "(주)미디어윌네트웍스",
+   "region": "서울 강남구",
+   "experience": "경력7년↑",
+   "education": "대졸↑",
+   "employmentType": "정규직",
+   "salary": "",
+   "sector": "신사업발굴, 신사업기획, 사업기획, 사업개발, 사업관리",
+   "postedAt": "2026-10-29",
+   "startAt": "2026-10-29",
+   "deadline": "2026-11-19",
+   "deadlineText": "",
+   "summary": "서울 강남구 · 정규직 · 경력7년↑ · 대졸↑",
+   "qualifications": "경력: 경력7년↑\n학력: 대졸↑",
+   "kind": "job",
+   "official": false,
+   "foundBy": "발굴",
+   "firstSeen": "2026-10-29",
+   "lastSeen": "2026-10-29",
+   "score": 12,
+   "tier": "mid",
+   "tags": [
+    "excavation"
+   ],
+   "matched": [
+    "발굴"
    ]
   },
   {
@@ -7723,41 +7786,6 @@
    ],
    "matched": [
     "문화재단"
-   ]
-  },
-  {
-   "id": "jobkorea:50143248",
-   "source": "jobkorea",
-   "sourceName": "잡코리아",
-   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50143248",
-   "title": "IT인프라 통합유지보수 사업·계약관리 담당 채용",
-   "company": "㈜미래아이엔텍",
-   "region": "서울 중구",
-   "experience": "(3년이상)",
-   "education": "학력무관",
-   "employmentType": "정규직",
-   "salary": "회사 내규에 따름 (면접 후 결정)",
-   "sector": "솔루션·SI·CRM·ERP, PL·PM·PO, IT·기술영업",
-   "postedAt": "2026-10-12",
-   "startAt": "2026-10-12",
-   "deadline": "2026-11-11",
-   "deadlineText": "",
-   "summary": "모집분야: IT인프라 통합유지보수 사업계약관리 담당\n고용형태: 정규직\n급여: 회사 내규에 따름 (면접 후 결정)\n근무지: 서울 중구 수표로 23 (저동2가, 영락빌딩) 10층 미래아이엔텍\n근무시간: 주5일(월~금)",
-   "qualifications": "경력: (3년이상)\n학력: 학력무관",
-   "kind": "job",
-   "official": false,
-   "foundBy": "보존처리",
-   "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-29",
-   "detailAt": "2026-10-29",
-   "detailOk": true,
-   "score": 12,
-   "tier": "mid",
-   "tags": [
-    "conservation"
-   ],
-   "matched": [
-    "보수"
    ]
   },
   {
@@ -8423,6 +8451,41 @@
    ]
   },
   {
+   "id": "jobkorea:50143248",
+   "source": "jobkorea",
+   "sourceName": "잡코리아",
+   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50143248",
+   "title": "IT인프라 통합유지보수 사업·계약관리 담당 채용",
+   "company": "㈜미래아이엔텍",
+   "region": "서울 중구",
+   "experience": "(3년이상)",
+   "education": "학력무관",
+   "employmentType": "정규직",
+   "salary": "회사 내규에 따름 (면접 후 결정)",
+   "sector": "솔루션·SI·CRM·ERP, PL·PM·PO, IT·기술영업",
+   "postedAt": "2026-10-12",
+   "startAt": "2026-10-12",
+   "deadline": "2026-11-11",
+   "deadlineText": "",
+   "summary": "모집분야: IT인프라 통합유지보수 사업계약관리 담당\n고용형태: 정규직\n급여: 회사 내규에 따름 (면접 후 결정)\n근무지: 서울 중구 수표로 23 (저동2가, 영락빌딩) 10층 미래아이엔텍\n근무시간: 주5일(월~금)",
+   "qualifications": "경력: (3년이상)\n학력: 학력무관",
+   "kind": "job",
+   "official": false,
+   "foundBy": "보존처리",
+   "firstSeen": "2026-10-17",
+   "lastSeen": "2026-10-29",
+   "detailAt": "2026-10-29",
+   "detailOk": true,
+   "score": 12,
+   "tier": "mid",
+   "tags": [
+    "conservation"
+   ],
+   "matched": [
+    "보수"
+   ]
+  },
+  {
    "id": "khs:34580",
    "source": "khs",
    "sourceName": "국가유산청",
@@ -8667,17 +8730,17 @@
    "title": "연구원 사무행정직 직원채용",
    "company": "재단법인 영해문화유산연구원",
    "region": "전남광주 북구",
-   "experience": "학력",
+   "experience": "경력",
    "education": "초대졸이상",
    "employmentType": "계약직",
-   "salary": "월급 250 ~250 만원",
+   "salary": "월급 ~250만원",
    "sector": "월급 ~250만원",
    "postedAt": "2026-09-21",
    "startAt": "2026-09-21",
    "deadline": "2026-11-20",
    "deadlineText": "",
-   "summary": "고용형태: 계약직\n급여: 월급 250 ~250 만원\n근무지: 전남광주 북구",
-   "qualifications": "경력: 학력\n학력: 초대졸이상",
+   "summary": "전남광주 북구 · 경력 · 월급 ~250만원 · 월급 ~250만원",
+   "qualifications": "경력: 경력",
    "kind": "job",
    "official": false,
    "foundBy": "문화유산",
@@ -9264,17 +9327,17 @@
    "title": "[미래영어유산프로젝트] 영어교육 및 교구, 커리큘럼 6급 계약직",
    "company": "한국역사해설진흥원㈜",
    "region": "서울 종로구",
-   "experience": "경력무관 학력",
+   "experience": "경력무관",
    "education": "대졸이상",
    "employmentType": "계약직",
-   "salary": "월급 234~234만원",
+   "salary": "월급 ~230만원",
    "sector": "학원·어학원·교육원, 학원강사, 기술·전문강사",
    "postedAt": "2026-10-01",
    "startAt": "2026-10-01",
    "deadline": "2026-10-31",
    "deadlineText": "",
-   "summary": "모집분야: 영어유치부\n고용형태: 계약직\n급여: 월급 234~234만원\n근무지: 서울 종로구 통일로18길 9 (무악동, 인왕산아이파크) 상가동 4층 401호\n근무시간: 주5일(수~일)",
-   "qualifications": "경력: 경력무관 학력\n학력: 대졸이상",
+   "summary": "서울 종로구 · 경력무관 · 학원·어학원·교육원, 학원강사, 기술·전문강사 · 월급 ~230만원",
+   "qualifications": "경력: 경력무관",
    "kind": "job",
    "official": false,
    "foundBy": "문화유산",
@@ -10154,6 +10217,76 @@
    ],
    "matched": [
     "문화재단"
+   ]
+  },
+  {
+   "id": "saramin:55430557",
+   "source": "saramin",
+   "sourceName": "사람인",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55430557",
+   "title": "국내 영업 담당",
+   "company": "(주)에스케이케이스틸",
+   "region": "부산 기장군",
+   "experience": "신입·경력",
+   "education": "초대졸↑",
+   "employmentType": "정규직",
+   "salary": "",
+   "sector": "바이어발굴/관리, 해외영업, 무역사무원, 무역영어, 주문관리",
+   "postedAt": "2026-10-29",
+   "startAt": "2026-10-29",
+   "deadline": "2026-11-20",
+   "deadlineText": "",
+   "summary": "부산 기장군 · 정규직 · 신입·경력 · 초대졸↑",
+   "qualifications": "경력: 신입·경력\n학력: 초대졸↑",
+   "kind": "job",
+   "official": false,
+   "foundBy": "발굴",
+   "firstSeen": "2026-10-29",
+   "lastSeen": "2026-10-29",
+   "score": 5,
+   "tier": "low",
+   "tags": [
+    "excavation",
+    "research"
+   ],
+   "matched": [
+    "발굴",
+    "역사"
+   ]
+  },
+  {
+   "id": "saramin:55430298",
+   "source": "saramin",
+   "sourceName": "사람인",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55430298",
+   "title": "[정규직/구로] 유명기업 항공수출 사무 채용",
+   "company": "(주)키스템프그룹",
+   "region": "서울 구로구",
+   "experience": "경력1년↑",
+   "education": "초대졸↑",
+   "employmentType": "정규직",
+   "salary": "",
+   "sector": "바이어발굴/관리, 선적, 국제무역사, 무역경리, 무역사무원",
+   "postedAt": "2026-10-29",
+   "startAt": "2026-10-29",
+   "deadline": "2026-11-13",
+   "deadlineText": "",
+   "summary": "서울 구로구 · 정규직 · 경력1년↑ · 초대졸↑",
+   "qualifications": "경력: 경력1년↑\n학력: 초대졸↑",
+   "kind": "job",
+   "official": false,
+   "foundBy": "발굴",
+   "firstSeen": "2026-10-29",
+   "lastSeen": "2026-10-29",
+   "score": 5,
+   "tier": "low",
+   "tags": [
+    "excavation",
+    "research"
+   ],
+   "matched": [
+    "발굴",
+    "역사"
    ]
   },
   {
