@@ -1,56 +1,56 @@
 {
- "updatedAt": "2026-10-30T16:06:27.981Z",
+ "updatedAt": "2026-10-31T01:47:22.057Z",
  "today": "2026-10-31",
- "count": 281,
- "newToday": 2,
+ "count": 284,
+ "newToday": 5,
  "sources": {
   "saramin": {
    "name": "사람인",
    "ok": true,
-   "count": 402,
-   "ms": 29787
+   "count": 404,
+   "ms": 35784
   },
   "jobkorea": {
    "name": "잡코리아",
    "ok": true,
-   "count": 182,
-   "ms": 18795
+   "count": 188,
+   "ms": 18945
   },
   "khs": {
    "name": "국가유산청",
    "ok": true,
    "count": 30,
-   "ms": 10819
+   "ms": 10848
   },
   "nrich": {
    "name": "국립문화유산연구원",
    "ok": true,
    "count": 20,
-   "ms": 6943
+   "ms": 6613
   },
   "kha": {
    "name": "국가유산진흥원",
    "ok": true,
    "count": 20,
-   "ms": 5327
+   "ms": 5152
   },
   "alio": {
    "name": "잡알리오",
    "ok": true,
    "count": 5,
-   "ms": 11633
+   "ms": 11404
   },
   "gojobs": {
    "name": "나라일터",
    "ok": true,
    "count": 47,
-   "ms": 16215
+   "ms": 16316
   },
   "momo365": {
    "name": "모모365",
    "ok": true,
    "count": 100,
-   "ms": 2851
+   "ms": 2877
   }
  },
  "categories": [
@@ -324,6 +324,55 @@
      "source": "nrich",
      "sourceName": "국립문화유산연구원",
      "url": "https://www.nrich.go.kr/kor/boardView.do?menuIdx=285&bbscd=40&bbs_idx=48397"
+    }
+   ]
+  },
+  {
+   "id": "khs:34611",
+   "source": "khs",
+   "sourceName": "국가유산청",
+   "url": "https://www.khs.go.kr/multiBbz/selectMultiBbzView.do?id=10013&no=34611&bbzId=newexam&pageIndex=2&pageUnit=10&strWhere=&searchWrd=&sdate=&edate=&mn=NS_01_06",
+   "title": "국립부여문화유산연구소 기간제근로자(부여 관북리, 익산 왕궁리/고고학) 신규채용 최종 합격자 공고",
+   "company": "국립부여문화유산연구소",
+   "region": "",
+   "experience": "",
+   "education": "",
+   "employmentType": "기간제",
+   "salary": "",
+   "sector": "",
+   "postedAt": "2026-10-26",
+   "startAt": "2026-10-26",
+   "deadline": null,
+   "deadlineText": "",
+   "summary": "",
+   "qualifications": "",
+   "kind": "result",
+   "official": true,
+   "author": "심상육",
+   "firstSeen": "2026-10-31",
+   "lastSeen": "2026-10-31",
+   "score": 56,
+   "tier": "high",
+   "tags": [
+    "excavation",
+    "institution"
+   ],
+   "matched": [
+    "고고",
+    "고고학",
+    "문화유산연구소",
+    "문화유산"
+   ],
+   "alsoOn": [
+    {
+     "source": "nrich",
+     "sourceName": "국립문화유산연구원",
+     "url": "https://www.nrich.go.kr/kor/boardView.do?menuIdx=285&bbscd=40&bbs_idx=48463"
+    },
+    {
+     "source": "nrich",
+     "sourceName": "국립문화유산연구원",
+     "url": "https://www.nrich.go.kr/kor/boardView.do?menuIdx=285&bbscd=40&bbs_idx=48404"
     }
    ]
   },
@@ -1418,7 +1467,7 @@
    "salary": "",
    "sector": "",
    "postedAt": "2026-10-19",
-   "startAt": "2026-10-20",
+   "startAt": "2026-10-19",
    "deadline": "2026-10-27",
    "deadlineText": "",
    "summary": "채용직급: 공무직 1명\n근무지역: 충청북도 청주시\n[국립청주박물관 공고 제2026-32호] 국립청주박물관 공무직 근로자(학예보조) 채용 공고 국립청주박물관 학예연구실에서 공무직 근로자(학예보조)를 다음과 같이 공개 모집하오니 관심 있는 분들의 많은 응시를 바랍니다. ㅇ 모집분야 및 인원 : 공무직 근로자(학예보조-청련관), 1명 ㅇ 접수기간 : 2026.10.20.(화) ~ 2026.10.27.(화) ※ 자세한 내용은 붙임 파일을 참고하시기 바랍니다. 2026년 10월 19일…",
@@ -1633,42 +1682,6 @@
     "미술관",
     "박물관",
     "조사원"
-   ]
-  },
-  {
-   "id": "jobkorea:50275699",
-   "source": "jobkorea",
-   "sourceName": "잡코리아",
-   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50275699",
-   "title": "재단법인 산들문화유산연구원 채용공고",
-   "company": "재단법인 산들문화유산연구원",
-   "region": "경기 오산시",
-   "experience": "신입·경력 학력",
-   "education": "대졸이상",
-   "employmentType": "정규직",
-   "salary": "연봉 2,800만원 이상 (면접 후 결정)",
-   "sector": "협회·단체, R&D·연구원",
-   "postedAt": "2026-10-30",
-   "startAt": "2026-10-30",
-   "deadline": "2026-11-13",
-   "deadlineText": "",
-   "summary": "모집분야: 연구원\n고용형태: 정규직\n급여: 연봉 2,800만원 이상 (면접 후 결정)\n근무지: 경기 오산시 수목원로88번길 35 (가수동) A동 1301호 산들문화유산연구원\n근무시간: 주5일(월~금)",
-   "qualifications": "경력: 신입·경력 학력\n학력: 대졸이상",
-   "kind": "job",
-   "official": false,
-   "foundBy": "문화유산",
-   "firstSeen": "2026-10-31",
-   "lastSeen": "2026-10-31",
-   "detailAt": "2026-10-31",
-   "detailOk": true,
-   "score": 32,
-   "tier": "high",
-   "tags": [
-    "excavation"
-   ],
-   "matched": [
-    "문화유산연구원",
-    "문화유산"
    ]
   },
   {
@@ -2551,6 +2564,42 @@
     "학예",
     "학예연구",
     "박물관"
+   ]
+  },
+  {
+   "id": "jobkorea:50275699",
+   "source": "jobkorea",
+   "sourceName": "잡코리아",
+   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50275699",
+   "title": "재단법인 산들문화유산연구원 채용공고",
+   "company": "재단법인 산들문화유산연구원",
+   "region": "경기 오산시",
+   "experience": "신입 지원 가능",
+   "education": "대졸이상",
+   "employmentType": "정규직",
+   "salary": "연봉 2,800만원~",
+   "sector": "협회·단체, R&D·연구원",
+   "postedAt": "2026-10-30",
+   "startAt": "2026-10-30",
+   "deadline": "2026-11-13",
+   "deadlineText": "",
+   "summary": "경기 오산시 · 신입 지원 가능 · 협회·단체, R&D·연구원 · 연봉 2,800만원~",
+   "qualifications": "경력: 신입 지원 가능",
+   "kind": "job",
+   "official": false,
+   "foundBy": "국가유산",
+   "firstSeen": "2026-10-31",
+   "lastSeen": "2026-10-31",
+   "detailAt": "2026-10-31",
+   "detailOk": true,
+   "score": 27,
+   "tier": "high",
+   "tags": [
+    "excavation"
+   ],
+   "matched": [
+    "문화유산연구원",
+    "문화유산"
    ]
   },
   {
@@ -5765,7 +5814,7 @@
    "title": "조경 국가유산수리 기능자 / 조경기능사 모집",
    "company": "푸른솔나무병원 주식회사",
    "region": "경기 용인시",
-   "experience": "학력",
+   "experience": "경력",
    "education": "학력무관",
    "employmentType": "계약직",
    "salary": "일급 120000 ~250000 원",
@@ -5774,8 +5823,8 @@
    "startAt": "2026-09-04",
    "deadline": "2026-11-03",
    "deadlineText": "",
-   "summary": "고용형태: 계약직\n급여: 일급 120000 ~250000 원\n근무지: 경기 용인시 기흥구",
-   "qualifications": "경력: 학력\n학력: 학력무관",
+   "summary": "경기 용인시 · 경력 · 일급 120,000~250,000원",
+   "qualifications": "경력: 경력",
    "kind": "job",
    "official": false,
    "foundBy": "국가유산",
@@ -6681,39 +6730,6 @@
    ]
   },
   {
-   "id": "saramin:55442092",
-   "source": "saramin",
-   "sourceName": "사람인",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55442092",
-   "title": "주방용품 해외 영업(바이어발굴 및 신규마케팅) 담당직원 모집",
-   "company": "(주)코멕스플래닝",
-   "region": "서울 금천구",
-   "experience": "경력 3~10년",
-   "education": "대졸↑",
-   "employmentType": "정규직",
-   "salary": "",
-   "sector": "바이어발굴/관리, 해외영업, 해외영업관리, 영업마케팅, 해외시장개척",
-   "postedAt": "2026-10-30",
-   "startAt": "2026-10-30",
-   "deadline": "2026-11-29",
-   "deadlineText": "",
-   "summary": "서울 금천구 · 정규직 · 경력 3~10년 · 대졸↑",
-   "qualifications": "경력: 경력 3~10년\n학력: 대졸↑",
-   "kind": "job",
-   "official": false,
-   "foundBy": "발굴",
-   "firstSeen": "2026-10-30",
-   "lastSeen": "2026-10-31",
-   "score": 12,
-   "tier": "mid",
-   "tags": [
-    "excavation"
-   ],
-   "matched": [
-    "발굴"
-   ]
-  },
-  {
    "id": "khs:34623",
    "source": "khs",
    "sourceName": "국가유산청",
@@ -6779,6 +6795,39 @@
    "matched": [
     "국가유산청",
     "국가유산"
+   ]
+  },
+  {
+   "id": "saramin:55442092",
+   "source": "saramin",
+   "sourceName": "사람인",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55442092",
+   "title": "주방용품 해외 영업(바이어발굴 및 신규마케팅) 담당직원 모집",
+   "company": "(주)코멕스플래닝",
+   "region": "서울 금천구",
+   "experience": "경력 3~10년",
+   "education": "대졸↑",
+   "employmentType": "정규직",
+   "salary": "",
+   "sector": "바이어발굴/관리, 해외영업, 해외영업관리, 영업마케팅, 해외시장개척",
+   "postedAt": "2026-10-30",
+   "startAt": "2026-10-30",
+   "deadline": "2026-11-29",
+   "deadlineText": "",
+   "summary": "서울 금천구 · 정규직 · 경력 3~10년 · 대졸↑",
+   "qualifications": "경력: 경력 3~10년\n학력: 대졸↑",
+   "kind": "job",
+   "official": false,
+   "foundBy": "발굴",
+   "firstSeen": "2026-10-30",
+   "lastSeen": "2026-10-31",
+   "score": 12,
+   "tier": "mid",
+   "tags": [
+    "excavation"
+   ],
+   "matched": [
+    "발굴"
    ]
   },
   {
@@ -8186,6 +8235,39 @@
    ]
   },
   {
+   "id": "saramin:55445054",
+   "source": "saramin",
+   "sourceName": "사람인",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55445054",
+   "title": "일본, 중국 현지 거래처 발굴 알바 (성과급 있음)",
+   "company": "트리트리 TREE(3)",
+   "region": "서울 동대문구",
+   "experience": "경력 1~10년",
+   "education": "학력무관",
+   "employmentType": "아르바이트",
+   "salary": "",
+   "sector": "사업개발, 사업제휴, 해외영업, 쇼핑몰, B2B",
+   "postedAt": "2026-10-30",
+   "startAt": "2026-10-30",
+   "deadline": "2026-11-29",
+   "deadlineText": "",
+   "summary": "서울 동대문구 · 아르바이트 · 경력 1~10년 · 학력무관",
+   "qualifications": "경력: 경력 1~10년\n학력: 학력무관",
+   "kind": "job",
+   "official": false,
+   "foundBy": "발굴",
+   "firstSeen": "2026-10-31",
+   "lastSeen": "2026-10-31",
+   "score": 9,
+   "tier": "mid",
+   "tags": [
+    "excavation"
+   ],
+   "matched": [
+    "발굴"
+   ]
+  },
+  {
    "id": "saramin:55442170",
    "source": "saramin",
    "sourceName": "사람인",
@@ -9153,6 +9235,13 @@
    ],
    "matched": [
     "기록물"
+   ],
+   "alsoOn": [
+    {
+     "source": "jobkorea",
+     "sourceName": "잡코리아",
+     "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50271948"
+    }
    ]
   },
   {
@@ -9537,6 +9626,41 @@
    ],
    "matched": [
     "문화재단"
+   ]
+  },
+  {
+   "id": "saramin:55445618",
+   "source": "saramin",
+   "sourceName": "사람인",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55445618",
+   "title": "중견 전장사 유라시아 해외영업(팀장급)",
+   "company": "프로페셔날핸즈인핸즈코리아(주)",
+   "region": "서울 강남구",
+   "experience": "경력10년↑",
+   "education": "대졸↑",
+   "employmentType": "정규직",
+   "salary": "",
+   "sector": "바이어발굴/관리, 매출관리, 해외영업관리, 기술영업, 무역사무원",
+   "postedAt": "2026-10-31",
+   "startAt": "2026-10-31",
+   "deadline": "2026-11-15",
+   "deadlineText": "",
+   "summary": "서울 강남구 · 정규직 · 경력10년↑ · 대졸↑",
+   "qualifications": "경력: 경력10년↑\n학력: 대졸↑",
+   "kind": "job",
+   "official": false,
+   "foundBy": "발굴",
+   "firstSeen": "2026-10-31",
+   "lastSeen": "2026-10-31",
+   "score": 5,
+   "tier": "low",
+   "tags": [
+    "excavation",
+    "research"
+   ],
+   "matched": [
+    "발굴",
+    "역사"
    ]
   },
   {
