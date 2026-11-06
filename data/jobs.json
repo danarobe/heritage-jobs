@@ -1,56 +1,56 @@
 {
- "updatedAt": "2026-11-05T17:32:52.445Z",
+ "updatedAt": "2026-11-06T02:46:52.218Z",
  "today": "2026-11-06",
- "count": 297,
- "newToday": 1,
+ "count": 300,
+ "newToday": 5,
  "sources": {
   "saramin": {
    "name": "사람인",
    "ok": true,
-   "count": 419,
-   "ms": 31350
+   "count": 421,
+   "ms": 33105
   },
   "jobkorea": {
    "name": "잡코리아",
-   "ok": false,
-   "error": "fetch failed",
-   "ms": 35986
+   "ok": true,
+   "count": 189,
+   "ms": 20859
   },
   "khs": {
    "name": "국가유산청",
    "ok": true,
    "count": 30,
-   "ms": 9618
+   "ms": 10934
   },
   "nrich": {
    "name": "국립문화유산연구원",
    "ok": true,
    "count": 20,
-   "ms": 5886
+   "ms": 6646
   },
   "kha": {
    "name": "국가유산진흥원",
    "ok": true,
    "count": 20,
-   "ms": 4191
+   "ms": 4959
   },
   "alio": {
    "name": "잡알리오",
    "ok": true,
    "count": 5,
-   "ms": 11343
+   "ms": 11124
   },
   "gojobs": {
    "name": "나라일터",
    "ok": true,
    "count": 48,
-   "ms": 18934
+   "ms": 22303
   },
   "momo365": {
    "name": "모모365",
    "ok": true,
    "count": 100,
-   "ms": 2627
+   "ms": 2842
   }
  },
  "categories": [
@@ -1147,7 +1147,7 @@
    "experience": "경력무관",
    "education": "대졸↑",
    "employmentType": "정규직",
-   "salary": "",
+   "salary": "회사 내규에 따름 (면접 후 결정)",
    "sector": "연구원, 학술연구, 매장유산조사, 연구원",
    "postedAt": "2026-11-02",
    "startAt": "2026-11-02",
@@ -1173,6 +1173,13 @@
     "학술연구",
     "학술",
     "문화유산"
+   ],
+   "alsoOn": [
+    {
+     "source": "jobkorea",
+     "sourceName": "잡코리아",
+     "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50281104"
+    }
    ]
   },
   {
@@ -1243,6 +1250,50 @@
    "matched": [
     "문화유산연구소",
     "문화유산"
+   ]
+  },
+  {
+   "id": "saramin:55274447",
+   "source": "saramin",
+   "sourceName": "사람인",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55274447",
+   "title": "(재)금강문화유산연구원 채용공고",
+   "company": "(재)금강문화유산연구원",
+   "region": "대전 유성구",
+   "experience": "경력무관",
+   "education": "대졸↑",
+   "employmentType": "정규직",
+   "salary": "회사 내규에 따름 (면접 후 결정)",
+   "sector": "학술연구, 연구소",
+   "postedAt": "2026-10-13",
+   "startAt": "2026-10-13",
+   "deadline": null,
+   "deadlineText": "채용시",
+   "summary": "대전 유성구 · 정규직 · 경력무관 · 대졸↑",
+   "qualifications": "경력: 경력무관\n학력: 대졸↑",
+   "kind": "job",
+   "official": false,
+   "foundBy": "문화재",
+   "firstSeen": "2026-10-17",
+   "lastSeen": "2026-11-06",
+   "score": 37,
+   "tier": "high",
+   "tags": [
+    "excavation",
+    "research"
+   ],
+   "matched": [
+    "문화유산연구원",
+    "학술연구",
+    "학술",
+    "문화유산"
+   ],
+   "alsoOn": [
+    {
+     "source": "jobkorea",
+     "sourceName": "잡코리아",
+     "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50159257"
+    }
    ]
   },
   {
@@ -1426,7 +1477,7 @@
    "official": false,
    "foundBy": "문화유산",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-04",
+   "lastSeen": "2026-11-06",
    "detailAt": "2026-11-04",
    "detailOk": true,
    "score": 36,
@@ -1778,6 +1829,42 @@
    ]
   },
   {
+   "id": "jobkorea:50275699",
+   "source": "jobkorea",
+   "sourceName": "잡코리아",
+   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50275699",
+   "title": "재단법인 산들문화유산연구원 채용공고",
+   "company": "재단법인 산들문화유산연구원",
+   "region": "경기 오산시",
+   "experience": "신입·경력 학력",
+   "education": "대졸이상",
+   "employmentType": "정규직",
+   "salary": "연봉 2,800만원 이상 (면접 후 결정)",
+   "sector": "협회·단체, R&D·연구원",
+   "postedAt": "2026-10-30",
+   "startAt": "2026-10-30",
+   "deadline": "2026-11-13",
+   "deadlineText": "",
+   "summary": "모집분야: 연구원\n고용형태: 정규직\n급여: 연봉 2,800만원 이상 (면접 후 결정)\n근무지: 경기 오산시 수목원로88번길 35 (가수동) A동 1301호 산들문화유산연구원\n근무시간: 주5일(월~금)",
+   "qualifications": "경력: 신입·경력 학력\n학력: 대졸이상",
+   "kind": "job",
+   "official": false,
+   "foundBy": "국가유산",
+   "firstSeen": "2026-10-31",
+   "lastSeen": "2026-11-06",
+   "detailAt": "2026-11-06",
+   "detailOk": true,
+   "score": 32,
+   "tier": "high",
+   "tags": [
+    "excavation"
+   ],
+   "matched": [
+    "문화유산연구원",
+    "문화유산"
+   ]
+  },
+  {
    "id": "gojobs:306569",
    "source": "gojobs",
    "sourceName": "나라일터",
@@ -1848,43 +1935,6 @@
    ]
   },
   {
-   "id": "saramin:55274447",
-   "source": "saramin",
-   "sourceName": "사람인",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55274447",
-   "title": "(재)금강문화유산연구원 채용공고",
-   "company": "(재)금강문화유산연구원",
-   "region": "대전 유성구",
-   "experience": "경력무관",
-   "education": "대졸↑",
-   "employmentType": "정규직",
-   "salary": "",
-   "sector": "학술연구, 연구소",
-   "postedAt": "2026-10-13",
-   "startAt": "2026-10-13",
-   "deadline": null,
-   "deadlineText": "채용시",
-   "summary": "대전 유성구 · 정규직 · 경력무관 · 대졸↑",
-   "qualifications": "경력: 경력무관\n학력: 대졸↑",
-   "kind": "job",
-   "official": false,
-   "foundBy": "문화유산",
-   "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-06",
-   "score": 31,
-   "tier": "high",
-   "tags": [
-    "excavation",
-    "research"
-   ],
-   "matched": [
-    "문화유산연구원",
-    "학술연구",
-    "학술",
-    "문화유산"
-   ]
-  },
-  {
    "id": "saramin:55055822",
    "source": "saramin",
    "sourceName": "사람인",
@@ -1897,8 +1947,8 @@
    "employmentType": "정규직",
    "salary": "",
    "sector": "연구원, 문화재, 미술관, 현장관리자, 현장기사",
-   "postedAt": "2026-09-16",
-   "startAt": "2026-09-16",
+   "postedAt": "2026-11-06",
+   "startAt": "2026-11-06",
    "deadline": "2026-11-15",
    "deadlineText": "",
    "summary": "충남 아산시 · 정규직 · 경력 · 학력무관",
@@ -2697,42 +2747,6 @@
    ]
   },
   {
-   "id": "jobkorea:50275699",
-   "source": "jobkorea",
-   "sourceName": "잡코리아",
-   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50275699",
-   "title": "재단법인 산들문화유산연구원 채용공고",
-   "company": "재단법인 산들문화유산연구원",
-   "region": "경기 오산시",
-   "experience": "신입 지원 가능",
-   "education": "대졸이상",
-   "employmentType": "정규직",
-   "salary": "연봉 2,800만원~",
-   "sector": "협회·단체, R&D·연구원",
-   "postedAt": "2026-10-30",
-   "startAt": "2026-10-30",
-   "deadline": "2026-11-13",
-   "deadlineText": "",
-   "summary": "경기 오산시 · 신입 지원 가능 · 협회·단체, R&D·연구원 · 연봉 2,800만원~",
-   "qualifications": "경력: 신입 지원 가능",
-   "kind": "job",
-   "official": false,
-   "foundBy": "국가유산",
-   "firstSeen": "2026-10-31",
-   "lastSeen": "2026-11-05",
-   "detailAt": "2026-10-31",
-   "detailOk": true,
-   "score": 27,
-   "tier": "high",
-   "tags": [
-    "excavation"
-   ],
-   "matched": [
-    "문화유산연구원",
-    "문화유산"
-   ]
-  },
-  {
    "id": "saramin:55175752",
    "source": "saramin",
    "sourceName": "사람인",
@@ -2770,6 +2784,11 @@
      "source": "saramin",
      "sourceName": "사람인",
      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55195750"
+    },
+    {
+     "source": "jobkorea",
+     "sourceName": "잡코리아",
+     "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/5711225/Ext?siteCode=WN"
     }
    ]
   },
@@ -2796,7 +2815,7 @@
    "official": false,
    "foundBy": "국가유산",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-05",
+   "lastSeen": "2026-11-06",
    "detailAt": "2026-11-04",
    "detailOk": true,
    "score": 27,
@@ -2926,22 +2945,22 @@
    "title": "국가유산수리 기술자_기술종별:보수_ 채용공고_자격...",
    "company": "성림종합건설주식회사",
    "region": "경기 안양시",
-   "experience": "학력",
+   "experience": "경력",
    "education": "학력무관",
    "employmentType": "정규직",
-   "salary": "연봉 7000 ~7500 만원",
+   "salary": "연봉 7,000~7,500만원",
    "sector": "연봉 7,000~7,500만원",
    "postedAt": "2026-11-05",
    "startAt": "2026-11-05",
    "deadline": "2027-01-04",
    "deadlineText": "",
-   "summary": "고용형태: 정규직\n급여: 연봉 7000 ~7500 만원\n근무지: 경기 안양시 만안구",
-   "qualifications": "경력: 학력\n학력: 학력무관",
+   "summary": "경기 안양시 · 경력 · 연봉 7,000~7,500만원 · 연봉 7,000~7,500만원",
+   "qualifications": "경력: 경력",
    "kind": "job",
    "official": false,
    "foundBy": "국가유산",
    "firstSeen": "2026-11-05",
-   "lastSeen": "2026-11-05",
+   "lastSeen": "2026-11-06",
    "detailAt": "2026-11-05",
    "detailOk": true,
    "score": 26,
@@ -3028,6 +3047,13 @@
     "박물관",
     "미술관",
     "문화재"
+   ],
+   "alsoOn": [
+    {
+     "source": "jobkorea",
+     "sourceName": "잡코리아",
+     "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50278892"
+    }
    ]
   },
   {
@@ -3579,6 +3605,49 @@
    ]
   },
   {
+   "id": "saramin:55486668",
+   "source": "saramin",
+   "sourceName": "사람인",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55486668",
+   "title": "서울강서문화원 직원(겸재정선미술관 학예사) 채용 공고",
+   "company": "강서문화원",
+   "region": "서울 강서구",
+   "experience": "경력무관",
+   "education": "대졸",
+   "employmentType": "정규직",
+   "salary": "3,400 만원",
+   "sector": "문화재, 공공기관",
+   "postedAt": "2026-11-04",
+   "startAt": "2026-11-04",
+   "deadline": "2026-11-24",
+   "deadlineText": "",
+   "summary": "서울 강서구 · 정규직 · 경력무관 · 대졸 · 3,400 만원",
+   "qualifications": "경력: 경력무관\n학력: 대졸",
+   "kind": "job",
+   "official": false,
+   "foundBy": "학예",
+   "firstSeen": "2026-11-05",
+   "lastSeen": "2026-11-06",
+   "score": 24,
+   "tier": "high",
+   "tags": [
+    "curation"
+   ],
+   "matched": [
+    "학예",
+    "학예사",
+    "미술관",
+    "문화재"
+   ],
+   "alsoOn": [
+    {
+     "source": "jobkorea",
+     "sourceName": "잡코리아",
+     "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50306523"
+    }
+   ]
+  },
+  {
    "id": "jobkorea:50298097",
    "source": "jobkorea",
    "sourceName": "잡코리아",
@@ -3601,7 +3670,7 @@
    "official": false,
    "foundBy": "학예",
    "firstSeen": "2026-11-04",
-   "lastSeen": "2026-11-05",
+   "lastSeen": "2026-11-06",
    "detailAt": "2026-11-04",
    "detailOk": true,
    "score": 24,
@@ -4026,7 +4095,7 @@
    "experience": "경력무관",
    "education": "대졸↑",
    "employmentType": "기간제·계약직",
-   "salary": "",
+   "salary": "회사 내규에 따름",
    "sector": "사무행정, 임기제공무원, 보존과학, 문헌정보, 기록물관리",
    "postedAt": "2026-11-04",
    "startAt": "2026-11-04",
@@ -4050,6 +4119,13 @@
     "보존과학",
     "보존",
     "기록물"
+   ],
+   "alsoOn": [
+    {
+     "source": "jobkorea",
+     "sourceName": "잡코리아",
+     "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50301491"
+    }
    ]
   },
   {
@@ -4757,7 +4833,7 @@
    "official": false,
    "foundBy": "학예",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-05",
+   "lastSeen": "2026-11-06",
    "detailAt": "2026-11-04",
    "detailOk": true,
    "score": 21,
@@ -4809,42 +4885,6 @@
    ]
   },
   {
-   "id": "saramin:55486668",
-   "source": "saramin",
-   "sourceName": "사람인",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55486668",
-   "title": "서울강서문화원 직원(겸재정선미술관 학예사) 채용 공고",
-   "company": "강서문화원",
-   "region": "서울 강서구",
-   "experience": "경력무관",
-   "education": "대졸",
-   "employmentType": "정규직",
-   "salary": "3,400 만원",
-   "sector": "문화재, 공공기관",
-   "postedAt": "2026-11-04",
-   "startAt": "2026-11-04",
-   "deadline": "2026-11-24",
-   "deadlineText": "",
-   "summary": "서울 강서구 · 정규직 · 경력무관 · 대졸 · 3,400 만원",
-   "qualifications": "경력: 경력무관\n학력: 대졸",
-   "kind": "job",
-   "official": false,
-   "foundBy": "학예",
-   "firstSeen": "2026-11-05",
-   "lastSeen": "2026-11-06",
-   "score": 20,
-   "tier": "high",
-   "tags": [
-    "curation"
-   ],
-   "matched": [
-    "학예",
-    "학예사",
-    "미술관",
-    "문화재"
-   ]
-  },
-  {
    "id": "jobkorea:5716536",
    "source": "jobkorea",
    "sourceName": "잡코리아",
@@ -4867,7 +4907,7 @@
    "official": false,
    "foundBy": "문화유산",
    "firstSeen": "2026-11-04",
-   "lastSeen": "2026-11-05",
+   "lastSeen": "2026-11-06",
    "detailAt": "2026-11-04",
    "detailOk": true,
    "score": 20,
@@ -5762,7 +5802,7 @@
    "official": false,
    "foundBy": "문화유산",
    "firstSeen": "2026-11-04",
-   "lastSeen": "2026-11-04",
+   "lastSeen": "2026-11-06",
    "detailAt": "2026-11-04",
    "detailOk": true,
    "score": 18,
@@ -5800,7 +5840,7 @@
    "official": false,
    "foundBy": "문화유산",
    "firstSeen": "2026-11-03",
-   "lastSeen": "2026-11-05",
+   "lastSeen": "2026-11-06",
    "detailAt": "2026-11-03",
    "detailOk": true,
    "score": 18,
@@ -5942,7 +5982,7 @@
    "official": false,
    "foundBy": "문화유산",
    "firstSeen": "2026-10-20",
-   "lastSeen": "2026-11-04",
+   "lastSeen": "2026-11-06",
    "detailAt": "2026-11-01",
    "detailOk": true,
    "score": 18,
@@ -6020,7 +6060,7 @@
    "official": false,
    "foundBy": "문화유산",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-05",
+   "lastSeen": "2026-11-06",
    "detailAt": "2026-11-04",
    "detailOk": true,
    "score": 18,
@@ -6325,7 +6365,7 @@
    "official": false,
    "foundBy": "문화유산",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-04",
+   "lastSeen": "2026-11-06",
    "detailAt": "2026-11-04",
    "detailOk": true,
    "score": 17,
@@ -6368,7 +6408,7 @@
    "official": false,
    "foundBy": "문화재",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-05",
+   "lastSeen": "2026-11-06",
    "detailAt": "2026-11-04",
    "detailOk": true,
    "score": 17,
@@ -6670,7 +6710,7 @@
    "title": "학예팀 채용(작품 구독·아트테크 서비스/신입-2년 미만 경력)",
    "company": "오픈갤러리",
    "region": "서울 성동구",
-   "experience": "신입 지원 가능",
+   "experience": "오늘 마감! 놓치지 마세요!",
    "education": "초대졸이상",
    "employmentType": "정규직",
    "salary": "회사 내규에 따름 (면접 후 결정)",
@@ -6679,13 +6719,13 @@
    "startAt": "2026-10-30",
    "deadline": "2026-11-06",
    "deadlineText": "",
-   "summary": "서울 성동구 · 신입 지원 가능 · 문화·공연·예술, 공간디자이너, 큐레이터",
-   "qualifications": "경력: 신입 지원 가능",
+   "summary": "서울 성동구 · 오늘 마감! 놓치지 마세요! · 문화·공연·예술, 공간디자이너, 큐레이터",
+   "qualifications": "경력: 오늘 마감! 놓치지 마세요!",
    "kind": "job",
    "official": false,
    "foundBy": "학예",
    "firstSeen": "2026-10-19",
-   "lastSeen": "2026-11-05",
+   "lastSeen": "2026-11-06",
    "detailAt": "2026-11-05",
    "detailOk": true,
    "score": 15,
@@ -6762,7 +6802,7 @@
    "official": false,
    "foundBy": "국가유산",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-05",
+   "lastSeen": "2026-11-06",
    "detailAt": "2026-11-04",
    "detailOk": true,
    "score": 15,
@@ -6793,7 +6833,7 @@
    "experience": "경력3년↑",
    "education": "대졸↑",
    "employmentType": "정규직",
-   "salary": "",
+   "salary": "회사 내규에 따름 (면접 후 결정)",
    "sector": "큐레이터, 박물관·미술관",
    "postedAt": "2026-10-26",
    "startAt": "2026-10-26",
@@ -6816,6 +6856,13 @@
     "큐레이터",
     "박물관",
     "미술관"
+   ],
+   "alsoOn": [
+    {
+     "source": "jobkorea",
+     "sourceName": "잡코리아",
+     "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50241515"
+    }
    ]
   },
   {
@@ -7046,7 +7093,7 @@
    "title": "[PKM갤러리] 전시팀장 모집 공고",
    "company": "피케이엠갤러리",
    "region": "서울 종로구",
-   "experience": "오늘 뜬 따끈한 공고",
+   "experience": "경력3년↑",
    "education": "대졸이상",
    "employmentType": "정규직",
    "salary": "회사 내규에 따름 (면접 후 결정)",
@@ -7055,13 +7102,13 @@
    "startAt": "2026-11-05",
    "deadline": "2026-12-05",
    "deadlineText": "",
-   "summary": "서울 종로구 · 오늘 뜬 따끈한 공고 · 문화·공연·예술, 경영·비즈니스기획, 큐레이터",
-   "qualifications": "경력: 오늘 뜬 따끈한 공고",
+   "summary": "서울 종로구 · 경력3년↑ · 문화·공연·예술, 경영·비즈니스기획, 큐레이터",
+   "qualifications": "경력: 경력3년↑",
    "kind": "job",
    "official": false,
    "foundBy": "학예",
    "firstSeen": "2026-11-05",
-   "lastSeen": "2026-11-05",
+   "lastSeen": "2026-11-06",
    "detailAt": "2026-11-05",
    "detailOk": true,
    "score": 12,
@@ -7105,6 +7152,41 @@
    ],
    "matched": [
     "발굴"
+   ]
+  },
+  {
+   "id": "jobkorea:50283259",
+   "source": "jobkorea",
+   "sourceName": "잡코리아",
+   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50283259",
+   "title": "[폭발성장 에이전시] 크로마엔터테인먼트 지식교양 / 브랜드다큐 제작 PD",
+   "company": "㈜크로마엔터테인먼트",
+   "region": "서울 강남구",
+   "experience": "유연근무제 시행중",
+   "education": "학력무관",
+   "employmentType": "정규직",
+   "salary": "회사 내규에 따름 (면접 후 결정)",
+   "sector": "광고·홍보·전시, PD·감독",
+   "postedAt": "2026-11-02",
+   "startAt": "2026-11-02",
+   "deadline": "2026-12-02",
+   "deadlineText": "",
+   "summary": "서울 강남구 · 유연근무제 시행중 · 광고·홍보·전시, PD·감독",
+   "qualifications": "경력: 유연근무제 시행중",
+   "kind": "job",
+   "official": false,
+   "foundBy": "문화유산",
+   "firstSeen": "2026-11-03",
+   "lastSeen": "2026-11-06",
+   "detailAt": "2026-11-03",
+   "detailOk": true,
+   "score": 12,
+   "tier": "mid",
+   "tags": [
+    "curation"
+   ],
+   "matched": [
+    "전시"
    ]
   },
   {
@@ -7158,41 +7240,6 @@
    ],
    "matched": [
     "문화재단"
-   ]
-  },
-  {
-   "id": "jobkorea:50283259",
-   "source": "jobkorea",
-   "sourceName": "잡코리아",
-   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50283259",
-   "title": "[폭발성장 에이전시] 크로마엔터테인먼트 지식교양 / 브랜드다큐 제작 PD",
-   "company": "㈜크로마엔터테인먼트",
-   "region": "서울 강남구",
-   "experience": "유연근무제 시행중",
-   "education": "학력무관",
-   "employmentType": "정규직",
-   "salary": "회사 내규에 따름 (면접 후 결정)",
-   "sector": "광고·홍보·전시, PD·감독",
-   "postedAt": "2026-11-02",
-   "startAt": "2026-11-02",
-   "deadline": "2026-12-02",
-   "deadlineText": "",
-   "summary": "서울 강남구 · 유연근무제 시행중 · 광고·홍보·전시, PD·감독",
-   "qualifications": "경력: 유연근무제 시행중",
-   "kind": "job",
-   "official": false,
-   "foundBy": "문화유산",
-   "firstSeen": "2026-11-03",
-   "lastSeen": "2026-11-05",
-   "detailAt": "2026-11-03",
-   "detailOk": true,
-   "score": 12,
-   "tier": "mid",
-   "tags": [
-    "curation"
-   ],
-   "matched": [
-    "전시"
    ]
   },
   {
@@ -7397,6 +7444,13 @@
     "역사",
     "학술연구",
     "학술"
+   ],
+   "alsoOn": [
+    {
+     "source": "jobkorea",
+     "sourceName": "잡코리아",
+     "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50301368"
+    }
    ]
   },
   {
@@ -7468,6 +7522,48 @@
    "matched": [
     "문화기획",
     "문화재단"
+   ]
+  },
+  {
+   "id": "jobkorea:50284182",
+   "source": "jobkorea",
+   "sourceName": "잡코리아",
+   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50284182",
+   "title": "[큐레이터](주)더프리마 아트센터 채용공고(신입/경력)",
+   "company": "㈜더프리마",
+   "region": "서울 종로구",
+   "experience": "신입 지원 가능",
+   "education": "대졸이상",
+   "employmentType": "계약직",
+   "salary": "회사 내규에 따름 (면접 후 결정)",
+   "sector": "문화·공연·예술, 배급·제작자, 큐레이터",
+   "postedAt": "2026-11-02",
+   "startAt": "2026-11-02",
+   "deadline": "2026-11-16",
+   "deadlineText": "",
+   "summary": "서울 종로구 · 신입 지원 가능 · 문화·공연·예술, 배급·제작자, 큐레이터",
+   "qualifications": "경력: 신입 지원 가능",
+   "kind": "job",
+   "official": false,
+   "foundBy": "학예",
+   "firstSeen": "2026-10-28",
+   "lastSeen": "2026-11-06",
+   "detailAt": "2026-11-03",
+   "detailOk": true,
+   "score": 12,
+   "tier": "mid",
+   "tags": [
+    "curation"
+   ],
+   "matched": [
+    "큐레이터"
+   ],
+   "alsoOn": [
+    {
+     "source": "jobkorea",
+     "sourceName": "잡코리아",
+     "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50251552"
+    }
    ]
   },
   {
@@ -7611,48 +7707,6 @@
    ],
    "matched": [
     "문화재단"
-   ]
-  },
-  {
-   "id": "jobkorea:50284182",
-   "source": "jobkorea",
-   "sourceName": "잡코리아",
-   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50284182",
-   "title": "[큐레이터](주)더프리마 아트센터 채용공고(신입/경력)",
-   "company": "㈜더프리마",
-   "region": "서울 종로구",
-   "experience": "신입 지원 가능",
-   "education": "대졸이상",
-   "employmentType": "계약직",
-   "salary": "회사 내규에 따름 (면접 후 결정)",
-   "sector": "문화·공연·예술, 배급·제작자, 큐레이터",
-   "postedAt": "2026-11-02",
-   "startAt": "2026-11-02",
-   "deadline": "2026-11-16",
-   "deadlineText": "",
-   "summary": "서울 종로구 · 신입 지원 가능 · 문화·공연·예술, 배급·제작자, 큐레이터",
-   "qualifications": "경력: 신입 지원 가능",
-   "kind": "job",
-   "official": false,
-   "foundBy": "학예",
-   "firstSeen": "2026-10-28",
-   "lastSeen": "2026-11-05",
-   "detailAt": "2026-11-03",
-   "detailOk": true,
-   "score": 12,
-   "tier": "mid",
-   "tags": [
-    "curation"
-   ],
-   "matched": [
-    "큐레이터"
-   ],
-   "alsoOn": [
-    {
-     "source": "jobkorea",
-     "sourceName": "잡코리아",
-     "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50251552"
-    }
    ]
   },
   {
@@ -7947,6 +8001,49 @@
    ],
    "matched": [
     "문화재단"
+   ]
+  },
+  {
+   "id": "jobkorea:50286851",
+   "source": "jobkorea",
+   "sourceName": "잡코리아",
+   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50286851",
+   "title": "한국 성지순례,선교문화해설사 가이드 모집 공고",
+   "company": "㈜돌봄여행사",
+   "region": "서울 강서구",
+   "experience": "경력1년↑",
+   "education": "학력무관",
+   "employmentType": "프리랜서",
+   "salary": "일급 200,000원 (면접 후 결정)",
+   "sector": "호텔·여행·항공, 영업관리, 여행에이전트",
+   "postedAt": "2026-11-02",
+   "startAt": "2026-11-02",
+   "deadline": "2026-12-02",
+   "deadlineText": "",
+   "summary": "서울 강서구 · 경력1년↑ · 호텔·여행·항공, 영업관리, 여행에이전트",
+   "qualifications": "경력: 경력1년↑",
+   "kind": "job",
+   "official": false,
+   "foundBy": "문화유산",
+   "firstSeen": "2026-10-17",
+   "lastSeen": "2026-11-06",
+   "detailAt": "2026-11-02",
+   "detailOk": true,
+   "score": 12,
+   "tier": "mid",
+   "tags": [
+    "education"
+   ],
+   "matched": [
+    "해설사",
+    "해설"
+   ],
+   "alsoOn": [
+    {
+     "source": "jobkorea",
+     "sourceName": "잡코리아",
+     "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49818164"
+    }
    ]
   },
   {
@@ -8464,49 +8561,6 @@
    ]
   },
   {
-   "id": "jobkorea:50286851",
-   "source": "jobkorea",
-   "sourceName": "잡코리아",
-   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50286851",
-   "title": "한국 성지순례,선교문화해설사 가이드 모집 공고",
-   "company": "㈜돌봄여행사",
-   "region": "서울 강서구",
-   "experience": "경력1년↑",
-   "education": "학력무관",
-   "employmentType": "프리랜서",
-   "salary": "일급 200,000원 (면접 후 결정)",
-   "sector": "호텔·여행·항공, 영업관리, 여행에이전트",
-   "postedAt": "2026-11-02",
-   "startAt": "2026-11-02",
-   "deadline": "2026-12-02",
-   "deadlineText": "",
-   "summary": "서울 강서구 · 경력1년↑ · 호텔·여행·항공, 영업관리, 여행에이전트",
-   "qualifications": "경력: 경력1년↑",
-   "kind": "job",
-   "official": false,
-   "foundBy": "문화유산",
-   "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-05",
-   "detailAt": "2026-11-02",
-   "detailOk": true,
-   "score": 12,
-   "tier": "mid",
-   "tags": [
-    "education"
-   ],
-   "matched": [
-    "해설사",
-    "해설"
-   ],
-   "alsoOn": [
-    {
-     "source": "jobkorea",
-     "sourceName": "잡코리아",
-     "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49818164"
-    }
-   ]
-  },
-  {
    "id": "momo365:28517",
    "source": "momo365",
    "sourceName": "모모365",
@@ -8610,41 +8664,6 @@
    ]
   },
   {
-   "id": "jobkorea:50143248",
-   "source": "jobkorea",
-   "sourceName": "잡코리아",
-   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50143248",
-   "title": "IT인프라 통합유지보수 사업·계약관리 담당 채용",
-   "company": "㈜미래아이엔텍",
-   "region": "서울 중구",
-   "experience": "(3년이상)",
-   "education": "학력무관",
-   "employmentType": "정규직",
-   "salary": "회사 내규에 따름 (면접 후 결정)",
-   "sector": "솔루션·SI·CRM·ERP, PL·PM·PO, IT·기술영업",
-   "postedAt": "2026-10-12",
-   "startAt": "2026-10-12",
-   "deadline": "2026-11-11",
-   "deadlineText": "",
-   "summary": "모집분야: IT인프라 통합유지보수 사업계약관리 담당\n고용형태: 정규직\n급여: 회사 내규에 따름 (면접 후 결정)\n근무지: 서울 중구 수표로 23 (저동2가, 영락빌딩) 10층 미래아이엔텍\n근무시간: 주5일(월~금)",
-   "qualifications": "경력: (3년이상)\n학력: 학력무관",
-   "kind": "job",
-   "official": false,
-   "foundBy": "보존처리",
-   "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-29",
-   "detailAt": "2026-10-29",
-   "detailOk": true,
-   "score": 12,
-   "tier": "mid",
-   "tags": [
-    "conservation"
-   ],
-   "matched": [
-    "보수"
-   ]
-  },
-  {
    "id": "saramin:55441279",
    "source": "saramin",
    "sourceName": "사람인",
@@ -8711,6 +8730,39 @@
    "matched": [
     "문화유산연구원",
     "문화유산"
+   ]
+  },
+  {
+   "id": "saramin:55503205",
+   "source": "saramin",
+   "sourceName": "사람인",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55503205",
+   "title": "부동산금융 투자기회 발굴부터 심사·실행·자산관리 금융영업",
+   "company": "코리아써치",
+   "region": "서울 서초구",
+   "experience": "경력9년↑",
+   "education": "대졸↑",
+   "employmentType": "정규직",
+   "salary": "",
+   "sector": "금융상품영업, 헤드헌팅",
+   "postedAt": "2026-11-06",
+   "startAt": "2026-11-06",
+   "deadline": "2026-12-04",
+   "deadlineText": "",
+   "summary": "서울 서초구 · 정규직 · 경력9년↑ · 대졸↑",
+   "qualifications": "경력: 경력9년↑\n학력: 대졸↑",
+   "kind": "job",
+   "official": false,
+   "foundBy": "발굴",
+   "firstSeen": "2026-11-06",
+   "lastSeen": "2026-11-06",
+   "score": 9,
+   "tier": "mid",
+   "tags": [
+    "excavation"
+   ],
+   "matched": [
+    "발굴"
    ]
   },
   {
@@ -9064,7 +9116,7 @@
    "education": "학력무관",
    "employmentType": "정규직",
    "salary": "",
-   "sector": "문화재, 미술관, 연구원, 박물관, 도슨트",
+   "sector": "문화재, 미술관, 연구원, 박물관, 공연예술",
    "postedAt": "2026-10-30",
    "startAt": "2026-10-30",
    "deadline": "2026-11-30",
@@ -9084,7 +9136,6 @@
    "matched": [
     "박물관",
     "미술관",
-    "도슨트",
     "문화재"
    ]
   },
@@ -9100,7 +9151,7 @@
    "education": "대졸↑",
    "employmentType": "정규직",
    "salary": "",
-   "sector": "문화재, 미술관, 연구원, 박물관, 도슨트",
+   "sector": "문화재, 미술관, 연구원, 박물관, 공연예술",
    "postedAt": "2026-10-19",
    "startAt": "2026-10-19",
    "deadline": "2026-11-18",
@@ -9120,7 +9171,6 @@
    "matched": [
     "박물관",
     "미술관",
-    "도슨트",
     "문화재"
    ]
   },
@@ -9183,7 +9233,7 @@
    "official": false,
    "foundBy": "보존처리",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-05",
+   "lastSeen": "2026-11-06",
    "detailAt": "2026-11-02",
    "detailOk": true,
    "score": 8,
@@ -9234,39 +9284,6 @@
    ]
   },
   {
-   "id": "saramin:55496509",
-   "source": "saramin",
-   "sourceName": "사람인",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55496509",
-   "title": "[SKIN1004] 국내 인플루언서 마케팅 인턴 (체험형)",
-   "company": "(주)크레이버코퍼레이션",
-   "region": "서울 강남구",
-   "experience": "경력무관",
-   "education": "대졸↑",
-   "employmentType": "인턴직",
-   "salary": "",
-   "sector": "인플루언서마케팅, 화장품",
-   "postedAt": "2026-11-05",
-   "startAt": "2026-11-05",
-   "deadline": null,
-   "deadlineText": "채용시",
-   "summary": "서울 강남구 · 인턴직 · 경력무관 · 대졸↑",
-   "qualifications": "경력: 경력무관\n학력: 대졸↑",
-   "kind": "job",
-   "official": false,
-   "foundBy": "발굴",
-   "firstSeen": "2026-11-05",
-   "lastSeen": "2026-11-06",
-   "score": 6,
-   "tier": "low",
-   "tags": [
-    "education"
-   ],
-   "matched": [
-    "체험"
-   ]
-  },
-  {
    "id": "saramin:55483058",
    "source": "saramin",
    "sourceName": "사람인",
@@ -9297,6 +9314,39 @@
    ],
    "matched": [
     "연구직"
+   ]
+  },
+  {
+   "id": "saramin:55496509",
+   "source": "saramin",
+   "sourceName": "사람인",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55496509",
+   "title": "[SKIN1004] 국내 인플루언서 마케팅 인턴 (체험형)",
+   "company": "(주)크레이버코퍼레이션",
+   "region": "서울 강남구",
+   "experience": "경력무관",
+   "education": "대졸↑",
+   "employmentType": "인턴직",
+   "salary": "",
+   "sector": "인플루언서마케팅, 화장품",
+   "postedAt": "2026-11-05",
+   "startAt": "2026-11-05",
+   "deadline": null,
+   "deadlineText": "채용시",
+   "summary": "서울 강남구 · 인턴직 · 경력무관 · 대졸↑",
+   "qualifications": "경력: 경력무관\n학력: 대졸↑",
+   "kind": "job",
+   "official": false,
+   "foundBy": "발굴",
+   "firstSeen": "2026-11-05",
+   "lastSeen": "2026-11-06",
+   "score": 6,
+   "tier": "low",
+   "tags": [
+    "education"
+   ],
+   "matched": [
+    "체험"
    ]
   },
   {
@@ -9494,6 +9544,13 @@
    "matched": [
     "전시기획",
     "전시"
+   ],
+   "alsoOn": [
+    {
+     "source": "jobkorea",
+     "sourceName": "잡코리아",
+     "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50149318"
+    }
    ]
   },
   {
@@ -9519,7 +9576,7 @@
    "official": false,
    "foundBy": "문화유산",
    "firstSeen": "2026-10-27",
-   "lastSeen": "2026-11-05",
+   "lastSeen": "2026-11-06",
    "score": 6,
    "tier": "low",
    "tags": [
@@ -9659,6 +9716,46 @@
    ],
    "matched": [
     "기록물"
+   ],
+   "alsoOn": [
+    {
+     "source": "jobkorea",
+     "sourceName": "잡코리아",
+     "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50271948"
+    }
+   ]
+  },
+  {
+   "id": "jobkorea:50062408",
+   "source": "jobkorea",
+   "sourceName": "잡코리아",
+   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50062408",
+   "title": "문화기획자 채용 공고",
+   "company": "문화플랫폼아티온",
+   "region": "경기 고양시",
+   "experience": "유연근무제 시행중",
+   "education": "",
+   "employmentType": "",
+   "salary": "월급 230만원~",
+   "sector": "문화·공연·예술, 경영·비즈니스기획, 웹기획, 마케팅기획",
+   "postedAt": null,
+   "startAt": null,
+   "deadline": null,
+   "deadlineText": "",
+   "summary": "경기 고양시 · 유연근무제 시행중 · 문화·공연·예술, 경영·비즈니스기획, 웹기획, 마케팅기획 · 월급 230만원~",
+   "qualifications": "경력: 유연근무제 시행중",
+   "kind": "job",
+   "official": false,
+   "foundBy": "국가유산",
+   "firstSeen": "2026-10-17",
+   "lastSeen": "2026-11-06",
+   "score": 6,
+   "tier": "low",
+   "tags": [
+    "education"
+   ],
+   "matched": [
+    "문화기획"
    ]
   },
   {
@@ -9873,39 +9970,6 @@
    ]
   },
   {
-   "id": "jobkorea:50062408",
-   "source": "jobkorea",
-   "sourceName": "잡코리아",
-   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50062408",
-   "title": "문화기획자 채용 공고",
-   "company": "문화플랫폼아티온",
-   "region": "경기 고양시",
-   "experience": "유연근무제 시행중",
-   "education": "",
-   "employmentType": "",
-   "salary": "월급 230만원~",
-   "sector": "문화·공연·예술, 경영·비즈니스기획, 웹기획, 마케팅기획",
-   "postedAt": null,
-   "startAt": null,
-   "deadline": null,
-   "deadlineText": "",
-   "summary": "경기 고양시 · 유연근무제 시행중 · 문화·공연·예술, 경영·비즈니스기획, 웹기획, 마케팅기획 · 월급 230만원~",
-   "qualifications": "경력: 유연근무제 시행중",
-   "kind": "job",
-   "official": false,
-   "foundBy": "국가유산",
-   "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-05",
-   "score": 6,
-   "tier": "low",
-   "tags": [
-    "education"
-   ],
-   "matched": [
-    "문화기획"
-   ]
-  },
-  {
    "id": "saramin:55290987",
    "source": "saramin",
    "sourceName": "사람인",
@@ -10001,6 +10065,111 @@
    ],
    "matched": [
     "문화재단"
+   ]
+  },
+  {
+   "id": "saramin:55503253",
+   "source": "saramin",
+   "sourceName": "사람인",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55503253",
+   "title": "해외사업팀 직원 채용",
+   "company": "일동후디스(주)",
+   "region": "서울 광진구",
+   "experience": "경력 1~9년",
+   "education": "대졸↑",
+   "employmentType": "정규직",
+   "salary": "",
+   "sector": "바이어발굴/관리, 해외영업, 무역경리, 무역사무원, 무역영어",
+   "postedAt": "2026-11-06",
+   "startAt": "2026-11-06",
+   "deadline": "2026-11-20",
+   "deadlineText": "",
+   "summary": "서울 광진구 · 정규직 · 경력 1~9년 · 대졸↑",
+   "qualifications": "경력: 경력 1~9년\n학력: 대졸↑",
+   "kind": "job",
+   "official": false,
+   "foundBy": "발굴",
+   "firstSeen": "2026-11-06",
+   "lastSeen": "2026-11-06",
+   "score": 5,
+   "tier": "low",
+   "tags": [
+    "excavation",
+    "research"
+   ],
+   "matched": [
+    "발굴",
+    "역사"
+   ]
+  },
+  {
+   "id": "saramin:55503082",
+   "source": "saramin",
+   "sourceName": "사람인",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55503082",
+   "title": "[영등포/연봉협의/정규직]외국계기업 CSR(수출) 채용",
+   "company": "템프인(주)",
+   "region": "서울 동작구",
+   "experience": "경력2년↑",
+   "education": "초대졸↑",
+   "employmentType": "정규직",
+   "salary": "",
+   "sector": "바이어발굴/관리, 거래처관리, 고객관리, 해외영업관리, 국제무역사",
+   "postedAt": "2026-11-06",
+   "startAt": "2026-11-06",
+   "deadline": "2026-12-06",
+   "deadlineText": "",
+   "summary": "서울 동작구 · 정규직 · 경력2년↑ · 초대졸↑",
+   "qualifications": "경력: 경력2년↑\n학력: 초대졸↑",
+   "kind": "job",
+   "official": false,
+   "foundBy": "발굴",
+   "firstSeen": "2026-11-06",
+   "lastSeen": "2026-11-06",
+   "score": 5,
+   "tier": "low",
+   "tags": [
+    "excavation",
+    "research"
+   ],
+   "matched": [
+    "발굴",
+    "역사"
+   ]
+  },
+  {
+   "id": "saramin:55502077",
+   "source": "saramin",
+   "sourceName": "사람인",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55502077",
+   "title": "[중국어or영어]공장 발주/수입 담담자 정규직 채용(남양주)",
+   "company": "(주)에이유테크",
+   "region": "경기 남양주시",
+   "experience": "경력 1~2년",
+   "education": "초대졸↑",
+   "employmentType": "정규직",
+   "salary": "",
+   "sector": "바이어발굴/관리, 거래처관리, 해외영업, 무역경리, 무역사무원",
+   "postedAt": "2026-11-06",
+   "startAt": "2026-11-06",
+   "deadline": "2026-12-06",
+   "deadlineText": "",
+   "summary": "경기 남양주시 · 정규직 · 경력 1~2년 · 초대졸↑",
+   "qualifications": "경력: 경력 1~2년\n학력: 초대졸↑",
+   "kind": "job",
+   "official": false,
+   "foundBy": "발굴",
+   "firstSeen": "2026-11-06",
+   "lastSeen": "2026-11-06",
+   "score": 5,
+   "tier": "low",
+   "tags": [
+    "excavation",
+    "research"
+   ],
+   "matched": [
+    "발굴",
+    "역사"
    ]
   },
   {
