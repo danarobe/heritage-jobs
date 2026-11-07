@@ -1,56 +1,56 @@
 {
- "updatedAt": "2026-11-07T02:15:15.431Z",
+ "updatedAt": "2026-11-07T10:33:37.624Z",
  "today": "2026-11-07",
- "count": 296,
- "newToday": 1,
+ "count": 297,
+ "newToday": 2,
  "sources": {
   "saramin": {
    "name": "사람인",
    "ok": true,
    "count": 418,
-   "ms": 31477
+   "ms": 33805
   },
   "jobkorea": {
    "name": "잡코리아",
    "ok": true,
    "count": 189,
-   "ms": 19830
+   "ms": 20431
   },
   "khs": {
    "name": "국가유산청",
    "ok": true,
    "count": 30,
-   "ms": 9464
+   "ms": 11443
   },
   "nrich": {
    "name": "국립문화유산연구원",
    "ok": true,
    "count": 20,
-   "ms": 5977
+   "ms": 8112
   },
   "kha": {
    "name": "국가유산진흥원",
    "ok": true,
    "count": 20,
-   "ms": 4453
+   "ms": 5256
   },
   "alio": {
    "name": "잡알리오",
    "ok": true,
    "count": 5,
-   "ms": 9466
+   "ms": 10984
   },
   "gojobs": {
    "name": "나라일터",
    "ok": true,
    "count": 48,
-   "ms": 19232
+   "ms": 16948
   },
   "momo365": {
    "name": "모모365",
    "ok": true,
    "count": 100,
-   "ms": 4359
+   "ms": 3009
   }
  },
  "categories": [
@@ -10018,6 +10018,41 @@
    ],
    "matched": [
     "문화재단"
+   ]
+  },
+  {
+   "id": "saramin:55512757",
+   "source": "saramin",
+   "sourceName": "사람인",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55512757",
+   "title": "해외영업부 모집",
+   "company": "(주)KROXX",
+   "region": "경기 광주시",
+   "experience": "경력 3~10년",
+   "education": "초대졸↑",
+   "employmentType": "정규직",
+   "salary": "",
+   "sector": "바이어발굴/관리, 해외영업, 해외영업관리, 무역사무원, 무역MR",
+   "postedAt": "2026-11-07",
+   "startAt": "2026-11-07",
+   "deadline": "2026-11-15",
+   "deadlineText": "",
+   "summary": "경기 광주시 · 정규직 · 경력 3~10년 · 초대졸↑",
+   "qualifications": "경력: 경력 3~10년\n학력: 초대졸↑",
+   "kind": "job",
+   "official": false,
+   "foundBy": "발굴",
+   "firstSeen": "2026-11-07",
+   "lastSeen": "2026-11-07",
+   "score": 5,
+   "tier": "low",
+   "tags": [
+    "excavation",
+    "research"
+   ],
+   "matched": [
+    "발굴",
+    "역사"
    ]
   },
   {
