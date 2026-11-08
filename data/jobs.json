@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-08T01:45:46.580Z",
+ "updatedAt": "2026-11-08T10:40:50.452Z",
  "today": "2026-11-08",
  "count": 285,
  "newToday": 1,
@@ -7,50 +7,50 @@
   "saramin": {
    "name": "사람인",
    "ok": true,
-   "count": 413,
-   "ms": 30421
+   "count": 415,
+   "ms": 31730
   },
   "jobkorea": {
    "name": "잡코리아",
    "ok": true,
    "count": 188,
-   "ms": 20764
+   "ms": 19858
   },
   "khs": {
    "name": "국가유산청",
    "ok": true,
    "count": 30,
-   "ms": 9545
+   "ms": 10765
   },
   "nrich": {
    "name": "국립문화유산연구원",
    "ok": true,
    "count": 20,
-   "ms": 5577
+   "ms": 6528
   },
   "kha": {
    "name": "국가유산진흥원",
    "ok": true,
    "count": 20,
-   "ms": 4546
+   "ms": 5110
   },
   "alio": {
    "name": "잡알리오",
    "ok": true,
    "count": 5,
-   "ms": 9123
+   "ms": 10946
   },
   "gojobs": {
    "name": "나라일터",
    "ok": true,
    "count": 48,
-   "ms": 15452
+   "ms": 20968
   },
   "momo365": {
    "name": "모모365",
    "ok": true,
    "count": 100,
-   "ms": 4690
+   "ms": 5112
   }
  },
  "categories": [
@@ -9193,10 +9193,10 @@
    ]
   },
   {
-   "id": "saramin:55368758",
+   "id": "saramin:55514913",
    "source": "saramin",
    "sourceName": "사람인",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55368758",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55514913",
    "title": "제이사 작품관라자 채용",
    "company": "(주)조현화랑",
    "region": "부산 해운대구",
@@ -9205,10 +9205,10 @@
    "employmentType": "인턴직",
    "salary": "",
    "sector": "비품관리, 사무보조, 재고관리, 창고관리, 박물관·미술관",
-   "postedAt": "2026-10-22",
-   "startAt": "2026-10-22",
-   "deadline": null,
-   "deadlineText": "상시채용",
+   "postedAt": "2026-11-08",
+   "startAt": "2026-11-08",
+   "deadline": "2026-12-08",
+   "deadlineText": "",
    "summary": "부산 해운대구 · 인턴직 · 경력무관 · 대졸↑",
    "qualifications": "경력: 경력무관\n학력: 대졸↑",
    "kind": "job",
@@ -9224,6 +9224,13 @@
    "matched": [
     "박물관",
     "미술관"
+   ],
+   "alsoOn": [
+    {
+     "source": "saramin",
+     "sourceName": "사람인",
+     "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55368758"
+    }
    ]
   },
   {
