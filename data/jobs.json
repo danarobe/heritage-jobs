@@ -1,56 +1,56 @@
 {
- "updatedAt": "2026-11-08T10:40:50.452Z",
- "today": "2026-11-08",
- "count": 285,
- "newToday": 1,
+ "updatedAt": "2026-11-08T16:10:41.892Z",
+ "today": "2026-11-09",
+ "count": 287,
+ "newToday": 2,
  "sources": {
   "saramin": {
    "name": "사람인",
    "ok": true,
-   "count": 415,
-   "ms": 31730
+   "count": 413,
+   "ms": 32352
   },
   "jobkorea": {
    "name": "잡코리아",
    "ok": true,
-   "count": 188,
-   "ms": 19858
+   "count": 189,
+   "ms": 21705
   },
   "khs": {
    "name": "국가유산청",
    "ok": true,
    "count": 30,
-   "ms": 10765
+   "ms": 11362
   },
   "nrich": {
    "name": "국립문화유산연구원",
    "ok": true,
    "count": 20,
-   "ms": 6528
+   "ms": 6677
   },
   "kha": {
    "name": "국가유산진흥원",
    "ok": true,
    "count": 20,
-   "ms": 5110
+   "ms": 5578
   },
   "alio": {
    "name": "잡알리오",
    "ok": true,
    "count": 5,
-   "ms": 10946
+   "ms": 9873
   },
   "gojobs": {
    "name": "나라일터",
    "ok": true,
    "count": 48,
-   "ms": 20968
+   "ms": 16217
   },
   "momo365": {
    "name": "모모365",
    "ok": true,
    "count": 100,
-   "ms": 5112
+   "ms": 4229
   }
  },
  "categories": [
@@ -145,7 +145,7 @@
    "kind": "job",
    "official": true,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "attachments": [
     {
      "name": "2026년 국립문화유산연구원 미술문화유산연구실 공무직근로자(가급, 라급) 채용 공고문.hwpx (0.12 MB)",
@@ -191,7 +191,7 @@
    "kind": "job",
    "official": true,
    "firstSeen": "2026-11-08",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "attachments": [
     {
      "name": "(공고)기간제근로자(연구원， 고고학) 신규 채용_20260928.hwpx (0.21 MB)",
@@ -240,7 +240,7 @@
    "official": true,
    "author": "김동열",
    "firstSeen": "2026-11-02",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "attachments": [
     {
      "name": "건축문화유산연구실 기간제근로자(육아휴직 대체, 연구원 라급) 채용공고.hwpx",
@@ -296,7 +296,7 @@
    "official": true,
    "foundBy": "유산",
    "firstSeen": "2026-11-02",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "attachments": [
     {
      "name": "건축문화유산연구실 기간제근로자(육아휴직 대체, 연구원 라급) 채용공고.hwpx",
@@ -347,7 +347,7 @@
    "official": true,
    "foundBy": "유산",
    "firstSeen": "2026-11-04",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "attachments": [
     {
      "name": "국립가야문화유산연구소 기간제근로자(함안 가야리) 채용.hwpx",
@@ -404,7 +404,7 @@
    "official": true,
    "author": "심상육",
    "firstSeen": "2026-10-31",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 56,
    "tier": "high",
    "tags": [
@@ -453,7 +453,7 @@
    "official": true,
    "author": "심상육",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 56,
    "tier": "high",
    "tags": [
@@ -546,7 +546,7 @@
    "official": true,
    "author": "김선영",
    "firstSeen": "2026-10-23",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 52,
    "tier": "high",
    "tags": [
@@ -590,7 +590,7 @@
    "official": true,
    "author": "김선영",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 52,
    "tier": "high",
    "tags": [
@@ -634,7 +634,7 @@
    "official": false,
    "foundBy": "국가유산",
    "firstSeen": "2026-11-05",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 50,
    "tier": "high",
    "tags": [
@@ -676,7 +676,7 @@
    "official": true,
    "foundBy": "유산",
    "firstSeen": "2026-10-27",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 50,
    "tier": "high",
    "tags": [
@@ -722,7 +722,7 @@
    "official": true,
    "author": "양기홍",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 50,
    "tier": "high",
    "tags": [
@@ -759,7 +759,7 @@
    "official": false,
    "foundBy": "보존처리",
    "firstSeen": "2026-11-02",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 49,
    "tier": "high",
    "tags": [
@@ -850,7 +850,7 @@
    "official": true,
    "author": "김민범",
    "firstSeen": "2026-11-04",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "attachments": [
     {
      "name": "국립가야문화유산연구소 기간제근로자(함안 가야리) 채용.hwpx",
@@ -907,7 +907,7 @@
    "official": true,
    "author": "양기홍",
    "firstSeen": "2026-10-23",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 41,
    "tier": "high",
    "tags": [
@@ -943,7 +943,7 @@
    "official": false,
    "foundBy": "문화유산",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 41,
    "tier": "high",
    "tags": [
@@ -979,7 +979,7 @@
    "official": true,
    "author": "안미정",
    "firstSeen": "2026-10-20",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 40,
    "tier": "high",
    "tags": [
@@ -1016,7 +1016,7 @@
    "official": false,
    "foundBy": "국가유산",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 40,
    "tier": "high",
    "tags": [
@@ -1054,7 +1054,7 @@
    "official": false,
    "foundBy": "국가유산",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 39,
    "tier": "high",
    "tags": [
@@ -1100,7 +1100,7 @@
    "official": true,
    "foundBy": "학예",
    "firstSeen": "2026-10-23",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 38,
    "tier": "high",
    "tags": [
@@ -1136,7 +1136,7 @@
    "kind": "result",
    "official": true,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 38,
    "tier": "high",
    "tags": [
@@ -1170,7 +1170,7 @@
    "official": false,
    "foundBy": "문화재",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 37,
    "tier": "high",
    "tags": [
@@ -1214,7 +1214,7 @@
    "official": false,
    "foundBy": "문화재",
    "firstSeen": "2026-11-01",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 36,
    "tier": "high",
    "tags": [
@@ -1249,7 +1249,7 @@
    "official": true,
    "foundBy": "학예",
    "firstSeen": "2026-10-30",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "attachments": [
     {
      "name": "(공고문)2026년 제3회 예산군 지방임기제공무원 임용시험 변경 시행계획.pdf",
@@ -1296,7 +1296,7 @@
    "kind": "job",
    "official": false,
    "firstSeen": "2026-10-20",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=95409",
    "attachments": [],
    "detailAt": "2026-11-07",
@@ -1336,7 +1336,7 @@
    "official": false,
    "foundBy": "국가유산",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 36,
    "tier": "high",
    "tags": [
@@ -1372,7 +1372,7 @@
    "official": false,
    "foundBy": "문화유산",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-06",
+   "lastSeen": "2026-11-09",
    "detailAt": "2026-11-04",
    "detailOk": true,
    "score": 36,
@@ -1466,7 +1466,7 @@
    "official": true,
    "foundBy": "학예",
    "firstSeen": "2026-11-05",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "attachments": [
     {
      "name": "학예연구실 공무직근로자(소장품 관리 보조) 채용 공고 및 응시 원서_20261104.hwpx",
@@ -1511,7 +1511,7 @@
    "official": true,
    "foundBy": "학예",
    "firstSeen": "2026-10-19",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "attachments": [
     {
      "name": "[채용공고]+공무직근로자(학예원)+재공고문.pdf",
@@ -1606,7 +1606,7 @@
    "kind": "job",
    "official": false,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=95363",
    "attachments": [
     {
@@ -1704,7 +1704,7 @@
    "official": true,
    "foundBy": "유산",
    "firstSeen": "2026-10-26",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 32,
    "tier": "high",
    "tags": [
@@ -1740,7 +1740,7 @@
    "official": false,
    "foundBy": "국가유산",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 32,
    "tier": "high",
    "tags": [
@@ -1813,7 +1813,7 @@
    "official": false,
    "foundBy": "보존처리",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 31,
    "tier": "high",
    "tags": [
@@ -1852,7 +1852,7 @@
    "official": false,
    "foundBy": "국가유산",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 31,
    "tier": "high",
    "tags": [
@@ -1888,10 +1888,10 @@
    "kind": "job",
    "official": true,
    "firstSeen": "2026-10-22",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "attachments": [],
    "applyUrl": "https://kha.careerlink.kr/",
-   "detailAt": "2026-11-03",
+   "detailAt": "2026-11-09",
    "detailOk": true,
    "score": 30,
    "tier": "high",
@@ -1926,7 +1926,7 @@
    "official": false,
    "foundBy": "학예",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 30,
    "tier": "high",
    "tags": [
@@ -1961,7 +1961,7 @@
    "kind": "job",
    "official": true,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "attachments": [],
    "applyUrl": "https://kha.careerlink.kr/",
    "detailAt": "2026-11-04",
@@ -1998,7 +1998,7 @@
    "kind": "job",
    "official": false,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=95440",
    "attachments": [
     {
@@ -2014,7 +2014,7 @@
      "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28698"
     }
    ],
-   "detailAt": "2026-11-03",
+   "detailAt": "2026-11-09",
    "detailOk": true,
    "score": 30,
    "tier": "high",
@@ -2058,7 +2058,7 @@
    "official": true,
    "author": "문경규",
    "firstSeen": "2026-10-29",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "attachments": [
     {
      "name": "1. 2026년 제2차 국외소재문화유산재단 직원 채용 공고문.hwpx",
@@ -2107,7 +2107,7 @@
    "official": false,
    "foundBy": "국가유산",
    "firstSeen": "2026-11-06",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 28,
    "tier": "high",
    "tags": [
@@ -2118,6 +2118,45 @@
     "보수",
     "국가유산",
     "문화재"
+   ]
+  },
+  {
+   "id": "momo365:28747",
+   "source": "momo365",
+   "sourceName": "모모365",
+   "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28747",
+   "title": "[일민미술관] 《마나》 전시 운영 스태프 모집 공고",
+   "company": "(재)일민문화재단",
+   "region": "서울",
+   "experience": "",
+   "education": "",
+   "employmentType": "일용직∙아르바이트",
+   "salary": "",
+   "sector": "",
+   "postedAt": "2026-10-28",
+   "startAt": "2026-10-28",
+   "deadline": "2026-11-04",
+   "deadlineText": "",
+   "summary": "일민미술관에서 《마나》의 운영을 함께할 스태프를 모집합니다. 많은 관심과 지원 바랍니다. 1. 채용 분야 및 인원 1) 전시 운영 스태프 평일 4인 / 주말 4인(총 8인) 2. 근무 조건 1) 근무 기간: 2026.11.24.(화)―2027.1.24.(일) *매주 월요일 및 1.1.(금) 신정 당일 휴관 2) 근무 시간 — 평일(화, 수, 목, 금) 오전 10시 30분―오후 7시 30분(8시간 근무, 휴게 시간 1시간 포함) — 주말(토, 일) 오전 10시 30분―오후 7시 30분(8시간 근무, 휴게 시간 1시간 포함) 3) 급여: 시급 10,320원(2026년),…",
+   "qualifications": "4. 지원 요건\n1) 문화 예술 분야에 관심을 갖고 있는 자\n2) 동종업계 유경험자 및 전시 기간 동안 성실히 근무 가능한 자\n3) 근무 기간 중 공휴일에 근무 가능한 자",
+   "kind": "job",
+   "official": false,
+   "firstSeen": "2026-11-03",
+   "lastSeen": "2026-11-09",
+   "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=95510",
+   "attachments": [],
+   "detailAt": "2026-11-09",
+   "detailOk": true,
+   "score": 28,
+   "tier": "high",
+   "tags": [
+    "curation",
+    "institution"
+   ],
+   "matched": [
+    "전시",
+    "미술관",
+    "문화재단"
    ]
   },
   {
@@ -2143,7 +2182,7 @@
    "official": true,
    "foundBy": "학예",
    "firstSeen": "2026-10-29",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 28,
    "tier": "high",
    "tags": [
@@ -2178,7 +2217,7 @@
    "official": false,
    "foundBy": "보존처리",
    "firstSeen": "2026-10-27",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 28,
    "tier": "high",
    "tags": [
@@ -2212,7 +2251,7 @@
    "official": true,
    "foundBy": "학예",
    "firstSeen": "2026-10-27",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "attachments": [
     {
      "name": "재공고문(제3회 상주시 임기제공무원 임용시험 계획)_서울,미디어,학예연구.hwpx",
@@ -2245,7 +2284,7 @@
    "salary": "",
    "sector": "",
    "postedAt": "2026-10-22",
-   "startAt": "2026-10-22",
+   "startAt": "2026-11-03",
    "deadline": "2026-11-05",
    "deadlineText": "",
    "summary": "채용직급: 일반임기제공무원6급 1명\n근무지역: 서울특별시 서대문구\n<채용분야 및 선발예정인원> * 채용분야: 학예연구분야 * 채용등급: 일반임기제공무원 6급 * 채용인원: 1명 * 근무예정부서: 서대문자연사박물관 * 원서 접수기간: 2026. 11. 3.(화) ~ 2026. 11. 5.(목) <평일 3일간 09:00~18:00> ※중식시간(12:00~13:00)제외 * 접수장소 : 서대문자연사박물관 사무동 1층 사무실(서대문구 연희로32길 51, ☎02-330-8859)",
@@ -2254,7 +2293,7 @@
    "official": true,
    "foundBy": "학예",
    "firstSeen": "2026-10-22",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "attachments": [
     {
      "name": "공고문(게시용).pdf",
@@ -2265,7 +2304,7 @@
      "url": "https://www.gojobs.go.kr/apmView.do?empmnsn=306952"
     }
    ],
-   "detailAt": "2026-11-03",
+   "detailAt": "2026-11-09",
    "detailOk": true,
    "score": 28,
    "tier": "high",
@@ -2276,13 +2315,6 @@
     "학예",
     "학예연구",
     "박물관"
-   ],
-   "alsoOn": [
-    {
-     "source": "gojobs",
-     "sourceName": "나라일터",
-     "url": "https://www.gojobs.go.kr/apmView.do?empmnsn=306409"
-    }
    ]
   },
   {
@@ -2529,45 +2561,6 @@
    ]
   },
   {
-   "id": "momo365:28747",
-   "source": "momo365",
-   "sourceName": "모모365",
-   "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28747",
-   "title": "[일민미술관] 《마나》 전시 운영 스태프 모집 공고",
-   "company": "(재)일민문화재단",
-   "region": "서울",
-   "experience": "",
-   "education": "",
-   "employmentType": "일용직∙아르바이트",
-   "salary": "",
-   "sector": "",
-   "postedAt": "2026-10-28",
-   "startAt": "2026-10-28",
-   "deadline": "2026-11-04",
-   "deadlineText": "",
-   "summary": "(재)일민문화재단 · 서울 · 일용직∙아르바이트",
-   "qualifications": "4. 지원 요건\n1) 문화 예술 분야에 관심을 갖고 있는 자\n2) 동종업계 유경험자 및 전시 기간 동안 성실히 근무 가능한 자\n3) 근무 기간 중 공휴일에 근무 가능한 자",
-   "kind": "job",
-   "official": false,
-   "firstSeen": "2026-11-03",
-   "lastSeen": "2026-11-08",
-   "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=95510",
-   "attachments": [],
-   "detailAt": "2026-11-03",
-   "detailOk": true,
-   "score": 27,
-   "tier": "high",
-   "tags": [
-    "curation",
-    "institution"
-   ],
-   "matched": [
-    "전시",
-    "미술관",
-    "문화재단"
-   ]
-  },
-  {
    "id": "jobkorea:50275699",
    "source": "jobkorea",
    "sourceName": "잡코리아",
@@ -2590,7 +2583,7 @@
    "official": false,
    "foundBy": "국가유산",
    "firstSeen": "2026-10-31",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "detailAt": "2026-11-06",
    "detailOk": true,
    "score": 27,
@@ -2626,7 +2619,7 @@
    "official": false,
    "foundBy": "보존처리",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 27,
    "tier": "high",
    "tags": [
@@ -2672,7 +2665,7 @@
    "official": false,
    "foundBy": "국가유산",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "detailAt": "2026-11-04",
    "detailOk": true,
    "score": 27,
@@ -2759,6 +2752,50 @@
    ]
   },
   {
+   "id": "gojobs:307679",
+   "source": "gojobs",
+   "sourceName": "나라일터",
+   "url": "https://www.gojobs.go.kr/apmView.do?empmnsn=307679",
+   "title": "2027년 역사문화시설(결성농요농사박물관) 관리를 위한 기간제근로자 채용 공고",
+   "company": "충청남도 홍성군",
+   "region": "충청남도 홍성군",
+   "experience": "",
+   "education": "",
+   "employmentType": "기간제",
+   "salary": "",
+   "sector": "",
+   "postedAt": "2026-11-09",
+   "startAt": "2026-11-09",
+   "deadline": "2026-11-16",
+   "deadlineText": "",
+   "summary": "채용직급: 기간제근로자 1명\n근무지역: 충청남도 홍성군\n홍성군 문화유산과에서 홍성군 역사문화시설관리 등을 위한 기간제근로자를 채용하고자 다음과 같이 공고합니다. 1. 채용분야 : 결성농요농사박물관 안내데스크 2. 채용인원 : 1명 3. 근무기간 : 2027. 1. 1. ~ 2027. 12. 31. 4. 근무장소 : 결성농요농사박물관 5. 채용공고 : 2026. 11. 9.(월) ~ 11. 16.(월) 6. 원서접수 : 2026. 11. 9.(월) ~ 11. 16.(월) 7. 접수방…",
+   "qualifications": "",
+   "kind": "job",
+   "official": true,
+   "foundBy": "박물관",
+   "firstSeen": "2026-11-09",
+   "lastSeen": "2026-11-09",
+   "attachments": [
+    {
+     "name": "2027년 역사문화시설관리(결성농요농사박물관)를 위한 기간제근로자 채용공고.hwpx",
+     "url": "https://www.gojobs.go.kr/apmView.do?empmnsn=307679"
+    }
+   ],
+   "detailAt": "2026-11-09",
+   "detailOk": true,
+   "score": 26,
+   "tier": "high",
+   "tags": [
+    "curation",
+    "research"
+   ],
+   "matched": [
+    "박물관",
+    "역사",
+    "문화유산"
+   ]
+  },
+  {
    "id": "saramin:55488198",
    "source": "saramin",
    "sourceName": "사람인",
@@ -2781,7 +2818,7 @@
    "official": false,
    "foundBy": "학예",
    "firstSeen": "2026-11-05",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 26,
    "tier": "high",
    "tags": [
@@ -2817,7 +2854,7 @@
    "official": false,
    "foundBy": "국가유산",
    "firstSeen": "2026-11-05",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "detailAt": "2026-11-05",
    "detailOk": true,
    "score": 26,
@@ -2854,7 +2891,7 @@
    "official": false,
    "foundBy": "국가유산",
    "firstSeen": "2026-11-04",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 26,
    "tier": "high",
    "tags": [
@@ -2892,7 +2929,7 @@
    "official": false,
    "foundBy": "학예",
    "firstSeen": "2026-11-01",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 26,
    "tier": "high",
    "tags": [
@@ -2936,7 +2973,7 @@
    "official": true,
    "author": "이정준",
    "firstSeen": "2026-10-26",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "attachments": [
     {
      "name": "2026년 제2차 문화유산감정위원(비상근) 선발 공고문.hwpx",
@@ -2979,7 +3016,7 @@
    "official": false,
    "foundBy": "국가유산",
    "firstSeen": "2026-10-22",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 26,
    "tier": "high",
    "tags": [
@@ -3050,7 +3087,7 @@
    "official": false,
    "foundBy": "국가유산",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 26,
    "tier": "high",
    "tags": [
@@ -3063,29 +3100,29 @@
    ]
   },
   {
-   "id": "saramin:55010000",
+   "id": "saramin:55016820",
    "source": "saramin",
    "sourceName": "사람인",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55010000",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55016820",
    "title": "(경력인정기관) 해든뮤지움 학예사 채용",
    "company": "해든뮤지움",
    "region": "인천 강화군",
-   "experience": "경력무관",
-   "education": "대졸↑",
+   "experience": "경력2년↑",
+   "education": "학력무관",
    "employmentType": "계약직",
    "salary": "2,760 만원",
-   "sector": "큐레이터, 미술관, 문화기획",
+   "sector": "문화재, 박물관·미술관",
    "postedAt": "2026-09-11",
    "startAt": "2026-09-11",
-   "deadline": "2026-11-10",
-   "deadlineText": "",
-   "summary": "인천 강화군 · 계약직 · 경력무관 · 대졸↑",
-   "qualifications": "경력: 경력무관\n학력: 대졸↑",
+   "deadline": null,
+   "deadlineText": "채용시",
+   "summary": "인천 강화군 · 계약직 · 경력2년↑ · 학력무관 · 2,760 만원",
+   "qualifications": "경력: 경력2년↑\n학력: 학력무관",
    "kind": "job",
    "official": false,
    "foundBy": "학예",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 26,
    "tier": "high",
    "tags": [
@@ -3095,15 +3132,15 @@
    "matched": [
     "학예",
     "학예사",
-    "큐레이터",
+    "박물관",
     "미술관",
-    "문화기획"
+    "문화재"
    ],
    "alsoOn": [
     {
      "source": "saramin",
      "sourceName": "사람인",
-     "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55016820"
+     "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55010000"
     }
    ]
   },
@@ -3130,7 +3167,7 @@
    "official": false,
    "foundBy": "학예",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 26,
    "tier": "high",
    "tags": [
@@ -3169,7 +3206,7 @@
    "kind": "result",
    "official": true,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 26,
    "tier": "high",
    "tags": [
@@ -3202,7 +3239,7 @@
    "kind": "result",
    "official": true,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 26,
    "tier": "high",
    "tags": [
@@ -3235,7 +3272,7 @@
    "kind": "result",
    "official": true,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 26,
    "tier": "high",
    "tags": [
@@ -3268,7 +3305,7 @@
    "kind": "result",
    "official": true,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 26,
    "tier": "high",
    "tags": [
@@ -3302,7 +3339,7 @@
    "official": true,
    "foundBy": "유산",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 26,
    "tier": "high",
    "tags": [
@@ -3447,7 +3484,7 @@
    "official": true,
    "author": "박승주",
    "firstSeen": "2026-11-06",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "attachments": [
     {
      "name": "2026년 제6차 궁능유적본부(창경궁관리소) 공무직 등 근로자 채용 공고.hwp",
@@ -3498,7 +3535,7 @@
    "official": false,
    "foundBy": "학예",
    "firstSeen": "2026-11-05",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 24,
    "tier": "high",
    "tags": [
@@ -3535,7 +3572,7 @@
    "official": false,
    "foundBy": "학예",
    "firstSeen": "2026-11-05",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 24,
    "tier": "high",
    "tags": [
@@ -3578,7 +3615,7 @@
    "official": false,
    "foundBy": "학예",
    "firstSeen": "2026-11-04",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "detailAt": "2026-11-04",
    "detailOk": true,
    "score": 24,
@@ -3608,15 +3645,15 @@
    "startAt": "2026-11-02",
    "deadline": "2026-11-08",
    "deadlineText": "",
-   "summary": "프레젠스 · 서울 · 일용직∙아르바이트",
+   "summary": "프레젠스(Presence)는 예술 작품과 프로젝트 그리고 브랜드 철학에 있는 소중한 가치를 연구하고 조명하는 커뮤니케이션 컨설팅 회사입니다. 롯데뮤지엄에서 개최하는 전시 《사랑을 담아, 미셸 들라크루아 드림》도슨트를 모집합니다. 본 전시에 관심을 갖고 가치를 전하는 일에 함께 하실 분들의 많은 관심과 지원 바랍니다. 《사랑을 담아, 미셸 들라크루아 드림》 전시 개요 ▷기간 : 2026.12.04(금) - 2027.03.07(일) ▷장소 : 롯데뮤지엄(서울특별시 송파구 올림픽로 300, 롯데월드타워 7층) ▷전시 내용 롯데뮤지엄은 2026년 한불수교 140주년을 기념하…",
    "qualifications": "1. 모집부문 및 자격요건\n▷모집부문 : 도슨트\n□담당업무\n- 전시 작품 설명, 전시 관람에 필요한 전반적인 설명 및 안내 지원 등\n- 전시장 운영 지원\n□자격요건\n- 미술 및 문화예술 관련 분야 전공자 우대\n- 작가 및 전시를 이해하고 가치를 전하는 일에 열정을 가진 자\n- 전시 운영의 일원으로 긴밀하게 협력하고 관람객 응대에 유연한 소통 및 문제해결 능력을 가진 자\n- 한국어와 영어 도슨트 투어 및 외국인 응대가 가능한 자",
    "kind": "job",
    "official": false,
    "firstSeen": "2026-11-03",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=95532",
    "attachments": [],
-   "detailAt": "2026-11-03",
+   "detailAt": "2026-11-09",
    "detailOk": true,
    "score": 24,
    "tier": "high",
@@ -3731,7 +3768,7 @@
    "official": false,
    "foundBy": "보존처리",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 24,
    "tier": "high",
    "tags": [
@@ -3956,29 +3993,31 @@
    ]
   },
   {
-   "id": "saramin:55479941",
-   "source": "saramin",
-   "sourceName": "사람인",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55479941",
-   "title": "[국가기록원] 종이기록물 복원복제- 전문 및 한시임기제 채용",
-   "company": "(주)커리어넷",
-   "region": "경기 성남시 수정구",
-   "experience": "경력무관",
-   "education": "대졸↑",
-   "employmentType": "기간제·계약직",
+   "id": "jobkorea:50301491",
+   "source": "jobkorea",
+   "sourceName": "잡코리아",
+   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50301491",
+   "title": "[국가기록원] 종이기록물 복원,복제 -전문 및 한시임기제 채용(대전, 성남)",
+   "company": "커리어넷",
+   "region": "경기 성남시 외 1",
+   "experience": "경력무관 학력",
+   "education": "대졸이상",
+   "employmentType": "계약직",
    "salary": "회사 내규에 따름",
-   "sector": "사무행정, 임기제공무원, 보존과학, 문헌정보, 기록물관리",
+   "sector": "포털·컨텐츠·커뮤니티, 총무",
    "postedAt": "2026-11-04",
    "startAt": "2026-11-04",
    "deadline": "2026-11-10",
    "deadlineText": "",
-   "summary": "경기 성남시 수정구 · 기간제·계약직 · 경력무관 · 대졸↑",
-   "qualifications": "경력: 경력무관\n학력: 대졸↑",
+   "summary": "모집분야: 휴직대체\n고용형태: 계약직\n급여: 회사 내규에 따름\n근무지: 경기 성남시 수정구 대왕판교로851번길 30 (시흥동)\n근무시간: 주35시간(한시임기제의 경우)",
+   "qualifications": "경력: 경력무관 학력\n학력: 대졸이상",
    "kind": "job",
    "official": false,
-   "foundBy": "보존처리",
+   "foundBy": "문화유산",
    "firstSeen": "2026-11-04",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
+   "detailAt": "2026-11-09",
+   "detailOk": true,
    "score": 23,
    "tier": "high",
    "tags": [
@@ -3987,15 +4026,13 @@
    ],
    "matched": [
     "복원",
-    "보존과학",
-    "보존",
     "기록물"
    ],
    "alsoOn": [
     {
-     "source": "jobkorea",
-     "sourceName": "잡코리아",
-     "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50301491"
+     "source": "saramin",
+     "sourceName": "사람인",
+     "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55479941"
     }
    ]
   },
@@ -4022,7 +4059,7 @@
    "official": true,
    "foundBy": "유산",
    "firstSeen": "2026-10-29",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "attachments": [
     {
      "name": "1. 2026년 제2차 국외소재문화유산재단 직원 채용 공고문.hwp",
@@ -4108,7 +4145,7 @@
    "official": false,
    "foundBy": "국가유산",
    "firstSeen": "2026-11-06",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 22,
    "tier": "high",
    "tags": [
@@ -4151,7 +4188,7 @@
    "official": true,
    "foundBy": "박물관",
    "firstSeen": "2026-11-04",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "attachments": [
     {
      "name": "어린이박물관과 기간제 채용 공고(2026-04호).hwpx",
@@ -4192,7 +4229,7 @@
    "official": false,
    "foundBy": "국가유산",
    "firstSeen": "2026-11-02",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 22,
    "tier": "high",
    "tags": [
@@ -4228,7 +4265,7 @@
    "official": true,
    "foundBy": "학예",
    "firstSeen": "2026-11-02",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 22,
    "tier": "high",
    "tags": [
@@ -4263,7 +4300,7 @@
    "official": true,
    "foundBy": "학예",
    "firstSeen": "2026-10-28",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 22,
    "tier": "high",
    "tags": [
@@ -4343,7 +4380,7 @@
    "official": true,
    "foundBy": "박물관",
    "firstSeen": "2026-10-20",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "detailAt": "2026-11-07",
    "detailOk": true,
    "score": 22,
@@ -4377,7 +4414,7 @@
    "kind": "result",
    "official": true,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 22,
    "tier": "high",
    "tags": [
@@ -4411,7 +4448,7 @@
    "official": true,
    "foundBy": "발굴",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "attachments": [
     {
      "name": "국방부유해발굴감식단 공무직근로자 채용 공고(제2026-08호).hwpx",
@@ -4523,62 +4560,6 @@
    ]
   },
   {
-   "id": "gojobs:306844",
-   "source": "gojobs",
-   "sourceName": "나라일터",
-   "url": "https://www.gojobs.go.kr/apmView.do?empmnsn=306844",
-   "title": "2026년 제3차 (재)생거진천문화재단 직원채용 공고(정규직)",
-   "company": "재단법인생거진천문화재단",
-   "region": "충청북도 진천군",
-   "experience": "",
-   "education": "",
-   "employmentType": "정규직",
-   "salary": "",
-   "sector": "",
-   "postedAt": "2026-10-27",
-   "startAt": "2026-10-27",
-   "deadline": "2026-11-05",
-   "deadlineText": "",
-   "summary": "채용직급: 대리 2명\n근무지역: 충청북도 진천군\n재단법인 생거진천 문화재단 직원을 다음과 같이 공개 모집하오니, 유능한 역량을 지닌 인재들의 많은 응모 바랍니다. 1. 채용인원 : 2명 2. 채용분야 : (정규직) 경영지원(1명), 문화‧예술‧관광(1명) 3. 접수기간 : 2026. 10. 27.(화) ~ 11. 5.(목) 18:00까지 4. 접수방법 : 온라인 채용시스템(https://dware.intojob.co.kr/main/jccf.jsp) 5. 문 의 처 : 생거진…",
-   "qualifications": "자격요건\nㆍ 문화예술 및 관광관련 분야 학사학위를 취득하고 실무경력이 1 년 이상인 사람\nㆍ 문화예술 및 관광관련 분야 실무경력이 2 년 이상인 사람\n세부요건\nㆍ경영지원\n- 국가 , 지방자치단체 , 공공기관 , 민간기업 등에서 일반 행정 분야 ( 경영 , 인사 , 노무 등 ) 업무로\n근무한 경력 ※ 민간기업 : 문화예술 및 관광관련\nㆍ 문화 ㆍ 예술 ㆍ 관광\n- 국가 , 지방자치단체 , 공공기관 , 민간기업 등에서 전시 기획 , 축제 , 관광 분야 등의 업무로 근무\n한 경력\n근로조건\n- 임용일로부터 정년까지 ※ 임용일 : 2026. 12 ~ 2027. 1 월중\n- 주 5 일 40 시간 근무 / 일 8 시간 근무 (09:00~18:00)\n- 업무상 필요한 경우 주말 · 야간근무 등 근무시간 외 근무 가능\n지원방법\nㆍ생거진천문화재단 채용 사이트를 통한 지원",
-   "kind": "job",
-   "official": true,
-   "foundBy": "문화재",
-   "firstSeen": "2026-10-28",
-   "lastSeen": "2026-11-08",
-   "attachments": [
-    {
-     "name": "★2026년 제3차 (재)생거진천 문화재단 직원채용 공고문.hwp",
-     "url": "https://www.gojobs.go.kr/apmView.do?empmnsn=306844"
-    },
-    {
-     "name": "★2026년 제3차 (재)생거진천 문화재단 직원채용 공고문.pdf",
-     "url": "https://www.gojobs.go.kr/apmView.do?empmnsn=306844"
-    }
-   ],
-   "detailAt": "2026-11-03",
-   "detailOk": true,
-   "score": 21,
-   "tier": "high",
-   "tags": [
-    "curation",
-    "institution",
-    "research"
-   ],
-   "matched": [
-    "전시",
-    "문화재단",
-    "사학"
-   ],
-   "alsoOn": [
-    {
-     "source": "momo365",
-     "sourceName": "모모365",
-     "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28754"
-    }
-   ]
-  },
-  {
    "id": "saramin:55353508",
    "source": "saramin",
    "sourceName": "사람인",
@@ -4672,7 +4653,7 @@
    "official": false,
    "foundBy": "학예",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "detailAt": "2026-11-04",
    "detailOk": true,
    "score": 21,
@@ -4709,7 +4690,7 @@
    "official": false,
    "foundBy": "문화유산",
    "firstSeen": "2026-11-04",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "detailAt": "2026-11-04",
    "detailOk": true,
    "score": 20,
@@ -4746,7 +4727,7 @@
    "official": true,
    "author": "형태만",
    "firstSeen": "2026-10-27",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 20,
    "tier": "high",
    "tags": [
@@ -4780,7 +4761,7 @@
    "official": false,
    "foundBy": "보존처리",
    "firstSeen": "2026-10-22",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 20,
    "tier": "high",
    "tags": [
@@ -4815,7 +4796,7 @@
    "official": false,
    "foundBy": "국가유산",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 20,
    "tier": "high",
    "tags": [
@@ -4851,7 +4832,7 @@
    "official": false,
    "foundBy": "학예",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 20,
    "tier": "high",
    "tags": [
@@ -5070,7 +5051,7 @@
    "official": true,
    "foundBy": "박물관",
    "firstSeen": "2026-11-05",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 19,
    "tier": "high",
    "tags": [
@@ -5103,7 +5084,7 @@
    "official": true,
    "foundBy": "박물관",
    "firstSeen": "2026-10-29",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 19,
    "tier": "high",
    "tags": [
@@ -5136,7 +5117,7 @@
    "official": true,
    "foundBy": "박물관",
    "firstSeen": "2026-10-26",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "attachments": [
     {
      "name": "국립충주박물관 공무직 근로자 채용 재공고(전기 방재) 1.hwpx",
@@ -5251,7 +5232,7 @@
    "official": true,
    "foundBy": "문화재",
    "firstSeen": "2026-10-23",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "attachments": [
     {
      "name": "마포문화재단 제6회 직원 채용 공고 게시문(나라일터 게시용).hwp",
@@ -5339,7 +5320,7 @@
    "official": true,
    "foundBy": "문화재",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "attachments": [
     {
      "name": "부평구문화재단 대표이사 채용 공고.pdf",
@@ -5534,7 +5515,7 @@
    "official": false,
    "foundBy": "문화유산",
    "firstSeen": "2026-11-05",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 18,
    "tier": "high",
    "tags": [
@@ -5569,7 +5550,7 @@
    "official": true,
    "author": "전성신",
    "firstSeen": "2026-11-05",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 18,
    "tier": "high",
    "tags": [
@@ -5604,7 +5585,7 @@
    "official": false,
    "foundBy": "문화유산",
    "firstSeen": "2026-11-04",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "detailAt": "2026-11-04",
    "detailOk": true,
    "score": 18,
@@ -5627,23 +5608,23 @@
    "title": "(주)씨피엔문화유산 콘텐츠팀 실무자 채용",
    "company": "㈜씨피엔문화유산",
    "region": "충남 계룡시",
-   "experience": "경력무관",
+   "experience": "경력무관 학력",
    "education": "학력무관",
    "employmentType": "정규직",
-   "salary": "연봉 32,000~34,000만원",
+   "salary": "연봉 32,000~34,000만원 (면접 후 결정)",
    "sector": "신문·잡지·언론사, 콘텐츠마케터, 그래픽디자이너, 영상편집자",
    "postedAt": "2026-10-30",
    "startAt": "2026-10-30",
    "deadline": null,
    "deadlineText": "상시채용",
-   "summary": "충남 계룡시 · 경력무관 · 신문·잡지·언론사, 콘텐츠마케터, 그래픽디자이너, 영상편집자 · 연봉 32,000~34,000만원",
-   "qualifications": "경력: 경력무관",
+   "summary": "모집분야: 마케팅 콘텐츠\n고용형태: 정규직\n급여: 연봉 32,000~34,000만원 (면접 후 결정)\n근무지: 충남 계룡시 엄사면 번영로 113-32 (엄사리, 계룡파라디아) 상가동 201호\n근무시간: 주5일(월~금)",
+   "qualifications": "경력: 경력무관 학력\n학력: 학력무관",
    "kind": "job",
    "official": false,
    "foundBy": "문화유산",
    "firstSeen": "2026-11-03",
-   "lastSeen": "2026-11-08",
-   "detailAt": "2026-11-03",
+   "lastSeen": "2026-11-09",
+   "detailAt": "2026-11-09",
    "detailOk": true,
    "score": 18,
    "tier": "high",
@@ -5678,7 +5659,7 @@
    "official": true,
    "author": "양금옥",
    "firstSeen": "2026-10-27",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 18,
    "tier": "high",
    "tags": [
@@ -5713,7 +5694,7 @@
    "official": true,
    "author": "양금옥",
    "firstSeen": "2026-10-22",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 18,
    "tier": "high",
    "tags": [
@@ -5769,23 +5750,23 @@
    "title": "문화재조사 업무를 담당할 성실한 직원을 채용",
    "company": "재단법인 해원문화유산연구원",
    "region": "전북 군산시",
-   "experience": "경력무관",
+   "experience": "경력무관 학력",
    "education": "고졸이상",
    "employmentType": "정규직",
-   "salary": "연봉 2,760~3,000만원",
+   "salary": "연봉 2760 ~3000 만원",
    "sector": "연봉 2,760~3,000만원",
    "postedAt": "2026-10-20",
    "startAt": "2026-10-20",
    "deadline": "2026-12-19",
    "deadlineText": "",
-   "summary": "전북 군산시 · 경력무관 · 연봉 2,760~3,000만원 · 연봉 2,760~3,000만원",
-   "qualifications": "경력: 경력무관",
+   "summary": "고용형태: 정규직\n급여: 연봉 2760 ~3000 만원\n근무지: 전북 군산시",
+   "qualifications": "경력: 경력무관 학력\n학력: 고졸이상",
    "kind": "job",
    "official": false,
    "foundBy": "문화유산",
    "firstSeen": "2026-10-20",
-   "lastSeen": "2026-11-06",
-   "detailAt": "2026-11-01",
+   "lastSeen": "2026-11-09",
+   "detailAt": "2026-11-09",
    "detailOk": true,
    "score": 18,
    "tier": "high",
@@ -5828,7 +5809,7 @@
    "official": false,
    "foundBy": "학예",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 18,
    "tier": "high",
    "tags": [
@@ -5862,7 +5843,7 @@
    "official": false,
    "foundBy": "문화유산",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "detailAt": "2026-11-04",
    "detailOk": true,
    "score": 18,
@@ -6096,7 +6077,7 @@
    "official": false,
    "foundBy": "학예",
    "firstSeen": "2026-11-05",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 17,
    "tier": "high",
    "tags": [
@@ -6108,6 +6089,60 @@
     "큐레이터",
     "전시기획",
     "문화기획"
+   ]
+  },
+  {
+   "id": "gojobs:306844",
+   "source": "gojobs",
+   "sourceName": "나라일터",
+   "url": "https://www.gojobs.go.kr/apmView.do?empmnsn=306844",
+   "title": "2026년 제3차 (재)생거진천문화재단 직원채용 공고(정규직)",
+   "company": "재단법인생거진천문화재단",
+   "region": "충청북도 진천군",
+   "experience": "",
+   "education": "",
+   "employmentType": "정규직",
+   "salary": "",
+   "sector": "",
+   "postedAt": "2026-10-27",
+   "startAt": "2026-10-27",
+   "deadline": "2026-11-05",
+   "deadlineText": "",
+   "summary": "채용직급: 대리 2명\n근무지역: 충청북도 진천군\n재단법인 생거진천 문화재단 직원을 다음과 같이 공개 모집하오니, 유능한 역량을 지닌 인재들의 많은 응모 바랍니다. 1. 채용인원 : 2명 2. 채용분야 : (정규직) 경영지원(1명), 문화‧예술‧관광(1명) 3. 접수기간 : 2026. 10. 27.(화) ~ 11. 5.(목) 18:00까지 4. 접수방법 : 온라인 채용시스템(https://dware.intojob.co.kr/main/jccf.jsp) 5. 문 의 처 : 생거진…",
+   "qualifications": "자격요건\nㆍ 문화예술 및 관광관련 분야 학사학위를 취득하고 실무경력이 1 년 이상인 사람\nㆍ 문화예술 및 관광관련 분야 실무경력이 2 년 이상인 사람\n세부요건\nㆍ경영지원\n- 국가 , 지방자치단체 , 공공기관 , 민간기업 등에서 일반 행정 분야 ( 경영 , 인사 , 노무 등 ) 업무로\n근무한 경력 ※ 민간기업 : 문화예술 및 관광관련\nㆍ 문화 ㆍ 예술 ㆍ 관광\n- 국가 , 지방자치단체 , 공공기관 , 민간기업 등에서 전시 기획 , 축제 , 관광 분야 등의 업무로 근무\n한 경력\n근로조건\n- 임용일로부터 정년까지 ※ 임용일 : 2026. 12 ~ 2027. 1 월중\n- 주 5 일 40 시간 근무 / 일 8 시간 근무 (09:00~18:00)\n- 업무상 필요한 경우 주말 · 야간근무 등 근무시간 외 근무 가능\n지원방법\nㆍ생거진천문화재단 채용 사이트를 통한 지원",
+   "kind": "job",
+   "official": true,
+   "foundBy": "문화재",
+   "firstSeen": "2026-10-28",
+   "lastSeen": "2026-11-09",
+   "attachments": [
+    {
+     "name": "★2026년 제3차 (재)생거진천 문화재단 직원채용 공고문.hwp",
+     "url": "https://www.gojobs.go.kr/apmView.do?empmnsn=306844"
+    },
+    {
+     "name": "★2026년 제3차 (재)생거진천 문화재단 직원채용 공고문.pdf",
+     "url": "https://www.gojobs.go.kr/apmView.do?empmnsn=306844"
+    }
+   ],
+   "detailAt": "2026-11-09",
+   "detailOk": true,
+   "score": 17,
+   "tier": "high",
+   "tags": [
+    "institution",
+    "curation",
+    "research"
+   ],
+   "matched": [
+    "문화재단"
+   ],
+   "alsoOn": [
+    {
+     "source": "momo365",
+     "sourceName": "모모365",
+     "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28754"
+    }
    ]
   },
   {
@@ -6133,7 +6168,7 @@
    "official": false,
    "foundBy": "문화유산",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "detailAt": "2026-11-04",
    "detailOk": true,
    "score": 17,
@@ -6176,7 +6211,7 @@
    "official": false,
    "foundBy": "문화재",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "detailAt": "2026-11-04",
    "detailOk": true,
    "score": 17,
@@ -6291,7 +6326,7 @@
    "official": true,
    "foundBy": "문화재",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "attachments": [
     {
      "name": "공고문_20.pdf",
@@ -6416,7 +6451,7 @@
    "official": false,
    "foundBy": "학예",
    "firstSeen": "2026-10-29",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 15,
    "tier": "high",
    "tags": [
@@ -6452,7 +6487,7 @@
    "official": false,
    "foundBy": "학예",
    "firstSeen": "2026-10-19",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 15,
    "tier": "high",
    "tags": [
@@ -6495,7 +6530,7 @@
    "official": false,
    "foundBy": "국가유산",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "detailAt": "2026-11-04",
    "detailOk": true,
    "score": 15,
@@ -6538,7 +6573,7 @@
    "official": false,
    "foundBy": "학예",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 15,
    "tier": "high",
    "tags": [
@@ -6580,7 +6615,7 @@
    "kind": "job",
    "official": false,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=95359",
    "attachments": [
     {
@@ -6671,7 +6706,7 @@
    "official": false,
    "foundBy": "문화유산",
    "firstSeen": "2026-10-27",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 14,
    "tier": "mid",
    "tags": [
@@ -6704,7 +6739,7 @@
    "official": false,
    "foundBy": "문화유산",
    "firstSeen": "2026-10-27",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 14,
    "tier": "mid",
    "tags": [
@@ -6737,7 +6772,7 @@
    "official": false,
    "foundBy": "문화유산",
    "firstSeen": "2026-10-27",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 14,
    "tier": "mid",
    "tags": [
@@ -6770,7 +6805,7 @@
    "official": true,
    "author": "김은주",
    "firstSeen": "2026-11-06",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "attachments": [
     {
      "name": "2026년 제11차 공무직 등 근로자 공개경쟁채용 공고.hwp",
@@ -6820,7 +6855,7 @@
    "official": false,
    "foundBy": "문화유산",
    "firstSeen": "2026-11-05",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 12,
    "tier": "mid",
    "tags": [],
@@ -6851,7 +6886,7 @@
    "official": false,
    "foundBy": "학예",
    "firstSeen": "2026-11-05",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "detailAt": "2026-11-05",
    "detailOk": true,
    "score": 12,
@@ -6905,7 +6940,7 @@
    "title": "[폭발성장 에이전시] 크로마엔터테인먼트 지식교양 / 브랜드다큐 제작 PD",
    "company": "㈜크로마엔터테인먼트",
    "region": "서울 강남구",
-   "experience": "유연근무제 시행중",
+   "experience": "(3년이상)",
    "education": "학력무관",
    "employmentType": "정규직",
    "salary": "회사 내규에 따름 (면접 후 결정)",
@@ -6914,14 +6949,14 @@
    "startAt": "2026-11-02",
    "deadline": "2026-12-02",
    "deadlineText": "",
-   "summary": "서울 강남구 · 유연근무제 시행중 · 광고·홍보·전시, PD·감독",
-   "qualifications": "경력: 유연근무제 시행중",
+   "summary": "모집분야: 지식교양 / 브랜드다큐 콘텐츠 제작 PD\n고용형태: 정규직\n급여: 회사 내규에 따름 (면접 후 결정)\n근무지: 서울 강남구 선릉로112길 34 (삼성동, HS빌딩)\n근무시간: 주5일(월~금)",
+   "qualifications": "경력: (3년이상)\n학력: 학력무관",
    "kind": "job",
    "official": false,
    "foundBy": "문화유산",
    "firstSeen": "2026-11-03",
-   "lastSeen": "2026-11-08",
-   "detailAt": "2026-11-03",
+   "lastSeen": "2026-11-09",
+   "detailAt": "2026-11-09",
    "detailOk": true,
    "score": 12,
    "tier": "mid",
@@ -6954,7 +6989,7 @@
    "kind": "job",
    "official": false,
    "firstSeen": "2026-11-03",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=95545",
    "attachments": [
     {
@@ -6974,7 +7009,7 @@
      "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28791"
     }
    ],
-   "detailAt": "2026-11-03",
+   "detailAt": "2026-11-09",
    "detailOk": true,
    "score": 12,
    "tier": "mid",
@@ -7041,7 +7076,7 @@
    "official": true,
    "author": "김은주",
    "firstSeen": "2026-10-30",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 12,
    "tier": "mid",
    "tags": [
@@ -7075,7 +7110,7 @@
    "official": true,
    "author": "홍준기",
    "firstSeen": "2026-10-30",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 12,
    "tier": "mid",
    "tags": [
@@ -7109,7 +7144,7 @@
    "official": false,
    "foundBy": "국가유산",
    "firstSeen": "2026-10-29",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 12,
    "tier": "mid",
    "tags": [
@@ -7152,7 +7187,7 @@
    "kind": "job",
    "official": false,
    "firstSeen": "2026-10-29",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=95505",
    "attachments": [],
    "detailAt": "2026-11-04",
@@ -7189,7 +7224,7 @@
    "official": false,
    "foundBy": "국가유산",
    "firstSeen": "2026-10-28",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 12,
    "tier": "mid",
    "tags": [
@@ -7209,7 +7244,7 @@
    "title": "[큐레이터](주)더프리마 아트센터 채용공고(신입/경력)",
    "company": "㈜더프리마",
    "region": "서울 종로구",
-   "experience": "신입 지원 가능",
+   "experience": "신입·경력 (8년이상)",
    "education": "대졸이상",
    "employmentType": "계약직",
    "salary": "회사 내규에 따름 (면접 후 결정)",
@@ -7218,14 +7253,14 @@
    "startAt": "2026-11-02",
    "deadline": "2026-11-16",
    "deadlineText": "",
-   "summary": "서울 종로구 · 신입 지원 가능 · 문화·공연·예술, 배급·제작자, 큐레이터",
-   "qualifications": "경력: 신입 지원 가능",
+   "summary": "모집분야: 아트센터 큐레이터\n고용형태: 계약직\n급여: 회사 내규에 따름 (면접 후 결정)\n근무지: 서울 종로구 인사동길 37-11 (관훈동) (주)더프리마 아트센터\n근무시간: 주 5일(스케쥴 근무)",
+   "qualifications": "경력: 신입·경력 (8년이상)\n학력: 대졸이상",
    "kind": "job",
    "official": false,
    "foundBy": "학예",
    "firstSeen": "2026-10-28",
-   "lastSeen": "2026-11-08",
-   "detailAt": "2026-11-03",
+   "lastSeen": "2026-11-09",
+   "detailAt": "2026-11-09",
    "detailOk": true,
    "score": 12,
    "tier": "mid",
@@ -7234,13 +7269,6 @@
    ],
    "matched": [
     "큐레이터"
-   ],
-   "alsoOn": [
-    {
-     "source": "jobkorea",
-     "sourceName": "잡코리아",
-     "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50251552"
-    }
    ]
   },
   {
@@ -7265,7 +7293,7 @@
    "kind": "job",
    "official": false,
    "firstSeen": "2026-10-28",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=95480",
    "attachments": [
     {
@@ -7273,7 +7301,7 @@
      "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28730"
     }
    ],
-   "detailAt": "2026-11-03",
+   "detailAt": "2026-11-09",
    "detailOk": true,
    "score": 12,
    "tier": "mid",
@@ -7306,7 +7334,7 @@
    "kind": "job",
    "official": false,
    "firstSeen": "2026-10-28",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=95479",
    "attachments": [
     {
@@ -7330,7 +7358,7 @@
      "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28724"
     }
    ],
-   "detailAt": "2026-11-03",
+   "detailAt": "2026-11-09",
    "detailOk": true,
    "score": 12,
    "tier": "mid",
@@ -7363,7 +7391,7 @@
    "kind": "job",
    "official": false,
    "firstSeen": "2026-10-28",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=95453",
    "attachments": [
     {
@@ -7375,7 +7403,7 @@
      "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28710"
     }
    ],
-   "detailAt": "2026-11-03",
+   "detailAt": "2026-11-09",
    "detailOk": true,
    "score": 12,
    "tier": "mid",
@@ -7409,7 +7437,7 @@
    "official": true,
    "author": "김은주",
    "firstSeen": "2026-10-26",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 12,
    "tier": "mid",
    "tags": [
@@ -7443,7 +7471,7 @@
    "official": true,
    "author": "홍준기",
    "firstSeen": "2026-10-23",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 12,
    "tier": "mid",
    "tags": [
@@ -7477,7 +7505,7 @@
    "official": true,
    "author": "전성신",
    "firstSeen": "2026-10-23",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 12,
    "tier": "mid",
    "tags": [
@@ -7510,7 +7538,7 @@
    "kind": "job",
    "official": false,
    "firstSeen": "2026-10-23",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "applyUrl": "https://www.mfac.or.kr/communication/notice_all_view.jsp?sc_b_code=BOARD_1207683401&sc_type=1&sc_cond=b_subject&pk_seq=9210",
    "attachments": [
     {
@@ -7555,7 +7583,7 @@
    "kind": "job",
    "official": false,
    "firstSeen": "2026-10-20",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=95403",
    "attachments": [
     {
@@ -7604,7 +7632,7 @@
    "kind": "job",
    "official": false,
    "firstSeen": "2026-10-20",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=95404",
    "attachments": [
     {
@@ -7653,7 +7681,7 @@
    "kind": "job",
    "official": false,
    "firstSeen": "2026-10-20",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "applyUrl": "http://www.ancf.or.kr/p/6ad56626c40655cda129f091",
    "attachments": [
     {
@@ -7703,7 +7731,7 @@
    "official": false,
    "foundBy": "문화유산",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "detailAt": "2026-11-08",
    "detailOk": true,
    "score": 12,
@@ -7738,7 +7766,7 @@
    "kind": "result",
    "official": true,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 12,
    "tier": "mid",
    "tags": [
@@ -7771,7 +7799,7 @@
    "kind": "result",
    "official": true,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 12,
    "tier": "mid",
    "tags": [
@@ -7804,7 +7832,7 @@
    "kind": "job",
    "official": false,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=95410",
    "attachments": [
     {
@@ -7856,7 +7884,7 @@
    "kind": "job",
    "official": false,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=95361",
    "attachments": [
     {
@@ -7897,7 +7925,7 @@
    "kind": "job",
    "official": false,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=95330",
    "attachments": [
     {
@@ -7942,7 +7970,7 @@
    "kind": "job",
    "official": false,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=95331",
    "attachments": [],
    "detailAt": "2026-11-04",
@@ -7978,7 +8006,7 @@
    "kind": "job",
    "official": false,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=95312",
    "attachments": [
     {
@@ -8019,7 +8047,7 @@
    "kind": "job",
    "official": false,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=95309",
    "attachments": [
     {
@@ -8068,7 +8096,7 @@
    "kind": "job",
    "official": false,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=95297",
    "attachments": [
     {
@@ -8109,7 +8137,7 @@
    "kind": "job",
    "official": false,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=95241",
    "attachments": [
     {
@@ -8158,7 +8186,7 @@
    "kind": "job",
    "official": false,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=95243",
    "attachments": [
     {
@@ -8370,6 +8398,39 @@
    ]
   },
   {
+   "id": "saramin:55515013",
+   "source": "saramin",
+   "sourceName": "사람인",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55515013",
+   "title": "신규 거래처 발굴 및 관공서 영업 담당자 채용",
+   "company": "에디코",
+   "region": "부산 해운대구",
+   "experience": "경력",
+   "education": "학력무관",
+   "employmentType": "정규직",
+   "salary": "",
+   "sector": "영업관리, 거래처영업, 출판사, 인쇄·제본",
+   "postedAt": "2026-11-08",
+   "startAt": "2026-11-08",
+   "deadline": "2026-11-30",
+   "deadlineText": "",
+   "summary": "부산 해운대구 · 정규직 · 경력 · 학력무관",
+   "qualifications": "경력: 경력\n학력: 학력무관",
+   "kind": "job",
+   "official": false,
+   "foundBy": "발굴",
+   "firstSeen": "2026-11-09",
+   "lastSeen": "2026-11-09",
+   "score": 9,
+   "tier": "mid",
+   "tags": [
+    "excavation"
+   ],
+   "matched": [
+    "발굴"
+   ]
+  },
+  {
    "id": "saramin:55503205",
    "source": "saramin",
    "sourceName": "사람인",
@@ -8524,7 +8585,7 @@
    "official": false,
    "foundBy": "문화유산",
    "firstSeen": "2026-11-02",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 9,
    "tier": "mid",
    "tags": [
@@ -8589,7 +8650,7 @@
    "kind": "job",
    "official": false,
    "firstSeen": "2026-10-20",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=95395",
    "attachments": [],
    "detailAt": "2026-11-07",
@@ -8662,7 +8723,7 @@
    "official": false,
    "foundBy": "학예",
    "firstSeen": "2026-11-02",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 8,
    "tier": "mid",
    "tags": [
@@ -8698,7 +8759,7 @@
    "official": false,
    "foundBy": "문화재",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 8,
    "tier": "mid",
    "tags": [
@@ -8734,7 +8795,7 @@
    "official": false,
    "foundBy": "문화재",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 8,
    "tier": "mid",
    "tags": [
@@ -8770,7 +8831,7 @@
    "official": false,
    "foundBy": "학예",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 8,
    "tier": "mid",
    "tags": [
@@ -8806,7 +8867,7 @@
    "official": false,
    "foundBy": "보존처리",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "detailAt": "2026-11-08",
    "detailOk": true,
    "score": 8,
@@ -8879,7 +8940,7 @@
    "official": false,
    "foundBy": "문화유산",
    "firstSeen": "2026-11-06",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 6,
    "tier": "low",
    "tags": [
@@ -8912,7 +8973,7 @@
    "official": false,
    "foundBy": "보존처리",
    "firstSeen": "2026-11-05",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 6,
    "tier": "low",
    "tags": [
@@ -8977,7 +9038,7 @@
    "kind": "job",
    "official": false,
    "firstSeen": "2026-11-04",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 6,
    "tier": "low",
    "tags": [
@@ -9009,7 +9070,7 @@
    "kind": "job",
    "official": false,
    "firstSeen": "2026-11-03",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 6,
    "tier": "low",
    "tags": [
@@ -9108,7 +9169,7 @@
    "official": false,
    "foundBy": "국가유산",
    "firstSeen": "2026-10-30",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 6,
    "tier": "low",
    "tags": [
@@ -9141,7 +9202,7 @@
    "official": false,
    "foundBy": "국가유산",
    "firstSeen": "2026-10-27",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 6,
    "tier": "low",
    "tags": [
@@ -9182,7 +9243,7 @@
    "official": false,
    "foundBy": "문화유산",
    "firstSeen": "2026-10-27",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 6,
    "tier": "low",
    "tags": [
@@ -9215,7 +9276,7 @@
    "official": false,
    "foundBy": "보존처리",
    "firstSeen": "2026-10-22",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 6,
    "tier": "low",
    "tags": [
@@ -9224,13 +9285,6 @@
    "matched": [
     "박물관",
     "미술관"
-   ],
-   "alsoOn": [
-    {
-     "source": "saramin",
-     "sourceName": "사람인",
-     "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55368758"
-    }
    ]
   },
   {
@@ -9255,7 +9309,7 @@
    "kind": "job",
    "official": false,
    "firstSeen": "2026-10-22",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 6,
    "tier": "low",
    "tags": [
@@ -9288,7 +9342,7 @@
    "official": false,
    "foundBy": "문화유산",
    "firstSeen": "2026-10-19",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 6,
    "tier": "low",
    "tags": [
@@ -9321,7 +9375,7 @@
    "official": false,
    "foundBy": "국가유산",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 6,
    "tier": "low",
    "tags": [
@@ -9361,7 +9415,7 @@
    "official": false,
    "foundBy": "국가유산",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 6,
    "tier": "low",
    "tags": [
@@ -9394,7 +9448,7 @@
    "official": true,
    "author": "이종필",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "attachments": [
     {
      "name": "국립문화유산연구원 한시임기제공무원(산업보건) 경력경쟁채용 공고문.hwp",
@@ -9457,7 +9511,7 @@
    "kind": "job",
    "official": false,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 6,
    "tier": "low",
    "tags": [
@@ -9496,7 +9550,7 @@
    "kind": "job",
    "official": false,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 6,
    "tier": "low",
    "tags": [
@@ -9528,7 +9582,7 @@
    "kind": "job",
    "official": false,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 6,
    "tier": "low",
    "tags": [
@@ -9567,7 +9621,7 @@
    "kind": "job",
    "official": false,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 6,
    "tier": "low",
    "tags": [
@@ -9838,7 +9892,7 @@
    "official": false,
    "foundBy": "학예",
    "firstSeen": "2026-11-05",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 5,
    "tier": "low",
    "tags": [
@@ -9943,7 +9997,7 @@
    "official": true,
    "foundBy": "박물관",
    "firstSeen": "2026-11-02",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "attachments": [
     {
      "name": "2026년 제8차 국립고궁박물관 기획운영과 공무직(안전관리원) 채용 공고문.hwp",
@@ -10032,7 +10086,7 @@
    "official": true,
    "author": "정상헌",
    "firstSeen": "2026-11-02",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "attachments": [
     {
      "name": "2026년 제8차 국립고궁박물관 기획운영과 공무직(안전관리원) 채용 공고문.hwp",
@@ -10085,7 +10139,7 @@
    "kind": "result",
    "official": true,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 4,
    "tier": "low",
    "tags": [
@@ -10163,7 +10217,7 @@
    "kind": "result",
    "official": true,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 4,
    "tier": "low",
    "tags": [
@@ -10252,7 +10306,7 @@
    "kind": "result",
    "official": true,
    "firstSeen": "2026-11-07",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 3,
    "tier": "low",
    "tags": [
@@ -10285,7 +10339,7 @@
    "kind": "result",
    "official": true,
    "firstSeen": "2026-11-01",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 3,
    "tier": "low",
    "tags": [
@@ -10319,7 +10373,7 @@
    "official": true,
    "foundBy": "유산",
    "firstSeen": "2026-10-28",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 3,
    "tier": "low",
    "tags": [
@@ -10356,7 +10410,7 @@
    "official": true,
    "foundBy": "박물관",
    "firstSeen": "2026-10-28",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 3,
    "tier": "low",
    "tags": [
@@ -10392,7 +10446,7 @@
    "official": true,
    "foundBy": "박물관",
    "firstSeen": "2026-10-27",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 3,
    "tier": "low",
    "tags": [
@@ -10467,7 +10521,7 @@
    "kind": "result",
    "official": true,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 3,
    "tier": "low",
    "tags": [
@@ -10617,7 +10671,7 @@
    "official": true,
    "author": "이재구",
    "firstSeen": "2026-11-05",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 2,
    "tier": "low",
    "tags": [
@@ -10653,7 +10707,7 @@
    "official": true,
    "foundBy": "유산",
    "firstSeen": "2026-11-05",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 2,
    "tier": "low",
    "tags": [
@@ -10689,7 +10743,7 @@
    "official": true,
    "foundBy": "박물관",
    "firstSeen": "2026-11-05",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "attachments": [
     {
      "name": "대한민국역사박물관 공무직(미화원)채용 공고.hwpx",
@@ -10736,7 +10790,7 @@
    "official": true,
    "author": "이재구",
    "firstSeen": "2026-10-27",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 2,
    "tier": "low",
    "tags": [
@@ -10772,7 +10826,7 @@
    "official": true,
    "author": "정상헌",
    "firstSeen": "2026-10-27",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 2,
    "tier": "low",
    "tags": [
@@ -10810,7 +10864,7 @@
    "official": true,
    "author": "배수현",
    "firstSeen": "2026-10-26",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 2,
    "tier": "low",
    "tags": [
@@ -10845,7 +10899,7 @@
    "official": true,
    "author": "정상헌",
    "firstSeen": "2026-10-19",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 2,
    "tier": "low",
    "tags": [
@@ -10882,7 +10936,7 @@
    "kind": "job",
    "official": true,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "attachments": [],
    "applyUrl": "",
    "detailAt": "2026-11-04",
@@ -10985,7 +11039,7 @@
    "official": true,
    "foundBy": "유산",
    "firstSeen": "2026-10-30",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "detailAt": "2026-11-05",
    "detailOk": true,
    "score": 0,
@@ -11016,7 +11070,7 @@
    "official": true,
    "foundBy": "유산",
    "firstSeen": "2026-10-30",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "attachments": [
     {
      "name": "붙임3. 경력확인서(양식).hwp",
@@ -11068,7 +11122,7 @@
    "kind": "result",
    "official": true,
    "firstSeen": "2026-10-28",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 0,
    "tier": "low",
    "tags": [
@@ -11129,14 +11183,14 @@
    "startAt": "2026-10-22",
    "deadline": "2026-10-27",
    "deadlineText": "",
-   "summary": "국립공원공단 · 전북 · 비정규직 · 마감",
+   "summary": "채용구분: 신입+경력\n고용형태: 비정규직\n채용인원: 6명\n근무지: 전북\n근무분야: 계약직\n학력: 학력무관",
    "qualifications": "우대: 취업지원대상자, 장애인, 자립준비청년",
    "kind": "job",
    "official": true,
    "foundBy": "유산",
    "firstSeen": "2026-10-22",
-   "lastSeen": "2026-11-08",
-   "detailAt": "2026-11-03",
+   "lastSeen": "2026-11-09",
+   "detailAt": "2026-11-09",
    "detailOk": true,
    "score": 0,
    "tier": "low",
@@ -11166,7 +11220,7 @@
    "official": true,
    "foundBy": "유산",
    "firstSeen": "2026-10-22",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "attachments": [
     {
      "name": "채용공고문_덕유산국립공원 겨울성수기 한시인력(수익시설) 직원 채용.hwp",
@@ -11189,7 +11243,7 @@
      "url": "https://www.gojobs.go.kr/apmView.do?empmnsn=306464"
     }
    ],
-   "detailAt": "2026-11-03",
+   "detailAt": "2026-11-09",
    "detailOk": true,
    "score": 0,
    "tier": "low",
@@ -11259,7 +11313,7 @@
    "kind": "result",
    "official": true,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 0,
    "tier": "low",
    "tags": [
@@ -11292,7 +11346,7 @@
    "kind": "result",
    "official": true,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "score": 0,
    "tier": "low",
    "tags": [
