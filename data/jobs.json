@@ -1,56 +1,56 @@
 {
- "updatedAt": "2026-11-09T01:55:38.844Z",
+ "updatedAt": "2026-11-09T11:57:18.418Z",
  "today": "2026-11-09",
- "count": 292,
- "newToday": 7,
+ "count": 303,
+ "newToday": 18,
  "sources": {
   "saramin": {
    "name": "사람인",
    "ok": true,
    "count": 415,
-   "ms": 36844
+   "ms": 32856
   },
   "jobkorea": {
    "name": "잡코리아",
    "ok": true,
-   "count": 189,
-   "ms": 19917
+   "count": 193,
+   "ms": 19611
   },
   "khs": {
    "name": "국가유산청",
    "ok": true,
    "count": 30,
-   "ms": 9733
+   "ms": 10416
   },
   "nrich": {
    "name": "국립문화유산연구원",
    "ok": true,
    "count": 20,
-   "ms": 6173
+   "ms": 7101
   },
   "kha": {
    "name": "국가유산진흥원",
    "ok": true,
    "count": 20,
-   "ms": 4435
+   "ms": 4603
   },
   "alio": {
    "name": "잡알리오",
    "ok": true,
    "count": 5,
-   "ms": 10398
+   "ms": 12483
   },
   "gojobs": {
    "name": "나라일터",
    "ok": true,
    "count": 48,
-   "ms": 68676
+   "ms": 16056
   },
   "momo365": {
    "name": "모모365",
    "ok": true,
    "count": 100,
-   "ms": 2784
+   "ms": 2879
   }
  },
  "categories": [
@@ -464,13 +464,6 @@
     "고고학",
     "문화유산연구소",
     "문화유산"
-   ],
-   "alsoOn": [
-    {
-     "source": "khs",
-     "sourceName": "국가유산청",
-     "url": "https://www.khs.go.kr/multiBbz/selectMultiBbzView.do?id=10003&no=34601&bbzId=newexam&pageIndex=3&pageUnit=10&strWhere=&searchWrd=&sdate=&edate=&mn=NS_01_06"
-    }
    ]
   },
   {
@@ -487,7 +480,7 @@
    "salary": "",
    "sector": "",
    "postedAt": "2026-11-09",
-   "startAt": "2026-11-16",
+   "startAt": "2026-11-09",
    "deadline": "2026-11-25",
    "deadlineText": "",
    "summary": "국립무형유산원 공고 제2026-86호 국립무형유산원에서 다음과 같이 공무직근로자(안내해설사)를 채용하오니 참신하고 유능한 많은 응모바랍니다. 2026년 11월 9일 국립무형유산원장 1. 채용 예정분야 및 인원 ㅇ 공무직근로자(안내해설사/단시간) : 2명 2. 전형일정 ㅇ 응시원서 접수: 2026. 11. 16(월) ~ 19(목) ㅇ 서류전형 합격자 발표: 2026. 11. 25(수) ㅇ 면접시험: 2026. 11. 26(목) ~ 12.3(목) 중 1일 ㅇ 최종합격자 발표: 2026. 12. 4(금) 3. 문의사항: 국립무형유산원 공무직근로자 채용담당자(063-280-…",
@@ -653,13 +646,6 @@
     "연구원 가급",
     "국립문화유산연구원",
     "문화유산"
-   ],
-   "alsoOn": [
-    {
-     "source": "khs",
-     "sourceName": "국가유산청",
-     "url": "https://www.khs.go.kr/multiBbz/selectMultiBbzView.do?id=10004&no=34602&bbzId=newexam&pageIndex=3&pageUnit=10&strWhere=&searchWrd=&sdate=&edate=&mn=NS_01_06"
-    }
    ]
   },
   {
@@ -2185,6 +2171,50 @@
    ]
   },
   {
+   "id": "momo365:28822",
+   "source": "momo365",
+   "sourceName": "모모365",
+   "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28822",
+   "title": "송은문화재단에서 《제26회 송은미술대상전》 도슨트/지킴이를 모집합니다.",
+   "company": "(주)로렌스 제프리스",
+   "region": "서울",
+   "experience": "",
+   "education": "",
+   "employmentType": "임기∙계약직",
+   "salary": "",
+   "sector": "",
+   "postedAt": "2026-11-05",
+   "startAt": "2026-11-05",
+   "deadline": "2026-11-30",
+   "deadlineText": "",
+   "summary": "송은문화재단에서 《제26회 송은미술대상전》 도슨트/지킴이를 모집합니다. 송은문화재단은 2026년 12월 16일부터 2027년 2월 20일까지 《제26회 송은미술대상전》을 개최합니다. 송은미술대상은 국내 젊은 작가들의 안정적인 창작 환경 조성과 장기적인 예술 활동을 지원하기 위해 설립된 송은문화재단의 주요한 프로그램입니다. 2001년 제정된 이래 한국 동시대 미술의 성장과 변화를 함께해왔으며, 2021년에는 제정 20주년 및 신사옥 개관을 기념해 지원 자격을 완화하고 본선 전시 참여 및 수상 혜택을 강화하는 등 한층 발전된 내용으로 개편되었습니다. 더불어 다양한 전시와…",
+   "qualifications": "송은문화재단은 2026년 12월 16일부터 2027년 2월 20일까지 《제26회 송은미술대상전》을 개최합니다. 송은미술대상은 국내 젊은 작가들의 안정적인 창작 환경 조성과 장기적인 예술 활동을 지원하기 위해 설립된 송은문화재단의 주요한 프로그램입니다. 2001년 제정된 이래 한국 동시대 미술의 성장과 변화를 함께해왔으며, 2021년에는 제정 20주년 및 신사옥 개관을 기념해 지원 자격을 완화하고 본선 전시 참여 및 수상 혜택을 강화하는 등 한층 발전된 내용으로 개편되었습니다. 더불어 다양한 전시와 프로그램을 통해 역량 있는 작가를 발굴·지원해온 서울시립미술관과 까르띠에 현대미술재단의 철학을 공유하는 까르띠에와의 지속적인 협력을 통해 프로그램의 지향점을 확장하고 있습니다.\n본 전시에는 총 702명의 지원자 중 예선 심사를 통과한 작가 20인이 참여하고, 전시 기간 중 최종 심사를 거쳐 대상 1인이 선정됩니다. 이번 전시를 통해 동시대 한국 미술의 현재와 미래를 살펴보시기 바라며, 참여작가 강철규, 김진희, 노송희, 로사, 무니페리, 박예림, 박희자, 방성욱, 서성협, 서지우, 우민정, 이동훈, 이민재, 이예인, 이웅철, 임재균, 장한나, 전형산, 최가영, 최수…",
+   "kind": "job",
+   "official": false,
+   "firstSeen": "2026-11-09",
+   "lastSeen": "2026-11-09",
+   "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=95588",
+   "attachments": [],
+   "detailAt": "2026-11-09",
+   "detailOk": true,
+   "score": 28,
+   "tier": "high",
+   "tags": [
+    "curation",
+    "excavation",
+    "institution",
+    "research"
+   ],
+   "matched": [
+    "도슨트",
+    "전시",
+    "미술관",
+    "발굴",
+    "문화재단",
+    "서지"
+   ]
+  },
+  {
    "id": "saramin:55499480",
    "source": "saramin",
    "sourceName": "사람인",
@@ -3562,6 +3592,42 @@
    ]
   },
   {
+   "id": "jobkorea:5725335",
+   "source": "jobkorea",
+   "sourceName": "잡코리아",
+   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/5725335/Ext?siteCode=WN",
+   "title": "국립현대미술관 청주관 운영부 공무직[학예원] 근로...",
+   "company": "국립현대미술관",
+   "region": "충북 청주시",
+   "experience": "경력무관 학력",
+   "education": "대학원(석사)이상",
+   "employmentType": "정규직",
+   "salary": "월급 225 만원",
+   "sector": "월급 220만원~",
+   "postedAt": "2026-11-09",
+   "startAt": "2026-11-09",
+   "deadline": "2026-11-19",
+   "deadlineText": "",
+   "summary": "고용형태: 정규직\n급여: 월급 225 만원\n근무지: 충북 청주시 청원구",
+   "qualifications": "경력: 경력무관 학력\n학력: 대학원(석사)이상",
+   "kind": "job",
+   "official": false,
+   "foundBy": "학예",
+   "firstSeen": "2026-11-09",
+   "lastSeen": "2026-11-09",
+   "detailAt": "2026-11-09",
+   "detailOk": true,
+   "score": 24,
+   "tier": "high",
+   "tags": [
+    "curation"
+   ],
+   "matched": [
+    "학예",
+    "미술관"
+   ]
+  },
+  {
    "id": "khs:34631",
    "source": "khs",
    "sourceName": "국가유산청",
@@ -3575,7 +3641,7 @@
    "salary": "",
    "sector": "",
    "postedAt": "2026-11-09",
-   "startAt": "2026-11-10",
+   "startAt": "2026-11-09",
    "deadline": "2026-11-17",
    "deadlineText": "",
    "summary": "국가유산청 궁능유적본부 세종대왕유적관리소에서 다음과 같이 공무직 등 근로자를 채용하고자 하니 많은 지원 바랍니다. 1. 채용분야 및 인원 ㅇ (공무직) 시설물청소원 1명 ㅇ (공무직) 안전관리원 야간 1명 2. 선발방법 ㅇ 1차 : 서류전형 ㅇ 2차 : 면접심사(서류전형 합격자에 한함) 3. 채용일정 ㅇ 응시원서 접수 : 2026. 11. 10.(화)~11. 17.(화) ㅇ 서류전형 합격자 발표 : 2026. 11. 20.(금) ㅇ 면접심사 예정일 : 2026. 11. 26.(목) ㅇ 최종합격자 발표 : 2026. 12. 3.(목) * 자격 및 근무조건, 원서접수 방…",
@@ -4868,6 +4934,52 @@
     "학예",
     "학예사",
     "큐레이터"
+   ]
+  },
+  {
+   "id": "gojobs:307978",
+   "source": "gojobs",
+   "sourceName": "나라일터",
+   "url": "https://www.gojobs.go.kr/apmView.do?empmnsn=307978",
+   "title": "2027년 문화유산활용팀 기간제근로자 채용 공고",
+   "company": "충청남도 홍성군",
+   "region": "충청남도 홍성군",
+   "experience": "",
+   "education": "",
+   "employmentType": "기간제",
+   "salary": "",
+   "sector": "",
+   "postedAt": "2026-11-09",
+   "startAt": "2026-11-16",
+   "deadline": "2026-11-20",
+   "deadlineText": "",
+   "summary": "채용직급: 기간제근로자 8명\n근무지역: 충청남도 홍성군\n홍성군 문화유산과에서 홍주읍성 및 홍주성역사관, 홍주천년문화체험관, 역사시설 3개소(홍주의사총, 김좌진장군생가지, 한용운선생생가지)의 시설 관리 등을 위한 기간제 근로자를 채용하고자 합니다. 1. 채용분야 - 홍주성역사관 및 홍주읍성(안내데스크 관리 / 시설관리 및 환경정비) - 홍주천년문화체험관 및 홍주읍성(시설관리 및 환경정화 / 한복체험실 관리 / 전통문화체험실 관리) - 역사시설 3개소(홍주의사총, 김좌진장군생가지, 한…",
+   "qualifications": "",
+   "kind": "job",
+   "official": true,
+   "foundBy": "유산",
+   "firstSeen": "2026-11-09",
+   "lastSeen": "2026-11-09",
+   "attachments": [
+    {
+     "name": "2027년 문화유산활용팀 기간제근로자 채용 공고.hwpx",
+     "url": "https://www.gojobs.go.kr/apmView.do?empmnsn=307978"
+    }
+   ],
+   "detailAt": "2026-11-09",
+   "detailOk": true,
+   "score": 20,
+   "tier": "high",
+   "tags": [
+    "education",
+    "institution",
+    "research"
+   ],
+   "matched": [
+    "체험",
+    "전통문화",
+    "역사",
+    "문화유산"
    ]
   },
   {
@@ -6453,6 +6565,51 @@
    ]
   },
   {
+   "id": "gojobs:307977",
+   "source": "gojobs",
+   "sourceName": "나라일터",
+   "url": "https://www.gojobs.go.kr/apmView.do?empmnsn=307977",
+   "title": "(재)인천광역시부평구문화재단 선임직 감사 공개 모집(초빙) 공고",
+   "company": "(재)인천광역시부평구문화재단",
+   "region": "인천광역시 부평구",
+   "experience": "",
+   "education": "",
+   "employmentType": "",
+   "salary": "",
+   "sector": "",
+   "postedAt": "2026-11-09",
+   "startAt": "2026-11-09",
+   "deadline": "2026-11-24",
+   "deadlineText": "",
+   "summary": "채용직급: 선임직 감사 1명\n근무지역: 인천광역시 부평구\n(재)인천광역시부평문화재단 공고 제 2026-159호 (재)인천광역시부평구문화재단 선임직 감사 공개 모집(초빙) 공고 인천광역시 부평구청이 출연한 (재)인천광역시부평구문화재단에서 전문성과 역량 있는 분들을 대상으로 제11기 이사회 선임직 감사를 다음과 같이 모집(초빙)합니다. 2026. 11. 9. (재)인천광역시부평구문화재단 임원추천위원회 위원장[직인생략]",
+   "qualifications": "",
+   "kind": "job",
+   "official": true,
+   "foundBy": "문화재",
+   "firstSeen": "2026-11-09",
+   "lastSeen": "2026-11-09",
+   "attachments": [
+    {
+     "name": "(재)인천광역시부평구문화재단 선임직 감사 공개 모집(초빙) 공고.pdf",
+     "url": "https://www.gojobs.go.kr/apmView.do?empmnsn=307977"
+    },
+    {
+     "name": "선임직 감사 모집_응시원서 양식.hwp",
+     "url": "https://www.gojobs.go.kr/apmView.do?empmnsn=307977"
+    }
+   ],
+   "detailAt": "2026-11-09",
+   "detailOk": true,
+   "score": 16,
+   "tier": "high",
+   "tags": [
+    "institution"
+   ],
+   "matched": [
+    "문화재단"
+   ]
+  },
+  {
    "id": "gojobs:307882",
    "source": "gojobs",
    "sourceName": "나라일터",
@@ -6466,7 +6623,7 @@
    "salary": "",
    "sector": "",
    "postedAt": "2026-11-09",
-   "startAt": "2026-11-16",
+   "startAt": "2026-11-09",
    "deadline": "2026-11-20",
    "deadlineText": "",
    "summary": "채용직급: 기간제근로자 1명\n근무지역: 전국\n<국립대한민국임시정부기념관 공고 제2026-39호> 국립대한민국임시정부기념관 연구교육과 육아휴직 대체 기간제근로자(학예보조: 교육 개발·운영) 채용 계획을 붙임과 같이 공고합니다. 2026. 11. 9. 국립대한민국임시정부기념관장",
@@ -6878,10 +7035,10 @@
    ]
   },
   {
-   "id": "khs:34633",
+   "id": "khs:34634",
    "source": "khs",
    "sourceName": "국가유산청",
-   "url": "https://www.khs.go.kr/multiBbz/selectMultiBbzView.do?id=10035&no=34633&bbzId=newexam&pageIndex=1&pageUnit=10&strWhere=&searchWrd=&sdate=&edate=&mn=NS_01_06",
+   "url": "https://www.khs.go.kr/multiBbz/selectMultiBbzView.do?id=10036&no=34634&bbzId=newexam&pageIndex=1&pageUnit=10&strWhere=&searchWrd=&sdate=&edate=&mn=NS_01_06",
    "title": "2026년 8차 조선왕릉동부지구관리소 공무직 등 근로자 공개경쟁채용 공고",
    "company": "국가유산청",
    "region": "",
@@ -6894,7 +7051,7 @@
    "startAt": "2026-11-09",
    "deadline": "2026-11-10",
    "deadlineText": "",
-   "summary": "궁능유적본부 조선왕릉동부지구관리소에서 근무할 공무직 등 근로자를 다음과 같이 공개경쟁 채용하오니 많은 지원 바랍니다. 1. 채용분야 및 인원 (*세부사항은 공고문 참조) ㅇ 야간안전관리원 1명 (공무직) - 광릉(휘경원) ㅇ 시설물관리원 다급 2명 (공무직) - 광릉(휘경원), 홍유릉 ㅇ 시설물청소원 1명 (공무직) - 동구릉 ㅇ 매수표원 1명(공무직) - 홍유릉 2. 선발방법 ㅇ 1차: 서류심사 ㅇ 2차: 면접시험(서류심사 합격자에 한함) 3. 채용일정 ㅇ 응시원서 접수: 2026. 11. 10.(화) ~ 11. 17.(화) * 등기우편접수 * 세부일정은 기관 사정…",
+   "summary": "궁능유적본부 조선왕릉동부지구관리소에서 근무할 공무직 등 근로자를 다음과 같이 공개경쟁 채용하오니 많은 지원 바랍니다. 1. 채용분야 및 인원 (*세부사항은 공고문 참조) ㅇ 야간안전관리원 1명 (공무직) - 광릉(휘경원) ㅇ 시설물관리원다급 2명 (공무직) - 광릉(휘경원), 홍유릉 ㅇ 시설물청소원 1명 (공무직) - 동구릉 ㅇ 매수표원 1명(공무직) - 홍유릉 2. 선발방법 ㅇ 1차: 서류심사 ㅇ 2차: 면접시험(서류심사 합격자에 한함) 3. 채용일정 ㅇ 응시원서 접수: 2026. 11. 10.(화) ~ 11. 17.(화) * 등기우편접수 * 세부일정은 기관 사정 …",
    "qualifications": "",
    "kind": "job",
    "official": true,
@@ -6922,6 +7079,13 @@
     "국가유산청",
     "궁능유적본부",
     "국가유산"
+   ],
+   "alsoOn": [
+    {
+     "source": "khs",
+     "sourceName": "국가유산청",
+     "url": "https://www.khs.go.kr/multiBbz/selectMultiBbzView.do?id=10035&no=34633&bbzId=newexam&pageIndex=1&pageUnit=10&strWhere=&searchWrd=&sdate=&edate=&mn=NS_01_06"
+    }
    ]
   },
   {
@@ -7021,6 +7185,111 @@
    ],
    "matched": [
     "자연유산"
+   ]
+  },
+  {
+   "id": "saramin:55525235",
+   "source": "saramin",
+   "sourceName": "사람인",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55525235",
+   "title": "신규 거래처 발굴 및 영업 담당자 채용",
+   "company": "에디코",
+   "region": "부산 해운대구",
+   "experience": "경력",
+   "education": "학력무관",
+   "employmentType": "정규직",
+   "salary": "",
+   "sector": "바이어발굴/관리, 영업관리, 거래처관리, 고객관리, 영업직",
+   "postedAt": "2026-11-09",
+   "startAt": "2026-11-09",
+   "deadline": "2026-12-09",
+   "deadlineText": "",
+   "summary": "부산 해운대구 · 정규직 · 경력 · 학력무관",
+   "qualifications": "경력: 경력\n학력: 학력무관",
+   "kind": "job",
+   "official": false,
+   "foundBy": "발굴",
+   "firstSeen": "2026-11-09",
+   "lastSeen": "2026-11-09",
+   "score": 12,
+   "tier": "mid",
+   "tags": [
+    "excavation"
+   ],
+   "matched": [
+    "발굴"
+   ]
+  },
+  {
+   "id": "momo365:28848",
+   "source": "momo365",
+   "sourceName": "모모365",
+   "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28848",
+   "title": "롯데뮤지엄 “사랑을 담아, 미셸 들라크루아 드림” 전시 티켓 스태프/운영 스태프 모집공고",
+   "company": "프레젠스",
+   "region": "서울",
+   "experience": "",
+   "education": "",
+   "employmentType": "일용직∙아르바이트",
+   "salary": "",
+   "sector": "",
+   "postedAt": "2026-11-09",
+   "startAt": "2026-11-09",
+   "deadline": "2026-11-15",
+   "deadlineText": "",
+   "summary": "프레젠스(Presence)는 예술 작품과 프로젝트 그리고 브랜드 철학에 있는 소중한 가치를 연구하고 조명하는 커뮤니케이션 컨설팅 회사입니다. 롯데뮤지엄에서 개최하는 《사랑을 담아, 미셸 들라크루아 드림》 티켓 스태프와 운영 스태프를 모집합니다. 본 전시에 관심을 갖고 가치를 전하는 일에 함께 하실 분들의 많은 관심과 지원 바랍니다. 《사랑을 담아, 미셸 들라크루아 드림》 전시 개요 ▷기간 : 2026.12.04(금) - 2027.03.07(일) ▷장소 : 롯데뮤지엄(서울특별시 송파구 올림픽로 300, 롯데월드타워 7층) ▷전시 내용 롯데뮤지엄은 2026년 한불수교 1…",
+   "qualifications": "1. 모집부문 및 자격요건\n▷모집부문\n1) 티켓 스태프\n□담당업무\n- 티켓 발권 및 예매 시스템 운영",
+   "kind": "job",
+   "official": false,
+   "firstSeen": "2026-11-09",
+   "lastSeen": "2026-11-09",
+   "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=95627",
+   "attachments": [],
+   "detailAt": "2026-11-09",
+   "detailOk": true,
+   "score": 12,
+   "tier": "mid",
+   "tags": [
+    "curation"
+   ],
+   "matched": [
+    "전시"
+   ]
+  },
+  {
+   "id": "momo365:28830",
+   "source": "momo365",
+   "sourceName": "모모365",
+   "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28830",
+   "title": "PKM 갤러리 l 정영도 개인전 주말 전시관리요원 모집",
+   "company": "(주)피케이엠갤러리",
+   "region": "서울",
+   "experience": "",
+   "education": "",
+   "employmentType": "일용직∙아르바이트",
+   "salary": "",
+   "sector": "",
+   "postedAt": "2026-11-05",
+   "startAt": "2026-11-05",
+   "deadline": "2026-11-13",
+   "deadlineText": "",
+   "summary": "2026년 11월 13일부터 12월 30일까지 PKM 갤러리에서 진행되는 정영도 개인전의 주말 전시관리요원을 모집합니다. ● 모집분야 및 인원 - PKM 갤러리 정영도 개인전 전시관리요원 2명 ● 업무내용 - 관람객 응대 - 전시장 관리 - 작품 안전 관리 외 ● 근무조건 - 근무기간: 2026년 11월 15일 (일) ~ 12월 27일 (일) - 근무요일 및 시간: 근무기간 내 매주 일요일 (총 7일) 10:00~18:00 *휴게시간 1시간 제외 일일 7시간 근무 - 근무지: PKM 갤러리 (서울 종로구 삼청로7길 40) - 급여: 시급 12,000원 - 형태: 단기…",
+   "qualifications": "● 자격요건\n- 미술 문화에 관심 있는 분\n- 서비스 마인드를 갖춘 분\n- 전시 종료일까지 결근 없이 근무 가능한 분\n- 기본적인 영어 회화 가능한 분\n- 관련 업무 경력자 우대\n● 지원방법\n- 접수기간: 2026년 10월 30일 (금) ~ 채용 시 마감",
+   "kind": "job",
+   "official": false,
+   "firstSeen": "2026-11-09",
+   "lastSeen": "2026-11-09",
+   "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=95605",
+   "attachments": [],
+   "detailAt": "2026-11-09",
+   "detailOk": true,
+   "score": 12,
+   "tier": "mid",
+   "tags": [
+    "curation"
+   ],
+   "matched": [
+    "전시"
    ]
   },
   {
@@ -8610,22 +8879,22 @@
    "title": "연구원 사무행정직 직원채용",
    "company": "재단법인 영해문화유산연구원",
    "region": "전남광주 북구",
-   "experience": "학력",
+   "experience": "경력",
    "education": "초대졸이상",
    "employmentType": "계약직",
-   "salary": "월급 250 ~250 만원",
+   "salary": "월급 ~250만원",
    "sector": "월급 ~250만원",
    "postedAt": "2026-09-21",
    "startAt": "2026-09-21",
    "deadline": "2026-11-20",
    "deadlineText": "",
-   "summary": "고용형태: 계약직\n급여: 월급 250 ~250 만원\n근무지: 전남광주 북구",
-   "qualifications": "경력: 학력\n학력: 초대졸이상",
+   "summary": "전남광주 북구 · 경력 · 월급 ~250만원 · 월급 ~250만원",
+   "qualifications": "경력: 경력",
    "kind": "job",
    "official": false,
    "foundBy": "문화유산",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-04",
+   "lastSeen": "2026-11-09",
    "detailAt": "2026-11-04",
    "detailOk": true,
    "score": 10,
@@ -8942,6 +9211,80 @@
    ]
   },
   {
+   "id": "jobkorea:5725572",
+   "source": "jobkorea",
+   "sourceName": "잡코리아",
+   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/5725572/Ext?siteCode=WN",
+   "title": "2026년 세종대왕유적관리소 공무직근로자(시설물청...",
+   "company": "국가유산청 궁능유적본부 세종대왕유적관리소",
+   "region": "경기 여주시",
+   "experience": "학력",
+   "education": "학력무관",
+   "employmentType": "계약직",
+   "salary": "월급 225 만원",
+   "sector": "월급 220만원~",
+   "postedAt": "2026-11-09",
+   "startAt": "2026-11-09",
+   "deadline": "2026-11-17",
+   "deadlineText": "",
+   "summary": "고용형태: 계약직\n급여: 월급 225 만원\n근무지: 경기 여주시",
+   "qualifications": "경력: 학력\n학력: 학력무관",
+   "kind": "job",
+   "official": false,
+   "foundBy": "국가유산",
+   "firstSeen": "2026-11-09",
+   "lastSeen": "2026-11-09",
+   "detailAt": "2026-11-09",
+   "detailOk": true,
+   "score": 8,
+   "tier": "mid",
+   "tags": [
+    "institution"
+   ],
+   "matched": [
+    "국가유산청",
+    "궁능유적본부",
+    "국가유산"
+   ]
+  },
+  {
+   "id": "jobkorea:5725573",
+   "source": "jobkorea",
+   "sourceName": "잡코리아",
+   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/5725573/Ext?siteCode=WN",
+   "title": "2026년 세종대왕유적관리소 공무직근로자(안전관리...",
+   "company": "국가유산청 궁능유적본부 세종대왕유적관리소",
+   "region": "경기 여주시",
+   "experience": "학력",
+   "education": "학력무관",
+   "employmentType": "계약직",
+   "salary": "월급 229 만원",
+   "sector": "월급 220만원~",
+   "postedAt": "2026-11-09",
+   "startAt": "2026-11-09",
+   "deadline": "2026-11-17",
+   "deadlineText": "",
+   "summary": "고용형태: 계약직\n급여: 월급 229 만원\n근무지: 경기 여주시",
+   "qualifications": "경력: 학력\n학력: 학력무관",
+   "kind": "job",
+   "official": false,
+   "foundBy": "국가유산",
+   "firstSeen": "2026-11-09",
+   "lastSeen": "2026-11-09",
+   "detailAt": "2026-11-09",
+   "detailOk": true,
+   "score": 8,
+   "tier": "mid",
+   "tags": [
+    "institution"
+   ],
+   "matched": [
+    "국가유산청",
+    "궁능유적본부",
+    "국가유산"
+   ]
+  },
+  {
    "id": "saramin:55454299",
    "source": "saramin",
    "sourceName": "사람인",
@@ -8990,8 +9333,8 @@
    "employmentType": "정규직",
    "salary": "",
    "sector": "문화재, 연구원, 미술관, 박물관, 공연예술",
-   "postedAt": "2026-10-30",
-   "startAt": "2026-10-30",
+   "postedAt": "2026-11-09",
+   "startAt": "2026-11-09",
    "deadline": "2026-11-30",
    "deadlineText": "",
    "summary": "서울전체 · 정규직 · 신입·경력 · 학력무관",
@@ -9154,6 +9497,38 @@
    "matched": [
     "해설",
     "역사"
+   ]
+  },
+  {
+   "id": "momo365:28851",
+   "source": "momo365",
+   "sourceName": "모모365",
+   "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28851",
+   "title": "금호아트홀 연세 2026년 공연장 안내원 (하우스어텐던트) 모집공고",
+   "company": "(재)금호문화재단",
+   "region": "서울",
+   "experience": "",
+   "education": "",
+   "employmentType": "일용직∙아르바이트",
+   "salary": "",
+   "sector": "",
+   "postedAt": "2026-11-09",
+   "startAt": "2026-11-09",
+   "deadline": "2026-11-17",
+   "deadlineText": "",
+   "summary": "(재)금호문화재단 · 서울 · 일용직∙아르바이트",
+   "qualifications": "",
+   "kind": "job",
+   "official": false,
+   "firstSeen": "2026-11-09",
+   "lastSeen": "2026-11-09",
+   "score": 6,
+   "tier": "low",
+   "tags": [
+    "institution"
+   ],
+   "matched": [
+    "문화재단"
    ]
   },
   {
@@ -9829,13 +10204,6 @@
    ],
    "matched": [
     "문화재단"
-   ],
-   "alsoOn": [
-    {
-     "source": "momo365",
-     "sourceName": "모모365",
-     "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28561"
-    }
    ]
   },
   {
@@ -11253,6 +11621,51 @@
      "sourceName": "국가유산청",
      "url": "https://www.khs.go.kr/multiBbz/selectMultiBbzView.do?id=10000&no=34598&bbzId=newexam&pageIndex=3&pageUnit=10&strWhere=&searchWrd=&sdate=&edate=&mn=NS_01_06"
     }
+   ]
+  },
+  {
+   "id": "gojobs:307902",
+   "source": "gojobs",
+   "sourceName": "나라일터",
+   "url": "https://www.gojobs.go.kr/apmView.do?empmnsn=307902",
+   "title": "재단법인 이천문화재단 임원(대표이사, 비상임이사·감사) 공개모집 공고",
+   "company": "재단법인이천문화재단",
+   "region": "경기도 이천시",
+   "experience": "",
+   "education": "",
+   "employmentType": "",
+   "salary": "",
+   "sector": "",
+   "postedAt": "2026-11-09",
+   "startAt": "2026-11-09",
+   "deadline": "2026-11-24",
+   "deadlineText": "",
+   "summary": "채용직급: 대표이사 1명 비상임 이사 14명 비상임 감사 1명\n근무지역: 경기도 이천시\n이천문화재단 임원추천위원회 공고 제2026-4호 재단법인 이천문화재단 임원(대표이사, 비상임 이사·감사) 공개모집 공고 이천시의 문화예술 진흥과 이천시민의 문화복지 향상을 위해 설립·운영 하고 있는 이천문화재단의 임원을 다음과 같이 공모하오니, 전문성과 역량을 지닌 분들의 많은 응모 바랍니다. 2026년 11월 9일 (재)이천문화재단 임원추천위원회위원장",
+   "qualifications": "",
+   "kind": "job",
+   "official": true,
+   "foundBy": "문화재",
+   "firstSeen": "2026-11-09",
+   "lastSeen": "2026-11-09",
+   "attachments": [
+    {
+     "name": "재단법인 이천문화재단 임원 공개모집 공고.pdf",
+     "url": "https://www.gojobs.go.kr/apmView.do?empmnsn=307902"
+    },
+    {
+     "name": "(제출서식)지원서 및 제출서식 일체.hwpx",
+     "url": "https://www.gojobs.go.kr/apmView.do?empmnsn=307902"
+    }
+   ],
+   "detailAt": "2026-11-09",
+   "detailOk": true,
+   "score": 0,
+   "tier": "low",
+   "tags": [
+    "institution"
+   ],
+   "matched": [
+    "문화재단"
    ]
   },
   {
