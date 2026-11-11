@@ -1,56 +1,56 @@
 {
- "updatedAt": "2026-11-10T17:13:45.131Z",
+ "updatedAt": "2026-11-11T02:10:01.669Z",
  "today": "2026-11-11",
- "count": 307,
- "newToday": 0,
+ "count": 313,
+ "newToday": 6,
  "sources": {
   "saramin": {
    "name": "사람인",
    "ok": true,
-   "count": 438,
-   "ms": 31972
+   "count": 440,
+   "ms": 62751
   },
   "jobkorea": {
    "name": "잡코리아",
    "ok": true,
    "count": 196,
-   "ms": 19082
+   "ms": 21781
   },
   "khs": {
    "name": "국가유산청",
    "ok": true,
    "count": 30,
-   "ms": 9503
+   "ms": 11901
   },
   "nrich": {
    "name": "국립문화유산연구원",
    "ok": true,
    "count": 20,
-   "ms": 6283
+   "ms": 7588
   },
   "kha": {
    "name": "국가유산진흥원",
    "ok": true,
    "count": 20,
-   "ms": 3975
+   "ms": 5825
   },
   "alio": {
    "name": "잡알리오",
    "ok": true,
    "count": 5,
-   "ms": 9483
+   "ms": 11090
   },
   "gojobs": {
    "name": "나라일터",
    "ok": true,
    "count": 48,
-   "ms": 18964
+   "ms": 22756
   },
   "momo365": {
    "name": "모모365",
    "ok": true,
    "count": 100,
-   "ms": 2614
+   "ms": 2936
   }
  },
  "categories": [
@@ -192,7 +192,7 @@
    "salary": "",
    "sector": "",
    "postedAt": "2026-11-02",
-   "startAt": "2026-11-04",
+   "startAt": "2026-11-02",
    "deadline": "2026-11-10",
    "deadlineText": "",
    "summary": "국립문화유산연구원 공고 제2026-99호 국립문화유산연구원 건축문화유산연구실에서 근무할 기간제 근로자(육아휴직 대체, 연구원 라급)를 채용하고자 하오니 유능한 인재의 많은 응시바랍니다. 2026년 11월 2일 국립문화유산연구원장 1. 채용예정 분야 및 인원 ㅇ 채용분야 : 기간제 근로자(육아휴직 대체, 연구원 라급 1명) ㅇ﻿채용인원: 총 1명 ※ 근무예정지 : 국립문화유산연구원 건축문화유산연구실(대전광역시 소재) 2. 채용일정 ㅇ 채용공고 : 2026. 11. 2.(월) ~ 2026. 11. 10.(화) ㅇ 원서접수 : 2026. 11. 4.(수) 09:00 ~ 2…",
@@ -283,6 +283,57 @@
     "국가유산청",
     "문화유산",
     "국가유산"
+   ]
+  },
+  {
+   "id": "gojobs:308145",
+   "source": "gojobs",
+   "sourceName": "나라일터",
+   "url": "https://www.gojobs.go.kr/apmView.do?empmnsn=308145",
+   "title": "2026년 국립경주박물관 공무직(소장품 관리/보존처리) 근로자 채용",
+   "company": "문화체육관광부 국립중앙박물관 경주박물관",
+   "region": "경상북도 경주시",
+   "experience": "",
+   "education": "",
+   "employmentType": "공무직",
+   "salary": "",
+   "sector": "",
+   "postedAt": "2026-11-11",
+   "startAt": "2026-11-17",
+   "deadline": "2026-11-20",
+   "deadlineText": "",
+   "summary": "채용직급: 공무직 2명\n근무지역: 경상북도 경주시\n국립경주박물관 학예연구과에서 공무직(소장품 관리/보존처리) 근로자를 다음과 같이 공개모집하오니 관심 있는 분들의 많은 응시를 바랍니다. ○ 채용분야 : 공무직(소장품관리/ 보존처리) 근로자 ○ 채용인원 : 분야별 각 1명 ○ 공고기간 : 2026. 11. 11. (수) ~11. 20. (금) ○ 접수기간 : 2026. 11. 17. (화) ~ 11. 20. (금) ○ 접수방법 :방문접수(마감일 18:00까지 접수), 등기우편,…",
+   "qualifications": "",
+   "kind": "job",
+   "official": true,
+   "foundBy": "박물관",
+   "firstSeen": "2026-11-11",
+   "lastSeen": "2026-11-11",
+   "attachments": [
+    {
+     "name": "국립경주박물관 공무직(소장품 관리, 보존처리) 채용 응시원서 및 제출서식.hwpx",
+     "url": "https://www.gojobs.go.kr/apmView.do?empmnsn=308145"
+    },
+    {
+     "name": "국립경주박물관 공무직(소장품관리 및 보존처리) 채용 공고문.hwpx",
+     "url": "https://www.gojobs.go.kr/apmView.do?empmnsn=308145"
+    }
+   ],
+   "detailAt": "2026-11-11",
+   "detailOk": true,
+   "score": 58,
+   "tier": "high",
+   "tags": [
+    "curation",
+    "conservation"
+   ],
+   "matched": [
+    "박물관",
+    "소장품",
+    "학예",
+    "학예연구",
+    "보존처리",
+    "보존"
    ]
   },
   {
@@ -838,7 +889,7 @@
    "salary": "",
    "sector": "",
    "postedAt": "2026-11-04",
-   "startAt": "2026-11-05",
+   "startAt": "2026-11-04",
    "deadline": "2026-11-13",
    "deadlineText": "",
    "summary": "국립가야문화유산연구소 공고 제2026-30호 국립가야문화유산연구소에서 기간제근로자(함안 가야리) 채용 계획을 다음과 같이 공고하오니 참신하고 유능한 인재의 많은 응모 바랍니다. 2026년 11월 4일 국립가야문화유산연구소장 1. 채용분야 ㅇ 채용예정분야 및 인원 - 기간제 근로자 (특별연구원 나급) 1명 - 기간제 근로자 (연구원/고고) 1명 - 기간제 근로자 (연구원/교육·활용) 1명 ㅇ 근무예정지: 함안 가야리 유적 발굴조사 현장(경남 함안군) 2. 채용일정 및 선발방법 ㅇ 응시원서 접수: 2026. 11. 5.(목) ~ 11. 13.(금) ㅇ 서류전형 합격자 발…",
@@ -1275,7 +1326,7 @@
    "salary": "",
    "sector": "",
    "postedAt": "2026-10-29",
-   "startAt": "2026-11-10",
+   "startAt": "2026-10-29",
    "deadline": "2026-11-13",
    "deadlineText": "",
    "summary": "채용직급: 지방시간선택제임기제 라급 3명 지방시간선택제임기제 마급 1명 한시임기제 9호 1명\n근무지역: 충청남도 예산군\n○ 모집분야 : 보건관리자, 환경오염 지도단속, 학예연구사, 치매안심센터 운영 인력, 한시임기제(9호) ○ 선발직급 : 시간임기제 라급(3명), 시간임기제 마급(1명), 한시임기제 9호(1명) ○ 고용형태 : 시간선택제 임기제 ○ 자격요건 : 공고문 및 예산군청 홈페이지 채용 공고 참조 ○ 접수기간 : 2026. 11. 10.(화) ~ 2026. 11. 13.(금) ○ 접수처 : 예산군청 5층 자치행정과 행정팀(충청남도 예산군…",
@@ -1541,7 +1592,7 @@
    "salary": "",
    "sector": "",
    "postedAt": "2026-11-05",
-   "startAt": "2026-11-10",
+   "startAt": "2026-11-05",
    "deadline": "2026-11-16",
    "deadlineText": "",
    "summary": "채용직급: 공무직근로자 1명\n근무지역: 충청남도 공주시\n○ 모집분야 : 소장품 관리 보조(소장품 등록 및 관리 보조, 수장고 운영 및 관리 업무 보조, 기타 학예업무 보조) ○ 선발직급 : 공무직근로자 1명 ○ 고용형태 : 채용예정일로부터 기간의 정함이 없는 계약 ○ 자격요건 : 자격증, 경력, 자격증 + 경력, 학위 등 ○ 접수기간 : 2026. 11. 10.(화) ~ 11. 16.(월) ○ 응시방법 : 전자우편 접수(philjae0420@korea.kr)/등기우편 접수 ○ 문의…",
@@ -3111,17 +3162,17 @@
    "title": "국가유산수리 기술자_기술종별:보수_ 채용공고_자격...",
    "company": "성림종합건설주식회사",
    "region": "경기 안양시",
-   "experience": "학력",
+   "experience": "경력",
    "education": "학력무관",
    "employmentType": "정규직",
-   "salary": "연봉 7000 ~7500 만원",
+   "salary": "연봉 7,000~7,500만원",
    "sector": "연봉 7,000~7,500만원",
    "postedAt": "2026-11-05",
    "startAt": "2026-11-05",
    "deadline": "2027-01-04",
    "deadlineText": "",
-   "summary": "고용형태: 정규직\n급여: 연봉 7000 ~7500 만원\n근무지: 경기 안양시 만안구",
-   "qualifications": "경력: 학력\n학력: 학력무관",
+   "summary": "경기 안양시 · 경력 · 연봉 7,000~7,500만원 · 연봉 7,000~7,500만원",
+   "qualifications": "경력: 경력",
    "kind": "job",
    "official": false,
    "foundBy": "국가유산",
@@ -4438,6 +4489,47 @@
     "미술관",
     "도슨트",
     "해설"
+   ]
+  },
+  {
+   "id": "gojobs:308162",
+   "source": "gojobs",
+   "sourceName": "나라일터",
+   "url": "https://www.gojobs.go.kr/apmView.do?empmnsn=308162",
+   "title": "2026년 국립전주박물관 기획운영과 공무직(시설물관리원 팀장) 채용 공고",
+   "company": "문화체육관광부 국립중앙박물관 전주박물관",
+   "region": "전북특별자치도 전주시 완산구",
+   "experience": "",
+   "education": "",
+   "employmentType": "공무직",
+   "salary": "",
+   "sector": "",
+   "postedAt": "2026-11-11",
+   "startAt": "2026-11-17",
+   "deadline": "2026-11-23",
+   "deadlineText": "",
+   "summary": "채용직급: 공무직 1명\n근무지역: 전북특별자치도 전주시 완산구\n국립전주박물관에서 아래와 같이 공무직을 채용하고자 하니 성실하고 역량있는 인재들의 많은 응시 바랍니다.",
+   "qualifications": "",
+   "kind": "job",
+   "official": true,
+   "foundBy": "박물관",
+   "firstSeen": "2026-11-11",
+   "lastSeen": "2026-11-11",
+   "attachments": [
+    {
+     "name": "2026년 국립전주박물관 기획운영과 공무직(시설물관리원) 채용 공고.hwpx",
+     "url": "https://www.gojobs.go.kr/apmView.do?empmnsn=308162"
+    }
+   ],
+   "detailAt": "2026-11-11",
+   "detailOk": true,
+   "score": 22,
+   "tier": "high",
+   "tags": [
+    "curation"
+   ],
+   "matched": [
+    "박물관"
    ]
   },
   {
@@ -6831,42 +6923,6 @@
    ]
   },
   {
-   "id": "jobkorea:50308570",
-   "source": "jobkorea",
-   "sourceName": "잡코리아",
-   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50308570",
-   "title": "[PKM갤러리] 전시팀장 모집 공고",
-   "company": "피케이엠갤러리",
-   "region": "서울 종로구",
-   "experience": "(3년이상)",
-   "education": "대졸이상",
-   "employmentType": "정규직",
-   "salary": "회사 내규에 따름 (면접 후 결정)",
-   "sector": "문화·공연·예술, 경영·비즈니스기획, 큐레이터",
-   "postedAt": "2026-11-05",
-   "startAt": "2026-11-05",
-   "deadline": "2026-12-05",
-   "deadlineText": "",
-   "summary": "모집분야: 전시팀\n고용형태: 정규직\n급여: 회사 내규에 따름 (면접 후 결정)\n근무지: 서울 종로구 삼청로7길 40 (삼청동, 피케이엠 갤러리)\n근무시간: 주5일(화~토)",
-   "qualifications": "경력: (3년이상)\n학력: 대졸이상",
-   "kind": "job",
-   "official": false,
-   "foundBy": "학예",
-   "firstSeen": "2026-11-05",
-   "lastSeen": "2026-11-11",
-   "detailAt": "2026-11-11",
-   "detailOk": true,
-   "score": 15,
-   "tier": "high",
-   "tags": [
-    "curation"
-   ],
-   "matched": [
-    "전시",
-    "큐레이터"
-   ]
-  },
-  {
    "id": "saramin:55472986",
    "source": "saramin",
    "sourceName": "사람인",
@@ -7531,6 +7587,42 @@
    "tags": [],
    "matched": [
     "문화유산"
+   ]
+  },
+  {
+   "id": "jobkorea:50308570",
+   "source": "jobkorea",
+   "sourceName": "잡코리아",
+   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50308570",
+   "title": "[PKM갤러리] 전시팀장 모집 공고",
+   "company": "피케이엠갤러리",
+   "region": "서울 종로구",
+   "experience": "경력3년↑",
+   "education": "대졸이상",
+   "employmentType": "정규직",
+   "salary": "회사 내규에 따름 (면접 후 결정)",
+   "sector": "문화·공연·예술, 경영·비즈니스기획, 큐레이터",
+   "postedAt": "2026-11-05",
+   "startAt": "2026-11-05",
+   "deadline": "2026-12-05",
+   "deadlineText": "",
+   "summary": "서울 종로구 · 경력3년↑ · 문화·공연·예술, 경영·비즈니스기획, 큐레이터",
+   "qualifications": "경력: 경력3년↑",
+   "kind": "job",
+   "official": false,
+   "foundBy": "학예",
+   "firstSeen": "2026-11-05",
+   "lastSeen": "2026-11-11",
+   "detailAt": "2026-11-11",
+   "detailOk": true,
+   "score": 12,
+   "tier": "mid",
+   "tags": [
+    "curation"
+   ],
+   "matched": [
+    "전시",
+    "큐레이터"
    ]
   },
   {
@@ -9063,6 +9155,105 @@
    "matched": [
     "문화유산연구원",
     "문화유산"
+   ]
+  },
+  {
+   "id": "saramin:55542878",
+   "source": "saramin",
+   "sourceName": "사람인",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55542878",
+   "title": "기획팀 신입 채용 / 행사 전시 컨벤션 기획 및 운영",
+   "company": "주식회사 네이처앤드피플",
+   "region": "강원 춘천시",
+   "experience": "신입",
+   "education": "초대졸↑",
+   "employmentType": "정규직",
+   "salary": "",
+   "sector": "기획, 행사기획, 이벤트대행",
+   "postedAt": "2026-11-11",
+   "startAt": "2026-11-11",
+   "deadline": "2026-11-30",
+   "deadlineText": "",
+   "summary": "강원 춘천시 · 정규직 · 신입 · 초대졸↑",
+   "qualifications": "경력: 신입\n학력: 초대졸↑",
+   "kind": "job",
+   "official": false,
+   "foundBy": "발굴",
+   "firstSeen": "2026-11-11",
+   "lastSeen": "2026-11-11",
+   "score": 9,
+   "tier": "mid",
+   "tags": [
+    "curation"
+   ],
+   "matched": [
+    "전시"
+   ]
+  },
+  {
+   "id": "saramin:55541871",
+   "source": "saramin",
+   "sourceName": "사람인",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55541871",
+   "title": "[The SC 케이전시사업부] 총괄 담당자 경력직 채용",
+   "company": "(주)더에쓰씨",
+   "region": "서울 강남구",
+   "experience": "경력5년↑",
+   "education": "초대졸↑",
+   "employmentType": "정규직",
+   "salary": "",
+   "sector": "병원마케팅, 바이럴마케팅, 퍼포먼스마케팅, 마케팅기획, 광고대행사",
+   "postedAt": "2026-11-11",
+   "startAt": "2026-11-11",
+   "deadline": "2027-01-10",
+   "deadlineText": "",
+   "summary": "서울 강남구 · 정규직 · 경력5년↑ · 초대졸↑",
+   "qualifications": "경력: 경력5년↑\n학력: 초대졸↑",
+   "kind": "job",
+   "official": false,
+   "foundBy": "발굴",
+   "firstSeen": "2026-11-11",
+   "lastSeen": "2026-11-11",
+   "score": 9,
+   "tier": "mid",
+   "tags": [
+    "curation"
+   ],
+   "matched": [
+    "전시"
+   ]
+  },
+  {
+   "id": "saramin:55541449",
+   "source": "saramin",
+   "sourceName": "사람인",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55541449",
+   "title": "넥스트브랜딩에서 마케팅 에이전시 영업 AE를 찾고 있어요",
+   "company": "넥스트브랜딩",
+   "region": "인천 부평구",
+   "experience": "경력 1~5년",
+   "education": "학력무관",
+   "employmentType": "정규직",
+   "salary": "",
+   "sector": "영업관리, 영업, 영업전략, 영업기획, 영업MD",
+   "postedAt": "2026-11-11",
+   "startAt": "2026-11-11",
+   "deadline": "2026-12-11",
+   "deadlineText": "",
+   "summary": "인천 부평구 · 정규직 · 경력 1~5년 · 학력무관",
+   "qualifications": "경력: 경력 1~5년\n학력: 학력무관",
+   "kind": "job",
+   "official": false,
+   "foundBy": "발굴",
+   "firstSeen": "2026-11-11",
+   "lastSeen": "2026-11-11",
+   "score": 9,
+   "tier": "mid",
+   "tags": [
+    "curation"
+   ],
+   "matched": [
+    "전시"
    ]
   },
   {
@@ -11525,7 +11716,7 @@
    "salary": "",
    "sector": "",
    "postedAt": "2026-11-05",
-   "startAt": "2026-11-06",
+   "startAt": "2026-11-05",
    "deadline": "2026-11-12",
    "deadlineText": "",
    "summary": "채용직급: 공무직 근로자 1명\n근무지역: 서울특별시 종로구\n대한민국역사박물관 기획운영과에서 다음과 같이 공무직 근로자를 공개모집하오니, 많은 지원바랍니다. 2026년 11월 5일 대한민국역사박물관장 ○ 모집분야 :미화원(1명) ○ 선발직급 : 공무직 근로자 ○ 접수기간 : 2026년11월06일 ~ 2026년11월12일 ○ 응시방법 : 우편저수 및 이메일(kbs0114@korea.kr), 방문접수 ○ 문의처 : 02-3703-9232",
@@ -11808,6 +11999,39 @@
    ]
   },
   {
+   "id": "gojobs:308166",
+   "source": "gojobs",
+   "sourceName": "나라일터",
+   "url": "https://www.gojobs.go.kr/apmView.do?empmnsn=308166",
+   "title": "(최종합격자)2026년 국립나주박물관 공무직 근로자(시설물(건물)청소원) 최종합격자 공고",
+   "company": "문화체육관광부 국립중앙박물관 나주박물관",
+   "region": "",
+   "experience": "",
+   "education": "",
+   "employmentType": "공무직",
+   "salary": "",
+   "sector": "",
+   "postedAt": "2026-11-11",
+   "startAt": "2026-11-11",
+   "deadline": "2026-11-11",
+   "deadlineText": "",
+   "summary": "",
+   "qualifications": "",
+   "kind": "result",
+   "official": true,
+   "foundBy": "박물관",
+   "firstSeen": "2026-11-11",
+   "lastSeen": "2026-11-11",
+   "score": 0,
+   "tier": "low",
+   "tags": [
+    "curation"
+   ],
+   "matched": [
+    "박물관"
+   ]
+  },
+  {
    "id": "gojobs:307902",
    "source": "gojobs",
    "sourceName": "나라일터",
@@ -11859,7 +12083,7 @@
    "url": "https://job.alio.go.kr/recruitview.do?idx=306528",
    "title": "[덕유산] 덕유산국립공원 가을철 한시인력(산불감시원) 채용 공고",
    "company": "국립공원공단",
-   "region": "경남,전북",
+   "region": "경남 외 1",
    "experience": "",
    "education": "학력무관",
    "employmentType": "비정규직",
@@ -11869,7 +12093,7 @@
    "startAt": "2026-10-30",
    "deadline": "2026-11-04",
    "deadlineText": "",
-   "summary": "채용구분: 신입+경력\n고용형태: 비정규직\n채용인원: 4명\n근무지: 경남,전북\n근무분야: 계약직\n학력: 학력무관",
+   "summary": "국립공원공단 · 경남 외 1 · 비정규직 · 마감",
    "qualifications": "우대: 취업지원대상자, 장애인, 자립준비청년",
    "kind": "job",
    "official": true,
