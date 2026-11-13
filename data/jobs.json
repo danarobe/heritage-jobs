@@ -1,56 +1,56 @@
 {
- "updatedAt": "2026-11-13T02:52:18.046Z",
+ "updatedAt": "2026-11-13T11:21:55.160Z",
  "today": "2026-11-13",
- "count": 319,
- "newToday": 6,
+ "count": 323,
+ "newToday": 10,
  "sources": {
   "saramin": {
    "name": "사람인",
    "ok": true,
-   "count": 441,
-   "ms": 38753
+   "count": 421,
+   "ms": 33233
   },
   "jobkorea": {
    "name": "잡코리아",
    "ok": true,
-   "count": 200,
-   "ms": 21987
+   "count": 201,
+   "ms": 19761
   },
   "khs": {
    "name": "국가유산청",
    "ok": true,
    "count": 30,
-   "ms": 9881
+   "ms": 11045
   },
   "nrich": {
    "name": "국립문화유산연구원",
    "ok": true,
    "count": 20,
-   "ms": 5689
+   "ms": 6778
   },
   "kha": {
    "name": "국가유산진흥원",
    "ok": true,
    "count": 20,
-   "ms": 4241
+   "ms": 5366
   },
   "alio": {
    "name": "잡알리오",
    "ok": true,
    "count": 5,
-   "ms": 9409
+   "ms": 10459
   },
   "gojobs": {
    "name": "나라일터",
    "ok": true,
    "count": 49,
-   "ms": 20224
+   "ms": 21691
   },
   "momo365": {
    "name": "모모365",
    "ok": true,
    "count": 100,
-   "ms": 2587
+   "ms": 2817
   }
  },
  "categories": [
@@ -7688,6 +7688,92 @@
    ]
   },
   {
+   "id": "momo365:28899",
+   "source": "momo365",
+   "sourceName": "모모365",
+   "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28899",
+   "title": "[(재)동대문문화재단] 제3차 직원 채용",
+   "company": "전국지역문화재단연합회",
+   "region": "서울",
+   "experience": "",
+   "education": "",
+   "employmentType": "정규직",
+   "salary": "",
+   "sector": "",
+   "postedAt": "2026-11-12",
+   "startAt": "2026-11-12",
+   "deadline": "2026-12-03",
+   "deadlineText": "",
+   "summary": "전국지역문화재단연합회 · 서울 · 정규직",
+   "qualifications": "",
+   "kind": "job",
+   "official": false,
+   "firstSeen": "2026-11-13",
+   "lastSeen": "2026-11-13",
+   "applyUrl": "http://www.ancf.or.kr/p/6af51d55c40655cda12c4f50",
+   "attachments": [
+    {
+     "name": "붙임. 2026년 제3차 동대문문화재단 직원 채용 공고.pdf",
+     "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28899"
+    }
+   ],
+   "detailAt": "2026-11-13",
+   "detailOk": true,
+   "score": 12,
+   "tier": "mid",
+   "tags": [
+    "institution"
+   ],
+   "matched": [
+    "문화재단"
+   ]
+  },
+  {
+   "id": "momo365:28903",
+   "source": "momo365",
+   "sourceName": "모모365",
+   "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28903",
+   "title": "[(재)고흥문화재단] 신규직원 채용 공고",
+   "company": "(재)고흥문화재단",
+   "region": "전남광주",
+   "experience": "",
+   "education": "",
+   "employmentType": "정규직,임기∙계약직",
+   "salary": "",
+   "sector": "",
+   "postedAt": "2026-11-12",
+   "startAt": "2026-11-12",
+   "deadline": "2026-11-30",
+   "deadlineText": "",
+   "summary": "(재)고흥문화재단 · 전남광주 · 정규직,임기∙계약직",
+   "qualifications": "",
+   "kind": "job",
+   "official": false,
+   "firstSeen": "2026-11-13",
+   "lastSeen": "2026-11-13",
+   "applyUrl": "http://www.ancf.or.kr/p/6af50f3bc40655cda12c4d70",
+   "attachments": [
+    {
+     "name": "지원 서식.hwpx",
+     "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28903"
+    },
+    {
+     "name": "2027년도 고흥문화재단 신규직원 채용 공고문.pdf",
+     "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28903"
+    }
+   ],
+   "detailAt": "2026-11-13",
+   "detailOk": true,
+   "score": 12,
+   "tier": "mid",
+   "tags": [
+    "institution"
+   ],
+   "matched": [
+    "문화재단"
+   ]
+  },
+  {
    "id": "momo365:28886",
    "source": "momo365",
    "sourceName": "모모365",
@@ -9430,6 +9516,39 @@
    ]
   },
   {
+   "id": "saramin:55570311",
+   "source": "saramin",
+   "sourceName": "사람인",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55570311",
+   "title": "영업담당 병원 입점 및 B2B제조사 발굴 영업모집",
+   "company": "트리트리 TREE(3)",
+   "region": "서울 동대문구",
+   "experience": "경력 3~10년",
+   "education": "학력무관",
+   "employmentType": "프리랜서",
+   "salary": "220 만원",
+   "sector": "영업관리, 거래처관리, 영업, 영업전략, 영업기획",
+   "postedAt": "2026-11-13",
+   "startAt": "2026-11-13",
+   "deadline": "2026-12-13",
+   "deadlineText": "",
+   "summary": "서울 동대문구 · 프리랜서 · 경력 3~10년 · 학력무관 · 220 만원",
+   "qualifications": "경력: 경력 3~10년\n학력: 학력무관",
+   "kind": "job",
+   "official": false,
+   "foundBy": "발굴",
+   "firstSeen": "2026-11-13",
+   "lastSeen": "2026-11-13",
+   "score": 9,
+   "tier": "mid",
+   "tags": [
+    "excavation"
+   ],
+   "matched": [
+    "발굴"
+   ]
+  },
+  {
    "id": "saramin:55565405",
    "source": "saramin",
    "sourceName": "사람인",
@@ -10097,9 +10216,9 @@
    "employmentType": "기간제·계약직",
    "salary": "",
    "sector": "해설가, 박물관·미술관",
-   "postedAt": "2026-11-06",
-   "startAt": "2026-11-06",
-   "deadline": "2026-11-15",
+   "postedAt": "2026-11-13",
+   "startAt": "2026-11-13",
+   "deadline": "2026-11-23",
    "deadlineText": "",
    "summary": "서울 도봉구 · 기간제·계약직 · 경력무관 · 학력무관",
    "qualifications": "경력: 경력무관\n학력: 학력무관",
@@ -10191,6 +10310,40 @@
    "matched": [
     "해설",
     "역사"
+   ]
+  },
+  {
+   "id": "saramin:55568680",
+   "source": "saramin",
+   "sourceName": "사람인",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55568680",
+   "title": "(주)한글로벌 2026년 신입 채용공고 (행사기획 부문)",
+   "company": "(주)한글로벌",
+   "region": "서울 마포구",
+   "experience": "신입",
+   "education": "초대졸↑",
+   "employmentType": "정규직",
+   "salary": "",
+   "sector": "행사기획, 전시기획, 국제회의, 이벤트대행, BTL",
+   "postedAt": "2026-11-13",
+   "startAt": "2026-11-13",
+   "deadline": "2026-11-24",
+   "deadlineText": "",
+   "summary": "서울 마포구 · 정규직 · 신입 · 초대졸↑",
+   "qualifications": "경력: 신입\n학력: 초대졸↑",
+   "kind": "job",
+   "official": false,
+   "foundBy": "국가유산",
+   "firstSeen": "2026-11-13",
+   "lastSeen": "2026-11-13",
+   "score": 6,
+   "tier": "low",
+   "tags": [
+    "curation"
+   ],
+   "matched": [
+    "전시기획",
+    "전시"
    ]
   },
   {
@@ -10698,18 +10851,6 @@
    ],
    "matched": [
     "기록물"
-   ],
-   "alsoOn": [
-    {
-     "source": "jobkorea",
-     "sourceName": "잡코리아",
-     "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50271948"
-    },
-    {
-     "source": "saramin",
-     "sourceName": "사람인",
-     "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55437629"
-    }
    ]
   },
   {
