@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-14T02:39:53.656Z",
+ "updatedAt": "2026-11-14T10:47:01.032Z",
  "today": "2026-11-14",
  "count": 316,
  "newToday": 2,
@@ -7,50 +7,50 @@
   "saramin": {
    "name": "사람인",
    "ok": true,
-   "count": 437,
-   "ms": 32711
+   "count": 438,
+   "ms": 32269
   },
   "jobkorea": {
    "name": "잡코리아",
    "ok": true,
    "count": 202,
-   "ms": 19244
+   "ms": 19221
   },
   "khs": {
    "name": "국가유산청",
    "ok": true,
    "count": 30,
-   "ms": 9279
+   "ms": 9445
   },
   "nrich": {
    "name": "국립문화유산연구원",
    "ok": true,
    "count": 20,
-   "ms": 5576
+   "ms": 5448
   },
   "kha": {
    "name": "국가유산진흥원",
    "ok": true,
    "count": 20,
-   "ms": 4511
+   "ms": 4471
   },
   "alio": {
    "name": "잡알리오",
    "ok": true,
    "count": 5,
-   "ms": 10634
+   "ms": 12595
   },
   "gojobs": {
    "name": "나라일터",
    "ok": true,
    "count": 49,
-   "ms": 18862
+   "ms": 15357
   },
   "momo365": {
    "name": "모모365",
    "ok": true,
    "count": 100,
-   "ms": 2585
+   "ms": 2654
   }
  },
  "categories": [
@@ -3425,6 +3425,44 @@
     "돌봄센터",
     "역사",
     "문화유산",
+    "문화재"
+   ]
+  },
+  {
+   "id": "saramin:55454299",
+   "source": "saramin",
+   "sourceName": "사람인",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55454299",
+   "title": "속초 피노디아 문화공화국 뮤지엄 운영팀 3급 학예사 1명",
+   "company": "(주)피노디아",
+   "region": "강원 속초시",
+   "experience": "신입·경력",
+   "education": "대졸↑",
+   "employmentType": "계약직",
+   "salary": "",
+   "sector": "도슨트, 미술관, 박물관, 문화재, 테마파크",
+   "postedAt": "2026-11-14",
+   "startAt": "2026-11-14",
+   "deadline": "2027-01-01",
+   "deadlineText": "",
+   "summary": "강원 속초시 · 계약직 · 신입·경력 · 대졸↑",
+   "qualifications": "경력: 신입·경력\n학력: 대졸↑",
+   "kind": "job",
+   "official": false,
+   "foundBy": "학예",
+   "firstSeen": "2026-11-02",
+   "lastSeen": "2026-11-14",
+   "score": 26,
+   "tier": "high",
+   "tags": [
+    "curation"
+   ],
+   "matched": [
+    "학예",
+    "학예사",
+    "박물관",
+    "미술관",
+    "도슨트",
     "문화재"
    ]
   },
@@ -9966,42 +10004,6 @@
     "국가유산청",
     "궁능유적본부",
     "국가유산"
-   ]
-  },
-  {
-   "id": "saramin:55454299",
-   "source": "saramin",
-   "sourceName": "사람인",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55454299",
-   "title": "속초 피노디아 테마파크 뮤지엄 운영팀2명",
-   "company": "(주)피노디아",
-   "region": "강원 속초시",
-   "experience": "신입·경력",
-   "education": "대졸↑",
-   "employmentType": "계약직",
-   "salary": "",
-   "sector": "도슨트, 미술관, 박물관, 문화재, 테마파크",
-   "postedAt": "2026-11-02",
-   "startAt": "2026-11-02",
-   "deadline": "2027-01-01",
-   "deadlineText": "",
-   "summary": "강원 속초시 · 계약직 · 신입·경력 · 대졸↑",
-   "qualifications": "경력: 신입·경력\n학력: 대졸↑",
-   "kind": "job",
-   "official": false,
-   "foundBy": "학예",
-   "firstSeen": "2026-11-02",
-   "lastSeen": "2026-11-14",
-   "score": 8,
-   "tier": "mid",
-   "tags": [
-    "curation"
-   ],
-   "matched": [
-    "박물관",
-    "미술관",
-    "도슨트",
-    "문화재"
    ]
   },
   {
