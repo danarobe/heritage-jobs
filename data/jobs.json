@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-15T02:06:46.770Z",
+ "updatedAt": "2026-11-15T11:21:31.262Z",
  "today": "2026-11-15",
  "count": 311,
  "newToday": 1,
@@ -7,50 +7,50 @@
   "saramin": {
    "name": "사람인",
    "ok": true,
-   "count": 435,
-   "ms": 39997
+   "count": 415,
+   "ms": 33169
   },
   "jobkorea": {
    "name": "잡코리아",
    "ok": true,
    "count": 202,
-   "ms": 20134
+   "ms": 19770
   },
   "khs": {
    "name": "국가유산청",
    "ok": true,
    "count": 30,
-   "ms": 11553
+   "ms": 11318
   },
   "nrich": {
    "name": "국립문화유산연구원",
    "ok": true,
    "count": 20,
-   "ms": 7211
+   "ms": 7310
   },
   "kha": {
    "name": "국가유산진흥원",
    "ok": true,
    "count": 20,
-   "ms": 5516
+   "ms": 5336
   },
   "alio": {
    "name": "잡알리오",
    "ok": true,
    "count": 5,
-   "ms": 12268
+   "ms": 12201
   },
   "gojobs": {
    "name": "나라일터",
    "ok": true,
    "count": 49,
-   "ms": 16863
+   "ms": 21951
   },
   "momo365": {
    "name": "모모365",
    "ok": true,
    "count": 100,
-   "ms": 3034
+   "ms": 3044
   }
  },
  "categories": [
