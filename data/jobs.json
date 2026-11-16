@@ -1,56 +1,56 @@
 {
- "updatedAt": "2026-11-15T16:32:56.452Z",
+ "updatedAt": "2026-11-16T02:24:52.061Z",
  "today": "2026-11-16",
- "count": 304,
- "newToday": 0,
+ "count": 310,
+ "newToday": 6,
  "sources": {
   "saramin": {
    "name": "사람인",
    "ok": true,
-   "count": 405,
-   "ms": 31156
+   "count": 408,
+   "ms": 64349
   },
   "jobkorea": {
    "name": "잡코리아",
    "ok": true,
    "count": 200,
-   "ms": 18515
+   "ms": 21496
   },
   "khs": {
    "name": "국가유산청",
    "ok": true,
    "count": 30,
-   "ms": 37323
+   "ms": 11235
   },
   "nrich": {
    "name": "국립문화유산연구원",
    "ok": true,
    "count": 20,
-   "ms": 6340
+   "ms": 6650
   },
   "kha": {
    "name": "국가유산진흥원",
    "ok": true,
    "count": 20,
-   "ms": 4853
+   "ms": 4927
   },
   "alio": {
    "name": "잡알리오",
    "ok": true,
    "count": 4,
-   "ms": 11509
+   "ms": 11862
   },
   "gojobs": {
    "name": "나라일터",
-   "ok": true,
-   "count": 49,
-   "ms": 19861
+   "ok": false,
+   "error": "This operation was aborted",
+   "ms": 106676
   },
   "momo365": {
    "name": "모모365",
    "ok": true,
    "count": 100,
-   "ms": 2659
+   "ms": 4332
   }
  },
  "categories": [
@@ -347,10 +347,10 @@
    ]
   },
   {
-   "id": "khs:34611",
-   "source": "khs",
-   "sourceName": "국가유산청",
-   "url": "https://www.khs.go.kr/multiBbz/selectMultiBbzView.do?id=10013&no=34611&bbzId=newexam&pageIndex=3&pageUnit=10&strWhere=&searchWrd=&sdate=&edate=&mn=NS_01_06",
+   "id": "nrich:48463",
+   "source": "nrich",
+   "sourceName": "국립문화유산연구원",
+   "url": "https://www.nrich.go.kr/kor/boardView.do?menuIdx=285&bbscd=40&bbs_idx=48463",
    "title": "국립부여문화유산연구소 기간제근로자(부여 관북리, 익산 왕궁리/고고학) 신규채용 최종 합격자 공고",
    "company": "국립부여문화유산연구소",
    "region": "",
@@ -358,7 +358,7 @@
    "education": "",
    "employmentType": "기간제",
    "salary": "",
-   "sector": "",
+   "sector": "국립부여문화유산연구소",
    "postedAt": "2026-10-26",
    "startAt": "2026-10-26",
    "deadline": null,
@@ -367,7 +367,6 @@
    "qualifications": "",
    "kind": "result",
    "official": true,
-   "author": "심상육",
    "firstSeen": "2026-10-31",
    "lastSeen": "2026-11-16",
    "score": 56,
@@ -386,12 +385,12 @@
     {
      "source": "nrich",
      "sourceName": "국립문화유산연구원",
-     "url": "https://www.nrich.go.kr/kor/boardView.do?menuIdx=285&bbscd=40&bbs_idx=48463"
+     "url": "https://www.nrich.go.kr/kor/boardView.do?menuIdx=285&bbscd=40&bbs_idx=48404"
     },
     {
-     "source": "nrich",
-     "sourceName": "국립문화유산연구원",
-     "url": "https://www.nrich.go.kr/kor/boardView.do?menuIdx=285&bbscd=40&bbs_idx=48404"
+     "source": "khs",
+     "sourceName": "국가유산청",
+     "url": "https://www.khs.go.kr/multiBbz/selectMultiBbzView.do?id=10013&no=34611&bbzId=newexam&pageIndex=3&pageUnit=10&strWhere=&searchWrd=&sdate=&edate=&mn=NS_01_06"
     }
    ]
   },
@@ -435,7 +434,7 @@
    "id": "khs:34632",
    "source": "khs",
    "sourceName": "국가유산청",
-   "url": "https://www.khs.go.kr/multiBbz/selectMultiBbzView.do?id=10034&no=34632&bbzId=newexam&pageIndex=1&pageUnit=10&strWhere=&searchWrd=&sdate=&edate=&mn=NS_01_06",
+   "url": "https://www.khs.go.kr/multiBbz/selectMultiBbzView.do?id=10034&no=34632&bbzId=newexam&pageIndex=2&pageUnit=10&strWhere=&searchWrd=&sdate=&edate=&mn=NS_01_06",
    "title": "국립무형유산원 공무직근로자(안내해설사) 채용 공고",
    "company": "국립무형유산원",
    "region": "",
@@ -821,6 +820,49 @@
    ]
   },
   {
+   "id": "khs:34644",
+   "source": "khs",
+   "sourceName": "국가유산청",
+   "url": "https://www.khs.go.kr/multiBbz/selectMultiBbzView.do?id=10046&no=34644&bbzId=newexam&pageIndex=1&pageUnit=10&strWhere=&searchWrd=&sdate=&edate=&mn=NS_01_06",
+   "title": "국립문화유산연구원 건축문화유산연구실 기간제 근로자 채용 서류전형 합격자 발표 및 면접시험 공고",
+   "company": "국립문화유산연구원",
+   "region": "",
+   "experience": "",
+   "education": "",
+   "employmentType": "연구원",
+   "salary": "",
+   "sector": "",
+   "postedAt": "2026-11-16",
+   "startAt": "2026-11-16",
+   "deadline": "2026-11-24",
+   "deadlineText": "",
+   "summary": "",
+   "qualifications": "",
+   "kind": "result",
+   "official": true,
+   "author": "김동열",
+   "firstSeen": "2026-11-16",
+   "lastSeen": "2026-11-16",
+   "score": 43,
+   "tier": "high",
+   "tags": [
+    "excavation",
+    "institution"
+   ],
+   "matched": [
+    "문화유산연구원",
+    "국립문화유산연구원",
+    "문화유산"
+   ],
+   "alsoOn": [
+    {
+     "source": "nrich",
+     "sourceName": "국립문화유산연구원",
+     "url": "https://www.nrich.go.kr/kor/boardView.do?menuIdx=285&bbscd=40&bbs_idx=48484"
+    }
+   ]
+  },
+  {
    "id": "khs:34608",
    "source": "khs",
    "sourceName": "국가유산청",
@@ -1027,7 +1069,7 @@
    "salary": "",
    "sector": "",
    "postedAt": "2026-11-10",
-   "startAt": "2026-11-11",
+   "startAt": "2026-11-10",
    "deadline": "2026-11-24",
    "deadlineText": "",
    "summary": "국가유산진흥원 인천국제공항 전통문화사업 홍보 강화를 위해 온라인 콘텐츠 기획·제작 및 운영·관리 홍보 전문가를 다음과 같이 공모하오니 관심 있는 분들의 많은 참여를 바랍니다. 가. 공고명 : 2027년 국가유산진흥원 인천국제공항 전통문화사업 홍보 전문인력 공개모집 나. 모집분야 : 인천국제공항 전통문화사업 홍보 다. 채용형태 : 위촉(전문)직 라. 위촉내용 1) 위촉기간 : 2027. 1. 1 ~ 12. 31. 2) 위촉료 : 월 2,000,000원(세전) 3) 주요업무 ① 온라인 콘텐츠 기획, 제작, 운영(인스타그램 k.heritage.airport 등) ② 특별 …",
@@ -1449,58 +1491,6 @@
    ]
   },
   {
-   "id": "momo365:28630",
-   "source": "momo365",
-   "sourceName": "모모365",
-   "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28630",
-   "title": "[사비나미술관] 2026 예비학예인력 모집 공고",
-   "company": "사비나미술관",
-   "region": "서울",
-   "experience": "",
-   "education": "",
-   "employmentType": "임기∙계약직",
-   "salary": "",
-   "sector": "",
-   "postedAt": "2026-10-16",
-   "startAt": "2026-10-16",
-   "deadline": "2026-10-25",
-   "deadlineText": "",
-   "summary": "사비나미술관은 ( 사 ) 한국사립미술관협회가 문화체육관광부 지원으로 실시하는 <2026 사립미술관 예비학예인력 지원사업 > 에 따라 아래와 같이 예비학예인력을 모집하오니 많은 응모 바랍니다 . 1. 모집인원 : 총 1 명 2. 근무기간 : 2026 년 11 월 1 일 ( 일 ) ~ 2026 년 12 월 31 일(목) 3. 근무시간 : 주 5 일 40 시간 근무 , 출퇴근시간 09:30~18:30 ( 월요일 휴무 , 주말 중 1 일 스케쥴 근무 ) 4. 응시자격 1) 준학예사 필기시험 합격자 2) 전문학사학위 이상 소지자 ( 전공 불문 ) ※ 1) 또는 2) 의 요건 …",
-   "qualifications": "4. 응시자격\n1) 준학예사 필기시험 합격자\n2) 전문학사학위 이상 소지자 ( 전공 불문 )\n※ 1) 또는 2) 의 요건 중 어느 하나를 충족해야 함\n[ 채용 불가 대상 ]\n1) 해당 기관에 4 대보험이 가입되어 있는 인력\n( 예외 ) 2025 년 본 사업 지원 예비학예인력 연속채용 가능\n2) 재학생 채용 불가 ( 단 , 휴학생 , 졸업예정자 , 야간대학원 재학생은 가능 )\n3) 4 대보험 전체가입 불가한 자 ( 단 , 조기연금 및 타 연금 수령자는 가능 )\n4) 대표 ( 또는 관장 ) 및 기존 임직원과의 관계가 친인척 (8 촌 이내 혈족 , 4 촌 이내 인척 ) 인 자\n* 배우자는 원칙적으로 허용하지 않음 .\n5. 급여\n'2026 년 예비학예인력 지원사업 ' 규정에 따름\n6. ' 예비학예인력 ' 의 업무 범위\n○ 전시 기획\n- 미술관 전시기획 , 학예연구 보조\n- 전시 및 작품 , 작가관련 전시자료 수집\n- 전시작품 및 소장품 관리 보조\n- 전시설치 실무 보조\n- 참여 작가 커뮤니케이션\n○ 전시 홍보\n- 전시 홍보 일정 수립 및 컨텐츠 기획\n- 미술관 SNS, 웹사이트 게시물 작성 및 관리\n- 미술관 체험 및 전시연계 교육프로그램 기획 및 운영 보조\n- 미…",
-   "kind": "job",
-   "official": false,
-   "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-16",
-   "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=95363",
-   "attachments": [
-    {
-     "name": "별첨2026예비학예인력지원서(자기소개서및개인정보활용동의서포함).hwp",
-     "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28630"
-    }
-   ],
-   "detailAt": "2026-11-16",
-   "detailOk": true,
-   "score": 36,
-   "tier": "high",
-   "tags": [
-    "curation",
-    "education",
-    "research"
-   ],
-   "matched": [
-    "학예",
-    "미술관",
-    "학예사",
-    "학예연구",
-    "전시기획",
-    "전시",
-    "소장품",
-    "체험",
-    "한국사",
-    "사학"
-   ]
-  },
-  {
    "id": "gojobs:307845",
    "source": "gojobs",
    "sourceName": "나라일터",
@@ -1688,6 +1678,57 @@
     "학예",
     "박물관",
     "학예연구"
+   ]
+  },
+  {
+   "id": "momo365:28630",
+   "source": "momo365",
+   "sourceName": "모모365",
+   "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28630",
+   "title": "[사비나미술관] 2026 예비학예인력 모집 공고",
+   "company": "사비나미술관",
+   "region": "서울",
+   "experience": "",
+   "education": "",
+   "employmentType": "임기∙계약직",
+   "salary": "",
+   "sector": "",
+   "postedAt": "2026-10-16",
+   "startAt": "2026-10-16",
+   "deadline": "2026-10-25",
+   "deadlineText": "",
+   "summary": "사비나미술관 · 서울 · 임기∙계약직",
+   "qualifications": "4. 응시자격\n1) 준학예사 필기시험 합격자\n2) 전문학사학위 이상 소지자 ( 전공 불문 )\n※ 1) 또는 2) 의 요건 중 어느 하나를 충족해야 함\n[ 채용 불가 대상 ]\n1) 해당 기관에 4 대보험이 가입되어 있는 인력\n( 예외 ) 2025 년 본 사업 지원 예비학예인력 연속채용 가능\n2) 재학생 채용 불가 ( 단 , 휴학생 , 졸업예정자 , 야간대학원 재학생은 가능 )\n3) 4 대보험 전체가입 불가한 자 ( 단 , 조기연금 및 타 연금 수령자는 가능 )\n4) 대표 ( 또는 관장 ) 및 기존 임직원과의 관계가 친인척 (8 촌 이내 혈족 , 4 촌 이내 인척 ) 인 자\n* 배우자는 원칙적으로 허용하지 않음 .\n5. 급여\n'2026 년 예비학예인력 지원사업 ' 규정에 따름\n6. ' 예비학예인력 ' 의 업무 범위\n○ 전시 기획\n- 미술관 전시기획 , 학예연구 보조\n- 전시 및 작품 , 작가관련 전시자료 수집\n- 전시작품 및 소장품 관리 보조\n- 전시설치 실무 보조\n- 참여 작가 커뮤니케이션\n○ 전시 홍보\n- 전시 홍보 일정 수립 및 컨텐츠 기획\n- 미술관 SNS, 웹사이트 게시물 작성 및 관리\n- 미술관 체험 및 전시연계 교육프로그램 기획 및 운영 보조\n- 미…",
+   "kind": "job",
+   "official": false,
+   "firstSeen": "2026-10-17",
+   "lastSeen": "2026-11-16",
+   "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=95363",
+   "attachments": [
+    {
+     "name": "별첨2026예비학예인력지원서(자기소개서및개인정보활용동의서포함).hwp",
+     "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28630"
+    }
+   ],
+   "detailAt": "2026-11-16",
+   "detailOk": true,
+   "score": 34,
+   "tier": "high",
+   "tags": [
+    "curation",
+    "education",
+    "research"
+   ],
+   "matched": [
+    "학예",
+    "미술관",
+    "학예사",
+    "학예연구",
+    "전시기획",
+    "전시",
+    "소장품",
+    "체험",
+    "사학"
    ]
   },
   {
@@ -2005,43 +2046,6 @@
    ]
   },
   {
-   "id": "jobkorea:50298097",
-   "source": "jobkorea",
-   "sourceName": "잡코리아",
-   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50298097",
-   "title": "당림미술관 2027년 `예비학예인력` 모집 공고",
-   "company": "당림미술관",
-   "region": "충남 아산시",
-   "experience": "신입·경력 학력",
-   "education": "초대졸이상",
-   "employmentType": "계약직",
-   "salary": "월급 223~223만원",
-   "sector": "문화·공연·예술, 학교·특수학교교사",
-   "postedAt": "2026-11-03",
-   "startAt": "2026-11-03",
-   "deadline": "2026-12-16",
-   "deadlineText": "",
-   "summary": "모집분야: 예비학예사\n고용형태: 계약직\n급여: 월급 223~223만원\n근무지: 충남 아산시 송악면 외암로1182번길 34-19 (외암리, 당림미술관) 당림미술관\n근무시간: 주5일 (화, 수, 목, 토, 일)",
-   "qualifications": "경력: 신입·경력 학력\n학력: 초대졸이상",
-   "kind": "job",
-   "official": false,
-   "foundBy": "학예",
-   "firstSeen": "2026-11-04",
-   "lastSeen": "2026-11-16",
-   "detailAt": "2026-11-16",
-   "detailOk": true,
-   "score": 30,
-   "tier": "high",
-   "tags": [
-    "curation"
-   ],
-   "matched": [
-    "학예",
-    "미술관",
-    "학예사"
-   ]
-  },
-  {
    "id": "kha:119720",
    "source": "kha",
    "sourceName": "국가유산진흥원",
@@ -2261,7 +2265,7 @@
    "id": "khs:34621",
    "source": "khs",
    "sourceName": "국가유산청",
-   "url": "https://www.khs.go.kr/multiBbz/selectMultiBbzView.do?id=10023&no=34621&bbzId=newexam&pageIndex=2&pageUnit=10&strWhere=&searchWrd=&sdate=&edate=&mn=NS_01_06",
+   "url": "https://www.khs.go.kr/multiBbz/selectMultiBbzView.do?id=10023&no=34621&bbzId=newexam&pageIndex=3&pageUnit=10&strWhere=&searchWrd=&sdate=&edate=&mn=NS_01_06",
    "title": "2026년 제2차 국외소재문화유산재단 직원 채용 공고",
    "company": "국가유산청",
    "region": "",
@@ -2271,7 +2275,7 @@
    "salary": "",
    "sector": "",
    "postedAt": "2026-10-29",
-   "startAt": "2026-11-03",
+   "startAt": "2026-10-29",
    "deadline": "2026-11-09",
    "deadlineText": "",
    "summary": "국외소재문화유산재단은 『문화유산의 보존 및 활용에 관한 법률 제69조의3』에 의하여 2012년 7월 27일에 설립된 국가유산청 산하 법인으로 국외소재 한국문화유산에 대한 조사·연구, 환수·활용 및 전략·정책 연구 등 국외소재문화유산과 관련한 제반 사업을 종합적·체계적으로 수행하는 기관입니다. 다음과 같이 직원을 공개 모집하오니 참신하고 유능한 인재들의 많은 응모를 바랍니다. 2026년 10월 29일 국외소재문화유산재단 사무총장 1. 채용예정분야 및 인원 1) 6급 3명 2) 임시계약직 5명(사업A 3명, 사업B 2명) 2. 응시원서 접수: 2026. 11. 3.(화)…",
@@ -2720,7 +2724,7 @@
    "title": "국가유산수리공제조합 신규직원 채용",
    "company": "국가유산수리협회",
    "region": "서울 서초구",
-   "experience": "신입·경력 (3년이상)",
+   "experience": "신입 지원 가능",
    "education": "초대졸이상",
    "employmentType": "정규직",
    "salary": "회사 내규에 따름 (면접 후 결정)",
@@ -2729,8 +2733,8 @@
    "startAt": "2026-11-10",
    "deadline": "2026-11-19",
    "deadlineText": "",
-   "summary": "모집분야: 사무행정보조, 전산 및 시스템 담당\n고용형태: 정규직\n급여: 회사 내규에 따름 (면접 후 결정)\n근무지: 서울 서초구 서초중앙로 43 (서초동, 로얄타워) 7층\n근무시간: 주5일(월~금)",
-   "qualifications": "경력: 신입·경력 (3년이상)\n학력: 초대졸이상",
+   "summary": "서울 서초구 · 신입 지원 가능 · 협회·단체, 사무담당자, 웹개발자, 금융사무",
+   "qualifications": "경력: 신입 지원 가능",
    "kind": "job",
    "official": false,
    "foundBy": "국가유산",
@@ -2867,46 +2871,6 @@
      "sourceName": "잡코리아",
      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/5711225/Ext?siteCode=WN"
     }
-   ]
-  },
-  {
-   "id": "jobkorea:50076092",
-   "source": "jobkorea",
-   "sourceName": "잡코리아",
-   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50076092",
-   "title": "한국사/역사 체험학습 프리랜서 강사 모집",
-   "company": "꿈꾸는해치",
-   "region": "서울 용산구",
-   "experience": "신입·경력 (3년이상)",
-   "education": "대졸이상",
-   "employmentType": "프리랜서",
-   "salary": "건별 50,000원",
-   "sector": "학원·어학원·교육원, 학원강사",
-   "postedAt": "2026-09-30",
-   "startAt": "2026-09-30",
-   "deadline": "2026-11-29",
-   "deadlineText": "",
-   "summary": "모집분야: 한국사, 역사체험학습강사\n고용형태: 프리랜서\n급여: 건별 50,000원\n근무지: 서울 용산구 서빙고로 137 (용산동6가, 국립중앙박물관) 국립중앙박물관\n근무시간: 10:00 ~ 12:00, 13:00 ~ 15:00",
-   "qualifications": "경력: 신입·경력 (3년이상)\n학력: 대졸이상",
-   "kind": "job",
-   "official": false,
-   "foundBy": "문화유산",
-   "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-16",
-   "detailAt": "2026-11-16",
-   "detailOk": true,
-   "score": 27,
-   "tier": "high",
-   "tags": [
-    "curation",
-    "education",
-    "research"
-   ],
-   "matched": [
-    "박물관",
-    "체험",
-    "역사",
-    "한국사"
    ]
   },
   {
@@ -3849,7 +3813,7 @@
    "id": "khs:34631",
    "source": "khs",
    "sourceName": "국가유산청",
-   "url": "https://www.khs.go.kr/multiBbz/selectMultiBbzView.do?id=10033&no=34631&bbzId=newexam&pageIndex=1&pageUnit=10&strWhere=&searchWrd=&sdate=&edate=&mn=NS_01_06",
+   "url": "https://www.khs.go.kr/multiBbz/selectMultiBbzView.do?id=10033&no=34631&bbzId=newexam&pageIndex=2&pageUnit=10&strWhere=&searchWrd=&sdate=&edate=&mn=NS_01_06",
    "title": "2026년 제7차 궁능유적본부 세종대왕유적관리소 공무직 등 근로자 공개경쟁채용 공고",
    "company": "국가유산청",
    "region": "",
@@ -3896,7 +3860,7 @@
    "id": "khs:34630",
    "source": "khs",
    "sourceName": "국가유산청",
-   "url": "https://www.khs.go.kr/multiBbz/selectMultiBbzView.do?id=10032&no=34630&bbzId=newexam&pageIndex=1&pageUnit=10&strWhere=&searchWrd=&sdate=&edate=&mn=NS_01_06",
+   "url": "https://www.khs.go.kr/multiBbz/selectMultiBbzView.do?id=10032&no=34630&bbzId=newexam&pageIndex=2&pageUnit=10&strWhere=&searchWrd=&sdate=&edate=&mn=NS_01_06",
    "title": "2026년 제6차 궁능유적본부(창경궁관리소) 공무직 등 근로자 채용 공고",
    "company": "국가유산청",
    "region": "",
@@ -4021,6 +3985,42 @@
      "sourceName": "잡코리아",
      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50306523"
     }
+   ]
+  },
+  {
+   "id": "jobkorea:50298097",
+   "source": "jobkorea",
+   "sourceName": "잡코리아",
+   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50298097",
+   "title": "당림미술관 2027년 `예비학예인력` 모집 공고",
+   "company": "당림미술관",
+   "region": "충남 아산시",
+   "experience": "신입 지원 가능",
+   "education": "초대졸이상",
+   "employmentType": "계약직",
+   "salary": "월급 ~220만원",
+   "sector": "문화·공연·예술, 학교·특수학교교사",
+   "postedAt": "2026-11-03",
+   "startAt": "2026-11-03",
+   "deadline": "2026-12-16",
+   "deadlineText": "",
+   "summary": "충남 아산시 · 신입 지원 가능 · 문화·공연·예술, 학교·특수학교교사 · 월급 ~220만원",
+   "qualifications": "경력: 신입 지원 가능",
+   "kind": "job",
+   "official": false,
+   "foundBy": "학예",
+   "firstSeen": "2026-11-04",
+   "lastSeen": "2026-11-16",
+   "detailAt": "2026-11-16",
+   "detailOk": true,
+   "score": 24,
+   "tier": "high",
+   "tags": [
+    "curation"
+   ],
+   "matched": [
+    "학예",
+    "미술관"
    ]
   },
   {
@@ -4928,6 +4928,40 @@
    ]
   },
   {
+   "id": "khs:34645",
+   "source": "khs",
+   "sourceName": "국가유산청",
+   "url": "https://www.khs.go.kr/multiBbz/selectMultiBbzView.do?id=10047&no=34645&bbzId=newexam&pageIndex=1&pageUnit=10&strWhere=&searchWrd=&sdate=&edate=&mn=NS_01_06",
+   "title": "한국전통문화대학교 공무직 근로자(연구실안전전문인력) 채용 최종합격자 공고",
+   "company": "한국전통문화대학교",
+   "region": "",
+   "experience": "",
+   "education": "",
+   "employmentType": "공무직",
+   "salary": "",
+   "sector": "",
+   "postedAt": "2026-11-16",
+   "startAt": "2026-11-16",
+   "deadline": "2026-11-24",
+   "deadlineText": "",
+   "summary": "",
+   "qualifications": "",
+   "kind": "result",
+   "official": true,
+   "author": "형태만",
+   "firstSeen": "2026-11-16",
+   "lastSeen": "2026-11-16",
+   "score": 20,
+   "tier": "high",
+   "tags": [
+    "institution"
+   ],
+   "matched": [
+    "전통문화",
+    "전통문화대학교"
+   ]
+  },
+  {
    "id": "khs:34640",
    "source": "khs",
    "sourceName": "국가유산청",
@@ -5079,17 +5113,17 @@
    "title": "문화유산 활용사업 담당자 채용",
    "company": "재단법인 나라문화연구원",
    "region": "전남광주 여수시",
-   "experience": "경력무관 학력",
+   "experience": "경력무관",
    "education": "학력무관",
    "employmentType": "정규직",
-   "salary": "월급 225 ~225 만원",
+   "salary": "월급 ~220만원",
    "sector": "월급 ~220만원",
    "postedAt": "2026-11-03",
    "startAt": "2026-11-03",
    "deadline": "2026-12-31",
    "deadlineText": "",
-   "summary": "고용형태: 정규직\n급여: 월급 225 ~225 만원\n근무지: 전남광주 여수시",
-   "qualifications": "경력: 경력무관 학력\n학력: 학력무관",
+   "summary": "전남광주 여수시 · 경력무관 · 월급 ~220만원 · 월급 ~220만원",
+   "qualifications": "경력: 경력무관",
    "kind": "job",
    "official": false,
    "foundBy": "문화유산",
@@ -6190,47 +6224,41 @@
    ]
   },
   {
-   "id": "momo365:28602",
-   "source": "momo365",
-   "sourceName": "모모365",
-   "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28602",
-   "title": "[대림문화재단] 홍보마케팅파트 인턴 채용공고",
-   "company": "(재)대림문화재단",
-   "region": "서울",
-   "experience": "",
-   "education": "",
-   "employmentType": "인턴∙연수∙교육",
-   "salary": "",
-   "sector": "",
-   "postedAt": "2026-10-13",
-   "startAt": "2026-10-13",
-   "deadline": "2026-10-18",
+   "id": "jobkorea:50076092",
+   "source": "jobkorea",
+   "sourceName": "잡코리아",
+   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50076092",
+   "title": "한국사/역사 체험학습 프리랜서 강사 모집",
+   "company": "꿈꾸는해치",
+   "region": "서울 용산구",
+   "experience": "신입 지원 가능",
+   "education": "대졸이상",
+   "employmentType": "프리랜서",
+   "salary": "건별 50,000원",
+   "sector": "학원·어학원·교육원, 학원강사",
+   "postedAt": "2026-09-30",
+   "startAt": "2026-09-30",
+   "deadline": "2026-11-29",
    "deadlineText": "",
-   "summary": "1. 모집부문 (1) 담당업무 * 대림문화재단(디뮤지엄&대림미술관) 홍보마케팅파트 업무 지원 - 전시 홍보 및 세일즈 서포트 - 프로모션 기획 서포트 - 소셜 미디어 업무 서포트 - 기자 커뮤니케이션 업무 서포트 - 기타 홍보마케팅 업무 (2) 자격요건 - 광고홍보, 커뮤니케이션, 디자인, 문화예술 관련 전공 학부 졸업생 이상(2027년 2월 졸업예정자 불가) - Word, Power Point, Excel 기본 기능 활용 가능자 (3) 우대사항 -소셜 미디어 및 블로그 운영 경험이 있거나 관련 콘텐츠 제작에 적극적인 자 - 문화·예술 분야에 대한 관심과 이해도가 높…",
-   "qualifications": "(2) 자격요건\n- 광고홍보, 커뮤니케이션, 디자인, 문화예술 관련 전공 학부 졸업생 이상(2027년 2월 졸업예정자 불가)\n- Word, Power Point, Excel 기본 기능 활용 가능자",
+   "summary": "서울 용산구 · 신입 지원 가능 · 학원·어학원·교육원, 학원강사",
+   "qualifications": "경력: 신입 지원 가능",
    "kind": "job",
    "official": false,
+   "foundBy": "문화유산",
    "firstSeen": "2026-10-17",
    "lastSeen": "2026-11-16",
-   "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=95312",
-   "attachments": [
-    {
-     "name": "(재)대림문화재단_입사지원서_양식.docx",
-     "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28602"
-    }
-   ],
    "detailAt": "2026-11-16",
    "detailOk": true,
    "score": 18,
    "tier": "high",
    "tags": [
-    "curation",
-    "institution"
+    "education",
+    "research"
    ],
    "matched": [
-    "전시",
-    "미술관",
-    "문화재단"
+    "체험",
+    "역사",
+    "한국사"
    ]
   },
   {
@@ -6474,17 +6502,17 @@
    "title": "CAD 전문가로서 문화유산 보존에 기여해 보세요!",
    "company": "（주）삼진건축사사무소",
    "region": "전남광주 화순군",
-   "experience": "신입 학력",
+   "experience": "신입 지원 가능",
    "education": "대졸이상",
    "employmentType": "정규직",
-   "salary": "월급 280 ~450 만원",
+   "salary": "월급 280~450만원",
    "sector": "월급 280~450만원",
    "postedAt": "2026-09-29",
    "startAt": "2026-09-29",
    "deadline": "2026-11-28",
    "deadlineText": "",
-   "summary": "고용형태: 정규직\n급여: 월급 280 ~450 만원\n근무지: 전남광주 화순군",
-   "qualifications": "경력: 신입 학력\n학력: 대졸이상",
+   "summary": "전남광주 화순군 · 신입 지원 가능 · 월급 280~450만원 · 월급 280~450만원",
+   "qualifications": "경력: 신입 지원 가능",
    "kind": "job",
    "official": false,
    "foundBy": "문화유산",
@@ -6925,6 +6953,61 @@
    ]
   },
   {
+   "id": "momo365:28634",
+   "source": "momo365",
+   "sourceName": "모모365",
+   "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28634",
+   "title": "2026년 제8차 종로문화재단 직원 공개모집 공고",
+   "company": "재단법인 종로문화재단",
+   "region": "서울",
+   "experience": "",
+   "education": "",
+   "employmentType": "임기∙계약직",
+   "salary": "",
+   "sector": "",
+   "postedAt": "2026-10-16",
+   "startAt": "2026-10-16",
+   "deadline": "2026-10-29",
+   "deadlineText": "",
+   "summary": "재단법인 종로문화재단 · 서울 · 임기∙계약직",
+   "qualifications": "*상세 자격요건, 근로 및 보수 조건 등 상세 내용은 자사 채용홈페이지에 기재된 공고문 참고",
+   "kind": "job",
+   "official": false,
+   "firstSeen": "2026-10-17",
+   "lastSeen": "2026-11-16",
+   "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=95359",
+   "attachments": [
+    {
+     "name": "(붙임4) 채용이의신청서 및 채용서류반환청구서.hwp",
+     "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28634"
+    },
+    {
+     "name": "(붙임3) 종로문화재단 직무기술서_문화예술행정(무대기술감독).pdf",
+     "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28634"
+    },
+    {
+     "name": "(붙임2) 입사지원서 양식.hwp",
+     "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28634"
+    },
+    {
+     "name": "(붙임1) 입사지원서 작성‧제출 안내(필독).pdf",
+     "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28634"
+    }
+   ],
+   "detailAt": "2026-11-16",
+   "detailOk": true,
+   "score": 15,
+   "tier": "high",
+   "tags": [
+    "conservation",
+    "institution"
+   ],
+   "matched": [
+    "보수",
+    "문화재단"
+   ]
+  },
+  {
    "id": "jobkorea:50169429",
    "source": "jobkorea",
    "sourceName": "잡코리아",
@@ -7238,61 +7321,6 @@
    ],
    "matched": [
     "자연유산"
-   ]
-  },
-  {
-   "id": "momo365:28634",
-   "source": "momo365",
-   "sourceName": "모모365",
-   "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28634",
-   "title": "2026년 제8차 종로문화재단 직원 공개모집 공고",
-   "company": "재단법인 종로문화재단",
-   "region": "서울",
-   "experience": "",
-   "education": "",
-   "employmentType": "임기∙계약직",
-   "salary": "",
-   "sector": "",
-   "postedAt": "2026-10-16",
-   "startAt": "2026-10-16",
-   "deadline": "2026-10-29",
-   "deadlineText": "",
-   "summary": "*상세 자격요건, 근로 및 보수 조건 등 상세 내용은 자사 채용홈페이지에 기재된 공고문 참고",
-   "qualifications": "*상세 자격요건, 근로 및 보수 조건 등 상세 내용은 자사 채용홈페이지에 기재된 공고문 참고",
-   "kind": "job",
-   "official": false,
-   "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-16",
-   "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=95359",
-   "attachments": [
-    {
-     "name": "(붙임4) 채용이의신청서 및 채용서류반환청구서.hwp",
-     "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28634"
-    },
-    {
-     "name": "(붙임3) 종로문화재단 직무기술서_문화예술행정(무대기술감독).pdf",
-     "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28634"
-    },
-    {
-     "name": "(붙임2) 입사지원서 양식.hwp",
-     "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28634"
-    },
-    {
-     "name": "(붙임1) 입사지원서 작성‧제출 안내(필독).pdf",
-     "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28634"
-    }
-   ],
-   "detailAt": "2026-11-16",
-   "detailOk": true,
-   "score": 13,
-   "tier": "mid",
-   "tags": [
-    "conservation",
-    "institution"
-   ],
-   "matched": [
-    "보수",
-    "문화재단"
    ]
   },
   {
@@ -7808,7 +7836,7 @@
    "id": "khs:34622",
    "source": "khs",
    "sourceName": "국가유산청",
-   "url": "https://www.khs.go.kr/multiBbz/selectMultiBbzView.do?id=10024&no=34622&bbzId=newexam&pageIndex=2&pageUnit=10&strWhere=&searchWrd=&sdate=&edate=&mn=NS_01_06",
+   "url": "https://www.khs.go.kr/multiBbz/selectMultiBbzView.do?id=10024&no=34622&bbzId=newexam&pageIndex=3&pageUnit=10&strWhere=&searchWrd=&sdate=&edate=&mn=NS_01_06",
    "title": "2026년 조선왕릉서부지구관리소 7차 공무직 등 근로자 채용시험 최종합격자 공고",
    "company": "국가유산청",
    "region": "",
@@ -8166,40 +8194,6 @@
    ]
   },
   {
-   "id": "khs:34610",
-   "source": "khs",
-   "sourceName": "국가유산청",
-   "url": "https://www.khs.go.kr/multiBbz/selectMultiBbzView.do?id=10012&no=34610&bbzId=newexam&pageIndex=3&pageUnit=10&strWhere=&searchWrd=&sdate=&edate=&mn=NS_01_06",
-   "title": "2026년 조선왕릉서부지구관리소 7차 공무직 등 근로자 채용시험 서류전형합격자 및 면접전형 공고",
-   "company": "국가유산청",
-   "region": "",
-   "experience": "",
-   "education": "",
-   "employmentType": "공무직",
-   "salary": "",
-   "sector": "",
-   "postedAt": "2026-10-23",
-   "startAt": "2026-10-23",
-   "deadline": "2026-10-28",
-   "deadlineText": "",
-   "summary": "",
-   "qualifications": "",
-   "kind": "result",
-   "official": true,
-   "author": "홍준기",
-   "firstSeen": "2026-10-23",
-   "lastSeen": "2026-11-16",
-   "score": 12,
-   "tier": "mid",
-   "tags": [
-    "institution"
-   ],
-   "matched": [
-    "국가유산청",
-    "국가유산"
-   ]
-  },
-  {
    "id": "momo365:28712",
    "source": "momo365",
    "sourceName": "모모365",
@@ -8242,6 +8236,40 @@
    ],
    "matched": [
     "문화재단"
+   ]
+  },
+  {
+   "id": "khs:34610",
+   "source": "khs",
+   "sourceName": "국가유산청",
+   "url": "https://www.khs.go.kr/multiBbz/selectMultiBbzView.do?id=10012&no=34610&bbzId=newexam&pageIndex=3&pageUnit=10&strWhere=&searchWrd=&sdate=&edate=&mn=NS_01_06",
+   "title": "2026년 조선왕릉서부지구관리소 7차 공무직 등 근로자 채용시험 서류전형합격자 및 면접전형 공고",
+   "company": "국가유산청",
+   "region": "",
+   "experience": "",
+   "education": "",
+   "employmentType": "공무직",
+   "salary": "",
+   "sector": "",
+   "postedAt": "2026-10-23",
+   "startAt": "2026-10-23",
+   "deadline": "2026-10-28",
+   "deadlineText": "",
+   "summary": "",
+   "qualifications": "",
+   "kind": "result",
+   "official": true,
+   "author": "홍준기",
+   "firstSeen": "2026-10-23",
+   "lastSeen": "2026-11-16",
+   "score": 12,
+   "tier": "mid",
+   "tags": [
+    "institution"
+   ],
+   "matched": [
+    "국가유산청",
+    "국가유산"
    ]
   },
   {
@@ -8630,7 +8658,7 @@
    "startAt": "2026-10-14",
    "deadline": "2026-10-31",
    "deadlineText": "",
-   "summary": "용산문화재단 용산아트홀과 함께할 공연장 안내원을 아래와 같이 모집합니다. 1. 모집개요 - 모집분야 : 공연장 안내원 - 모집인원 : 00명 - 근무장소 : 용산아트홀(서울 용산구 녹사평대로 150) 대극장 및 소극장 2. 지원자격 - 만 19세 이상으로 공연예술에 관심이 있는 자 - 한 달 근무스케줄 중 70% 이상 근무 가능한 자 (금,토,일 중 이틀 이상 필수 / 매달 근무스케줄은 일정치 않음) - 긍정적인 마인드를 소유한 자 - 타인을 먼저 배려하는 따뜻한 마음을 가진 자 - 책임감이 강하며 능동적인 근무 수행이 가능한 자 3, 근무 내용 - 객석 안내 및 수…",
+   "summary": "용산문화재단 · 서울 · 일용직∙아르바이트",
    "qualifications": "2. 지원자격\n- 만 19세 이상으로 공연예술에 관심이 있는 자\n- 한 달 근무스케줄 중 70% 이상 근무 가능한 자\n(금,토,일 중 이틀 이상 필수 / 매달 근무스케줄은 일정치 않음)\n- 긍정적인 마인드를 소유한 자\n- 타인을 먼저 배려하는 따뜻한 마음을 가진 자\n- 책임감이 강하며 능동적인 근무 수행이 가능한 자\n3, 근무 내용\n- 객석 안내 및 수표\n- 로비 및 물품보관소 운영\n- 용산아트홀 공연 및 행사 진행 관객 안전 관리\n- 공연장 내.외부 질서 및 청결유지\n- 관객 불편사항 해결 및 서비스 제공\n- 공연장 시설 내 관객서비스 관련 업무 전반",
    "kind": "job",
    "official": false,
@@ -8645,6 +8673,83 @@
     {
      "name": "[용산아트홀] 하우스 어셔 지원서.hwp",
      "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28608"
+    }
+   ],
+   "detailAt": "2026-11-16",
+   "detailOk": true,
+   "score": 12,
+   "tier": "mid",
+   "tags": [
+    "institution"
+   ],
+   "matched": [
+    "문화재단"
+   ]
+  },
+  {
+   "id": "momo365:28607",
+   "source": "momo365",
+   "sourceName": "모모365",
+   "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28607",
+   "title": "서울문화재단 예술지원사업 및 입주공모 업무 보조 단기인력 구인(연희문학창작촌)",
+   "company": "서울문화재단 연희문학창작촌",
+   "region": "서울",
+   "experience": "",
+   "education": "",
+   "employmentType": "임기∙계약직",
+   "salary": "",
+   "sector": "",
+   "postedAt": "2026-10-14",
+   "startAt": "2026-10-14",
+   "deadline": "2026-10-22",
+   "deadlineText": "",
+   "summary": "서울문화재단 연희문학창작촌 · 서울 · 임기∙계약직",
+   "qualifications": "",
+   "kind": "job",
+   "official": false,
+   "firstSeen": "2026-10-17",
+   "lastSeen": "2026-11-16",
+   "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=95331",
+   "attachments": [],
+   "detailAt": "2026-11-16",
+   "detailOk": true,
+   "score": 12,
+   "tier": "mid",
+   "tags": [
+    "institution"
+   ],
+   "matched": [
+    "문화재단"
+   ]
+  },
+  {
+   "id": "momo365:28602",
+   "source": "momo365",
+   "sourceName": "모모365",
+   "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28602",
+   "title": "[대림문화재단] 홍보마케팅파트 인턴 채용공고",
+   "company": "(재)대림문화재단",
+   "region": "서울",
+   "experience": "",
+   "education": "",
+   "employmentType": "인턴∙연수∙교육",
+   "salary": "",
+   "sector": "",
+   "postedAt": "2026-10-13",
+   "startAt": "2026-10-13",
+   "deadline": "2026-10-18",
+   "deadlineText": "",
+   "summary": "(재)대림문화재단 · 서울 · 인턴∙연수∙교육",
+   "qualifications": "(2) 자격요건\n- 광고홍보, 커뮤니케이션, 디자인, 문화예술 관련 전공 학부 졸업생 이상(2027년 2월 졸업예정자 불가)\n- Word, Power Point, Excel 기본 기능 활용 가능자",
+   "kind": "job",
+   "official": false,
+   "firstSeen": "2026-10-17",
+   "lastSeen": "2026-11-16",
+   "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=95312",
+   "attachments": [
+    {
+     "name": "(재)대림문화재단_입사지원서_양식.docx",
+     "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28602"
     }
    ],
    "detailAt": "2026-11-16",
@@ -8953,39 +9058,69 @@
    ]
   },
   {
-   "id": "momo365:28607",
-   "source": "momo365",
-   "sourceName": "모모365",
-   "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28607",
-   "title": "서울문화재단 예술지원사업 및 입주공모 업무 보조 단기인력 구인(연희문학창작촌)",
-   "company": "서울문화재단 연희문학창작촌",
-   "region": "서울",
-   "experience": "",
-   "education": "",
-   "employmentType": "임기∙계약직",
+   "id": "saramin:55577131",
+   "source": "saramin",
+   "sourceName": "사람인",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55577131",
+   "title": "(신입/경력)CCTV설치 및 통신공사 & CCTV 유지보수 직원 모집",
+   "company": "(주)한국아이티에스",
+   "region": "경북 경산시",
+   "experience": "경력무관",
+   "education": "학력무관",
+   "employmentType": "정규직",
    "salary": "",
-   "sector": "",
-   "postedAt": "2026-10-14",
-   "startAt": "2026-10-14",
-   "deadline": "2026-10-22",
-   "deadlineText": "",
-   "summary": "[아르바이트 모집] -근무기간 : 10.22.(목)~11.6(금) / 주 5일 근무 *11.3(화) 제외, 평일 기준 11일 -근무시간 : 9:00-18:00 (휴게시간 1시간 포함) *점심 미제공 *지각 및 근무기간 중 결근 불가 -근무장소 : 연희문학창작촌 운영사무실(서울시 서대문구 증가로2길 6-7) -근무내용 : 연희문학창작촌 지원사업 및 입주공모 행정심사 및 공간 운영 보조 *해당 공모 지원신청자 신청 불가, 실무자 및 관련자 신청 불가 -제출서류 : 이력서 1부 *10/18(일)까지 메일로 제출 (yeonhui@sfac.or.kr) *자유양식, 서류 검토 …",
-   "qualifications": "",
+   "sector": "통신공사, 통신",
+   "postedAt": "2026-11-16",
+   "startAt": "2026-11-16",
+   "deadline": null,
+   "deadlineText": "채용시",
+   "summary": "경북 경산시 · 정규직 · 경력무관 · 학력무관",
+   "qualifications": "경력: 경력무관\n학력: 학력무관",
    "kind": "job",
    "official": false,
-   "firstSeen": "2026-10-17",
+   "foundBy": "문화유산",
+   "firstSeen": "2026-11-16",
    "lastSeen": "2026-11-16",
-   "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=95331",
-   "attachments": [],
-   "detailAt": "2026-11-16",
-   "detailOk": true,
-   "score": 10,
+   "score": 9,
    "tier": "mid",
    "tags": [
-    "institution"
+    "conservation"
    ],
    "matched": [
-    "문화재단"
+    "보수"
+   ]
+  },
+  {
+   "id": "saramin:55580789",
+   "source": "saramin",
+   "sourceName": "사람인",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55580789",
+   "title": "재규어 랜드로버 대치전시장 영업직원 채용",
+   "company": "(주)천일오토모빌",
+   "region": "서울 강남구",
+   "experience": "경력 2~15년",
+   "education": "학력무관",
+   "employmentType": "정규직·계약직",
+   "salary": "",
+   "sector": "자동차영업, 유통업",
+   "postedAt": "2026-11-16",
+   "startAt": "2026-11-16",
+   "deadline": "2026-12-17",
+   "deadlineText": "",
+   "summary": "서울 강남구 · 정규직·계약직 · 경력 2~15년 · 학력무관",
+   "qualifications": "경력: 경력 2~15년\n학력: 학력무관",
+   "kind": "job",
+   "official": false,
+   "foundBy": "발굴",
+   "firstSeen": "2026-11-16",
+   "lastSeen": "2026-11-16",
+   "score": 9,
+   "tier": "mid",
+   "tags": [
+    "curation"
+   ],
+   "matched": [
+    "전시"
    ]
   },
   {
@@ -9617,7 +9752,7 @@
    "education": "학력무관",
    "employmentType": "정규직",
    "salary": "",
-   "sector": "문화재, 미술관, 연구원, 박물관, 도슨트",
+   "sector": "문화재, 연구원, 미술관, 박물관, 도슨트",
    "postedAt": "2026-11-09",
    "startAt": "2026-11-09",
    "deadline": "2026-11-30",
@@ -9653,7 +9788,7 @@
    "education": "대졸↑",
    "employmentType": "정규직",
    "salary": "",
-   "sector": "문화재, 미술관, 연구원, 박물관, 도슨트",
+   "sector": "문화재, 연구원, 미술관, 박물관, 도슨트",
    "postedAt": "2026-10-19",
    "startAt": "2026-10-19",
    "deadline": "2026-11-18",
@@ -10509,6 +10644,41 @@
    ]
   },
   {
+   "id": "saramin:55579521",
+   "source": "saramin",
+   "sourceName": "사람인",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55579521",
+   "title": "중견 전장사 유라시아 해외영업(팀장급)",
+   "company": "프로페셔날핸즈인핸즈코리아(주)",
+   "region": "서울 강남구",
+   "experience": "경력10년↑",
+   "education": "대졸↑",
+   "employmentType": "정규직",
+   "salary": "",
+   "sector": "바이어발굴/관리, 매출관리, 해외영업관리, 기술영업, 무역사무원",
+   "postedAt": "2026-11-16",
+   "startAt": "2026-11-16",
+   "deadline": "2026-12-01",
+   "deadlineText": "",
+   "summary": "서울 강남구 · 정규직 · 경력10년↑ · 대졸↑",
+   "qualifications": "경력: 경력10년↑\n학력: 대졸↑",
+   "kind": "job",
+   "official": false,
+   "foundBy": "발굴",
+   "firstSeen": "2026-11-16",
+   "lastSeen": "2026-11-16",
+   "score": 5,
+   "tier": "low",
+   "tags": [
+    "excavation",
+    "research"
+   ],
+   "matched": [
+    "발굴",
+    "역사"
+   ]
+  },
+  {
    "id": "saramin:55559250",
    "source": "saramin",
    "sourceName": "사람인",
@@ -11230,6 +11400,44 @@
    ]
   },
   {
+   "id": "khs:34646",
+   "source": "khs",
+   "sourceName": "국가유산청",
+   "url": "https://www.khs.go.kr/multiBbz/selectMultiBbzView.do?id=10048&no=34646&bbzId=newexam&pageIndex=1&pageUnit=10&strWhere=&searchWrd=&sdate=&edate=&mn=NS_01_06",
+   "title": "2026년 제8차 국립고궁박물관 공무직(안전관리원) 채용 서류전형 합격자 발표 및 면접일정 공고",
+   "company": "국가유산청",
+   "region": "",
+   "experience": "",
+   "education": "",
+   "employmentType": "공무직",
+   "salary": "",
+   "sector": "",
+   "postedAt": "2026-11-16",
+   "startAt": "2026-11-16",
+   "deadline": "2026-11-19",
+   "deadlineText": "",
+   "summary": "",
+   "qualifications": "",
+   "kind": "result",
+   "official": true,
+   "author": "정상헌",
+   "firstSeen": "2026-11-16",
+   "lastSeen": "2026-11-16",
+   "score": 2,
+   "tier": "low",
+   "tags": [
+    "curation",
+    "institution"
+   ],
+   "matched": [
+    "박물관",
+    "국립고궁박물관",
+    "고궁박물관",
+    "국가유산청",
+    "국가유산"
+   ]
+  },
+  {
    "id": "khs:34628",
    "source": "khs",
    "sourceName": "국가유산청",
@@ -11352,7 +11560,7 @@
    "id": "khs:34620",
    "source": "khs",
    "sourceName": "국가유산청",
-   "url": "https://www.khs.go.kr/multiBbz/selectMultiBbzView.do?id=10022&no=34620&bbzId=newexam&pageIndex=2&pageUnit=10&strWhere=&searchWrd=&sdate=&edate=&mn=NS_01_06",
+   "url": "https://www.khs.go.kr/multiBbz/selectMultiBbzView.do?id=10022&no=34620&bbzId=newexam&pageIndex=3&pageUnit=10&strWhere=&searchWrd=&sdate=&edate=&mn=NS_01_06",
    "title": "국가유산청 역사유적정책과 기간제근로자(사무원-육아휴직대체) 채용 서류전형 합격자 및 면접전형 공고",
    "company": "국가유산청",
    "region": "",
