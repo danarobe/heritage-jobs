@@ -1,56 +1,56 @@
 {
- "updatedAt": "2026-11-20T17:58:19.876Z",
+ "updatedAt": "2026-11-21T03:25:12.624Z",
  "today": "2026-11-21",
- "count": 342,
- "newToday": 1,
+ "count": 344,
+ "newToday": 3,
  "sources": {
   "saramin": {
    "name": "사람인",
    "ok": true,
    "count": 427,
-   "ms": 33268
+   "ms": 33207
   },
   "jobkorea": {
    "name": "잡코리아",
    "ok": true,
    "count": 196,
-   "ms": 19379
+   "ms": 20411
   },
   "khs": {
    "name": "국가유산청",
    "ok": true,
    "count": 30,
-   "ms": 9688
+   "ms": 9754
   },
   "nrich": {
    "name": "국립문화유산연구원",
    "ok": true,
    "count": 20,
-   "ms": 6343
+   "ms": 18082
   },
   "kha": {
    "name": "국가유산진흥원",
    "ok": true,
    "count": 20,
-   "ms": 4472
+   "ms": 4261
   },
   "alio": {
    "name": "잡알리오",
    "ok": true,
    "count": 4,
-   "ms": 11346
+   "ms": 11120
   },
   "gojobs": {
    "name": "나라일터",
    "ok": true,
    "count": 48,
-   "ms": 16071
+   "ms": 16755
   },
   "momo365": {
    "name": "모모365",
    "ok": true,
    "count": 100,
-   "ms": 4938
+   "ms": 2624
   }
  },
  "categories": [
@@ -488,7 +488,7 @@
    "salary": "",
    "sector": "",
    "postedAt": "2026-11-09",
-   "startAt": "2026-11-16",
+   "startAt": "2026-11-09",
    "deadline": "2026-11-25",
    "deadlineText": "",
    "summary": "국립무형유산원 공고 제2026-86호 국립무형유산원에서 다음과 같이 공무직근로자(안내해설사)를 채용하오니 참신하고 유능한 많은 응모바랍니다. 2026년 11월 9일 국립무형유산원장 1. 채용 예정분야 및 인원 ㅇ 공무직근로자(안내해설사/단시간) : 2명 2. 전형일정 ㅇ 응시원서 접수: 2026. 11. 16(월) ~ 19(목) ㅇ 서류전형 합격자 발표: 2026. 11. 25(수) ㅇ 면접시험: 2026. 11. 26(목) ~ 12.3(목) 중 1일 ㅇ 최종합격자 발표: 2026. 12. 4(금) 3. 문의사항: 국립무형유산원 공무직근로자 채용담당자(063-280-…",
@@ -2752,7 +2752,7 @@
    "startAt": "2026-11-05",
    "deadline": "2026-11-30",
    "deadlineText": "",
-   "summary": "송은문화재단에서 《제26회 송은미술대상전》 도슨트/지킴이를 모집합니다. 송은문화재단은 2026년 12월 16일부터 2027년 2월 20일까지 《제26회 송은미술대상전》을 개최합니다. 송은미술대상은 국내 젊은 작가들의 안정적인 창작 환경 조성과 장기적인 예술 활동을 지원하기 위해 설립된 송은문화재단의 주요한 프로그램입니다. 2001년 제정된 이래 한국 동시대 미술의 성장과 변화를 함께해왔으며, 2021년에는 제정 20주년 및 신사옥 개관을 기념해 지원 자격을 완화하고 본선 전시 참여 및 수상 혜택을 강화하는 등 한층 발전된 내용으로 개편되었습니다. 더불어 다양한 전시와…",
+   "summary": "(주)로렌스 제프리스 · 서울 · 임기∙계약직",
    "qualifications": "송은문화재단은 2026년 12월 16일부터 2027년 2월 20일까지 《제26회 송은미술대상전》을 개최합니다. 송은미술대상은 국내 젊은 작가들의 안정적인 창작 환경 조성과 장기적인 예술 활동을 지원하기 위해 설립된 송은문화재단의 주요한 프로그램입니다. 2001년 제정된 이래 한국 동시대 미술의 성장과 변화를 함께해왔으며, 2021년에는 제정 20주년 및 신사옥 개관을 기념해 지원 자격을 완화하고 본선 전시 참여 및 수상 혜택을 강화하는 등 한층 발전된 내용으로 개편되었습니다. 더불어 다양한 전시와 프로그램을 통해 역량 있는 작가를 발굴·지원해온 서울시립미술관과 까르띠에 현대미술재단의 철학을 공유하는 까르띠에와의 지속적인 협력을 통해 프로그램의 지향점을 확장하고 있습니다.\n본 전시에는 총 702명의 지원자 중 예선 심사를 통과한 작가 20인이 참여하고, 전시 기간 중 최종 심사를 거쳐 대상 1인이 선정됩니다. 이번 전시를 통해 동시대 한국 미술의 현재와 미래를 살펴보시기 바라며, 참여작가 강철규, 김진희, 노송희, 로사, 무니페리, 박예림, 박희자, 방성욱, 서성협, 서지우, 우민정, 이동훈, 이민재, 이예인, 이웅철, 임재균, 장한나, 전형산, 최가영, 최수…",
    "kind": "job",
    "official": false,
@@ -2813,45 +2813,6 @@
     "보수",
     "국가유산",
     "문화재"
-   ]
-  },
-  {
-   "id": "momo365:28747",
-   "source": "momo365",
-   "sourceName": "모모365",
-   "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28747",
-   "title": "[일민미술관] 《마나》 전시 운영 스태프 모집 공고",
-   "company": "(재)일민문화재단",
-   "region": "서울",
-   "experience": "",
-   "education": "",
-   "employmentType": "일용직∙아르바이트",
-   "salary": "",
-   "sector": "",
-   "postedAt": "2026-10-28",
-   "startAt": "2026-10-28",
-   "deadline": "2026-11-04",
-   "deadlineText": "",
-   "summary": "일민미술관에서 《마나》의 운영을 함께할 스태프를 모집합니다. 많은 관심과 지원 바랍니다. 1. 채용 분야 및 인원 1) 전시 운영 스태프 평일 4인 / 주말 4인(총 8인) 2. 근무 조건 1) 근무 기간: 2026.11.24.(화)―2027.1.24.(일) *매주 월요일 및 1.1.(금) 신정 당일 휴관 2) 근무 시간 — 평일(화, 수, 목, 금) 오전 10시 30분―오후 7시 30분(8시간 근무, 휴게 시간 1시간 포함) — 주말(토, 일) 오전 10시 30분―오후 7시 30분(8시간 근무, 휴게 시간 1시간 포함) 3) 급여: 시급 10,320원(2026년),…",
-   "qualifications": "4. 지원 요건\n1) 문화 예술 분야에 관심을 갖고 있는 자\n2) 동종업계 유경험자 및 전시 기간 동안 성실히 근무 가능한 자\n3) 근무 기간 중 공휴일에 근무 가능한 자",
-   "kind": "job",
-   "official": false,
-   "firstSeen": "2026-11-03",
-   "lastSeen": "2026-11-21",
-   "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=95510",
-   "attachments": [],
-   "detailAt": "2026-11-21",
-   "detailOk": true,
-   "score": 28,
-   "tier": "high",
-   "tags": [
-    "curation",
-    "institution"
-   ],
-   "matched": [
-    "전시",
-    "미술관",
-    "문화재단"
    ]
   },
   {
@@ -3171,6 +3132,45 @@
    "matched": [
     "국가유산수리",
     "국가유산"
+   ]
+  },
+  {
+   "id": "momo365:28747",
+   "source": "momo365",
+   "sourceName": "모모365",
+   "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28747",
+   "title": "[일민미술관] 《마나》 전시 운영 스태프 모집 공고",
+   "company": "(재)일민문화재단",
+   "region": "서울",
+   "experience": "",
+   "education": "",
+   "employmentType": "일용직∙아르바이트",
+   "salary": "",
+   "sector": "",
+   "postedAt": "2026-10-28",
+   "startAt": "2026-10-28",
+   "deadline": "2026-11-04",
+   "deadlineText": "",
+   "summary": "(재)일민문화재단 · 서울 · 일용직∙아르바이트",
+   "qualifications": "4. 지원 요건\n1) 문화 예술 분야에 관심을 갖고 있는 자\n2) 동종업계 유경험자 및 전시 기간 동안 성실히 근무 가능한 자\n3) 근무 기간 중 공휴일에 근무 가능한 자",
+   "kind": "job",
+   "official": false,
+   "firstSeen": "2026-11-03",
+   "lastSeen": "2026-11-21",
+   "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=95510",
+   "attachments": [],
+   "detailAt": "2026-11-21",
+   "detailOk": true,
+   "score": 27,
+   "tier": "high",
+   "tags": [
+    "curation",
+    "institution"
+   ],
+   "matched": [
+    "전시",
+    "미술관",
+    "문화재단"
    ]
   },
   {
@@ -4092,7 +4092,7 @@
    "salary": "",
    "sector": "",
    "postedAt": "2026-11-09",
-   "startAt": "2026-11-10",
+   "startAt": "2026-11-09",
    "deadline": "2026-11-17",
    "deadlineText": "",
    "summary": "국가유산청 궁능유적본부 세종대왕유적관리소에서 다음과 같이 공무직 등 근로자를 채용하고자 하니 많은 지원 바랍니다. 1. 채용분야 및 인원 ㅇ (공무직) 시설물청소원 1명 ㅇ (공무직) 안전관리원 야간 1명 2. 선발방법 ㅇ 1차 : 서류전형 ㅇ 2차 : 면접심사(서류전형 합격자에 한함) 3. 채용일정 ㅇ 응시원서 접수 : 2026. 11. 10.(화)~11. 17.(화) ㅇ 서류전형 합격자 발표 : 2026. 11. 20.(금) ㅇ 면접심사 예정일 : 2026. 11. 26.(목) ㅇ 최종합격자 발표 : 2026. 12. 3.(목) * 자격 및 근무조건, 원서접수 방…",
@@ -4345,7 +4345,7 @@
    "startAt": "2026-11-02",
    "deadline": "2026-11-08",
    "deadlineText": "",
-   "summary": "프레젠스(Presence)는 예술 작품과 프로젝트 그리고 브랜드 철학에 있는 소중한 가치를 연구하고 조명하는 커뮤니케이션 컨설팅 회사입니다. 롯데뮤지엄에서 개최하는 전시 《사랑을 담아, 미셸 들라크루아 드림》도슨트를 모집합니다. 본 전시에 관심을 갖고 가치를 전하는 일에 함께 하실 분들의 많은 관심과 지원 바랍니다. 《사랑을 담아, 미셸 들라크루아 드림》 전시 개요 ▷기간 : 2026.12.04(금) - 2027.03.07(일) ▷장소 : 롯데뮤지엄(서울특별시 송파구 올림픽로 300, 롯데월드타워 7층) ▷전시 내용 롯데뮤지엄은 2026년 한불수교 140주년을 기념하…",
+   "summary": "프레젠스 · 서울 · 일용직∙아르바이트",
    "qualifications": "1. 모집부문 및 자격요건\n▷모집부문 : 도슨트\n□담당업무\n- 전시 작품 설명, 전시 관람에 필요한 전반적인 설명 및 안내 지원 등\n- 전시장 운영 지원\n□자격요건\n- 미술 및 문화예술 관련 분야 전공자 우대\n- 작가 및 전시를 이해하고 가치를 전하는 일에 열정을 가진 자\n- 전시 운영의 일원으로 긴밀하게 협력하고 관람객 응대에 유연한 소통 및 문제해결 능력을 가진 자\n- 한국어와 영어 도슨트 투어 및 외국인 응대가 가능한 자",
    "kind": "job",
    "official": false,
@@ -5139,6 +5139,62 @@
    ]
   },
   {
+   "id": "gojobs:306844",
+   "source": "gojobs",
+   "sourceName": "나라일터",
+   "url": "https://www.gojobs.go.kr/apmView.do?empmnsn=306844",
+   "title": "2026년 제3차 (재)생거진천문화재단 직원채용 공고(정규직)",
+   "company": "재단법인생거진천문화재단",
+   "region": "충청북도 진천군",
+   "experience": "",
+   "education": "",
+   "employmentType": "정규직",
+   "salary": "",
+   "sector": "",
+   "postedAt": "2026-10-27",
+   "startAt": "2026-10-27",
+   "deadline": "2026-11-05",
+   "deadlineText": "",
+   "summary": "채용직급: 대리 2명\n근무지역: 충청북도 진천군\n재단법인 생거진천 문화재단 직원을 다음과 같이 공개 모집하오니, 유능한 역량을 지닌 인재들의 많은 응모 바랍니다. 1. 채용인원 : 2명 2. 채용분야 : (정규직) 경영지원(1명), 문화‧예술‧관광(1명) 3. 접수기간 : 2026. 10. 27.(화) ~ 11. 5.(목) 18:00까지 4. 접수방법 : 온라인 채용시스템(https://dware.intojob.co.kr/main/jccf.jsp) 5. 문 의 처 : 생거진…",
+   "qualifications": "자격요건\nㆍ 문화예술 및 관광관련 분야 학사학위를 취득하고 실무경력이 1 년 이상인 사람\nㆍ 문화예술 및 관광관련 분야 실무경력이 2 년 이상인 사람\n세부요건\nㆍ경영지원\n- 국가 , 지방자치단체 , 공공기관 , 민간기업 등에서 일반 행정 분야 ( 경영 , 인사 , 노무 등 ) 업무로\n근무한 경력 ※ 민간기업 : 문화예술 및 관광관련\nㆍ 문화 ㆍ 예술 ㆍ 관광\n- 국가 , 지방자치단체 , 공공기관 , 민간기업 등에서 전시 기획 , 축제 , 관광 분야 등의 업무로 근무\n한 경력\n근로조건\n- 임용일로부터 정년까지 ※ 임용일 : 2026. 12 ~ 2027. 1 월중\n- 주 5 일 40 시간 근무 / 일 8 시간 근무 (09:00~18:00)\n- 업무상 필요한 경우 주말 · 야간근무 등 근무시간 외 근무 가능\n지원방법\nㆍ생거진천문화재단 채용 사이트를 통한 지원",
+   "kind": "job",
+   "official": true,
+   "foundBy": "문화재",
+   "firstSeen": "2026-10-28",
+   "lastSeen": "2026-11-21",
+   "attachments": [
+    {
+     "name": "★2026년 제3차 (재)생거진천 문화재단 직원채용 공고문.hwp",
+     "url": "https://www.gojobs.go.kr/apmView.do?empmnsn=306844"
+    },
+    {
+     "name": "★2026년 제3차 (재)생거진천 문화재단 직원채용 공고문.pdf",
+     "url": "https://www.gojobs.go.kr/apmView.do?empmnsn=306844"
+    }
+   ],
+   "detailAt": "2026-11-21",
+   "detailOk": true,
+   "score": 21,
+   "tier": "high",
+   "tags": [
+    "curation",
+    "institution",
+    "research"
+   ],
+   "matched": [
+    "전시",
+    "문화재단",
+    "사학"
+   ],
+   "alsoOn": [
+    {
+     "source": "momo365",
+     "sourceName": "모모365",
+     "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28754"
+    }
+   ]
+  },
+  {
    "id": "khs:34657",
    "source": "khs",
    "sourceName": "국가유산청",
@@ -5332,7 +5388,7 @@
    "salary": "",
    "sector": "",
    "postedAt": "2026-11-09",
-   "startAt": "2026-11-16",
+   "startAt": "2026-11-09",
    "deadline": "2026-11-20",
    "deadlineText": "",
    "summary": "채용직급: 기간제근로자 8명\n근무지역: 충청남도 홍성군\n홍성군 문화유산과에서 홍주읍성 및 홍주성역사관, 홍주천년문화체험관, 역사시설 3개소(홍주의사총, 김좌진장군생가지, 한용운선생생가지)의 시설 관리 등을 위한 기간제 근로자를 채용하고자 합니다. 1. 채용분야 - 홍주성역사관 및 홍주읍성(안내데스크 관리 / 시설관리 및 환경정비) - 홍주천년문화체험관 및 홍주읍성(시설관리 및 환경정화 / 한복체험실 관리 / 전통문화체험실 관리) - 역사시설 3개소(홍주의사총, 김좌진장군생가지, 한…",
@@ -6515,17 +6571,17 @@
    "title": "문화재조사 업무를 담당할 성실한 직원을 채용",
    "company": "재단법인 해원문화유산연구원",
    "region": "전북 군산시",
-   "experience": "경력무관 학력",
+   "experience": "경력무관",
    "education": "고졸이상",
    "employmentType": "정규직",
-   "salary": "연봉 2760 ~3000 만원",
+   "salary": "연봉 2,760~3,000만원",
    "sector": "연봉 2,760~3,000만원",
    "postedAt": "2026-10-20",
    "startAt": "2026-10-20",
    "deadline": "2026-12-19",
    "deadlineText": "",
-   "summary": "고용형태: 정규직\n급여: 연봉 2760 ~3000 만원\n근무지: 전북 군산시",
-   "qualifications": "경력: 경력무관 학력\n학력: 고졸이상",
+   "summary": "전북 군산시 · 경력무관 · 연봉 2,760~3,000만원 · 연봉 2,760~3,000만원",
+   "qualifications": "경력: 경력무관",
    "kind": "job",
    "official": false,
    "foundBy": "문화유산",
@@ -6764,60 +6820,6 @@
     "큐레이터",
     "전시기획",
     "문화기획"
-   ]
-  },
-  {
-   "id": "gojobs:306844",
-   "source": "gojobs",
-   "sourceName": "나라일터",
-   "url": "https://www.gojobs.go.kr/apmView.do?empmnsn=306844",
-   "title": "2026년 제3차 (재)생거진천문화재단 직원채용 공고(정규직)",
-   "company": "재단법인생거진천문화재단",
-   "region": "충청북도 진천군",
-   "experience": "",
-   "education": "",
-   "employmentType": "정규직",
-   "salary": "",
-   "sector": "",
-   "postedAt": "2026-10-27",
-   "startAt": "2026-10-27",
-   "deadline": "2026-11-05",
-   "deadlineText": "",
-   "summary": "채용직급: 대리 2명\n근무지역: 충청북도 진천군\n재단법인 생거진천 문화재단 직원을 다음과 같이 공개 모집하오니, 유능한 역량을 지닌 인재들의 많은 응모 바랍니다. 1. 채용인원 : 2명 2. 채용분야 : (정규직) 경영지원(1명), 문화‧예술‧관광(1명) 3. 접수기간 : 2026. 10. 27.(화) ~ 11. 5.(목) 18:00까지 4. 접수방법 : 온라인 채용시스템(https://dware.intojob.co.kr/main/jccf.jsp) 5. 문 의 처 : 생거진…",
-   "qualifications": "자격요건\nㆍ 문화예술 및 관광관련 분야 학사학위를 취득하고 실무경력이 1 년 이상인 사람\nㆍ 문화예술 및 관광관련 분야 실무경력이 2 년 이상인 사람\n세부요건\nㆍ경영지원\n- 국가 , 지방자치단체 , 공공기관 , 민간기업 등에서 일반 행정 분야 ( 경영 , 인사 , 노무 등 ) 업무로\n근무한 경력 ※ 민간기업 : 문화예술 및 관광관련\nㆍ 문화 ㆍ 예술 ㆍ 관광\n- 국가 , 지방자치단체 , 공공기관 , 민간기업 등에서 전시 기획 , 축제 , 관광 분야 등의 업무로 근무\n한 경력\n근로조건\n- 임용일로부터 정년까지 ※ 임용일 : 2026. 12 ~ 2027. 1 월중\n- 주 5 일 40 시간 근무 / 일 8 시간 근무 (09:00~18:00)\n- 업무상 필요한 경우 주말 · 야간근무 등 근무시간 외 근무 가능\n지원방법\nㆍ생거진천문화재단 채용 사이트를 통한 지원",
-   "kind": "job",
-   "official": true,
-   "foundBy": "문화재",
-   "firstSeen": "2026-10-28",
-   "lastSeen": "2026-11-21",
-   "attachments": [
-    {
-     "name": "★2026년 제3차 (재)생거진천 문화재단 직원채용 공고문.hwp",
-     "url": "https://www.gojobs.go.kr/apmView.do?empmnsn=306844"
-    },
-    {
-     "name": "★2026년 제3차 (재)생거진천 문화재단 직원채용 공고문.pdf",
-     "url": "https://www.gojobs.go.kr/apmView.do?empmnsn=306844"
-    }
-   ],
-   "detailAt": "2026-11-21",
-   "detailOk": true,
-   "score": 17,
-   "tier": "high",
-   "tags": [
-    "institution",
-    "curation",
-    "research"
-   ],
-   "matched": [
-    "문화재단"
-   ],
-   "alsoOn": [
-    {
-     "source": "momo365",
-     "sourceName": "모모365",
-     "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28754"
-    }
    ]
   },
   {
@@ -7190,7 +7192,7 @@
    "salary": "",
    "sector": "",
    "postedAt": "2026-11-09",
-   "startAt": "2026-11-16",
+   "startAt": "2026-11-09",
    "deadline": "2026-11-20",
    "deadlineText": "",
    "summary": "채용직급: 기간제근로자 1명\n근무지역: 전국\n<국립대한민국임시정부기념관 공고 제2026-39호> 국립대한민국임시정부기념관 연구교육과 육아휴직 대체 기간제근로자(학예보조: 교육 개발·운영) 채용 계획을 붙임과 같이 공고합니다. 2026. 11. 9. 국립대한민국임시정부기념관장",
@@ -7792,6 +7794,51 @@
    ]
   },
   {
+   "id": "momo365:28992",
+   "source": "momo365",
+   "sourceName": "모모365",
+   "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28992",
+   "title": "포항문화재단 시설운영팀 기간제근로자(하우스매니저) 채용 공고",
+   "company": "재단법인 포항문화재단",
+   "region": "경북",
+   "experience": "",
+   "education": "",
+   "employmentType": "임기∙계약직",
+   "salary": "",
+   "sector": "",
+   "postedAt": "2026-11-26",
+   "startAt": "2026-11-26",
+   "deadline": "2026-12-06",
+   "deadlineText": "",
+   "summary": "재단법인 포항문화재단 · 경북 · 임기∙계약직",
+   "qualifications": "",
+   "kind": "job",
+   "official": false,
+   "firstSeen": "2026-11-21",
+   "lastSeen": "2026-11-21",
+   "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=95769",
+   "attachments": [
+    {
+     "name": "(붙임2)응시원서및자기소개서외제출서류서식.hwp",
+     "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28992"
+    },
+    {
+     "name": "채용공고문.pdf",
+     "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28992"
+    }
+   ],
+   "detailAt": "2026-11-21",
+   "detailOk": true,
+   "score": 12,
+   "tier": "mid",
+   "tags": [
+    "institution"
+   ],
+   "matched": [
+    "문화재단"
+   ]
+  },
+  {
    "id": "momo365:28983",
    "source": "momo365",
    "sourceName": "모모365",
@@ -8266,42 +8313,6 @@
    ]
   },
   {
-   "id": "momo365:28848",
-   "source": "momo365",
-   "sourceName": "모모365",
-   "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28848",
-   "title": "롯데뮤지엄 “사랑을 담아, 미셸 들라크루아 드림” 전시 티켓 스태프/운영 스태프 모집공고",
-   "company": "프레젠스",
-   "region": "서울",
-   "experience": "",
-   "education": "",
-   "employmentType": "일용직∙아르바이트",
-   "salary": "",
-   "sector": "",
-   "postedAt": "2026-11-09",
-   "startAt": "2026-11-09",
-   "deadline": "2026-11-15",
-   "deadlineText": "",
-   "summary": "프레젠스(Presence)는 예술 작품과 프로젝트 그리고 브랜드 철학에 있는 소중한 가치를 연구하고 조명하는 커뮤니케이션 컨설팅 회사입니다. 롯데뮤지엄에서 개최하는 《사랑을 담아, 미셸 들라크루아 드림》 티켓 스태프와 운영 스태프를 모집합니다. 본 전시에 관심을 갖고 가치를 전하는 일에 함께 하실 분들의 많은 관심과 지원 바랍니다. 《사랑을 담아, 미셸 들라크루아 드림》 전시 개요 ▷기간 : 2026.12.04(금) - 2027.03.07(일) ▷장소 : 롯데뮤지엄(서울특별시 송파구 올림픽로 300, 롯데월드타워 7층) ▷전시 내용 롯데뮤지엄은 2026년 한불수교 1…",
-   "qualifications": "1. 모집부문 및 자격요건\n▷모집부문\n1) 티켓 스태프\n□담당업무\n- 티켓 발권 및 예매 시스템 운영",
-   "kind": "job",
-   "official": false,
-   "firstSeen": "2026-11-09",
-   "lastSeen": "2026-11-21",
-   "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=95627",
-   "attachments": [],
-   "detailAt": "2026-11-21",
-   "detailOk": true,
-   "score": 12,
-   "tier": "mid",
-   "tags": [
-    "curation"
-   ],
-   "matched": [
-    "전시"
-   ]
-  },
-  {
    "id": "momo365:28830",
    "source": "momo365",
    "sourceName": "모모365",
@@ -8318,7 +8329,7 @@
    "startAt": "2026-11-05",
    "deadline": "2026-11-13",
    "deadlineText": "",
-   "summary": "2026년 11월 13일부터 12월 30일까지 PKM 갤러리에서 진행되는 정영도 개인전의 주말 전시관리요원을 모집합니다. ● 모집분야 및 인원 - PKM 갤러리 정영도 개인전 전시관리요원 2명 ● 업무내용 - 관람객 응대 - 전시장 관리 - 작품 안전 관리 외 ● 근무조건 - 근무기간: 2026년 11월 15일 (일) ~ 12월 27일 (일) - 근무요일 및 시간: 근무기간 내 매주 일요일 (총 7일) 10:00~18:00 *휴게시간 1시간 제외 일일 7시간 근무 - 근무지: PKM 갤러리 (서울 종로구 삼청로7길 40) - 급여: 시급 12,000원 - 형태: 단기…",
+   "summary": "(주)피케이엠갤러리 · 서울 · 일용직∙아르바이트",
    "qualifications": "● 자격요건\n- 미술 문화에 관심 있는 분\n- 서비스 마인드를 갖춘 분\n- 전시 종료일까지 결근 없이 근무 가능한 분\n- 기본적인 영어 회화 가능한 분\n- 관련 업무 경력자 우대\n● 지원방법\n- 접수기간: 2026년 10월 30일 (금) ~ 채용 시 마감",
    "kind": "job",
    "official": false,
@@ -8462,17 +8473,17 @@
    "title": "(주)씨피엔문화유산 영상 편집자 채용",
    "company": "㈜씨피엔문화유산",
    "region": "충남 계룡시",
-   "experience": "경력무관 학력",
+   "experience": "경력무관",
    "education": "학력무관",
    "employmentType": "정규직",
-   "salary": "연봉 32,000~34,000만원 (면접 후 결정)",
+   "salary": "연봉 32,000~34,000만원",
    "sector": "신문·잡지·언론사, 콘텐츠마케터, 그래픽디자이너, 영상편집자",
    "postedAt": "2026-10-30",
    "startAt": "2026-10-30",
    "deadline": null,
    "deadlineText": "상시채용",
-   "summary": "모집분야: 마케팅 콘텐츠\n고용형태: 정규직\n급여: 연봉 32,000~34,000만원 (면접 후 결정)\n근무지: 충남 계룡시 엄사면 번영로 113-32 (엄사리, 계룡파라디아) 상가동 201호\n근무시간: 주5일(월~금)",
-   "qualifications": "경력: 경력무관 학력\n학력: 학력무관",
+   "summary": "충남 계룡시 · 경력무관 · 신문·잡지·언론사, 콘텐츠마케터, 그래픽디자이너, 영상편집자 · 연봉 32,000~34,000만원",
+   "qualifications": "경력: 경력무관",
    "kind": "job",
    "official": false,
    "foundBy": "문화유산",
@@ -8495,7 +8506,7 @@
    "title": "[폭발성장 에이전시] 크로마엔터테인먼트 지식교양 / 브랜드다큐 제작 PD",
    "company": "㈜크로마엔터테인먼트",
    "region": "서울 강남구",
-   "experience": "(3년이상)",
+   "experience": "유연근무제 시행중",
    "education": "학력무관",
    "employmentType": "정규직",
    "salary": "회사 내규에 따름 (면접 후 결정)",
@@ -8504,8 +8515,8 @@
    "startAt": "2026-11-02",
    "deadline": "2026-12-02",
    "deadlineText": "",
-   "summary": "모집분야: 지식교양 / 브랜드다큐 콘텐츠 제작 PD\n고용형태: 정규직\n급여: 회사 내규에 따름 (면접 후 결정)\n근무지: 서울 강남구 선릉로112길 34 (삼성동, HS빌딩)\n근무시간: 주5일(월~금)",
-   "qualifications": "경력: (3년이상)\n학력: 학력무관",
+   "summary": "서울 강남구 · 유연근무제 시행중 · 광고·홍보·전시, PD·감독",
+   "qualifications": "경력: 유연근무제 시행중",
    "kind": "job",
    "official": false,
    "foundBy": "문화유산",
@@ -10070,6 +10081,42 @@
    ]
   },
   {
+   "id": "momo365:28848",
+   "source": "momo365",
+   "sourceName": "모모365",
+   "url": "https://www.momo365.net/Recruit?ViewType=view&seq=28848",
+   "title": "롯데뮤지엄 “사랑을 담아, 미셸 들라크루아 드림” 전시 티켓 스태프/운영 스태프 모집공고",
+   "company": "프레젠스",
+   "region": "서울",
+   "experience": "",
+   "education": "",
+   "employmentType": "일용직∙아르바이트",
+   "salary": "",
+   "sector": "",
+   "postedAt": "2026-11-09",
+   "startAt": "2026-11-09",
+   "deadline": "2026-11-15",
+   "deadlineText": "",
+   "summary": "프레젠스 · 서울 · 일용직∙아르바이트",
+   "qualifications": "1. 모집부문 및 자격요건\n▷모집부문\n1) 티켓 스태프\n□담당업무\n- 티켓 발권 및 예매 시스템 운영",
+   "kind": "job",
+   "official": false,
+   "firstSeen": "2026-11-09",
+   "lastSeen": "2026-11-21",
+   "applyUrl": "https://artmore.kr/sub/recruit/search_view.do?rec_idx=95627",
+   "attachments": [],
+   "detailAt": "2026-11-21",
+   "detailOk": true,
+   "score": 9,
+   "tier": "mid",
+   "tags": [
+    "curation"
+   ],
+   "matched": [
+    "전시"
+   ]
+  },
+  {
    "id": "saramin:55453043",
    "source": "saramin",
    "sourceName": "사람인",
@@ -10658,6 +10705,39 @@
     "국가유산청",
     "문화유산",
     "국가유산"
+   ]
+  },
+  {
+   "id": "saramin:55637114",
+   "source": "saramin",
+   "sourceName": "사람인",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55637114",
+   "title": "마케팅 기획 및 문화기획 운영 담당자를 찾고 있어요",
+   "company": "(주)띵띵연구소",
+   "region": "경북 칠곡군",
+   "experience": "경력무관",
+   "education": "학력무관",
+   "employmentType": "계약직",
+   "salary": "250 만원",
+   "sector": "사업기획, 마케팅기획, 마케팅전략, SNS마케팅, 콘텐츠기획",
+   "postedAt": "2026-11-21",
+   "startAt": "2026-11-21",
+   "deadline": "2026-12-06",
+   "deadlineText": "",
+   "summary": "경북 칠곡군 · 계약직 · 경력무관 · 학력무관 · 250 만원",
+   "qualifications": "경력: 경력무관\n학력: 학력무관",
+   "kind": "job",
+   "official": false,
+   "foundBy": "발굴",
+   "firstSeen": "2026-11-21",
+   "lastSeen": "2026-11-21",
+   "score": 6,
+   "tier": "low",
+   "tags": [
+    "education"
+   ],
+   "matched": [
+    "문화기획"
    ]
   },
   {
@@ -13449,7 +13529,7 @@
    "startAt": "2026-10-22",
    "deadline": "2026-10-27",
    "deadlineText": "",
-   "summary": "채용구분: 신입+경력\n고용형태: 비정규직\n채용인원: 6명\n근무지: 전북\n근무분야: 계약직\n학력: 학력무관",
+   "summary": "국립공원공단 · 전북 · 비정규직 · 마감",
    "qualifications": "우대: 취업지원대상자, 장애인, 자립준비청년",
    "kind": "job",
    "official": true,
