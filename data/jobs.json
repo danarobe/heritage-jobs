@@ -1,56 +1,56 @@
 {
- "updatedAt": "2026-11-21T16:55:51.809Z",
+ "updatedAt": "2026-11-22T02:34:55.359Z",
  "today": "2026-11-22",
- "count": 334,
- "newToday": 0,
+ "count": 335,
+ "newToday": 1,
  "sources": {
   "saramin": {
    "name": "사람인",
    "ok": true,
-   "count": 406,
-   "ms": 34424
+   "count": 403,
+   "ms": 34002
   },
   "jobkorea": {
    "name": "잡코리아",
    "ok": true,
    "count": 196,
-   "ms": 21665
+   "ms": 22791
   },
   "khs": {
    "name": "국가유산청",
    "ok": true,
    "count": 30,
-   "ms": 11331
+   "ms": 11766
   },
   "nrich": {
    "name": "국립문화유산연구원",
    "ok": true,
    "count": 20,
-   "ms": 7072
+   "ms": 7690
   },
   "kha": {
    "name": "국가유산진흥원",
    "ok": true,
    "count": 20,
-   "ms": 5050
+   "ms": 5689
   },
   "alio": {
    "name": "잡알리오",
    "ok": true,
    "count": 4,
-   "ms": 10022
+   "ms": 10471
   },
   "gojobs": {
    "name": "나라일터",
    "ok": true,
    "count": 48,
-   "ms": 16820
+   "ms": 23299
   },
   "momo365": {
    "name": "모모365",
    "ok": true,
    "count": 100,
-   "ms": 2873
+   "ms": 3123
   }
  },
  "categories": [
@@ -1378,7 +1378,7 @@
    "salary": "",
    "sector": "",
    "postedAt": "2026-11-10",
-   "startAt": "2026-11-11",
+   "startAt": "2026-11-10",
    "deadline": "2026-11-24",
    "deadlineText": "",
    "summary": "국가유산진흥원 인천국제공항 전통문화사업 홍보 강화를 위해 온라인 콘텐츠 기획·제작 및 운영·관리 홍보 전문가를 다음과 같이 공모하오니 관심 있는 분들의 많은 참여를 바랍니다. 가. 공고명 : 2027년 국가유산진흥원 인천국제공항 전통문화사업 홍보 전문인력 공개모집 나. 모집분야 : 인천국제공항 전통문화사업 홍보 다. 채용형태 : 위촉(전문)직 라. 위촉내용 1) 위촉기간 : 2027. 1. 1 ~ 12. 31. 2) 위촉료 : 월 2,000,000원(세전) 3) 주요업무 ① 온라인 콘텐츠 기획, 제작, 운영(인스타그램 k.heritage.airport 등) ② 특별 …",
@@ -1818,7 +1818,7 @@
    "salary": "",
    "sector": "",
    "postedAt": "2026-11-16",
-   "startAt": "2026-11-23",
+   "startAt": "2026-11-16",
    "deadline": "2026-11-25",
    "deadlineText": "",
    "summary": "채용직급: 공무직/학예보조 1명\n근무지역: 서울특별시 용산구\n국립중앙박물관 유물관리부 공무직(학예보조) 채용 공고 국립중앙박물관 유물관리부에서 근무할 공무직근로자(학예보조)를 붙임과 같이 공개 모집 하오니 관심있는 분들의 많은 응시를 바랍니다. 가. 원서접수기간: 2026.11.23(월)~11.25(수)/ 마감은 25일(수) 18:00 까지 나. 접수방법: - 전자우편: eunha@korea.kr - 등기우편: (04383) 서울특별시 용산구 서빙고로 137 국립중앙박물관 유물관리부 채…",
@@ -2399,43 +2399,6 @@
    ]
   },
   {
-   "id": "jobkorea:50298097",
-   "source": "jobkorea",
-   "sourceName": "잡코리아",
-   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50298097",
-   "title": "당림미술관 2027년 `예비학예인력` 모집 공고",
-   "company": "당림미술관",
-   "region": "충남 아산시",
-   "experience": "신입·경력 학력",
-   "education": "초대졸이상",
-   "employmentType": "계약직",
-   "salary": "월급 223~223만원",
-   "sector": "문화·공연·예술, 학교·특수학교교사",
-   "postedAt": "2026-11-03",
-   "startAt": "2026-11-03",
-   "deadline": "2026-12-16",
-   "deadlineText": "",
-   "summary": "모집분야: 예비학예사\n고용형태: 계약직\n급여: 월급 223~223만원\n근무지: 충남 아산시 송악면 외암로1182번길 34-19 (외암리, 당림미술관) 당림미술관\n근무시간: 주5일 (화, 수, 목, 토, 일)",
-   "qualifications": "경력: 신입·경력 학력\n학력: 초대졸이상",
-   "kind": "job",
-   "official": false,
-   "foundBy": "학예",
-   "firstSeen": "2026-11-04",
-   "lastSeen": "2026-11-22",
-   "detailAt": "2026-11-22",
-   "detailOk": true,
-   "score": 30,
-   "tier": "high",
-   "tags": [
-    "curation"
-   ],
-   "matched": [
-    "학예",
-    "미술관",
-    "학예사"
-   ]
-  },
-  {
    "id": "kha:119720",
    "source": "kha",
    "sourceName": "국가유산진흥원",
@@ -2743,7 +2706,7 @@
    "salary": "",
    "sector": "",
    "postedAt": "2026-11-16",
-   "startAt": "2026-11-23",
+   "startAt": "2026-11-16",
    "deadline": "2026-11-27",
    "deadlineText": "",
    "summary": "채용직급: 기간제근로자 1명\n근무지역: 서울특별시 중구\n<서울지방국토관리청 공고 제2026-183호> 서울지방국토관리청(국토발전전시관)에서 근무할 기간제 근로자(육아휴직 대체 학예연구원) 채용계획을 다음과 같이 공고합니다. ㅇ 모집분야 : 학예연구원(전시관 유물 수집 및 정리 등) ㅇ 선발직급 : 기간제근로자 ㅇ 고용형태 : 육아휴직 대체 기간제근로자 ㅇ 자격요건 : 경력 ㅇ 접수기간 : 2026년11월23일 ~ 2026년11월27일 ㅇ 응시방법 : 전자우편 및 등기우편 접수 ㅇ …",
@@ -3341,46 +3304,6 @@
      "sourceName": "잡코리아",
      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/5711225/Ext?siteCode=WN"
     }
-   ]
-  },
-  {
-   "id": "jobkorea:50076092",
-   "source": "jobkorea",
-   "sourceName": "잡코리아",
-   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50076092",
-   "title": "한국사/역사 체험학습 프리랜서 강사 모집",
-   "company": "꿈꾸는해치",
-   "region": "서울 용산구",
-   "experience": "신입·경력 (3년이상)",
-   "education": "대졸이상",
-   "employmentType": "프리랜서",
-   "salary": "건별 50,000원",
-   "sector": "학원·어학원·교육원, 학원강사",
-   "postedAt": "2026-09-30",
-   "startAt": "2026-09-30",
-   "deadline": "2026-11-29",
-   "deadlineText": "",
-   "summary": "모집분야: 한국사, 역사체험학습강사\n고용형태: 프리랜서\n급여: 건별 50,000원\n근무지: 서울 용산구 서빙고로 137 (용산동6가, 국립중앙박물관) 국립중앙박물관\n근무시간: 10:00 ~ 12:00, 13:00 ~ 15:00",
-   "qualifications": "경력: 신입·경력 (3년이상)\n학력: 대졸이상",
-   "kind": "job",
-   "official": false,
-   "foundBy": "문화유산",
-   "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-22",
-   "detailAt": "2026-11-22",
-   "detailOk": true,
-   "score": 27,
-   "tier": "high",
-   "tags": [
-    "curation",
-    "education",
-    "research"
-   ],
-   "matched": [
-    "박물관",
-    "체험",
-    "역사",
-    "한국사"
    ]
   },
   {
@@ -4372,6 +4295,42 @@
      "sourceName": "잡코리아",
      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50306523"
     }
+   ]
+  },
+  {
+   "id": "jobkorea:50298097",
+   "source": "jobkorea",
+   "sourceName": "잡코리아",
+   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50298097",
+   "title": "당림미술관 2027년 `예비학예인력` 모집 공고",
+   "company": "당림미술관",
+   "region": "충남 아산시",
+   "experience": "신입 지원 가능",
+   "education": "초대졸이상",
+   "employmentType": "계약직",
+   "salary": "월급 ~220만원",
+   "sector": "문화·공연·예술, 학교·특수학교교사",
+   "postedAt": "2026-11-03",
+   "startAt": "2026-11-03",
+   "deadline": "2026-12-16",
+   "deadlineText": "",
+   "summary": "충남 아산시 · 신입 지원 가능 · 문화·공연·예술, 학교·특수학교교사 · 월급 ~220만원",
+   "qualifications": "경력: 신입 지원 가능",
+   "kind": "job",
+   "official": false,
+   "foundBy": "학예",
+   "firstSeen": "2026-11-04",
+   "lastSeen": "2026-11-22",
+   "detailAt": "2026-11-22",
+   "detailOk": true,
+   "score": 24,
+   "tier": "high",
+   "tags": [
+    "curation"
+   ],
+   "matched": [
+    "학예",
+    "미술관"
    ]
   },
   {
@@ -5474,17 +5433,17 @@
    "title": "문화유산 활용사업 담당자 채용",
    "company": "재단법인 나라문화연구원",
    "region": "전남광주 여수시",
-   "experience": "경력무관 학력",
+   "experience": "경력무관",
    "education": "학력무관",
    "employmentType": "정규직",
-   "salary": "월급 225 ~225 만원",
+   "salary": "월급 ~220만원",
    "sector": "월급 ~220만원",
    "postedAt": "2026-11-03",
    "startAt": "2026-11-03",
    "deadline": "2026-12-31",
    "deadlineText": "",
-   "summary": "고용형태: 정규직\n급여: 월급 225 ~225 만원\n근무지: 전남광주 여수시",
-   "qualifications": "경력: 경력무관 학력\n학력: 학력무관",
+   "summary": "전남광주 여수시 · 경력무관 · 월급 ~220만원 · 월급 ~220만원",
+   "qualifications": "경력: 경력무관",
    "kind": "job",
    "official": false,
    "foundBy": "문화유산",
@@ -5988,7 +5947,7 @@
    "salary": "",
    "sector": "",
    "postedAt": "2026-10-23",
-   "startAt": "2026-10-24",
+   "startAt": "2026-10-23",
    "deadline": "2026-11-02",
    "deadlineText": "",
    "summary": "채용직급: 전문직 5급(무대기계) 1명 전문직 7급(무대음향) 1명\n근무지역: 서울특별시 마포구\n2026년 제6회 마포문화재단 직원 채용 공고 ○ 채용분야 및 인원 - 정규직 2명 : 전문직 5급 무대기계 1명, 전문직 7급 무대음향 1명 ○ 담당업무 - 공연전시부 전문직 5급 무대기계 : 공연장 무대 기계 관련 업무, 공연장 무대 기계 안전관리 업무, 기타 부서 업무 - 공연전시부 전문직 7급 무대음향 : 공연장 무대 음향 관련 업무, 공연장 무대 음향 안전관리 업무, 기타 부서 업무 ○ 접수기간 : 2026.10.24…",
@@ -6559,6 +6518,44 @@
    ]
   },
   {
+   "id": "jobkorea:50076092",
+   "source": "jobkorea",
+   "sourceName": "잡코리아",
+   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50076092",
+   "title": "한국사/역사 체험학습 프리랜서 강사 모집",
+   "company": "꿈꾸는해치",
+   "region": "서울 용산구",
+   "experience": "신입 지원 가능",
+   "education": "대졸이상",
+   "employmentType": "프리랜서",
+   "salary": "건별 50,000원",
+   "sector": "학원·어학원·교육원, 학원강사",
+   "postedAt": "2026-09-30",
+   "startAt": "2026-09-30",
+   "deadline": "2026-11-29",
+   "deadlineText": "",
+   "summary": "서울 용산구 · 신입 지원 가능 · 학원·어학원·교육원, 학원강사",
+   "qualifications": "경력: 신입 지원 가능",
+   "kind": "job",
+   "official": false,
+   "foundBy": "문화유산",
+   "firstSeen": "2026-10-17",
+   "lastSeen": "2026-11-22",
+   "detailAt": "2026-11-22",
+   "detailOk": true,
+   "score": 18,
+   "tier": "high",
+   "tags": [
+    "education",
+    "research"
+   ],
+   "matched": [
+    "체험",
+    "역사",
+    "한국사"
+   ]
+  },
+  {
    "id": "saramin:55213342",
    "source": "saramin",
    "sourceName": "사람인",
@@ -6673,17 +6670,17 @@
    "title": "CAD 전문가로서 문화유산 보존에 기여해 보세요!",
    "company": "（주）삼진건축사사무소",
    "region": "전남광주 화순군",
-   "experience": "신입 학력",
+   "experience": "신입 지원 가능",
    "education": "대졸이상",
    "employmentType": "정규직",
-   "salary": "월급 280 ~450 만원",
+   "salary": "월급 280~450만원",
    "sector": "월급 280~450만원",
    "postedAt": "2026-09-29",
    "startAt": "2026-09-29",
    "deadline": "2026-11-28",
    "deadlineText": "",
-   "summary": "고용형태: 정규직\n급여: 월급 280 ~450 만원\n근무지: 전남광주 화순군",
-   "qualifications": "경력: 신입 학력\n학력: 대졸이상",
+   "summary": "전남광주 화순군 · 신입 지원 가능 · 월급 280~450만원 · 월급 280~450만원",
+   "qualifications": "경력: 신입 지원 가능",
    "kind": "job",
    "official": false,
    "foundBy": "문화유산",
@@ -6802,7 +6799,7 @@
    "salary": "",
    "sector": "",
    "postedAt": "2026-11-16",
-   "startAt": "2026-11-18",
+   "startAt": "2026-11-16",
    "deadline": "2026-11-27",
    "deadlineText": "",
    "summary": "채용직급: 계약직 다급(팀장) 1명 계약직 마급(대리) 1명 계약직 바급(주임) 3명 계약직 바급(주임) 1명 방호서기보 8명\n근무지역: 충청남도 아산시\n2026년 제10회 (재)아산문화재단 계약직 직원 채용 공고를 진행합니다. 많은 관심 부탁드립니다. - 입사지원 시. 첨부된 공고문의 내용을 필히 확인하여 주시기 바랍니다. - 입사지원 시, 공고기간과 원서접수 기간을 확인하여 지원하여 주시기 바랍니다. - 입사지원 시, 모든 파일은 PDF형식으로 1부의 형식으로 제출하여 주시기 바랍니다. 기타 문의사항은 041-540-2550(인사담당자)으로 연락 바랍니다.",
@@ -6847,7 +6844,7 @@
    "salary": "",
    "sector": "",
    "postedAt": "2026-11-16",
-   "startAt": "2026-11-24",
+   "startAt": "2026-11-16",
    "deadline": "2026-11-26",
    "deadlineText": "",
    "summary": "채용직급: 지방행정주사 1명 지방환경주사 1명 지방행정서기 1명 지방시간선택제임기제 나급 1명 지방시간선택제임기제 마급 3명\n근무지역: 충청북도 청주시\n○ 모집분야 : 특이민원대응, 수질오염총량, 미술학예, 축제총괄연출, 청사방호 ○ 선발직급 : 지방행정주사, 지방환경주사, 지방행정서기, 시간선택제임기제 나급, 시간선택제임기제 마급 ○ 고용형태 : 임기제공무원 ○ 자격요건 : 경력 또는 면허(자격)증 ○ 접수기간 : 2026년 11월 24일 ~ 11월 26일 ○ 응시방법 : 방문접수 및 등기우편접수(접수 마감일 소인분까지 유효) ○ 문의처 - 채용관련 : 청주시 인사담당관 0…",
@@ -6892,7 +6889,7 @@
    "salary": "",
    "sector": "",
    "postedAt": "2026-11-16",
-   "startAt": "2026-12-01",
+   "startAt": "2026-11-16",
    "deadline": "2026-12-03",
    "deadlineText": "",
    "summary": "채용직급: 시간선택제임기제 라급 1명\n근무지역: 서울특별시 서대문구\n<채용분야 및 선발예정인원> * 채용분야: 기념품점 운영 분야 * 채용등급: 시간선택제임기제공무원 라급 * 채용인원: 1명 * 근무예정부서: 서대문자연사박물관 * 원서 접수기간: 2026. 12. 1.(화) ~ 2026. 12. 3.(목)<평일 3일간 09:00~18:00> ※중식시간(12:00~13:00)제외 * 접수장소 : 서대문자연사박물관 사무동 1층 사무실(서대문구 연희로32길 51, ☎02-330-8859)",
@@ -9420,6 +9417,39 @@
    ]
   },
   {
+   "id": "saramin:55638652",
+   "source": "saramin",
+   "sourceName": "사람인",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55638652",
+   "title": "HR 신규고객사 발굴 및 영업 4-13년 채용 - IT서비스기업",
+   "company": "(주)코리아휴먼리소시스",
+   "region": "경기 성남시 분당구",
+   "experience": "경력 4~13년",
+   "education": "대졸↑",
+   "employmentType": "정규직",
+   "salary": "",
+   "sector": "HR컨설팅, 솔루션업체, 소프트웨어개발",
+   "postedAt": "2026-11-22",
+   "startAt": "2026-11-22",
+   "deadline": "2026-11-26",
+   "deadlineText": "",
+   "summary": "경기 성남시 분당구 · 정규직 · 경력 4~13년 · 대졸↑",
+   "qualifications": "경력: 경력 4~13년\n학력: 대졸↑",
+   "kind": "job",
+   "official": false,
+   "foundBy": "발굴",
+   "firstSeen": "2026-11-22",
+   "lastSeen": "2026-11-22",
+   "score": 9,
+   "tier": "mid",
+   "tags": [
+    "excavation"
+   ],
+   "matched": [
+    "발굴"
+   ]
+  },
+  {
    "id": "saramin:55612317",
    "source": "saramin",
    "sourceName": "사람인",
@@ -10162,7 +10192,7 @@
    "education": "학력무관",
    "employmentType": "정규직",
    "salary": "",
-   "sector": "문화재, 미술관, 박물관, 연구원, 도슨트",
+   "sector": "문화재, 미술관, 박물관, 도슨트, 연구원",
    "postedAt": "2026-11-19",
    "startAt": "2026-11-19",
    "deadline": "2026-11-30",
