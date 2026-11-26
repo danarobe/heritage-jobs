@@ -1,56 +1,56 @@
 {
- "updatedAt": "2026-11-26T04:18:44.131Z",
+ "updatedAt": "2026-11-26T12:59:35.281Z",
  "today": "2026-11-26",
- "count": 374,
- "newToday": 13,
+ "count": 382,
+ "newToday": 21,
  "sources": {
   "saramin": {
    "name": "사람인",
    "ok": true,
-   "count": 398,
-   "ms": 33764
+   "count": 403,
+   "ms": 32308
   },
   "jobkorea": {
    "name": "잡코리아",
    "ok": true,
-   "count": 194,
-   "ms": 18897
+   "count": 198,
+   "ms": 19769
   },
   "khs": {
    "name": "국가유산청",
    "ok": true,
    "count": 30,
-   "ms": 9543
+   "ms": 10789
   },
   "nrich": {
    "name": "국립문화유산연구원",
    "ok": true,
    "count": 20,
-   "ms": 5911
+   "ms": 6953
   },
   "kha": {
    "name": "국가유산진흥원",
    "ok": true,
    "count": 20,
-   "ms": 3901
+   "ms": 5489
   },
   "alio": {
    "name": "잡알리오",
    "ok": true,
    "count": 5,
-   "ms": 10717
+   "ms": 10200
   },
   "gojobs": {
    "name": "나라일터",
    "ok": true,
    "count": 45,
-   "ms": 21635
+   "ms": 23407
   },
   "momo365": {
    "name": "모모365",
    "ok": true,
    "count": 100,
-   "ms": 2884
+   "ms": 5361
   }
  },
  "categories": [
@@ -517,7 +517,7 @@
    "id": "khs:34667",
    "source": "khs",
    "sourceName": "국가유산청",
-   "url": "https://www.khs.go.kr/multiBbz/selectMultiBbzView.do?id=10069&no=34667&bbzId=newexam&pageIndex=1&pageUnit=10&strWhere=&searchWrd=&sdate=&edate=&mn=NS_01_06",
+   "url": "https://www.khs.go.kr/multiBbz/selectMultiBbzView.do?id=10069&no=34667&bbzId=newexam&pageIndex=2&pageUnit=10&strWhere=&searchWrd=&sdate=&edate=&mn=NS_01_06",
    "title": "국립문화유산연구원 건축문화유산연구실 기간제 근로자(연구원 라급) 채용 최종합격자 공고",
    "company": "국립문화유산연구원",
    "region": "",
@@ -1940,6 +1940,50 @@
    ]
   },
   {
+   "id": "saramin:55274447",
+   "source": "saramin",
+   "sourceName": "사람인",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55274447",
+   "title": "(재)금강문화유산연구원 채용공고",
+   "company": "(재)금강문화유산연구원",
+   "region": "대전 유성구",
+   "experience": "경력무관",
+   "education": "대졸↑",
+   "employmentType": "정규직",
+   "salary": "회사 내규에 따름 (면접 후 결정)",
+   "sector": "학술연구, 연구소",
+   "postedAt": "2026-10-13",
+   "startAt": "2026-10-13",
+   "deadline": null,
+   "deadlineText": "채용시",
+   "summary": "대전 유성구 · 정규직 · 경력무관 · 대졸↑",
+   "qualifications": "경력: 경력무관\n학력: 대졸↑",
+   "kind": "job",
+   "official": false,
+   "foundBy": "문화재",
+   "firstSeen": "2026-10-17",
+   "lastSeen": "2026-11-26",
+   "score": 37,
+   "tier": "high",
+   "tags": [
+    "excavation",
+    "research"
+   ],
+   "matched": [
+    "문화유산연구원",
+    "학술연구",
+    "학술",
+    "문화유산"
+   ],
+   "alsoOn": [
+    {
+     "source": "jobkorea",
+     "sourceName": "잡코리아",
+     "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50159257"
+    }
+   ]
+  },
+  {
    "id": "saramin:55634977",
    "source": "saramin",
    "sourceName": "사람인",
@@ -2187,6 +2231,45 @@
     "문화유산연구원",
     "문화재",
     "문화유산"
+   ]
+  },
+  {
+   "id": "saramin:55680580",
+   "source": "saramin",
+   "sourceName": "사람인",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55680580",
+   "title": "(재)두양문화재단 이함미술관 학예사 채용공고",
+   "company": "재단법인 두양문화재단",
+   "region": "경기 양평군",
+   "experience": "경력",
+   "education": "대졸↑",
+   "employmentType": "정규직·계약직",
+   "salary": "",
+   "sector": "큐레이터, 박물관·미술관",
+   "postedAt": "2026-11-26",
+   "startAt": "2026-11-26",
+   "deadline": "2026-12-05",
+   "deadlineText": "",
+   "summary": "경기 양평군 · 정규직·계약직 · 경력 · 대졸↑",
+   "qualifications": "경력: 경력\n학력: 대졸↑",
+   "kind": "job",
+   "official": false,
+   "foundBy": "학예",
+   "firstSeen": "2026-11-26",
+   "lastSeen": "2026-11-26",
+   "score": 34,
+   "tier": "high",
+   "tags": [
+    "curation",
+    "institution"
+   ],
+   "matched": [
+    "학예",
+    "학예사",
+    "미술관",
+    "큐레이터",
+    "박물관",
+    "문화재단"
    ]
   },
   {
@@ -2679,50 +2762,6 @@
    ]
   },
   {
-   "id": "saramin:55274447",
-   "source": "saramin",
-   "sourceName": "사람인",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55274447",
-   "title": "(재)금강문화유산연구원 채용공고",
-   "company": "(재)금강문화유산연구원",
-   "region": "대전 유성구",
-   "experience": "경력무관",
-   "education": "대졸↑",
-   "employmentType": "정규직",
-   "salary": "회사 내규에 따름 (면접 후 결정)",
-   "sector": "학술연구, 연구소",
-   "postedAt": "2026-10-13",
-   "startAt": "2026-10-13",
-   "deadline": null,
-   "deadlineText": "채용시",
-   "summary": "대전 유성구 · 정규직 · 경력무관 · 대졸↑",
-   "qualifications": "경력: 경력무관\n학력: 대졸↑",
-   "kind": "job",
-   "official": false,
-   "foundBy": "문화재",
-   "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-26",
-   "score": 31,
-   "tier": "high",
-   "tags": [
-    "excavation",
-    "research"
-   ],
-   "matched": [
-    "문화유산연구원",
-    "학술연구",
-    "학술",
-    "문화유산"
-   ],
-   "alsoOn": [
-    {
-     "source": "jobkorea",
-     "sourceName": "잡코리아",
-     "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50159257"
-    }
-   ]
-  },
-  {
    "id": "saramin:55391494",
    "source": "saramin",
    "sourceName": "사람인",
@@ -3128,7 +3167,7 @@
    "id": "khs:34669",
    "source": "khs",
    "sourceName": "국가유산청",
-   "url": "https://www.khs.go.kr/multiBbz/selectMultiBbzView.do?id=10071&no=34669&bbzId=newexam&pageIndex=1&pageUnit=10&strWhere=&searchWrd=&sdate=&edate=&mn=NS_01_06",
+   "url": "https://www.khs.go.kr/multiBbz/selectMultiBbzView.do?id=10071&no=34669&bbzId=newexam&pageIndex=2&pageUnit=10&strWhere=&searchWrd=&sdate=&edate=&mn=NS_01_06",
    "title": "국립해양유산연구소 전시교육과 기간제근로자(전시큐레이터) 채용 공고",
    "company": "국립해양유산연구소",
    "region": "",
@@ -3699,29 +3738,31 @@
    ]
   },
   {
-   "id": "saramin:55175752",
-   "source": "saramin",
-   "sourceName": "사람인",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55175752",
+   "id": "jobkorea:5711225",
+   "source": "jobkorea",
+   "sourceName": "잡코리아",
+   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/5711225/Ext?siteCode=WN",
    "title": "재단법인 충청문화유산연구원 채용공고",
    "company": "(재)충청문화유산연구원",
    "region": "충남 공주시",
-   "experience": "경력무관",
-   "education": "대졸↑",
+   "experience": "경력무관 학력",
+   "education": "대졸이상",
    "employmentType": "정규직",
-   "salary": "2,800 만원",
-   "sector": "연구원, 연구소",
+   "salary": "월급 233 만원",
+   "sector": "월급 230만원~",
    "postedAt": "2026-10-01",
    "startAt": "2026-10-01",
    "deadline": "2026-11-30",
    "deadlineText": "",
-   "summary": "충남 공주시 · 정규직 · 경력무관 · 대졸↑ · 2,800 만원",
-   "qualifications": "경력: 경력무관\n학력: 대졸↑",
+   "summary": "고용형태: 정규직\n급여: 월급 233 만원\n근무지: 충남 공주시",
+   "qualifications": "경력: 경력무관 학력\n학력: 대졸이상",
    "kind": "job",
    "official": false,
-   "foundBy": "보존처리",
+   "foundBy": "문화유산",
    "firstSeen": "2026-10-17",
    "lastSeen": "2026-11-26",
+   "detailAt": "2026-11-26",
+   "detailOk": true,
    "score": 27,
    "tier": "high",
    "tags": [
@@ -3738,9 +3779,9 @@
      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55195750"
     },
     {
-     "source": "jobkorea",
-     "sourceName": "잡코리아",
-     "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/5711225/Ext?siteCode=WN"
+     "source": "saramin",
+     "sourceName": "사람인",
+     "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55175752"
     }
    ]
   },
@@ -4459,6 +4500,56 @@
    ]
   },
   {
+   "id": "khs:34678",
+   "source": "khs",
+   "sourceName": "국가유산청",
+   "url": "https://www.khs.go.kr/multiBbz/selectMultiBbzView.do?id=10080&no=34678&bbzId=newexam&pageIndex=1&pageUnit=10&strWhere=&searchWrd=&sdate=&edate=&mn=NS_01_06",
+   "title": "한국전통문화대학교 공무직 근로자(연구실안전전문인력) 채용 공고",
+   "company": "한국전통문화대학교",
+   "region": "",
+   "experience": "",
+   "education": "",
+   "employmentType": "공무직",
+   "salary": "",
+   "sector": "",
+   "postedAt": "2026-11-26",
+   "startAt": "2026-12-04",
+   "deadline": "2026-12-09",
+   "deadlineText": "",
+   "summary": "한국전통문화대학교 공고 제2026 - 291호 한국전통문화대학교에서는 공무직 등 근로자를 다음과 같이 공개채용 하오니, 성실하고 책임감 있는 분들의 많은 지원 바랍니다. 2026. 11. 26. 한국전통문화대학교총장 1. 채용예정분야 및 인원: 공무직 근로자(연구실안전관리전문인력) 1명 2. 담당업무: 연구실안전관리(위험물안전관리 등) 업무 3. 근 무 지: 한국전통문화대학교 교무과(충남 부여군 규암면 백제문로 367) 4. 응시연령: 만 18세 이상~만 60세 미만 5. 채용일정(기관 사정에 따라 변동 가능하며, 관련 내용은 한국전통문화대학교 홈페이지 등을 통해 공…",
+   "qualifications": "* 응시자격 및 제출 서류 등 세부 사항은 공고문(붙임)을 참고하시기 바랍니다.",
+   "kind": "job",
+   "official": true,
+   "author": "형태만",
+   "firstSeen": "2026-11-26",
+   "lastSeen": "2026-11-26",
+   "attachments": [
+    {
+     "name": "한국전통문화대학교 공무직 근로자(연구실안전전문인력) 채용 공고.hwp",
+     "url": "https://www.khs.go.kr/multiBbz/FileDown.do?id=TVRVMk1ETT0=&bbzId=newexam"
+    },
+    {
+     "name": "한국전통문화대학교 공무직 근로자(연구실안전전문인력) 채용 공고.hwpx",
+     "url": "https://www.khs.go.kr/multiBbz/FileDown.do?id=TVRVMk1EUT0=&bbzId=newexam"
+    },
+    {
+     "name": "한국전통문화대학교 공무직 근로자(연구실안전전문인력) 채용 공고.pdf",
+     "url": "https://www.khs.go.kr/multiBbz/FileDown.do?id=TVRVMk1EVT0=&bbzId=newexam"
+    }
+   ],
+   "detailAt": "2026-11-26",
+   "detailOk": true,
+   "score": 24,
+   "tier": "high",
+   "tags": [
+    "institution"
+   ],
+   "matched": [
+    "전통문화",
+    "전통문화대학교"
+   ]
+  },
+  {
    "id": "saramin:55660474",
    "source": "saramin",
    "sourceName": "사람인",
@@ -4944,42 +5035,6 @@
    "matched": [
     "보존",
     "역사",
-    "문화유산"
-   ]
-  },
-  {
-   "id": "jobkorea:50435757",
-   "source": "jobkorea",
-   "sourceName": "잡코리아",
-   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50435757",
-   "title": "2027 유네스코한국위원회 한시계약직(문화유산 개발협력 분야) 채용",
-   "company": "유네스코한국위원회",
-   "region": "서울 중구",
-   "experience": "경력무관 학력",
-   "education": "대졸이상",
-   "employmentType": "계약직",
-   "salary": "회사 내규에 따름",
-   "sector": "공기업·공공기관, 경영·비즈니스기획, 경영지원",
-   "postedAt": "2026-11-26",
-   "startAt": "2026-11-26",
-   "deadline": "2026-12-11",
-   "deadlineText": "",
-   "summary": "모집분야: 유네스코한국위원회 문화유산ODA 한시계약직\n고용형태: 계약직\n급여: 회사 내규에 따름\n근무지: 대한민국 서울특별시 중구 명동길 26",
-   "qualifications": "경력: 경력무관 학력\n학력: 대졸이상",
-   "kind": "job",
-   "official": false,
-   "foundBy": "국가유산",
-   "firstSeen": "2026-11-26",
-   "lastSeen": "2026-11-26",
-   "detailAt": "2026-11-26",
-   "detailOk": true,
-   "score": 22,
-   "tier": "high",
-   "tags": [
-    "institution"
-   ],
-   "matched": [
-    "유네스코",
     "문화유산"
    ]
   },
@@ -5718,7 +5773,7 @@
    "id": "khs:34657",
    "source": "khs",
    "sourceName": "국가유산청",
-   "url": "https://www.khs.go.kr/multiBbz/selectMultiBbzView.do?id=10059&no=34657&bbzId=newexam&pageIndex=2&pageUnit=10&strWhere=&searchWrd=&sdate=&edate=&mn=NS_01_06",
+   "url": "https://www.khs.go.kr/multiBbz/selectMultiBbzView.do?id=10059&no=34657&bbzId=newexam&pageIndex=3&pageUnit=10&strWhere=&searchWrd=&sdate=&edate=&mn=NS_01_06",
    "title": "국립역사문화권진흥원 사무총장 초빙 공고",
    "company": "국립역사문화권진흥원",
    "region": "",
@@ -6618,6 +6673,77 @@
    ]
   },
   {
+   "id": "jobkorea:50435757",
+   "source": "jobkorea",
+   "sourceName": "잡코리아",
+   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50435757",
+   "title": "2027 유네스코한국위원회 한시계약직(문화유산 개발협력 분야) 채용",
+   "company": "유네스코한국위원회",
+   "region": "서울 중구",
+   "experience": "오늘 뜬 따끈한 공고",
+   "education": "대졸이상",
+   "employmentType": "계약직",
+   "salary": "회사 내규에 따름",
+   "sector": "공기업·공공기관, 경영·비즈니스기획, 경영지원",
+   "postedAt": "2026-11-26",
+   "startAt": "2026-11-26",
+   "deadline": "2026-12-11",
+   "deadlineText": "",
+   "summary": "서울 중구 · 오늘 뜬 따끈한 공고 · 공기업·공공기관, 경영·비즈니스기획, 경영지원",
+   "qualifications": "경력: 오늘 뜬 따끈한 공고",
+   "kind": "job",
+   "official": false,
+   "foundBy": "국가유산",
+   "firstSeen": "2026-11-26",
+   "lastSeen": "2026-11-26",
+   "detailAt": "2026-11-26",
+   "detailOk": true,
+   "score": 18,
+   "tier": "high",
+   "tags": [
+    "institution"
+   ],
+   "matched": [
+    "유네스코",
+    "문화유산"
+   ]
+  },
+  {
+   "id": "khs:34679",
+   "source": "khs",
+   "sourceName": "국가유산청",
+   "url": "https://www.khs.go.kr/multiBbz/selectMultiBbzView.do?id=10081&no=34679&bbzId=newexam&pageIndex=1&pageUnit=10&strWhere=&searchWrd=&sdate=&edate=&mn=NS_01_06",
+   "title": "2026년 궁능유적본부(종묘관리소) 공무직 등 근로자 채용(4차) 최종 합격자 공고",
+   "company": "국가유산청",
+   "region": "",
+   "experience": "",
+   "education": "",
+   "employmentType": "공무직",
+   "salary": "",
+   "sector": "",
+   "postedAt": "2026-11-26",
+   "startAt": "2026-11-26",
+   "deadline": null,
+   "deadlineText": "",
+   "summary": "",
+   "qualifications": "",
+   "kind": "result",
+   "official": true,
+   "author": "주세연",
+   "firstSeen": "2026-11-26",
+   "lastSeen": "2026-11-26",
+   "score": 18,
+   "tier": "high",
+   "tags": [
+    "institution"
+   ],
+   "matched": [
+    "궁능유적본부",
+    "국가유산청",
+    "국가유산"
+   ]
+  },
+  {
    "id": "khs:34676",
    "source": "khs",
    "sourceName": "국가유산청",
@@ -6832,7 +6958,7 @@
    "id": "khs:34658",
    "source": "khs",
    "sourceName": "국가유산청",
-   "url": "https://www.khs.go.kr/multiBbz/selectMultiBbzView.do?id=10060&no=34658&bbzId=newexam&pageIndex=2&pageUnit=10&strWhere=&searchWrd=&sdate=&edate=&mn=NS_01_06",
+   "url": "https://www.khs.go.kr/multiBbz/selectMultiBbzView.do?id=10060&no=34658&bbzId=newexam&pageIndex=3&pageUnit=10&strWhere=&searchWrd=&sdate=&edate=&mn=NS_01_06",
    "title": "2026년 궁능유적본부 세종대왕유적관리소 공무직 등 근로자 채용 서류전형 합격자 및 면접시험 일정 공고",
    "company": "국가유산청",
    "region": "",
@@ -8079,30 +8205,30 @@
    ]
   },
   {
-   "id": "jobkorea:50177425",
+   "id": "jobkorea:50437968",
    "source": "jobkorea",
    "sourceName": "잡코리아",
-   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50177425",
+   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50437968",
    "title": "[유니원커뮤니케이션즈]2026년 수소안전뮤지엄 도슨트 모집",
    "company": "㈜유니원커뮤니케이션즈",
    "region": "충북 음성군",
-   "experience": "오늘 마감! 놓치지 마세요!",
+   "experience": "경력무관 학력",
    "education": "학력무관",
    "employmentType": "계약직",
-   "salary": "월급 ~300만원",
+   "salary": "월급 300~300만원",
    "sector": "광고·홍보·전시, 스태프",
-   "postedAt": "2026-10-15",
-   "startAt": "2026-10-15",
-   "deadline": "2026-11-12",
+   "postedAt": "2026-11-26",
+   "startAt": "2026-11-26",
+   "deadline": "2027-01-25",
    "deadlineText": "",
-   "summary": "충북 음성군 · 오늘 마감! 놓치지 마세요! · 광고·홍보·전시, 스태프 · 월급 ~300만원",
-   "qualifications": "경력: 오늘 마감! 놓치지 마세요!",
+   "summary": "모집분야: [유니원커뮤니케이션즈]2026년 수소안전뮤지\n고용형태: 계약직\n급여: 월급 300~300만원\n근무지: 충북 음성군 맹동면 연미로 360-33 (두성리) 수소안전뮤지엄\n근무시간: 주5일(화~토)",
+   "qualifications": "경력: 경력무관 학력\n학력: 학력무관",
    "kind": "job",
    "official": false,
    "foundBy": "국가유산",
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-12",
-   "detailAt": "2026-11-10",
+   "lastSeen": "2026-11-26",
+   "detailAt": "2026-11-26",
    "detailOk": true,
    "score": 15,
    "tier": "high",
@@ -8118,6 +8244,11 @@
      "source": "saramin",
      "sourceName": "사람인",
      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55300795"
+    },
+    {
+     "source": "jobkorea",
+     "sourceName": "잡코리아",
+     "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50177425"
     }
    ]
   },
@@ -8217,6 +8348,42 @@
    "matched": [
     "보수",
     "문화재단"
+   ]
+  },
+  {
+   "id": "saramin:55680901",
+   "source": "saramin",
+   "sourceName": "사람인",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55680901",
+   "title": "유네스코한국위원회 국제협력사업실 한시계약직 채용공고",
+   "company": "유네스코 한국위원회",
+   "region": "서울 중구",
+   "experience": "경력1년↑",
+   "education": "대졸↑",
+   "employmentType": "계약직",
+   "salary": "325 만원",
+   "sector": "학술연구, 행사기획, 사업관리, 실적관리, 경영관리",
+   "postedAt": "2026-11-26",
+   "startAt": "2026-11-26",
+   "deadline": "2026-12-10",
+   "deadlineText": "",
+   "summary": "서울 중구 · 계약직 · 경력1년↑ · 대졸↑ · 325 만원",
+   "qualifications": "경력: 경력1년↑\n학력: 대졸↑",
+   "kind": "job",
+   "official": false,
+   "foundBy": "국가유산",
+   "firstSeen": "2026-11-26",
+   "lastSeen": "2026-11-26",
+   "score": 14,
+   "tier": "mid",
+   "tags": [
+    "institution",
+    "research"
+   ],
+   "matched": [
+    "유네스코",
+    "학술연구",
+    "학술"
    ]
   },
   {
@@ -8568,6 +8735,73 @@
    "matched": [
     "전시",
     "문화유산"
+   ]
+  },
+  {
+   "id": "saramin:55682279",
+   "source": "saramin",
+   "sourceName": "사람인",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55682279",
+   "title": "주방용품 해외 영업(바이어발굴 및 신규마케팅) 담당직원 모집",
+   "company": "(주)코멕스플래닝",
+   "region": "서울 금천구",
+   "experience": "경력 3~10년",
+   "education": "대졸↑",
+   "employmentType": "정규직",
+   "salary": "",
+   "sector": "바이어발굴/관리, 해외영업, 해외영업관리, 영업마케팅, 해외시장개척",
+   "postedAt": "2026-11-26",
+   "startAt": "2026-11-26",
+   "deadline": "2026-12-26",
+   "deadlineText": "",
+   "summary": "서울 금천구 · 정규직 · 경력 3~10년 · 대졸↑",
+   "qualifications": "경력: 경력 3~10년\n학력: 대졸↑",
+   "kind": "job",
+   "official": false,
+   "foundBy": "발굴",
+   "firstSeen": "2026-11-26",
+   "lastSeen": "2026-11-26",
+   "score": 12,
+   "tier": "mid",
+   "tags": [
+    "excavation"
+   ],
+   "matched": [
+    "발굴"
+   ]
+  },
+  {
+   "id": "khs:34677",
+   "source": "khs",
+   "sourceName": "국가유산청",
+   "url": "https://www.khs.go.kr/multiBbz/selectMultiBbzView.do?id=10079&no=34677&bbzId=newexam&pageIndex=1&pageUnit=10&strWhere=&searchWrd=&sdate=&edate=&mn=NS_01_06",
+   "title": "2026년 조선왕릉서부지구관리소 8차 공무직 등 근로자 채용시험 최종합격자 공고",
+   "company": "국가유산청",
+   "region": "",
+   "experience": "",
+   "education": "",
+   "employmentType": "공무직",
+   "salary": "",
+   "sector": "",
+   "postedAt": "2026-11-26",
+   "startAt": "2026-11-26",
+   "deadline": null,
+   "deadlineText": "",
+   "summary": "",
+   "qualifications": "",
+   "kind": "result",
+   "official": true,
+   "author": "홍준기",
+   "firstSeen": "2026-11-26",
+   "lastSeen": "2026-11-26",
+   "score": 12,
+   "tier": "mid",
+   "tags": [
+    "institution"
+   ],
+   "matched": [
+    "국가유산청",
+    "국가유산"
    ]
   },
   {
@@ -11321,6 +11555,41 @@
    ]
   },
   {
+   "id": "saramin:55680443",
+   "source": "saramin",
+   "sourceName": "사람인",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55680443",
+   "title": "[경기문화재단] 2026년 제11차 기간제 근로자 채용(휴직대체)",
+   "company": "(주)커리어넷",
+   "region": "경기 수원시 팔달구",
+   "experience": "경력무관",
+   "education": "학력무관",
+   "employmentType": "계약직",
+   "salary": "",
+   "sector": "사무직, 사무행정, 콘텐츠기획, 홍보물, 문화기획",
+   "postedAt": "2026-11-26",
+   "startAt": "2026-11-26",
+   "deadline": null,
+   "deadlineText": "",
+   "summary": "경기 수원시 팔달구 · 계약직 · 경력무관 · 학력무관",
+   "qualifications": "경력: 경력무관\n학력: 학력무관",
+   "kind": "job",
+   "official": false,
+   "foundBy": "학예",
+   "firstSeen": "2026-11-26",
+   "lastSeen": "2026-11-26",
+   "score": 8,
+   "tier": "mid",
+   "tags": [
+    "education",
+    "institution"
+   ],
+   "matched": [
+    "문화기획",
+    "문화재단"
+   ]
+  },
+  {
    "id": "nrich:48938",
    "source": "nrich",
    "sourceName": "국립문화유산연구원",
@@ -11774,6 +12043,79 @@
    ]
   },
   {
+   "id": "saramin:55684010",
+   "source": "saramin",
+   "sourceName": "사람인",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55684010",
+   "title": "디자인",
+   "company": "(유)학예기획",
+   "region": "전북 전주시 완산구",
+   "experience": "경력무관",
+   "education": "학력무관",
+   "employmentType": "정규직",
+   "salary": "2,592 만원",
+   "sector": "표지디자인, 인쇄·제본",
+   "postedAt": "2026-11-26",
+   "startAt": "2026-11-26",
+   "deadline": null,
+   "deadlineText": "채용시",
+   "summary": "전북 전주시 완산구 · 정규직 · 경력무관 · 학력무관 · 2,592 만원",
+   "qualifications": "경력: 경력무관\n학력: 학력무관",
+   "kind": "job",
+   "official": false,
+   "foundBy": "학예",
+   "firstSeen": "2026-11-26",
+   "lastSeen": "2026-11-26",
+   "score": 6,
+   "tier": "low",
+   "tags": [
+    "curation"
+   ],
+   "matched": [
+    "학예"
+   ],
+   "alsoOn": [
+    {
+     "source": "jobkorea",
+     "sourceName": "잡코리아",
+     "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/5758211/Ext?siteCode=WN"
+    }
+   ]
+  },
+  {
+   "id": "saramin:55682164",
+   "source": "saramin",
+   "sourceName": "사람인",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55682164",
+   "title": "학술팀장 ( 미용의료기기 업체)",
+   "company": "(주)메타써치",
+   "region": "서울 성동구",
+   "experience": "경력 7~20년",
+   "education": "대졸↑",
+   "employmentType": "정규직",
+   "salary": "",
+   "sector": "연구원, 임상DM, 헤드헌팅",
+   "postedAt": "2026-11-26",
+   "startAt": "2026-11-26",
+   "deadline": "2026-12-11",
+   "deadlineText": "",
+   "summary": "서울 성동구 · 정규직 · 경력 7~20년 · 대졸↑",
+   "qualifications": "경력: 경력 7~20년\n학력: 대졸↑",
+   "kind": "job",
+   "official": false,
+   "foundBy": "발굴",
+   "firstSeen": "2026-11-26",
+   "lastSeen": "2026-11-26",
+   "score": 6,
+   "tier": "low",
+   "tags": [
+    "research"
+   ],
+   "matched": [
+    "학술"
+   ]
+  },
+  {
    "id": "saramin:55677974",
    "source": "saramin",
    "sourceName": "사람인",
@@ -11804,39 +12146,6 @@
    ],
    "matched": [
     "문화재단"
-   ]
-  },
-  {
-   "id": "jobkorea:5758211",
-   "source": "jobkorea",
-   "sourceName": "잡코리아",
-   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/5758211/Ext?siteCode=WN",
-   "title": "디자인",
-   "company": "(유)학예기획",
-   "region": "전북 전주시",
-   "experience": "오늘 뜬 따끈한 공고",
-   "education": "",
-   "employmentType": "",
-   "salary": "월급 210~250만원",
-   "sector": "월급 210~250만원",
-   "postedAt": null,
-   "startAt": null,
-   "deadline": null,
-   "deadlineText": "",
-   "summary": "전북 전주시 · 오늘 뜬 따끈한 공고 · 월급 210~250만원 · 월급 210~250만원",
-   "qualifications": "경력: 오늘 뜬 따끈한 공고",
-   "kind": "job",
-   "official": false,
-   "foundBy": "학예",
-   "firstSeen": "2026-11-26",
-   "lastSeen": "2026-11-26",
-   "score": 6,
-   "tier": "low",
-   "tags": [
-    "curation"
-   ],
-   "matched": [
-    "학예"
    ]
   },
   {
@@ -13848,7 +14157,7 @@
    "id": "khs:34668",
    "source": "khs",
    "sourceName": "국가유산청",
-   "url": "https://www.khs.go.kr/multiBbz/selectMultiBbzView.do?id=10070&no=34668&bbzId=newexam&pageIndex=1&pageUnit=10&strWhere=&searchWrd=&sdate=&edate=&mn=NS_01_06",
+   "url": "https://www.khs.go.kr/multiBbz/selectMultiBbzView.do?id=10070&no=34668&bbzId=newexam&pageIndex=2&pageUnit=10&strWhere=&searchWrd=&sdate=&edate=&mn=NS_01_06",
    "title": "2026년 제8차 국립고궁박물관 공무직 근로자(안전관리원) 채용 최종합격자 공고",
    "company": "국가유산청",
    "region": "",
@@ -14333,7 +14642,7 @@
    "id": "khs:34659",
    "source": "khs",
    "sourceName": "국가유산청",
-   "url": "https://www.khs.go.kr/multiBbz/selectMultiBbzView.do?id=10061&no=34659&bbzId=newexam&pageIndex=2&pageUnit=10&strWhere=&searchWrd=&sdate=&edate=&mn=NS_01_06",
+   "url": "https://www.khs.go.kr/multiBbz/selectMultiBbzView.do?id=10061&no=34659&bbzId=newexam&pageIndex=3&pageUnit=10&strWhere=&searchWrd=&sdate=&edate=&mn=NS_01_06",
    "title": "국립해양유산연구소 기획운영과 공무직근로자(시설물청소원) 채용 공고",
    "company": "국립해양유산연구소",
    "region": "",
